@@ -9,123 +9,234 @@ const __dirname = path.dirname(__filename);
 // Cambiar la ruta de la carpeta 'temporal' para que esté en el directorio raíz
 const temporalDir = path.join(__dirname, '..', 'temporal');
 
+// Ruta del archivo de lista negra
+const blacklistFilePath = path.join(temporalDir, 'blacklist.json');
+
 // Verificar si la carpeta 'temporal' existe, si no, crearla
 if (!fs.existsSync(temporalDir)) {
   fs.mkdirSync(temporalDir, { recursive: true });
   console.log("Carpeta 'temporal' creada.");
 }
 
-export async function processTroopConfig(page, aldea, troopConfigs, baseUrl) {
+// Función para leer el archivo JSON de aldeas inactivas
+function readInactiveVillagesFile() {
+  const inactiveVillagesFilePath = path.join(temporalDir, 'inactive_villages.json');
+  if (fs.existsSync(inactiveVillagesFilePath)) {
+    return JSON.parse(fs.readFileSync(inactiveVillagesFilePath, 'utf8'));
+  }
+  return [];
+}
+
+// Función para calcular la cantidad de tropas según la población
+function calculateTroopAmount(population) {
+  if (population <= 20) {
+    return 10; // Siempre enviar 10 tropas si la población es <= 10
+  }
+  return Math.floor(population / 2); // Enviar la mitad de la población para poblaciones mayores
+}
+
+
+// Función para capturar el tiempo de llegada de las tropas
+async function captureArrivalTime(page) {
+  const arrivalTimeSelector = '#in';
+  await page.waitForSelector(arrivalTimeSelector, { timeout: 10000 });
+  const arrivalTime = await page.$eval(arrivalTimeSelector, el => el.textContent.trim());
+  return arrivalTime;
+}
+
+// Función para convertir el tiempo de llegada a milisegundos
+function parseTimeInterval(timeString) {
+  // Extraer las horas, minutos y segundos del formato "En X:XX:XX horas"
+  const timeParts = timeString.match(/(\d+):(\d+):(\d+)/);
+  if (!timeParts) {
+    console.error(`Formato de tiempo no válido: ${timeString}`);
+    return 0;
+  }
+
+  const [_, hours, minutes, seconds] = timeParts;
+  return (parseInt(hours, 10) * 3600 + parseInt(minutes, 10) * 60 + parseInt(seconds, 10)) * 1000;
+}
+
+// Función para leer la lista negra
+function readBlacklist() {
+  if (fs.existsSync(blacklistFilePath)) {
+    return JSON.parse(fs.readFileSync(blacklistFilePath, 'utf8'));
+  }
+  return [];
+}
+
+// Función para agregar una aldea a la lista negra
+function addToBlacklist(targetMapId, errorMessage) {
+  const blacklist = readBlacklist();
+
+  // Verificar si la aldea ya está en la lista negra
+  const exists = blacklist.some(entry => entry.targetMapId[0] === targetMapId[0] && entry.targetMapId[1] === targetMapId[1]);
+
+  if (!exists) {
+    blacklist.push({ targetMapId, errorMessage });
+    fs.writeFileSync(blacklistFilePath, JSON.stringify(blacklist, null, 2));
+    console.log(`Aldea [${targetMapId[0]}|${targetMapId[1]}] agregada a la lista negra.`);
+  }
+}
+
+// Función para verificar si una aldea está en la lista negra
+function isInBlacklist(targetMapId) {
+  const blacklist = readBlacklist();
+  return blacklist.some(entry => entry.targetMapId[0] === targetMapId[0] && entry.targetMapId[1] === targetMapId[1]);
+}
+
+export async function processTroopConfig(page, aldea, baseUrl) {
   const aldeaLogFilePath = path.join(temporalDir, `log_${aldea.name}.json`);
   let aldeaLogData = {};
 
   // Leer el archivo de log específico para cada aldea
   if (fs.existsSync(aldeaLogFilePath)) {
-    aldeaLogData = JSON.parse(fs.readFileSync(aldeaLogFilePath, "utf8"));
+    aldeaLogData = JSON.parse(fs.readFileSync(aldeaLogFilePath, 'utf8'));
   } else {
     fs.writeFileSync(aldeaLogFilePath, JSON.stringify({}, null, 2));
   }
 
-  // Iterar sobre las configuraciones de tropas para esta aldea
-  for (const { targetMapId, troopTypes, timeInterval, aldeas: targetAldeas } of troopConfigs) {
-    // Si no se especifica el campo `aldeas`, aplicar a todas las aldeas
-    const appliesToAldea = !targetAldeas || targetAldeas.includes(aldea.name);
+  // Leer el archivo JSON de aldeas inactivas
+  const inactiveVillages = readInactiveVillagesFile();
 
-    if (appliesToAldea) {
-      const lastExecuted = aldeaLogData[targetMapId] ? new Date(aldeaLogData[targetMapId]) : new Date(0);
-      const currentTime = new Date();
-      const timeIntervalMs = parseTimeInterval(timeInterval) * 1000 * 2;
+  // Iterar sobre las aldeas inactivas
+  for (const village of inactiveVillages) {
+    const { targetMapId, population, player } = village;
 
-      if (currentTime - lastExecuted >= timeIntervalMs) {
-        const url = baseUrl + targetMapId;
-        try {
-          console.log(`Visitando URL: ${url}`);
-          await page.goto(url, { timeout: 60000 });
+    // Verificar si la aldea está en la lista negra
+    if (isInBlacklist(targetMapId)) {
+      console.log(`Aldea [${targetMapId[0]}|${targetMapId[1]}] está en la lista negra. Omitiendo...`);
+      continue;
+    }
 
-          for (const { troopType, amount } of troopTypes) {
-            console.log(`Configurando tropas ${troopType}: ${amount}`);
-            await page.waitForSelector(`input[name='troop[${troopType}]']`, { timeout: 10000 });
+    // Verificar si la aldea actual es la que debe atacar
+    if (village.aldeas.includes(aldea.name)) {
+      const url = `${baseUrl}x=${targetMapId[0]}&y=${targetMapId[1]}`;
+      try {
+        
+        // Verificar si ya hay un ataque en progreso para esta aldea objetivo
+        const lastAttack = aldeaLogData[targetMapId];
 
-            const inputSelector = `input[name='troop[${troopType}]']`;
-            await page.evaluate(
-              (selector, value) => {
-                const input = document.querySelector(selector);
-                if (input) {
-                  input.value = "";
-                  input.value = value;
-                  input.dispatchEvent(new Event("input", { bubbles: true }));
-                }
-              },
-              inputSelector,
-              amount
-            );
+        if (lastAttack) {
+          const lastExecuted = new Date(lastAttack.lastExecuted); // Fecha y hora del último ataque
+          const arrivalTimeMs = parseTimeInterval(lastAttack.arrivalTime) * 2; // Tiempo de llegada en milisegundos
+          const arrivalTime = new Date(lastExecuted.getTime() + arrivalTimeMs); // Fecha y hora de llegada
+
+          const currentTime = new Date(); // Tiempo actual
+
+          // Si el tiempo actual es menor que la fecha de llegada, omitir el envío de tropas
+          if (currentTime < arrivalTime) {
+            console.log(`Ya hay tropas en camino a [${targetMapId[0]}|${targetMapId[1]}]. Omitiendo...`);
+            continue;
           }
+        }
 
-          const radioSelector = "input[type='radio'][name='eventType'][value='4']";
-          await page.waitForSelector(radioSelector, { timeout: 5000 });
-          await page.click(radioSelector);
-          console.log("Opción de ataque seleccionada.");
+        console.log(`Visitando URL: ${url}`);
+        await page.goto(url, { waitUntil: 'networkidle2', timeout: 60000 });
 
-          const submitButtonSelector = "button[type='submit'][name='ok']";
-          await page.waitForSelector(submitButtonSelector, { timeout: 5000 });
-          await page.click(submitButtonSelector);
-          console.log("Formulario enviado.");
+        // Verificar si la aldea objetivo existe
+        const errorSelector = 'p.error';
+        const errorExists = await page.$(errorSelector).catch(() => null);
 
-          const confirmButtonSelector = "#confirmSendTroops";
-          console.log("Esperando pantalla de confirmación...");
-          await page.waitForSelector(confirmButtonSelector, { timeout: 10000 });
-          await page.click(confirmButtonSelector);
-          console.log("Confirmación enviada.");
+        if (errorExists) {
+          // Extraer el mensaje de error
+          const errorMessage = await page.$eval(errorSelector, el => el.textContent.trim());
 
-          console.log(`Tarea completada para el enlace: ${url}`);
+          // Agregar la aldea a la lista negra
+          addToBlacklist(targetMapId, errorMessage);
 
-          // Registrar la ejecución en el log de la aldea
-          aldeaLogData[targetMapId] = currentTime.toISOString();
-          fs.writeFileSync(aldeaLogFilePath, JSON.stringify(aldeaLogData, null, 2));
-
-        } catch (error) {
-          // Guardar el error en el log de errores
-          const errorMessage = `Error procesando el enlace ${url}: ${error.message}`;
-          
-          // Mostrar el error en rojo y destacar el targetMapId
-          console.error(`\x1b[31mError en targetMapId ${targetMapId}: ${error.message}\x1b[0m`);
-
-          logErrorToFile(errorMessage);
-          
-          // Continuar con la siguiente iteración (no detener el proceso completo)
+          console.log(`Aldea [${targetMapId[0]}|${targetMapId[1]}] no cumple las condiciones. Mensaje: ${errorMessage}`);
           continue;
         }
-      } else {
-        console.log(`Aún no ha pasado el tiempo para ejecutar el enlace ${targetMapId}`);
+
+        // Calcular la cantidad de tropas
+        const troopAmount = calculateTroopAmount(population);
+        const troopType = 't1'; // Tipo de tropa fijo por ahora
+
+        console.log(`Configurando tropas ${troopType}: ${troopAmount}`);
+        await page.waitForSelector(`input[name='troop[${troopType}]']`, { timeout: 10000 });
+
+        const inputSelector = `input[name='troop[${troopType}]']`;
+        await page.evaluate(
+          (selector, value) => {
+            const input = document.querySelector(selector);
+            if (input) {
+              input.value = "";
+              input.value = value;
+              input.dispatchEvent(new Event("input", { bubbles: true }));
+            }
+          },
+          inputSelector,
+          troopAmount
+        );
+
+        const radioSelector = "input[type='radio'][name='eventType'][value='4']";
+        await page.waitForSelector(radioSelector, { timeout: 5000 });
+        await page.click(radioSelector);
+        console.log("Opción de ataque seleccionada.");
+
+        const submitButtonSelector = "button[type='submit'][name='ok']";
+        await page.waitForSelector(submitButtonSelector, { timeout: 5000 });
+        await page.click(submitButtonSelector);
+        console.log("Formulario enviado.");
+
+
+        // Verificar si la aldea objetivo existe
+        const errorExistsConfirm = await page.$(errorSelector).catch(() => null);
+
+        if (errorExistsConfirm) {
+          // Extraer el mensaje de error
+          const errorMessage = await page.$eval(errorSelector, el => el.textContent.trim());
+
+          // Agregar la aldea a la lista negra
+          addToBlacklist(targetMapId, errorMessage);
+
+          console.log(`Aldea [${targetMapId[0]}|${targetMapId[1]}] no cumple las condiciones. Mensaje: ${errorMessage}`);
+          continue;
+        }
+
+        // Capturar el tiempo de llegada de las tropas
+        const arrivalTime = await captureArrivalTime(page);
+        console.log(`Tiempo de llegada de las tropas: ${arrivalTime}`);
+
+        // Guardar el tiempo de llegada en el log
+        aldeaLogData[targetMapId] = {
+          lastExecuted: new Date().toISOString(),
+          arrivalTime,
+        };
+        fs.writeFileSync(aldeaLogFilePath, JSON.stringify(aldeaLogData, null, 2));
+
+        const confirmButtonSelector = "#confirmSendTroops";
+        console.log("Esperando pantalla de confirmación...");
+        await page.waitForSelector(confirmButtonSelector, { timeout: 10000 });
+        await page.click(confirmButtonSelector);
+        console.log("Confirmación enviada.");
+
+        console.log(`Tarea completada para el enlace: ${url}`);
+      } catch (error) {
+        // Guardar el error en el log de errores
+        const errorMessage = `Error procesando el enlace ${url}: ${error.message}`;
+        console.error(`\x1b[31mError en targetMapId ${targetMapId}: ${error.message}\x1b[0m`);
+        logErrorToFile(errorMessage);
+        continue;
       }
     }
   }
 }
 
-// Función auxiliar para parsear el intervalo de tiempo
-function parseTimeInterval(timeString) {
-  const [hours, minutes, seconds] = timeString.split(":").map(num => parseInt(num, 10));
-  return ((hours * 3600) + (minutes * 60) + seconds);
-}
-
 // Función para registrar errores en el archivo de log
 function logErrorToFile(errorMessage) {
   const errorLogFilePath = path.join(temporalDir, 'error_log.json');
-
   let errorLogData = [];
 
-  // Si el archivo de log ya existe, leemos los datos
   if (fs.existsSync(errorLogFilePath)) {
     errorLogData = JSON.parse(fs.readFileSync(errorLogFilePath, 'utf8'));
   }
 
-  // Agregamos el nuevo error con la fecha actual
   const newErrorLog = {
     timestamp: new Date().toISOString(),
     message: errorMessage,
   };
   errorLogData.push(newErrorLog);
-
-  // Escribimos los datos actualizados en el archivo
   fs.writeFileSync(errorLogFilePath, JSON.stringify(errorLogData, null, 2));
-}
+} 

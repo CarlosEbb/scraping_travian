@@ -7,6 +7,7 @@ import { processTroopConfig } from "./tools/processTroopConfig.js";
 import { upgradeResourceField } from "./tools/upgradeResourceField.js"; 
 import { balanceResources } from './tools/balanceResources.js';
 import { sendResources } from './tools/sendResources.js';
+import { findInactiveVillages } from './tools/findInactiveVillages.js';
 
 import { fileURLToPath } from "url";
 import path from "path";
@@ -25,7 +26,7 @@ async function reloadConfig() {
   return config;
 }
 
-const baseUrl = `${process.env.BASE_URL}/build.php?gid=16&tt=2&eventType=5&targetMapId=`;
+const baseUrl = `${process.env.BASE_URL}/build.php?id=39&gid=16&tt=2&`;
 
 async function automateTask(config) {
   const browser = await puppeteer.launch({ headless: true, slowMo: 50 });
@@ -69,18 +70,15 @@ async function automateTask(config) {
       }
       
       if (task.name === "createTroops") {
-        console.log(`Creando tropas de tipo ${task.troopType} para la aldea ${aldea.name}`);
-        await createTroops(page, task.troopType); // Crear tropas según el tipo especificado
+        for (const type of task.troopType) {
+          console.log(`Creando tropas de tipo ${type} para la aldea ${aldea.name}`);
+          await createTroops(page, type); // Crear tropas según el tipo especificado
+        }
       }
 
       if (task.name === "processTroopConfig") {
-        // Filtrar las configuraciones de tropas que corresponden a esta aldea
-        const relevantTroopConfigs = troopConfigs.filter(config => config.aldeas.includes(aldea.name));
-        
-        for (const troopConfig of relevantTroopConfigs) {
-          console.log(`Procesando misión para enviar tropas de tipo ${troopConfig.troopTypes[0].troopType} a ${troopConfig.targetMapId}`);
-          await processTroopConfig(page, aldea, troopConfigs, baseUrl);
-        }
+        console.log(`Procesando misión para enviar tropas desde la aldea ${aldea.name}`);
+        await processTroopConfig(page, aldea, baseUrl);
       }
 
       if (task.name === "upgradeResourceField") {
@@ -104,8 +102,13 @@ const maxRetries = 5;
 
 async function executeTasksRecursively(config) {
   try {
+
+    // Ejecutar la tarea de buscar aldeas inactivas una vez al día
+    await findInactiveVillages();
+    
     const config = await reloadConfig();
     await automateTask(config);
+
     retryCount = 0; // Resetear el contador de reintentos si la tarea se ejecuta correctamente
     await executeTasksRecursively(config);
   } catch (error) {

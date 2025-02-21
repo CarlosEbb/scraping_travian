@@ -1,0 +1,128 @@
+[
+  {
+    "targetMapId": [
+      100,
+      47
+    ],
+    "errorMessage": "El personaje está bloqueado."
+  },
+  {
+    "targetMapId": [
+      102,
+      51
+    ],
+    "errorMessage": "No existe ninguna aldea en estas coordenadas."
+  },
+  {
+    "targetMapId": [
+      99,
+      42
+    ],
+    "errorMessage": "No existe ninguna aldea en estas coordenadas."
+  },
+  {
+    "targetMapId": [
+      89,
+      47
+    ],
+    "errorMessage": "El personaje está bloqueado."
+  },
+  {
+    "targetMapId": [
+      90,
+      53
+    ],
+    "errorMessage": "El personaje está bloqueado."
+  },
+  {
+    "targetMapId": [
+      103,
+      40
+    ],
+    "errorMessage": "El personaje está bloqueado."
+  },
+  {
+    "targetMapId": [
+      89,
+      54
+    ],
+    "errorMessage": "El personaje está bloqueado."
+  },
+  {
+    "targetMapId": [
+      87,
+      51
+    ],
+    "errorMessage": "El personaje está bloqueado."
+  },
+  {
+    "targetMapId": [
+      104,
+      35
+    ],
+    "errorMessage": "El personaje está bloqueado."
+  },
+  {
+    "targetMapId": [
+      84,
+      52
+    ],
+    "errorMessage": "No existe ninguna aldea en estas coordenadas."
+  },
+  {
+    "targetMapId": [
+      96,
+      39
+    ],
+    "errorMessage": "No existe ninguna aldea en estas coordenadas."
+  },
+  {
+    "targetMapId": [
+      90,
+      60
+    ],
+    "errorMessage": "El personaje está bloqueado."
+  },
+  {
+    "targetMapId": [
+      88,
+      64
+    ],
+    "errorMessage": "El personaje está bloqueado."
+  },
+  {
+    "targetMapId": [
+      80,
+      67
+    ],
+    "errorMessage": "El personaje está bloqueado."
+  },
+  {
+    "targetMapId": [
+      81,
+      21
+    ],
+    "errorMessage": "El personaje está bloqueado."
+  },
+  {
+    "targetMapId": [
+      109,
+      16
+    ],
+    "errorMessage": "El personaje está bloqueado."
+  },
+  {
+    "targetMapId": [
+      70,
+      67
+    ],
+    "errorMessage": "El personaje está bloqueado."
+  },
+  {
+    "targetMapId": [
+      82,
+      57
+    ],
+    "errorMessage": "El personaje está bloqueado."
+  }
+]

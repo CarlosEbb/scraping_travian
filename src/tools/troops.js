@@ -3,7 +3,7 @@ export async function createTroops(page, type) {
   try {
     // Determinar la URL según el tipo de tropa
     let troopUrl = "";
-    if (type === "t1" || type === "t2") {
+    if (type === "t1" || type === "t2" || type === "t3") {
       troopUrl = `${process.env.BASE_URL}/build.php?id=31&gid=19`; // Para t1 y t2
     } else if(type === "t7" || type === "t8"){
       troopUrl = `${process.env.BASE_URL}/build.php?id=22&gid=21`; // Para cualquier otro tipo

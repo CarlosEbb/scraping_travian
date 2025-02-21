@@ -4,21 +4,11 @@
   "password": "B0liv4r.12",
   "aldeas": [
     
-    { "name": "01", "newdid": "24380", 
+    { "name": "01", "newdid": "24380", "ruta": [79,44],
       "task": [
         {
-          "name": "sendResources",
-          "targetVillage": {
-            "x": 98,
-            "y": 48
-          }
-        }
-      ] 
-    },
-    { "name": "03", "newdid": "29628", 
-      "task": [
-        {
-          "name": "upgradeResourceField"
+          "name": "upgradeResourceField",
+          "preference": ["40"]
         },
         {
           "name": "sendResources",
@@ -29,524 +19,75 @@
         }
       ] 
     },
-    { "name": "04", "newdid": "30882", 
+    { "name": "03", "newdid": "29628", "ruta": [102,55],
+      "task": [
+        {
+          "name": "upgradeResourceField",
+          "preference": ["19", "24"]
+        },
+        {
+          "name": "sendResources",
+          "targetVillage": {
+            "x": 98,
+            "y": 48
+          }
+        }
+      ] 
+    },
+    { "name": "04", "newdid": "30882", "ruta": [109,54],
+      "task": [
+        {
+          "name": "sendResources",
+          "targetVillage": {
+            "x": 98,
+            "y": 48
+          }
+        }
+      ] 
+    },
+    { "name": "05", "newdid": "32829", "ruta": [99,49],
       "task": [
         {
           "name": "upgradeResourceField"
         }
       ] 
     },
-    { "name": "05", "newdid": "32829", 
+    { "name": "06", "newdid": "34243", "ruta": [103,45],
       "task": [
         {
           "name": "upgradeResourceField",
-          "preference": ["38"]
+          "preference": ["19", "24", "3", "4", "16", "37","34", "32", "35"]
         }
       ] 
     },
-    { "name": "06", "newdid": "34243", 
+    { "name": "07", "newdid": "35443", "ruta": [96,45],
       "task": [
         {
-          "name": "upgradeResourceField",
-          "preference": ["19", "24", "3", "4", "16"]
+          "name": "upgradeResourceField"
         }
       ] 
     },
-    { "name": "02", "newdid": "27011", 
+    { "name": "08", "newdid": "36074", "ruta": [99,48],
       "task": [
-         
+        {
+          "name": "upgradeResourceField"
+        }
+      ] 
+    },
+    { "name": "02", "newdid": "27011", "ruta": [98,48],
+      "task": [ 
         {
           "name": "balanceResources"
         },
         {
-          "name": "upgradeResourceField",
-          "preference": ["39"]
-        },
-        {
           "name": "createTroops",
-          "troopType": "t1"
+          "troopType": ["t6","t1"]
+        }, 
+        {
+          "name": "processTroopConfig"
         }
       ] 
     }
-
-    
-  ],
-  "troopConfigs": [
-    
-    
-    {
-      "targetMapId": "67249",
-      "aldeas": ["02"], 
-      "troopTypes": [
-        { "troopType": "t1", "amount": 10 }
-      ],
-      "timeInterval": "00:56:41"
-    },
-    {
-      "targetMapId": "65642",
-      "aldeas": ["02"], 
-      "troopTypes": [
-        { "troopType": "t1", "amount": 10 }
-      ],
-      "timeInterval": "00:57:04"
-    },
-    {
-      "targetMapId": "60826",
-      "aldeas": ["02"], 
-      "troopTypes": [
-        { "troopType": "t1", "amount": 10 }
-      ],
-      "timeInterval": "01:00:03"
-    },
-    {
-      "targetMapId": "59622",
-      "aldeas": ["02"], 
-      "troopTypes": [
-        { "troopType": "t1", "amount": 10 }
-      ],
-      "timeInterval": "01:03:18"
-    },
-    {
-      "targetMapId": "61626",
-      "aldeas": ["02"], 
-      "troopTypes": [
-        { "troopType": "t1", "amount": 40 }
-      ],
-      "timeInterval": "01:05:03"
-    },
-    {
-      "targetMapId": "62428",
-      "aldeas": ["02"], 
-      "troopTypes": [
-        { "troopType": "t1", "amount": 10 }
-      ],
-      "timeInterval": "01:05:26"
-    },
-    {
-      "targetMapId": "60022",
-      "aldeas": ["02"], 
-      "troopTypes": [
-        { "troopType": "t1", "amount": 5 }
-      ],
-      "timeInterval": "01:05:26"
-    },
-    {
-      "targetMapId": "68850",
-      "aldeas": ["02"], 
-      "troopTypes": [
-        { "troopType": "t1", "amount": 10 }
-      ],
-      "timeInterval": "01:08:58"
-    },
-    {
-      "targetMapId": "70861",
-      "aldeas": ["02"], 
-      "troopTypes": [
-        { "troopType": "t1", "amount": 10 }
-      ],
-      "timeInterval": "01:09:28"
-    },
-    {
-      "targetMapId": "66437",
-      "aldeas": ["02"], 
-      "troopTypes": [
-        { "troopType": "t1", "amount": 10 }
-      ],
-      "timeInterval": "01:14:55"
-    },
-    {
-      "targetMapId": "60419",
-      "aldeas": ["02"], 
-      "troopTypes": [
-        { "troopType": "t1", "amount": 10 }
-      ],
-      "timeInterval": "01:15:10"
-    },
-    {
-      "targetMapId": "58014",
-      "aldeas": ["02"], 
-      "troopTypes": [
-        { "troopType": "t1", "amount": 10 }
-      ],
-      "timeInterval": "01:15:12"
-    },
-    {
-      "targetMapId": "68043",
-      "aldeas": ["02"], 
-      "troopTypes": [
-        { "troopType": "t1", "amount": 10 }
-      ],
-      "timeInterval": "01:15:35"
-    },
-    {
-      "targetMapId": "72061",
-      "aldeas": ["02"], 
-      "troopTypes": [
-        { "troopType": "t1", "amount": 20 }
-      ],
-      "timeInterval": "01:19:46"
-    },
-    {
-      "targetMapId": "56408",
-      "aldeas": ["02"], 
-      "troopTypes": [
-        { "troopType": "t1", "amount": 40 }
-      ],
-      "timeInterval": "01:23:06"
-    },
-    {
-      "targetMapId": "62420",
-      "aldeas": ["02"], 
-      "troopTypes": [
-        { "troopType": "t1", "amount": 10 }
-      ],
-      "timeInterval": "01:25:20"
-    },
-    {
-      "targetMapId": "72471",
-      "aldeas": ["02"], 
-      "troopTypes": [
-        { "troopType": "t1", "amount": 100 }
-      ],
-      "timeInterval": "01:12:48"
-    },
-    {
-      "targetMapId": "63252",
-      "aldeas": ["02"], 
-      "troopTypes": [
-        { "troopType": "t1", "amount": 10 }
-      ],
-      "timeInterval": "00:16:00"
-    },
-    {
-      "targetMapId": "63248",
-      "aldeas": ["02"], 
-      "troopTypes": [
-        { "troopType": "t1", "amount": 10 }
-      ],
-      "timeInterval": "00:23:35"
-    },
-    {
-      "targetMapId": "64453",
-      "aldeas": ["02"], 
-      "troopTypes": [
-        { "troopType": "t1", "amount": 10 }
-      ],
-      "timeInterval": "00:25:00"
-    },
-    {
-      "targetMapId": "64853",
-      "aldeas": ["02"], 
-      "troopTypes": [
-        { "troopType": "t1", "amount": 50 }
-      ],
-      "timeInterval": "00:28:30"
-    },
-    {
-      "targetMapId": "62844",
-      "aldeas": ["02"], 
-      "troopTypes": [
-        { "troopType": "t1", "amount": 10 }
-      ],
-      "timeInterval": "00:29:16"
-    },
-    {
-      "targetMapId": "65652",
-      "aldeas": ["02"], 
-      "troopTypes": [
-        { "troopType": "t1", "amount": 20 }
-      ],
-      "timeInterval": "00:37:10"
-    },
-    {
-      "targetMapId": "67262",
-      "aldeas": ["02"], 
-      "troopTypes": [
-        { "troopType": "t1", "amount": 10 }
-      ],
-      "timeInterval": "00:38:49"
-    },
-    {
-      "targetMapId": "65249",
-      "aldeas": ["02"], 
-      "troopTypes": [
-        { "troopType": "t1", "amount": 30 }
-      ],
-      "timeInterval": "00:38:49"
-    },
-    {
-      "targetMapId": "57228",
-      "aldeas": ["02"], 
-      "troopTypes": [
-        { "troopType": "t1", "amount": 10 }
-      ],
-      "timeInterval": "00:41:00"
-    },
-    {
-      "targetMapId": "64846",
-      "aldeas": ["02"], 
-      "troopTypes": [
-        { "troopType": "t1", "amount": 10 }
-      ],
-      "timeInterval": "00:41:36"
-    },
-    {
-      "targetMapId": "57626",
-      "aldeas": ["02"], 
-      "troopTypes": [
-        { "troopType": "t1", "amount": 10 }
-      ],
-      "timeInterval": "00:45:54"
-    },
-    {
-      "targetMapId": "68870",
-      "aldeas": ["02"], 
-      "troopTypes": [
-        { "troopType": "t1", "amount": 30 }
-      ],
-      "timeInterval": "00:47:30"
-    },
-    {
-      "targetMapId": "60029",
-      "aldeas": ["02"], 
-      "troopTypes": [
-        { "troopType": "t1", "amount": 10 }
-      ],
-      "timeInterval": "00:48:05"
-    },
-    {
-      "targetMapId": "58425",
-      "aldeas": ["02"], 
-      "troopTypes": [
-        { "troopType": "t1", "amount": 80 }
-      ],
-      "timeInterval": "00:50:21"
-    },
-    {
-      "targetMapId": "56823",
-      "aldeas": ["02"], 
-      "troopTypes": [
-        { "troopType": "t1", "amount": 10 }
-      ],
-      "timeInterval": "00:50:21"
-    },
-    {
-      "targetMapId": "56819",
-      "aldeas": ["02"], 
-      "troopTypes": [
-        { "troopType": "t1", "amount": 10 }
-      ],
-      "timeInterval": "00:55:09"
-    },
-    {
-      "targetMapId": "57218",
-      "aldeas": ["02"], 
-      "troopTypes": [
-        { "troopType": "t1", "amount": 10 }
-      ],
-      "timeInterval": "00:57:03"
-    },
-    {
-      "targetMapId": "58019",
-      "aldeas": ["02"], 
-      "troopTypes": [
-        { "troopType": "t1", "amount": 10 }
-      ],
-      "timeInterval": "00:57:22"
-    },
-    {
-      "targetMapId": "69270",
-      "aldeas": ["02"], 
-      "troopTypes": [
-        { "troopType": "t1", "amount": 80 }
-      ],
-      "timeInterval": "00:50:02"
-    },
-    {
-      "targetMapId": "61651",
-      "aldeas": ["02"], 
-      "troopTypes": [
-        { "troopType": "t1", "amount": 150 }
-      ],
-      "timeInterval": "00:03:32"
-    },
-    {
-      "targetMapId": "60449",
-      "aldeas": ["02"], 
-      "troopTypes": [
-        { "troopType": "t1", "amount": 50 }
-      ],
-      "timeInterval": "00:05:00"
-    },
-    {
-      "targetMapId": "61247",
-      "aldeas": ["02"], 
-      "troopTypes": [
-        { "troopType": "t1", "amount": 10 }
-      ],
-      "timeInterval": "00:10:00"
-    },
-    {
-      "targetMapId": "62458",
-      "aldeas": ["02"], 
-      "troopTypes": [
-        { "troopType": "t1", "amount": 50 }
-      ],
-      "timeInterval": "00:12:30"
-    },
-    {
-      "targetMapId": "63654",
-      "aldeas": ["02"], 
-      "troopTypes": [
-        { "troopType": "t1", "amount": 10 }
-      ],
-      "timeInterval": "00:16:46"
-    },
-    {
-      "targetMapId": "64057",
-      "aldeas": ["02"], 
-      "troopTypes": [
-        { "troopType": "t1", "amount": 60 }
-      ],
-      "timeInterval": "00:17:41"
-    },
-    {
-      "targetMapId": "64459",
-      "aldeas": ["02"], 
-      "troopTypes": [
-        { "troopType": "t1", "amount": 10 }
-      ],
-      "timeInterval": "00:20:00"
-    },
-    {
-      "targetMapId": "60441",
-      "aldeas": ["02"], 
-      "troopTypes": [
-        { "troopType": "t1", "amount": 10 }
-      ],
-      "timeInterval": "00:20:37"
-    },
-    {
-      "targetMapId": "58439",
-      "aldeas": ["02"], 
-      "troopTypes": [
-        { "troopType": "t1", "amount": 10 }
-      ],
-      "timeInterval": "00:21:30"
-    },
-    {
-      "targetMapId": "64858",
-      "aldeas": ["02"], 
-      "troopTypes": [
-        { "troopType": "t1", "amount": 50 }
-      ],
-      "timeInterval": "00:23:03"
-    },
-    {
-      "targetMapId": "64862",
-      "aldeas": ["02"], 
-      "troopTypes": [
-        { "troopType": "t1", "amount": 50 }
-      ],
-      "timeInterval": "00:23:03"
-    },
-    {
-      "targetMapId": "64051",
-      "aldeas": ["02"], 
-      "troopTypes": [
-        { "troopType": "t1", "amount": 60 }
-      ],
-      "timeInterval": "00:24:45"
-    },
-    {
-      "targetMapId": "65262",
-      "aldeas": ["02"], 
-      "troopTypes": [
-        { "troopType": "t1", "amount": 10 }
-      ],
-      "timeInterval": "00:25:07"
-    },
-    {
-      "targetMapId": "60439",
-      "aldeas": ["02"], 
-      "troopTypes": [
-        { "troopType": "t1", "amount": 15 }
-      ],
-      "timeInterval": "00:25:30"
-    },
-    {
-      "targetMapId": "58436",
-      "aldeas": ["02"], 
-      "troopTypes": [
-        { "troopType": "t1", "amount": 40 }
-      ],
-      "timeInterval": "00:26:35"
-    },
-    {
-      "targetMapId": "56836",
-      "aldeas": ["02"], 
-      "troopTypes": [
-        { "troopType": "t1", "amount": 40 }
-      ],
-      "timeInterval": "00:29:19"
-    },
-    {
-      "targetMapId": "65667",
-      "aldeas": ["02"], 
-      "troopTypes": [
-        { "troopType": "t1", "amount": 10 }
-      ],
-      "timeInterval": "00:30:12"
-    },
-    {
-      "targetMapId": "66065",
-      "aldeas": ["02"], 
-      "troopTypes": [
-        { "troopType": "t1", "amount": 10 }
-      ],
-      "timeInterval": "00:30:25"
-    },
-    {
-      "targetMapId": "62841",
-      "aldeas": ["02"], 
-      "troopTypes": [
-        { "troopType": "t1", "amount": 20 }
-      ],
-      "timeInterval": "00:36:24"
-    },
-    {
-      "targetMapId": "67671",
-      "aldeas": ["02"], 
-      "troopTypes": [
-        { "troopType": "t1", "amount": 50 }
-      ],
-      "timeInterval": "00:41:14"
-    },
-    {
-      "targetMapId": "57628",
-      "aldeas": ["02"], 
-      "troopTypes": [
-        { "troopType": "t1", "amount": 100 }
-      ],
-      "timeInterval": "00:41:36"
-    },
-    {
-      "targetMapId": "68071",
-      "aldeas": ["02"], 
-      "troopTypes": [
-        { "troopType": "t1", "amount": 10 }
-      ],
-      "timeInterval": "00:43:09"
-    },
-    {
-      "targetMapId": "57226",
-      "aldeas": ["02"], 
-      "troopTypes": [
-        { "troopType": "t1", "amount": 100 }
-      ],
-      "timeInterval": "00:45:04"
-    }
-    
-    
   ]
+ 
 }
