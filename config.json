@@ -1,30 +1,19 @@
 {
   "loginUrl": "/login.php",
-  "username": "carlos_ebb@outlook.com",
-  "password": "B0liv4r.12",
+  "username": "",
+  "password": "",
   "aldeas": [
     
-    { "name": "01", "newdid": "24380", "ruta": [79,44],
+    { "name": "01", "newdid": "40521", "ruta": [98,49],
       "task": [
         {
-          "name": "upgradeResourceField",
-          "preference": ["40"]
-        },
-        {
-          "name": "sendResources",
-          "targetVillage": {
-            "x": 98,
-            "y": 48
-          }
+          "name": "upgradeResourceField"
         }
+        
       ] 
     },
     { "name": "03", "newdid": "29628", "ruta": [102,55],
       "task": [
-        {
-          "name": "upgradeResourceField",
-          "preference": ["19", "24"]
-        },
         {
           "name": "sendResources",
           "targetVillage": {
@@ -37,6 +26,54 @@
     { "name": "04", "newdid": "30882", "ruta": [109,54],
       "task": [
         {
+          "name": "upgradeResourceField",
+          "preference": ["27","28", "30"]
+        },
+        {
+          "name": "sendResources",
+          "targetVillage": {
+            "x": 98,
+            "y": 48
+          }
+        }
+        
+      ] 
+    },
+    { "name": "05", "newdid": "32829", "ruta": [99,49],
+      "task": [
+        {
+          "name": "upgradeResourceField",
+          "preference": ["28", "27", "30"]
+        },
+        {
+          "name": "sendResources",
+          "targetVillage": {
+            "x": 98,
+            "y": 48
+          }
+        }
+        
+      ] 
+    },
+    { "name": "06", "newdid": "34243", "ruta": [103,45],
+      "task": [
+        {
+          "name": "upgradeResourceField",
+          "preference": ["28"]
+        },
+        {
+          "name": "createTroops",
+          "troopType": ["t2"]
+        }
+      ] 
+    },
+    { "name": "07", "newdid": "35443", "ruta": [96,45],
+      "task": [
+        {
+          "name": "upgradeResourceField",
+          "preference": ["37"]
+        },
+        {
           "name": "sendResources",
           "targetVillage": {
             "x": 98,
@@ -45,29 +82,90 @@
         }
       ] 
     },
-    { "name": "05", "newdid": "32829", "ruta": [99,49],
-      "task": [
-        {
-          "name": "upgradeResourceField"
-        }
-      ] 
-    },
-    { "name": "06", "newdid": "34243", "ruta": [103,45],
+    { "name": "08", "newdid": "36074", "ruta": [99,48],
       "task": [
         {
           "name": "upgradeResourceField",
-          "preference": ["19", "24", "3", "4", "16", "37","34", "32", "35"]
+          "preference": ["37"]
+        },
+        {
+          "name": "sendResources",
+          "targetVillage": {
+            "x": 98,
+            "y": 48
+          }
         }
       ] 
     },
-    { "name": "07", "newdid": "35443", "ruta": [96,45],
+    { "name": "09", "newdid": "37244", "ruta": [103,46],
+      "task": [
+        {
+          "name": "upgradeResourceField",
+          "preference": ["37"]
+        },
+        {
+          "name": "sendResources",
+          "targetVillage": {
+            "x": 103,
+            "y": 45
+          }
+        }
+      ] 
+    },
+    { "name": "10", "newdid": "37852", "ruta": [102,46],
+      "task": [
+        {
+          "name": "upgradeResourceField",
+          "preference": ["37"]
+        },
+        {
+          "name": "sendResources",
+          "targetVillage": {
+            "x": 103,
+            "y": 45
+          }
+        }
+      ] 
+    },
+    { "name": "11", "newdid": "38495", "ruta": [104,46],
+      "task": [
+        {
+          "name": "upgradeResourceField",
+          "preference": ["37"]
+        },
+        {
+          "name": "sendResources",
+          "targetVillage": {
+            "x": 103,
+            "y": 45
+          }
+        }
+        
+      ] 
+    },
+    { "name": "12", "newdid": "38824", "ruta": [104,44],
+      "task": [
+        {
+          "name": "upgradeResourceField",
+          "preference": ["37"]
+        },
+        {
+          "name": "sendResources",
+          "targetVillage": {
+            "x": 103,
+            "y": 45
+          }
+        }
+      ] 
+    },
+    { "name": "13", "newdid": "39421", "ruta": [101,45],
       "task": [
         {
           "name": "upgradeResourceField"
         }
       ] 
     },
-    { "name": "08", "newdid": "36074", "ruta": [99,48],
+    { "name": "14", "newdid": "39899", "ruta": [101,47],
       "task": [
         {
           "name": "upgradeResourceField"
@@ -80,9 +178,13 @@
           "name": "balanceResources"
         },
         {
+          "name": "upgradeResourceField",
+          "preference": ["34"]
+        },
+        {
           "name": "createTroops",
-          "troopType": ["t6","t1"]
-        }, 
+          "troopType": ["t6"]
+        },
         {
           "name": "processTroopConfig"
         }

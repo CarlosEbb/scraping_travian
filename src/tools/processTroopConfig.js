@@ -18,6 +18,47 @@ if (!fs.existsSync(temporalDir)) {
   console.log("Carpeta 'temporal' creada.");
 }
 
+// Función para obtener la primera tropa disponible que cumpla con la cantidad requerida
+async function getAllAvailableTroops(page, requiredAmount) {
+  const troopTypes = ['t1', 't2', 't3', 't5', 't6']; // Tipos de tropa
+
+  // Extraer todos los datos de las tropas en una sola corrida
+  const troopsData = await page.$$eval('input[name^="troop[t"]', (inputs) => {
+    return inputs.map(input => {
+      const troopType = input.name.match(/troop\[(t\d+)\]/)[1]; // Extraer el tipo de tropa (t1, t2, etc.)
+      const availableElement = input.parentElement?.querySelector('a, span.none'); // Buscar el elemento con la cantidad
+      const availableText = availableElement?.textContent.trim() || '0'; // Extraer el texto
+      const availableMatch = availableText.match(/\d+/); // Extraer el número de tropas disponibles
+      const availableCount = availableMatch ? parseInt(availableMatch[0], 10) : 0; // Convertir a número
+
+      return { troopType, availableCount };
+    });
+  });
+
+  // Convertir los datos a un objeto para facilitar el acceso
+  const troopsAvailable = troopsData.reduce((acc, { troopType, availableCount }) => {
+    acc[troopType] = availableCount;
+    return acc;
+  }, {});
+
+  console.log("Tropas disponibles:", troopsAvailable);
+
+  // Seleccionar la primera tropa disponible que cumpla con la cantidad requerida
+  for (const troopType of troopTypes) {
+    const availableCount = troopsAvailable[troopType] || 0;
+
+    if (availableCount >= requiredAmount) {
+      console.log(`Seleccionando tropas de tipo ${troopType}: ${availableCount} disponibles (requeridas: ${requiredAmount})`);
+      return { troopType, availableCount };
+    } else if (availableCount > 0) {
+      console.log(`Tropas de tipo ${troopType} insuficientes: ${availableCount} disponibles (requeridas: ${requiredAmount})`);
+    }
+  }
+
+  console.log("No hay tropas disponibles que cumplan con la cantidad requerida.");
+  return null; // Retornar null si no hay tropas disponibles
+}
+
 // Función para leer el archivo JSON de aldeas inactivas
 function readInactiveVillagesFile() {
   const inactiveVillagesFilePath = path.join(temporalDir, 'inactive_villages.json');
@@ -26,6 +67,7 @@ function readInactiveVillagesFile() {
   }
   return [];
 }
+
 
 // Función para calcular la cantidad de tropas según la población
 function calculateTroopAmount(population) {
@@ -149,11 +191,20 @@ export async function processTroopConfig(page, aldea, baseUrl) {
           continue;
         }
 
-        // Calcular la cantidad de tropas
-        const troopAmount = calculateTroopAmount(population);
-        const troopType = 't1'; // Tipo de tropa fijo por ahora
+        // Calcular la cantidad de tropas requerida
+        const requiredAmount = calculateTroopAmount(population);
 
-        console.log(`Configurando tropas ${troopType}: ${troopAmount}`);
+        // Obtener la primera tropa disponible que cumpla con la cantidad requerida
+        const troopData = await getAllAvailableTroops(page, requiredAmount);
+
+        if (!troopData) {
+          console.log("No hay tropas disponibles para atacar. Omitiendo...");
+          continue;
+        }
+
+        const { troopType, availableCount } = troopData;
+
+        console.log(`Configurando tropas ${troopType}: ${requiredAmount} (disponibles: ${availableCount})`);
         await page.waitForSelector(`input[name='troop[${troopType}]']`, { timeout: 10000 });
 
         const inputSelector = `input[name='troop[${troopType}]']`;
@@ -167,7 +218,7 @@ export async function processTroopConfig(page, aldea, baseUrl) {
             }
           },
           inputSelector,
-          troopAmount
+          requiredAmount
         );
 
         const radioSelector = "input[type='radio'][name='eventType'][value='4']";
