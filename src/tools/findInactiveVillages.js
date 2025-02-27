@@ -51,7 +51,7 @@ export async function findInactiveVillages() {
 
     // Iterar sobre el número de páginas
     for (let pageNumber = 1; pageNumber <= numberOfPages; pageNumber++) {
-      const searchUrl = `https://www.travcotools.com/en/inactive-search/?travian_server=1042&x=98&y=48&days=2&distance_min=&distance_max=&player_pop_min=&player_pop_max=&village_pop_min=&village_pop_max=500&exclude_alliances=1224892&exclude_alliances=1224902&exclude_alliances=1224913&max_pop_increase=0&village_is_capital=&order_by=distance&page=${pageNumber}`;
+      const searchUrl = `https://www.travcotools.com/en/inactive-search/?travian_server=1042&x=98&y=48&days=2&village_pop_max=500&exclude_alliances=1224902&exclude_alliances=1224899&exclude_alliances=1224926&max_pop_increase=0&order_by=distance&page=${pageNumber}`;
       console.log(`Procesando página ${pageNumber}...`);
       await page.goto(searchUrl, { waitUntil: 'networkidle2', timeout: 60000 });
 
