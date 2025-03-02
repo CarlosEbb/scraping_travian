@@ -30,7 +30,7 @@ async function reloadConfig() {
 const baseUrl = `${process.env.BASE_URL}/build.php?id=39&gid=16&tt=2&`;
 
 async function automateTask(config) {
-  const browser = await puppeteer.launch({ headless: false, slowMo: 50 });
+  const browser = await puppeteer.launch({ headless: true, slowMo: 50 });
   const page = await browser.newPage();
 
   const { loginUrl, username, password, aldeas, troopConfigs } = config;
