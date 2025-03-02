@@ -23,7 +23,7 @@ export async function createTroops(page, type) {
     // Establecer el valor en 20 (para crear 20 tropas)
     await page.evaluate((selector) => {
       const input = document.querySelector(selector);
-      if (input) input.value = 200;
+      if (input) input.value = 500;
     }, troopInputSelector);
 
     // Enviar el formulario

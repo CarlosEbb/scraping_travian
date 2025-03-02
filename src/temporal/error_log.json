@@ -1210,5 +1210,9 @@
   {
     "timestamp": "2025-02-27T09:00:01.659Z",
     "message": "Error procesando el enlace https://ts100.x10.asia.travian.com/build.php?id=39&gid=16&tt=2&x=64&y=69: Protocol error (DOM.resolveNode): Node with given id does not belong to the document"
+  },
+  {
+    "timestamp": "2025-03-02T11:21:45.084Z",
+    "message": "Error procesando el enlace https://ts100.x10.asia.travian.com/build.php?id=39&gid=16&tt=2&x=92&y=45: Waiting for selector `#confirmSendTroops` failed: Waiting failed: 10000ms exceeded"
   }
 ]

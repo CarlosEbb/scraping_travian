@@ -199,7 +199,8 @@ export async function processTroopConfig(page, aldea, baseUrl) {
 
         if (!troopData) {
           console.log("No hay tropas disponibles para atacar. Omitiendo...");
-          continue;
+          //continue;
+          break;
         }
 
         const { troopType, availableCount } = troopData;
@@ -291,3 +292,260 @@ function logErrorToFile(errorMessage) {
   errorLogData.push(newErrorLog);
   fs.writeFileSync(errorLogFilePath, JSON.stringify(errorLogData, null, 2));
 } 
+
+
+//sendOffensiveTroops
+
+
+// Función para enviar todas las tropas ofensivas y catapultas
+export async function sendOffensiveTroops(page, aldea, baseUrl) {
+  const { targetX, targetY } = aldea.task.find(task => task.name === "sendOffensiveTroops");
+  const url = `${baseUrl}x=${targetX}&y=${targetY}`;
+
+  try {
+    console.log(`Visitando URL: ${url}`);
+    await page.goto(url, { waitUntil: 'networkidle2', timeout: 60000 });
+
+    // Verificar si la aldea objetivo existe
+    const errorSelector = 'p.error';
+    const errorExists = await page.$(errorSelector).catch(() => null);
+
+    if (errorExists) {
+      // Extraer el mensaje de error
+      const errorMessage = await page.$eval(errorSelector, el => el.textContent.trim());
+
+      // Agregar la aldea a la lista negra
+      addToBlacklist([targetX, targetY], errorMessage);
+
+      console.log(`Aldea [${targetX}|${targetY}] no cumple las condiciones. Mensaje: ${errorMessage}`);
+      return;
+    }
+
+    // Obtener la cantidad de tropas disponibles
+    const troopsAvailable = await getAllAvailableTroops(page);
+
+    if (!troopsAvailable) {
+      console.log("No hay tropas disponibles para atacar. Omitiendo...");
+      return;
+    }
+
+    // Enviar todas las tropas ofensivas (t1, t3, t5, t6, t7)
+    const offensiveTroops = ['t1', 't3', 't5', 't6', 't7'];
+    for (const troopType of offensiveTroops) {
+      const availableCount = troopsAvailable[troopType] || 0;
+      if (availableCount > 0) {
+        console.log(`Enviando todas las tropas de tipo ${troopType}: ${availableCount}`);
+        await page.evaluate(
+          (selector, value) => {
+            const input = document.querySelector(selector);
+            if (input) {
+              input.value = "";
+              input.value = value;
+              input.dispatchEvent(new Event("input", { bubbles: true }));
+            }
+          },
+          `input[name='troop[${troopType}]']`,
+          availableCount
+        );
+      }
+    }
+
+    // Enviar 100 catapultas (t8)
+    const catapultCount = Math.min(troopsAvailable['t8'] || 0, 100);
+    if (catapultCount > 0) {
+      console.log(`Enviando 100 catapultas (t8): ${catapultCount}`);
+      await page.evaluate(
+        (selector, value) => {
+          const input = document.querySelector(selector);
+          if (input) {
+            input.value = "";
+            input.value = value;
+            input.dispatchEvent(new Event("input", { bubbles: true }));
+          }
+        },
+        `input[name='troop[t8]']`,
+        catapultCount
+      );
+    }
+
+    // Seleccionar la opción de ataque
+    const radioSelector = "input[type='radio'][name='eventType'][value='4']";
+    await page.waitForSelector(radioSelector, { timeout: 5000 });
+    await page.click(radioSelector);
+    console.log("Opción de ataque seleccionada.");
+
+    // Enviar el formulario
+    const submitButtonSelector = "button[type='submit'][name='ok']";
+    await page.waitForSelector(submitButtonSelector, { timeout: 5000 });
+    await page.click(submitButtonSelector);
+    console.log("Formulario enviado.");
+
+    // Capturar el tiempo de llegada de las tropas
+    const arrivalTime = await captureArrivalTime(page);
+    console.log(`Tiempo de llegada de las tropas: ${arrivalTime}`);
+
+    // Guardar el tiempo de llegada en el log
+    const aldeaLogFilePath = path.join(temporalDir, `log_${aldea.name}.json`);
+    let aldeaLogData = {};
+
+    if (fs.existsSync(aldeaLogFilePath)) {
+      aldeaLogData = JSON.parse(fs.readFileSync(aldeaLogFilePath, 'utf8'));
+    } else {
+      fs.writeFileSync(aldeaLogFilePath, JSON.stringify({}, null, 2));
+    }
+
+    aldeaLogData[[targetX, targetY]] = {
+      lastExecuted: new Date().toISOString(),
+      arrivalTime,
+    };
+    fs.writeFileSync(aldeaLogFilePath, JSON.stringify(aldeaLogData, null, 2));
+
+    // Confirmar el envío de tropas
+    const confirmButtonSelector = "#confirmSendTroops";
+    console.log("Esperando pantalla de confirmación...");
+    await page.waitForSelector(confirmButtonSelector, { timeout: 10000 });
+    await page.click(confirmButtonSelector);
+    console.log("Confirmación enviada.");
+
+    console.log(`Primer ataque completado para el enlace: ${url}`);
+
+    // Calcular las catapultas restantes
+    const remainingCatapults = (troopsAvailable['t8'] || 0) - catapultCount;
+
+    if (remainingCatapults > 0) {
+      console.log(`Enviando ataques restantes con ${remainingCatapults} catapultas...`);
+      await sendRemainingTroops(page, aldea, baseUrl, remainingCatapults);
+    } else {
+      console.log("No hay catapultas restantes para enviar.");
+    }
+  } catch (error) {
+    // Guardar el error en el log de errores
+    const errorMessage = `Error procesando el enlace ${url}: ${error.message}`;
+    console.error(`\x1b[31mError en targetMapId [${targetX}|${targetY}]: ${error.message}\x1b[0m`);
+    logErrorToFile(errorMessage);
+  }
+}
+
+// Función para enviar los ataques restantes con t2 y catapultas
+async function sendRemainingTroops(page, aldea, baseUrl, remainingCatapults) {
+  const { targetX, targetY } = aldea.task.find(task => task.name === "sendOffensiveTroops");
+  const url = `${baseUrl}x=${targetX}&y=${targetY}`;
+
+  try {
+    console.log(`Visitando URL: ${url}`);
+    await page.goto(url, { waitUntil: 'networkidle2', timeout: 60000 });
+
+    // Verificar si la aldea objetivo existe
+    const errorSelector = 'p.error';
+    const errorExists = await page.$(errorSelector).catch(() => null);
+
+    if (errorExists) {
+      // Extraer el mensaje de error
+      const errorMessage = await page.$eval(errorSelector, el => el.textContent.trim());
+
+      // Agregar la aldea a la lista negra
+      addToBlacklist([targetX, targetY], errorMessage);
+
+      console.log(`Aldea [${targetX}|${targetY}] no cumple las condiciones. Mensaje: ${errorMessage}`);
+      return;
+    }
+
+    // Obtener la cantidad de tropas disponibles
+    const troopsAvailable = await getAllAvailableTroops(page);
+
+    if (!troopsAvailable) {
+      console.log("No hay tropas disponibles para atacar. Omitiendo...");
+      return;
+    }
+
+    // Calcular la cantidad de t2 a enviar por ataque
+    const t2Available = troopsAvailable['t2'] || 0;
+    const t2PerAttack = Math.floor(t2Available / remainingCatapults);
+
+    if (t2PerAttack <= 0) {
+      console.log("No hay suficientes tropas t2 para acompañar las catapultas restantes.");
+      return;
+    }
+
+    // Enviar los ataques restantes
+    for (let i = 0; i < remainingCatapults; i++) {
+      const catapultCount = 1; // Enviar 1 catapulta por ataque
+      const t2Count = t2PerAttack;
+
+      console.log(`Enviando ataque ${i + 1} con ${t2Count} t2 y ${catapultCount} catapultas`);
+
+      // Configurar las tropas
+      await page.evaluate(
+        (selector, value) => {
+          const input = document.querySelector(selector);
+          if (input) {
+            input.value = "";
+            input.value = value;
+            input.dispatchEvent(new Event("input", { bubbles: true }));
+          }
+        },
+        `input[name='troop[t2]']`,
+        t2Count
+      );
+
+      await page.evaluate(
+        (selector, value) => {
+          const input = document.querySelector(selector);
+          if (input) {
+            input.value = "";
+            input.value = value;
+            input.dispatchEvent(new Event("input", { bubbles: true }));
+          }
+        },
+        `input[name='troop[t8]']`,
+        catapultCount
+      );
+
+      // Seleccionar la opción de ataque
+      const radioSelector = "input[type='radio'][name='eventType'][value='4']";
+      await page.waitForSelector(radioSelector, { timeout: 5000 });
+      await page.click(radioSelector);
+      console.log("Opción de ataque seleccionada.");
+
+      // Enviar el formulario
+      const submitButtonSelector = "button[type='submit'][name='ok']";
+      await page.waitForSelector(submitButtonSelector, { timeout: 5000 });
+      await page.click(submitButtonSelector);
+      console.log("Formulario enviado.");
+
+      // Capturar el tiempo de llegada de las tropas
+      const arrivalTime = await captureArrivalTime(page);
+      console.log(`Tiempo de llegada de las tropas: ${arrivalTime}`);
+
+      // Guardar el tiempo de llegada en el log
+      const aldeaLogFilePath = path.join(temporalDir, `log_${aldea.name}.json`);
+      let aldeaLogData = {};
+
+      if (fs.existsSync(aldeaLogFilePath)) {
+        aldeaLogData = JSON.parse(fs.readFileSync(aldeaLogFilePath, 'utf8'));
+      } else {
+        fs.writeFileSync(aldeaLogFilePath, JSON.stringify({}, null, 2));
+      }
+
+      aldeaLogData[[targetX, targetY]] = {
+        lastExecuted: new Date().toISOString(),
+        arrivalTime,
+      };
+      fs.writeFileSync(aldeaLogFilePath, JSON.stringify(aldeaLogData, null, 2));
+
+      // Confirmar el envío de tropas
+      const confirmButtonSelector = "#confirmSendTroops";
+      console.log("Esperando pantalla de confirmación...");
+      await page.waitForSelector(confirmButtonSelector, { timeout: 10000 });
+      await page.click(confirmButtonSelector);
+      console.log("Confirmación enviada.");
+
+      console.log(`Ataque ${i + 1} completado para el enlace: ${url}`);
+    }
+  } catch (error) {
+    // Guardar el error en el log de errores
+    const errorMessage = `Error procesando el enlace ${url}: ${error.message}`;
+    console.error(`\x1b[31mError en targetMapId [${targetX}|${targetY}]: ${error.message}\x1b[0m`);
+    logErrorToFile(errorMessage);
+  }
+}

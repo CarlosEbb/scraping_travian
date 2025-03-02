@@ -25,7 +25,7 @@ export async function sendResources(page, aldea) {
     await page.goto(marketUrl, { waitUntil: 'networkidle2', timeout: 60000 });
 
     // Obtener la capacidad de los comerciantes
-    const merchantCapacity = await page.$eval('.merchantCarryInfo strong', el => parseInt(el.textContent, 10)) * 1;//aumentar la cantidad por 2 para tener mas disponibilidad de materias
+    const merchantCapacity = await page.$eval('.merchantCarryInfo strong', el => parseInt(el.textContent, 10)) * 3;//aumentar la cantidad por 2 para tener mas disponibilidad de materias
     const availableMerchants = await page.$eval('.available .value', el => {
       const cleanText = el.textContent.replace(/[^\d/]/g, ''); // Elimina caracteres no numéricos excepto '/'
       const [available, total] = cleanText.split('/').map(num => parseInt(num, 10));

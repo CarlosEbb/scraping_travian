@@ -8,6 +8,209 @@
   },
   {
     "targetMapId": [
+      61,
+      65
+    ],
+    "errorMessage": "aliado"
+  },
+  {
+    "targetMapId": [
+      118,
+      26
+    ],
+    "errorMessage": "aliado"
+  },
+  {
+    "targetMapId": [
+      101,
+      43
+    ],
+    "errorMessage": "aliado"
+  },
+  {
+    "targetMapId": [
+      100,
+      43
+    ],
+    "errorMessage": "aliado"
+  },
+  {
+    "targetMapId": [
+      125,
+      56
+    ],
+    "errorMessage": "aliado"
+  },
+  {
+    "targetMapId": [
+      64,
+      62
+    ],
+    "errorMessage": "aliado"
+  },
+  {
+    "targetMapId": [
+      101,
+      44
+    ],
+    "errorMessage": "aliado"
+  },
+  {
+    "targetMapId": [
+      85,
+      25
+    ],
+    "errorMessage": "aliado"
+  },
+  {
+    "targetMapId": [
+      55,
+      62
+    ],
+    "errorMessage": "aliado"
+  },
+  {
+    "targetMapId": [
+      58,
+      20
+    ],
+    "errorMessage": "aliado"
+  },
+  {
+    "targetMapId": [
+      84,
+      82
+    ],
+    "errorMessage": "aliado"
+  },
+  {
+    "targetMapId": [
+      95,
+      46
+    ],
+    "errorMessage": "aliado"
+  },
+  {
+    "targetMapId": [
+      76,
+      91
+    ],
+    "errorMessage": "aliado"
+  },
+  {
+    "targetMapId": [
+      95,
+      85
+    ],
+    "errorMessage": "aliado"
+  },
+  {
+    "targetMapId": [
+      127,
+      47
+    ],
+    "errorMessage": "aliado"
+  },
+  {
+    "targetMapId": [
+      94,
+      87
+    ],
+    "errorMessage": "aliado"
+  },
+  {
+    "targetMapId": [
+      64,
+      67
+    ],
+    "errorMessage": "aliado"
+  },
+  {
+    "targetMapId": [
+      93,
+      92
+    ],
+    "errorMessage": "aliado"
+  },
+  {
+    "targetMapId": [
+      106,
+      27
+    ],
+    "errorMessage": "aliado"
+  },
+  {
+    "targetMapId": [
+      122,
+      54
+    ],
+    "errorMessage": "aliado"
+  },
+  {
+    "targetMapId": [
+      120,
+      55
+    ],
+    "errorMessage": "aliado"
+  },
+  {
+    "targetMapId": [
+      104,
+      18
+    ],
+    "errorMessage": "aliado"
+  },
+  {
+    "targetMapId": [
+      83,
+      62
+    ],
+    "errorMessage": "aliado"
+  },
+  {
+    "targetMapId": [
+      64,
+      54
+    ],
+    "errorMessage": "aliado"
+  },
+  {
+    "targetMapId": [
+      121,
+      9
+    ],
+    "errorMessage": "aliado"
+  },
+  {
+    "targetMapId": [
+      99,
+      5
+    ],
+    "errorMessage": "aliado"
+  },
+  {
+    "targetMapId": [
+      60,
+      31
+    ],
+    "errorMessage": "aliado"
+  },
+  {
+    "targetMapId": [
+      66,
+      29
+    ],
+    "errorMessage": "aliado"
+  },
+  {
+    "targetMapId": [
+      81,
+      62
+    ],
+    "errorMessage": "aliado"
+  },
+  {
+    "targetMapId": [
       81,
       12
     ],
@@ -45,6 +248,13 @@
     "targetMapId": [
       105,
       16
+    ],
+    "errorMessage": "aliado"
+  },
+  {
+    "targetMapId": [
+      87,
+      28
     ],
     "errorMessage": "aliado"
   },
@@ -1284,6 +1494,181 @@
     "targetMapId": [
       89,
       27
+    ],
+    "errorMessage": "No existe ninguna aldea en estas coordenadas."
+  },
+  {
+    "targetMapId": [
+      78,
+      54
+    ],
+    "errorMessage": "No existe ninguna aldea en estas coordenadas."
+  },
+  {
+    "targetMapId": [
+      92,
+      26
+    ],
+    "errorMessage": "No existe ninguna aldea en estas coordenadas."
+  },
+  {
+    "targetMapId": [
+      91,
+      26
+    ],
+    "errorMessage": "No existe ninguna aldea en estas coordenadas."
+  },
+  {
+    "targetMapId": [
+      95,
+      0
+    ],
+    "errorMessage": "No existe ninguna aldea en estas coordenadas."
+  },
+  {
+    "targetMapId": [
+      76,
+      6
+    ],
+    "errorMessage": "No existe ninguna aldea en estas coordenadas."
+  },
+  {
+    "targetMapId": [
+      70,
+      28
+    ],
+    "errorMessage": "No existe ninguna aldea en estas coordenadas."
+  },
+  {
+    "targetMapId": [
+      81,
+      90
+    ],
+    "errorMessage": "No existe ninguna aldea en estas coordenadas."
+  },
+  {
+    "targetMapId": [
+      102,
+      2
+    ],
+    "errorMessage": "No existe ninguna aldea en estas coordenadas."
+  },
+  {
+    "targetMapId": [
+      91,
+      2
+    ],
+    "errorMessage": "No existe ninguna aldea en estas coordenadas."
+  },
+  {
+    "targetMapId": [
+      96,
+      1
+    ],
+    "errorMessage": "No existe ninguna aldea en estas coordenadas."
+  },
+  {
+    "targetMapId": [
+      68,
+      54
+    ],
+    "errorMessage": "No existe ninguna aldea en estas coordenadas."
+  },
+  {
+    "targetMapId": [
+      66,
+      54
+    ],
+    "errorMessage": "No existe ninguna aldea en estas coordenadas."
+  },
+  {
+    "targetMapId": [
+      65,
+      54
+    ],
+    "errorMessage": "No existe ninguna aldea en estas coordenadas."
+  },
+  {
+    "targetMapId": [
+      102,
+      22
+    ],
+    "errorMessage": "No existe ninguna aldea en estas coordenadas."
+  },
+  {
+    "targetMapId": [
+      77,
+      19
+    ],
+    "errorMessage": "No existe ninguna aldea en estas coordenadas."
+  },
+  {
+    "targetMapId": [
+      114,
+      86
+    ],
+    "errorMessage": "No existe ninguna aldea en estas coordenadas."
+  },
+  {
+    "targetMapId": [
+      116,
+      10
+    ],
+    "errorMessage": "No existe ninguna aldea en estas coordenadas."
+  },
+  {
+    "targetMapId": [
+      94,
+      0
+    ],
+    "errorMessage": "No existe ninguna aldea en estas coordenadas."
+  },
+  {
+    "targetMapId": [
+      105,
+      27
+    ],
+    "errorMessage": "No existe ninguna aldea en estas coordenadas."
+  },
+  {
+    "targetMapId": [
+      85,
+      56
+    ],
+    "errorMessage": "No existe ninguna aldea en estas coordenadas."
+  },
+  {
+    "targetMapId": [
+      80,
+      3
+    ],
+    "errorMessage": "No existe ninguna aldea en estas coordenadas."
+  },
+  {
+    "targetMapId": [
+      68,
+      50
+    ],
+    "errorMessage": "No existe ninguna aldea en estas coordenadas."
+  },
+  {
+    "targetMapId": [
+      85,
+      23
+    ],
+    "errorMessage": "No puedes eviar tropas a otros jugadores mientras estén en modo vacaciones."
+  },
+  {
+    "targetMapId": [
+      108,
+      56
+    ],
+    "errorMessage": "No existe ninguna aldea en estas coordenadas."
+  },
+  {
+    "targetMapId": [
+      77,
+      28
     ],
     "errorMessage": "No existe ninguna aldea en estas coordenadas."
   }

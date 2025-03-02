@@ -3,7 +3,7 @@ import fs from "fs";
 import { createTroops } from "./tools/troops.js";
 import { manageCookies } from "./tools/cookies.js";
 import { switchToAldea } from "./tools/switchToAldea.js"; 
-import { processTroopConfig } from "./tools/processTroopConfig.js"; 
+import { processTroopConfig, sendOffensiveTroops } from "./tools/processTroopConfig.js"; 
 import { upgradeResourceField } from "./tools/upgradeResourceField.js"; 
 import { balanceResources } from './tools/balanceResources.js';
 import { sendResources } from './tools/sendResources.js';
@@ -67,6 +67,11 @@ async function automateTask(config) {
       if (task.name === "balanceResources") {
         console.log(`Balanceando recursos en la aldea ${aldea.name}`);
         await balanceResources(page);
+      }
+
+      if (task.name === "sendOffensiveTroops") {
+        console.log(`Enviando tropas ofensivas desde la aldea ${aldea.name}`);
+        await sendOffensiveTroops(page, aldea, baseUrl);
       }
       
       if (task.name === "createTroops") {

@@ -116,12 +116,12 @@ export async function upgradeResourceField(page, aldea, logData) {
     fs.writeFileSync(logFilePath, JSON.stringify({}, null, 2));
   }
 
-  // Verificar si ya hay un campo de recursos en progreso
-  const inProgress = Object.values(aldeaResourceLogData).some(time => new Date(time) > new Date());
-  if (inProgress) {
-    console.log("Hay una mejora en progreso. Esperando...");
-    return; // Si hay una mejora en progreso, terminamos la ejecución
-  }
+  // // Verificar si ya hay un campo de recursos en progreso
+  // const inProgress = Object.values(aldeaResourceLogData).some(time => new Date(time) > new Date());
+  // if (inProgress) {
+  //   console.log("Hay una mejora en progreso. Esperando...");
+  //   return; // Si hay una mejora en progreso, terminamos la ejecución
+  // }
 
   try {
     // Si se define la propiedad 'preference' en la aldea, solo mejoramos los campos indicados en esa lista
