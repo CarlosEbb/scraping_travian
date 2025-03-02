@@ -26,12 +26,12 @@ export async function celebrateFestival(page, aldea) {
       fs.writeFileSync(logFilePath, JSON.stringify({}, null, 2));
     }
   
-    // Verificar si ya hay una fiesta en progreso
-    const inProgress = Object.values(festivalLogData).some(time => new Date(time) > new Date());
-    if (inProgress) {
-      console.log("Ya hay una fiesta en progreso. Esperando...");
-      return { hasFestivalInProgress: true }; // Devolver estado de fiestas
-    }
+    // // Verificar si ya hay una fiesta en progreso
+    // const inProgress = Object.values(festivalLogData).some(time => new Date(time) > new Date());
+    // if (inProgress) {
+    //   console.log("Ya hay una fiesta en progreso. Esperando...");
+    //   return { hasFestivalInProgress: true }; // Devolver estado de fiestas
+    // }
   
     try {
       // Visitar la URL directa de la fiesta grande
