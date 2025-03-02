@@ -11,21 +11,34 @@ const __dirname = path.dirname(__filename);
  * @param {Page} page - Instancia de Puppeteer Page.
  * @param {Object} aldea - Configuración de la aldea.
  */
-export async function sendResources(page, aldea) {
-  const marketUrl = `${process.env.BASE_URL}/build.php?id=20&gid=17&t=5`;
-  const { targetVillage } = aldea.task.find(task => task.name === "sendResources");
+export async function sendResources(page, aldea, targetAldea = null) {
+  // Determinar la aldea de destino
+  const target = targetAldea?.ruta || aldea.task.find(task => task.name === "sendResources")?.targetVillage;
 
-  if (!targetVillage) {
+  // Normalizar la estructura de target
+  let ruta;
+  if (Array.isArray(target)) {
+    // Si target es un array [x, y], convertirlo a un objeto { x, y }
+    ruta = { x: target[0], y: target[1] };
+  } else if (target && target.x !== undefined && target.y !== undefined) {
+    // Si target es un objeto { x, y }, usarlo directamente
+    ruta = target;
+  } else {
+    // Si no se encuentra una aldea de destino válida
     console.log('No se encontraron coordenadas de la aldea destino en la configuración.');
     return;
   }
+
+  // Construir la URL del mercado con las coordenadas
+  const marketUrl = `${process.env.BASE_URL}/build.php?id=20&gid=17&t=5&x=${ruta.x}&y=${ruta.y}`;
+
 
   try {
     // Navegar a la página del mercado
     await page.goto(marketUrl, { waitUntil: 'networkidle2', timeout: 60000 });
 
     // Obtener la capacidad de los comerciantes
-    const merchantCapacity = await page.$eval('.merchantCarryInfo strong', el => parseInt(el.textContent, 10)) * 3;//aumentar la cantidad por 2 para tener mas disponibilidad de materias
+    const merchantCapacity = await page.$eval('.merchantCarryInfo strong', el => parseInt(el.textContent, 10)) * 1;//aumentar la cantidad por 2 para tener mas disponibilidad de materias
     const availableMerchants = await page.$eval('.available .value', el => {
       const cleanText = el.textContent.replace(/[^\d/]/g, ''); // Elimina caracteres no numéricos excepto '/'
       const [available, total] = cleanText.split('/').map(num => parseInt(num, 10));
@@ -36,11 +49,11 @@ export async function sendResources(page, aldea) {
     console.log(`Capacidad por comerciante: ${merchantCapacity}`);
 
     // Ingresar las coordenadas de la aldea destino
-    await page.type('.coordinateX input', targetVillage.x.toString());
-    await page.type('.coordinateY input', targetVillage.y.toString());
+    // await page.type('.coordinateX input', targetVillage.x.toString());
+    // await page.type('.coordinateY input', targetVillage.y.toString());
 
-    // Esperar a que se carguen los detalles de la aldea destino
-    await page.waitForSelector('.targetWrapper .player .value', { timeout: 5000 });
+    // // Esperar a que se carguen los detalles de la aldea destino
+    // await page.waitForSelector('.targetWrapper .player .value', { timeout: 5000 });
 
     // Obtener los recursos disponibles en la aldea actual
     let resources = await page.$$eval('.resourceSelector .inputRatio .denominator', elements => {

@@ -8,11 +8,13 @@ import { upgradeResourceField } from "./tools/upgradeResourceField.js";
 import { balanceResources } from './tools/balanceResources.js';
 import { sendResources } from './tools/sendResources.js';
 import { findInactiveVillages } from './tools/findInactiveVillages.js';
-import { celebrateFestival } from './tools/celebrateFestival.js'; // Importar la nueva función
+import { celebrateFestival } from './tools/celebrateFestival.js';
+import { detectAttacks } from './tools/detectAttacks.js';
 
 import { fileURLToPath } from "url";
 import path from "path";
 import dotenv from 'dotenv';
+
 
 // Obtener el directorio actual usando import.meta.url
 const __filename = fileURLToPath(import.meta.url);
@@ -30,7 +32,7 @@ async function reloadConfig() {
 const baseUrl = `${process.env.BASE_URL}/build.php?id=39&gid=16&tt=2&`;
 
 async function automateTask(config) {
-  const browser = await puppeteer.launch({ headless: true, slowMo: 50 });
+  const browser = await puppeteer.launch({ headless: false, slowMo: 50 });
   const page = await browser.newPage();
 
   const { loginUrl, username, password, aldeas, troopConfigs } = config;
@@ -64,6 +66,22 @@ async function automateTask(config) {
 
     // Ejecutar las tareas asignadas a la aldea
     for (const task of aldea.task) {
+
+      const attacks = await detectAttacks(page);
+      if (attacks.length > 0) {
+        
+        console.log(`Se detectaron ataques en la aldea ${aldea.name}. Ejecutando tareas adicionales...`);
+          // Obtener la aldea de destino desde la configuración
+          const targetAldea = aldeas.find(a => a.name === aldea.emergencyResourceReceiver);
+          if (targetAldea) {
+            console.log(`Enviando recursos desde la aldea ${aldea.name} a la aldea ${targetAldea.name} debido a un ataque.`);
+            await sendResources(page, aldea, targetAldea);
+          } else {
+            console.log(`No se encontró la aldea de destino para enviar recursos desde ${aldea.name}.`);
+          }
+        // Aquí puedes agregar más tareas si es necesario
+      }
+  
 
       if (task.name === "celebrateFestival") {
         console.log(`Realizando fiesta en la aldea ${aldea.name}`);
