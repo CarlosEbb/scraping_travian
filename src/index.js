@@ -8,6 +8,7 @@ import { upgradeResourceField } from "./tools/upgradeResourceField.js";
 import { balanceResources } from './tools/balanceResources.js';
 import { sendResources } from './tools/sendResources.js';
 import { findInactiveVillages } from './tools/findInactiveVillages.js';
+import { celebrateFestival } from './tools/celebrateFestival.js'; // Importar la nueva función
 
 import { fileURLToPath } from "url";
 import path from "path";
@@ -29,7 +30,7 @@ async function reloadConfig() {
 const baseUrl = `${process.env.BASE_URL}/build.php?id=39&gid=16&tt=2&`;
 
 async function automateTask(config) {
-  const browser = await puppeteer.launch({ headless: true, slowMo: 50 });
+  const browser = await puppeteer.launch({ headless: false, slowMo: 50 });
   const page = await browser.newPage();
 
   const { loginUrl, username, password, aldeas, troopConfigs } = config;
@@ -64,6 +65,24 @@ async function automateTask(config) {
     // Ejecutar las tareas asignadas a la aldea
     for (const task of aldea.task) {
 
+      if (task.name === "celebrateFestival") {
+        console.log(`Realizando fiesta en la aldea ${aldea.name}`);
+        const festivalStatus = await celebrateFestival(page, aldea);
+    
+        // Verificar si sendResources está presente y hay fiestas en cola
+        const hasSendResourcesTask = aldea.task.some(t => t.name === "sendResources");
+        if (hasSendResourcesTask && festivalStatus.hasFestivalInProgress) {
+          console.log(`Enviando recursos desde la aldea ${aldea.name}`);
+          await sendResources(page, aldea);
+        }
+      }
+    
+      // Ejecutar sendResources solo si no está dependiendo de celebrateFestival
+      if (task.name === "sendResources" && !aldea.task.some(t => t.name === "celebrateFestival")) {
+        console.log(`Enviando recursos desde la aldea ${aldea.name}`);
+        await sendResources(page, aldea);
+      }
+
       if (task.name === "balanceResources") {
         console.log(`Balanceando recursos en la aldea ${aldea.name}`);
         await balanceResources(page);
@@ -91,10 +110,7 @@ async function automateTask(config) {
         await upgradeResourceField(page, aldea, aldeaLogData); // Ejecutar la mejora de campos de recursos
       }
 
-      if (task.name === "sendResources") {
-        console.log(`Enviando recursos desde la aldea ${aldea.name}`);
-        await sendResources(page, aldea);
-      }
+      
     }
   }
 
