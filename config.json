@@ -4,7 +4,7 @@
   "password": "B0liv4r.12",
   "aldeas": [
     
-    { "name": "01", "newdid": "40521", "ruta": [98,49],
+    { "name": "01", "newdid": "40521", "ruta": [98,49], "emergencyResourceReceiver": "02",
       "task": [
         {
           "name": "celebrateFestival"
@@ -12,61 +12,88 @@
         {
           "name": "upgradeResourceField",
           "preference": ["1", "2", "3", "4", "5", "6", "7", "8", "9", "10", "11", "12", "13", "14", "15", "16", "17", "18", "19", "20", "21", "22", "23", "24", "25", "26", "27", "28", "29", "30", "31", "32", "33", "34", "35", "36", "37", "38", "39", "40"]
+        },
+        {
+          "name": "sendResources",
+          "targetVillage": {
+            "x": 98,
+            "y": 48
+          }
+        }
+      ] 
+    },
+    { "name": "03", "newdid": "29628", "ruta": [102,55], "emergencyResourceReceiver": "02",
+      "task": [
+        {
+          "name": "celebrateFestival"
+        },
+        {
+          "name": "upgradeResourceField",
+          "preference": ["38","23"]
+        },
+        {
+          "name": "sendResources",
+          "targetVillage": {
+            "x": 98,
+            "y": 48
+          }
+        }
+      ] 
+    },
+    { "name": "04", "newdid": "30882", "ruta": [109,54], "emergencyResourceReceiver": "02",
+      "task": [
+        {
+          "name": "celebrateFestival"
+        },
+        {
+          "name": "upgradeResourceField",
+          "preference": ["38","23"]
+        },
+        {
+          "name": "sendResources",
+          "targetVillage": {
+            "x": 98,
+            "y": 48
+          }
         }
         
       ] 
     },
-    { "name": "03", "newdid": "29628", "ruta": [102,55],
+    { "name": "05", "newdid": "32829", "ruta": [99,49], "emergencyResourceReceiver": "02",
       "task": [
         {
           "name": "celebrateFestival"
         },
         {
           "name": "upgradeResourceField",
-          "preference": ["1", "2", "3", "4", "5", "6", "7", "8", "9", "10", "11", "12", "13", "14", "15", "16", "17", "18", "19", "20", "21", "22", "23", "24", "25", "26", "27", "28", "29", "30", "31", "32", "33", "34", "35", "36", "37", "38", "39", "40"]
-        }
-      ] 
-    },
-    { "name": "04", "newdid": "30882", "ruta": [109,54],
-      "task": [
-        {
-          "name": "celebrateFestival"
+          "preference": ["38","23"]
         },
         {
-          "name": "upgradeResourceField",
-          "preference": ["1", "2", "3", "4", "5", "6", "7", "8", "9", "10", "11", "12", "13", "14", "15", "16", "17", "18", "19", "20", "21", "22", "23", "24", "25", "26", "27", "28", "29", "30", "31", "32", "33", "34", "35", "36", "37", "38", "39", "40"]
+          "name": "sendResources",
+          "targetVillage": {
+            "x": 98,
+            "y": 48
+          }
         }
         
       ] 
     },
-    { "name": "05", "newdid": "32829", "ruta": [99,49],
+    { "name": "06", "newdid": "34243", "ruta": [103,45], "emergencyResourceReceiver": "02",
       "task": [
         {
           "name": "celebrateFestival"
         },
         {
           "name": "upgradeResourceField",
-          "preference": ["1", "2", "3", "4", "5", "6", "7", "8", "9", "10", "11", "12", "13", "14", "15", "16", "17", "18", "19", "20", "21", "22", "23", "24", "25", "26", "27", "28", "29", "30", "31", "32", "33", "34", "35", "36", "37", "38", "39", "40"]
-        }
-        
-      ] 
-    },
-    { "name": "06", "newdid": "34243", "ruta": [103,45],
-      "task": [
-        {
-          "name": "celebrateFestival"
-        },
-        {
-          "name": "upgradeResourceField",
-          "preference": ["1", "2", "3", "4", "5", "6", "7", "8", "9", "10", "11", "12", "13", "14", "15", "16", "17", "18", "19", "20", "21", "22", "23", "24", "25", "26", "27", "28", "29", "30", "31", "32", "33", "34", "35", "36", "37", "38", "39", "40"]
+          "preference": ["38","23"]
         },
         {
           "name": "createTroops",
-          "troopType": ["t7"]
+          "troopType": ["t8"]
         }
       ] 
     },
-    { "name": "07", "newdid": "35443", "ruta": [96,45],
+    { "name": "07", "newdid": "35443", "ruta": [96,45], "emergencyResourceReceiver": "02",
       "task": [
         {
           "name": "celebrateFestival"
@@ -74,10 +101,17 @@
         {
           "name": "upgradeResourceField",
           "preference": ["1", "2", "3", "4", "5", "6", "7", "8", "9", "10", "11", "12", "13", "14", "15", "16", "17", "18", "19", "20", "21", "22", "23", "24", "25", "26", "28", "29", "30", "31", "32", "33", "34", "35", "36", "37", "38", "39", "40"]
+        },
+        {
+          "name": "sendResources",
+          "targetVillage": {
+            "x": 98,
+            "y": 48
+          }
         }
       ] 
     },
-    { "name": "08", "newdid": "36074", "ruta": [99,48],
+    { "name": "08", "newdid": "36074", "ruta": [99,48], "emergencyResourceReceiver": "02",
       "task": [
         {
           "name": "celebrateFestival"
@@ -85,10 +119,24 @@
         {
           "name": "upgradeResourceField",
           "preference": ["1", "2", "3", "4", "5", "6", "7", "8", "9", "10", "11", "12", "13", "14", "15", "16", "17", "18", "19", "20", "21", "22", "23", "24", "25", "26", "27", "28", "29", "30", "31", "32", "33", "34", "35", "36", "37", "38", "39", "40"]
+        },
+        {
+          "name": "sendResources",
+          "targetVillage": {
+            "x": 98,
+            "y": 48
+          }
+        },
+        {
+          "name": "sendResources",
+          "targetVillage": {
+            "x": 98,
+            "y": 48
+          }
         }
       ] 
     },
-    { "name": "09", "newdid": "37244", "ruta": [103,46],
+    { "name": "09", "newdid": "37244", "ruta": [103,46], "emergencyResourceReceiver": "02",
       "task": [
         {
           "name": "celebrateFestival"
@@ -96,10 +144,17 @@
         {
           "name": "upgradeResourceField",
           "preference": ["1", "2", "3", "4", "5", "6", "7", "8", "9", "10", "11", "12", "13", "14", "15", "16", "17", "18", "19", "20", "21", "22", "23", "24", "25", "26", "27", "28", "29", "30", "31", "32", "33", "34", "35", "36", "37", "38", "39", "40"]
+        },
+        {
+          "name": "sendResources",
+          "targetVillage": {
+            "x": 103,
+            "y": 45
+          }
         }
       ] 
     },
-    { "name": "10", "newdid": "37852", "ruta": [102,46],
+    { "name": "10", "newdid": "37852", "ruta": [102,46], "emergencyResourceReceiver": "02",
       "task": [
         {
           "name": "celebrateFestival"
@@ -107,10 +162,17 @@
         {
           "name": "upgradeResourceField",
           "preference": ["1", "2", "3", "4", "5", "6", "7", "8", "9", "10", "11", "12", "13", "14", "15", "16", "17", "18", "19", "20", "21", "22", "23", "24", "25", "26", "27", "28", "29", "30", "31", "32", "33", "34", "35", "36", "37", "38", "39", "40"]
+        },
+        {
+          "name": "sendResources",
+          "targetVillage": {
+            "x": 103,
+            "y": 45
+          }
         }
       ] 
     },
-    { "name": "11", "newdid": "38495", "ruta": [104,46],
+    { "name": "11", "newdid": "38495", "ruta": [104,46], "emergencyResourceReceiver": "02",
       "task": [
         {
           "name": "celebrateFestival"
@@ -118,11 +180,18 @@
         {
           "name": "upgradeResourceField",
           "preference": ["1", "2", "3", "4", "5", "6", "7", "8", "9", "10", "11", "12", "13", "14", "15", "16", "17", "18", "19", "20", "21", "22", "23", "24", "25", "26", "27", "28", "29", "30", "31", "32", "33", "34", "35", "36", "37", "38", "39", "40"]
+        },
+        {
+          "name": "sendResources",
+          "targetVillage": {
+            "x": 103,
+            "y": 45
+          }
         }
         
       ] 
     },
-    { "name": "12", "newdid": "38824", "ruta": [104,44],
+    { "name": "12", "newdid": "38824", "ruta": [104,44], "emergencyResourceReceiver": "02",
       "task": [
         {
           "name": "celebrateFestival"
@@ -130,18 +199,32 @@
         {
           "name": "upgradeResourceField",
           "preference": ["1", "2", "3", "4", "5", "6", "7", "8", "9", "10", "11", "12", "13", "14", "15", "16", "17", "18", "19", "20", "21", "22", "23", "24", "25", "26", "27", "28", "29", "30", "31", "32", "33", "34", "35", "36", "37", "38", "39", "40"]
+        },
+        {
+          "name": "sendResources",
+          "targetVillage": {
+            "x": 103,
+            "y": 45
+          }
         }
       ] 
     },
-    { "name": "13", "newdid": "39421", "ruta": [101,45],
+    { "name": "13", "newdid": "39421", "ruta": [101,45], "emergencyResourceReceiver": "02",
       "task": [
         {
           "name": "upgradeResourceField",
           "preference": ["1", "2", "3", "4", "5", "6", "7", "8", "9", "10", "11", "12", "13", "14", "15", "16", "17", "18", "19", "20", "21", "22", "23", "24", "25", "26", "27", "28", "29", "30", "31", "32", "33", "34", "35", "36", "37", "38", "39", "40"]
+        },
+        {
+          "name": "sendResources",
+          "targetVillage": {
+            "x": 103,
+            "y": 45
+          }
         }
       ] 
     },
-    { "name": "14", "newdid": "39899", "ruta": [101,47],
+    { "name": "14", "newdid": "39899", "ruta": [101,47], "emergencyResourceReceiver": "02",
       "task": [
         {
           "name": "celebrateFestival"
@@ -149,40 +232,70 @@
         {
           "name": "upgradeResourceField",
           "preference": ["1", "2", "3", "4", "5", "6", "7", "8", "9", "10", "11", "12", "13", "14", "15", "16", "17", "18", "19", "20", "21", "22", "23", "24", "25", "26", "27", "28", "29", "30", "31", "32", "33", "34", "35", "36", "37", "38", "39", "40"]
+        },
+        {
+          "name": "sendResources",
+          "targetVillage": {
+            "x": 103,
+            "y": 45
+          }
         }
         
       ] 
     },
-    { "name": "15", "newdid": "40835", "ruta": [97,48],
+    { "name": "15", "newdid": "40835", "ruta": [97,48], "emergencyResourceReceiver": "02",
       "task": [
+        {
+          "name": "upgradeResourceField",
+          "preference": ["1", "2", "3", "4", "5", "6", "7", "8", "9", "10", "11", "12", "13", "14", "15", "16", "17", "18", "19", "20", "21", "22", "23", "24", "25", "26", "27", "28", "29", "30", "31", "32", "33", "34", "35", "36", "37", "38", "39", "40"]
+        },
+        {
+          "name": "sendResources",
+          "targetVillage": {
+            "x": 103,
+            "y": 45
+          }
+        }
+      ] 
+    },
+    { "name": "16", "newdid": "41345", "ruta": [99,50], "emergencyResourceReceiver": "02",
+    "task": [
+        {
+          "name": "upgradeResourceField"
+        }
+      ] 
+    },
+    { "name": "17", "newdid": "41579", "ruta": [97,49], "emergencyResourceReceiver": "02",
+    "task": [
+        {
+          "name": "upgradeResourceField"
+        }
+      ] 
+    },
+    { "name": "18", "newdid": "41724", "ruta": [97,50], "emergencyResourceReceiver": "02",
+    "task": [
+        {
+          "name": "upgradeResourceField"
+        }
+      ] 
+    },
+    { "name": "19", "newdid": "28765", "ruta": [107,51], "emergencyResourceReceiver": "02",
+    "task": [
         {
           "name": "upgradeResourceField",
           "preference": ["1", "2", "3", "4", "5", "6", "7", "8", "9", "10", "11", "12", "13", "14", "15", "16", "17", "18", "19", "20", "21", "22", "23", "24", "25", "26", "27", "28", "29", "30", "31", "32", "33", "34", "35", "36", "37", "38", "39", "40"]
         }
       ] 
     },
-    { "name": "16", "newdid": "41345", "ruta": [99,50],
+    { "name": "20", "newdid": "38904", "ruta": [101,44], "emergencyResourceReceiver": "02",
     "task": [
         {
-          "name": "upgradeResourceField"
+          "name": "upgradeResourceField",
+          "preference": ["1", "2", "3", "4", "5", "6", "7", "8", "9", "10", "11", "12", "13", "14", "15", "16", "17", "18", "19", "20", "21", "22", "23", "24", "25", "26", "27", "28", "29", "30", "31", "32", "33", "34", "35", "36", "37", "38", "39", "40"]
         }
       ] 
     },
-    { "name": "17", "newdid": "41579", "ruta": [97,49],
-    "task": [
-        {
-          "name": "upgradeResourceField"
-        }
-      ] 
-    },
-    { "name": "18", "newdid": "41724", "ruta": [97,50],
-    "task": [
-        {
-          "name": "upgradeResourceField"
-        }
-      ] 
-    },
-    { "name": "02", "newdid": "27011", "ruta": [98,48],
+    { "name": "02", "newdid": "27011", "ruta": [98,48], "emergencyResourceReceiver": "06",
       "task": [ 
         {
           "name": "balanceResources"
@@ -194,7 +307,7 @@
         {
           "name": "createTroops",
           "troopType": ["t6"]
-        },
+        }, 
         {
           "name": "processTroopConfig"
         }

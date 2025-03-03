@@ -51,7 +51,7 @@ async function automateTask(config) {
   // Iterar sobre las aldeas disponibles
   for (const aldea of aldeas) {
     console.log(`Procesando aldea: ${aldea.name}`);
-
+  
     // Leer el archivo de log específico para cada aldea
     let aldeaLogData = {};
     const aldeaLogFilePath = path.join(__dirname, "temporal", `log_${aldea.name}.json`);
@@ -60,78 +60,80 @@ async function automateTask(config) {
     } else {
       fs.writeFileSync(aldeaLogFilePath, JSON.stringify({}, null, 2));
     }
-
+  
     // Cambiar a la aldea actual
     await switchToAldea(page, aldea.newdid);
-
+  
+    // Verificar si la tarea celebrateFestival está asignada
+    const hasCelebrateFestivalTask = aldea.task.some(task => task.name === "celebrateFestival");
+  
+    // Verificar si hay fiestas activas
+    let hasActiveFestivals = false;
+    if (hasCelebrateFestivalTask) {
+      const festivalStatus = await celebrateFestival(page, aldea);
+      hasActiveFestivals = festivalStatus.hasFestivalInProgress;
+    }
+  
+    // Determinar si se deben ejecutar tareas que consumen recursos
+    const shouldExecuteResourceConsumingTasks = !hasCelebrateFestivalTask || hasActiveFestivals;
+  
     // Ejecutar las tareas asignadas a la aldea
     for (const task of aldea.task) {
-
+      // Verificar si hay ataques
       const attacks = await detectAttacks(page);
       if (attacks.length > 0) {
-        
         console.log(`Se detectaron ataques en la aldea ${aldea.name}. Ejecutando tareas adicionales...`);
-          // Obtener la aldea de destino desde la configuración
-          const targetAldea = aldeas.find(a => a.name === aldea.emergencyResourceReceiver);
-          if (targetAldea) {
-            console.log(`Enviando recursos desde la aldea ${aldea.name} a la aldea ${targetAldea.name} debido a un ataque.`);
-            await sendResources(page, aldea, targetAldea);
-          } else {
-            console.log(`No se encontró la aldea de destino para enviar recursos desde ${aldea.name}.`);
-          }
-        // Aquí puedes agregar más tareas si es necesario
+        const targetAldea = aldeas.find(a => a.name === aldea.emergencyResourceReceiver);
+        if (targetAldea) {
+          console.log(`Enviando recursos desde la aldea ${aldea.name} a la aldea ${targetAldea.name} debido a un ataque.`);
+          await sendResources(page, aldea, targetAldea);
+        } else {
+          console.log(`No se encontró la aldea de destino para enviar recursos desde ${aldea.name}.`);
+        }
       }
   
-
-      if (task.name === "celebrateFestival") {
+      // Tareas que no consumen recursos (siempre se ejecutan)
+      if (task.name === "balanceResources" || task.name === "sendOffensiveTroops" || task.name === "processTroopConfig") {
+        console.log(`Ejecutando tarea que no consume recursos: ${task.name}`);
+        if (task.name === "balanceResources") {
+          console.log(`Balanceando recursos en la aldea ${aldea.name}`);
+          await balanceResources(page);
+        } else if (task.name === "sendOffensiveTroops") {
+          console.log(`Enviando tropas ofensivas desde la aldea ${aldea.name}`);
+          await sendOffensiveTroops(page, aldea, baseUrl);
+        } else if (task.name === "processTroopConfig") {
+          console.log(`Procesando misión para enviar tropas desde la aldea ${aldea.name}`);
+          await processTroopConfig(page, aldea, baseUrl);
+        }
+      }
+  
+      // Tarea celebrateFestival (siempre se ejecuta)
+      else if (task.name === "celebrateFestival") {
         console.log(`Realizando fiesta en la aldea ${aldea.name}`);
-        const festivalStatus = await celebrateFestival(page, aldea);
-    
-        // Verificar si sendResources está presente y hay fiestas en cola
-        const hasSendResourcesTask = aldea.task.some(t => t.name === "sendResources");
-        if (hasSendResourcesTask && festivalStatus.hasFestivalInProgress) {
+        await celebrateFestival(page, aldea);
+      }
+  
+      // Tareas que consumen recursos (solo se ejecutan si hay fiestas activas o no está asignada celebrateFestival)
+      else if (shouldExecuteResourceConsumingTasks) {
+        console.log(`Ejecutando tarea que consume recursos: ${task.name}`);
+        if (task.name === "sendResources") {
           console.log(`Enviando recursos desde la aldea ${aldea.name}`);
           await sendResources(page, aldea);
+        } else if (task.name === "createTroops") {
+          for (const type of task.troopType) {
+            console.log(`Creando tropas de tipo ${type} para la aldea ${aldea.name}`);
+            await createTroops(page, type);
+          }
+        } else if (task.name === "upgradeResourceField") {
+          console.log(`Mejorando campos de recursos para la aldea ${aldea.name}`);
+          await upgradeResourceField(page, aldea, aldeaLogData);
         }
+      } else {
+        console.log(`No se ejecuta la tarea ${task.name} porque no hay fiestas activas y está asignada celebrateFestival.`);
       }
-    
-      // Ejecutar sendResources solo si no está dependiendo de celebrateFestival
-      if (task.name === "sendResources" && !aldea.task.some(t => t.name === "celebrateFestival")) {
-        console.log(`Enviando recursos desde la aldea ${aldea.name}`);
-        await sendResources(page, aldea);
-      }
-
-      if (task.name === "balanceResources") {
-        console.log(`Balanceando recursos en la aldea ${aldea.name}`);
-        await balanceResources(page);
-      }
-
-      if (task.name === "sendOffensiveTroops") {
-        console.log(`Enviando tropas ofensivas desde la aldea ${aldea.name}`);
-        await sendOffensiveTroops(page, aldea, baseUrl);
-      }
-      
-      if (task.name === "createTroops") {
-        for (const type of task.troopType) {
-          console.log(`Creando tropas de tipo ${type} para la aldea ${aldea.name}`);
-          await createTroops(page, type); // Crear tropas según el tipo especificado
-        }
-      }
-
-      if (task.name === "processTroopConfig") {
-        console.log(`Procesando misión para enviar tropas desde la aldea ${aldea.name}`);
-        await processTroopConfig(page, aldea, baseUrl);
-      }
-
-      if (task.name === "upgradeResourceField") {
-        console.log(`Mejorando campos de recursos para la aldea ${aldea.name}`);
-        await upgradeResourceField(page, aldea, aldeaLogData); // Ejecutar la mejora de campos de recursos
-      }
-
-      
     }
   }
-
+  
   console.log("Todas las tareas completadas.");
   await browser.close();
 }

@@ -15,6 +15,20 @@
   },
   {
     "targetMapId": [
+      111,
+      51
+    ],
+    "errorMessage": "aliado"
+  },
+  {
+    "targetMapId": [
+      113,
+      41
+    ],
+    "errorMessage": "aliado"
+  },
+  {
+    "targetMapId": [
       118,
       26
     ],
@@ -24,6 +38,13 @@
     "targetMapId": [
       101,
       43
+    ],
+    "errorMessage": "aliado"
+  },
+  {
+    "targetMapId": [
+      107,
+      51
     ],
     "errorMessage": "aliado"
   },
@@ -1669,6 +1690,48 @@
     "targetMapId": [
       77,
       28
+    ],
+    "errorMessage": "No existe ninguna aldea en estas coordenadas."
+  },
+  {
+    "targetMapId": [
+      120,
+      30
+    ],
+    "errorMessage": "No existe ninguna aldea en estas coordenadas."
+  },
+  {
+    "targetMapId": [
+      58,
+      65
+    ],
+    "errorMessage": "No existe ninguna aldea en estas coordenadas."
+  },
+  {
+    "targetMapId": [
+      90,
+      45
+    ],
+    "errorMessage": "No existe ninguna aldea en estas coordenadas."
+  },
+  {
+    "targetMapId": [
+      106,
+      44
+    ],
+    "errorMessage": "No existe ninguna aldea en estas coordenadas."
+  },
+  {
+    "targetMapId": [
+      89,
+      45
+    ],
+    "errorMessage": "No existe ninguna aldea en estas coordenadas."
+  },
+  {
+    "targetMapId": [
+      107,
+      59
     ],
     "errorMessage": "No existe ninguna aldea en estas coordenadas."
   }
