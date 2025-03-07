@@ -19,7 +19,7 @@ if (!fs.existsSync(temporalDir)) {
 }
 
 // Función para obtener la primera tropa disponible que cumpla con la cantidad requerida
-async function getAllAvailableTroops(page, requiredAmount) {
+export async function getAllAvailableTroops(page, requiredAmount) {
   const troopTypes = ['t1', 't2', 't3', 't5', 't6']; // Tipos de tropa
 
   // Extraer todos los datos de las tropas en una sola corrida

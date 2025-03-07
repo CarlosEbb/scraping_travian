@@ -10,6 +10,7 @@ import { sendResources } from './tools/sendResources.js';
 import { findInactiveVillages } from './tools/findInactiveVillages.js';
 import { celebrateFestival } from './tools/celebrateFestival.js';
 import { detectAttacks } from './tools/detectAttacks.js';
+import { attackOasis } from './tools/attackOasis.js';
 
 import { fileURLToPath } from "url";
 import path from "path";
@@ -90,6 +91,11 @@ async function automateTask(config) {
         } else {
           console.log(`No se encontró la aldea de destino para enviar recursos desde ${aldea.name}.`);
         }
+      }
+
+      if (task.name === "attackOasis") {
+          console.log(`Atacando oasis desde la aldea ${aldea.name}`);
+          await attackOasis(page, aldea, baseUrl);
       }
   
       // Tareas que no consumen recursos (siempre se ejecutan)
