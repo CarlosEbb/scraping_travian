@@ -30,7 +30,7 @@
         },
         {
           "name": "createTroops",
-          "troopType": "t1"
+          "troopType": ["t1"]
         },
         {
           "name": "processTroopConfig"
