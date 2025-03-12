@@ -11,6 +11,7 @@ import { findInactiveVillages } from './tools/findInactiveVillages.js';
 import { celebrateFestival } from './tools/celebrateFestival.js';
 import { detectAttacks } from './tools/detectAttacks.js';
 import { attackOasis } from './tools/attackOasis.js';
+import { findFreeOasis } from './tools/findFreeOasis.js';
 
 import { fileURLToPath } from "url";
 import path from "path";
@@ -48,6 +49,12 @@ async function automateTask(config) {
   }
 
   await manageCookies(page, process.env.BASE_URL+loginUrl, username, password);
+
+  // const startX = 35; // Coordenada X inicial
+  // const startY = 1;  // Coordenada Y inicial
+  // const radius = 50; // Radio de búsqueda
+
+  // await findFreeOasis(page, startX, startY, radius);
 
   // Iterar sobre las aldeas disponibles
   for (const aldea of aldeas) {
