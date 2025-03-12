@@ -158,11 +158,11 @@ async function executeTasksRecursively(config) {
   try {
 
     // Ejecutar la tarea de buscar aldeas inactivas una vez al día
-    await findInactiveVillages();
     
     const config = await reloadConfig();
+    await findInactiveVillages(config.aldeas);
     await automateTask(config);
-
+    
     retryCount = 0; // Resetear el contador de reintentos si la tarea se ejecuta correctamente
     await executeTasksRecursively(config);
   } catch (error) {

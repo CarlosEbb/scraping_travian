@@ -60,8 +60,8 @@ export async function getAllAvailableTroops(page, requiredAmount) {
 }
 
 // Función para leer el archivo JSON de aldeas inactivas
-function readInactiveVillagesFile() {
-  const inactiveVillagesFilePath = path.join(temporalDir, 'inactive_villages.json');
+function readInactiveVillagesFile(aldea) {
+  const inactiveVillagesFilePath = path.join(temporalDir, `inactive_villages_${aldea.name}.json`);
   if (fs.existsSync(inactiveVillagesFilePath)) {
     return JSON.parse(fs.readFileSync(inactiveVillagesFilePath, 'utf8'));
   }
@@ -139,8 +139,7 @@ export async function processTroopConfig(page, aldea, baseUrl) {
   }
 
   // Leer el archivo JSON de aldeas inactivas
-  const inactiveVillages = readInactiveVillagesFile();
-
+  const inactiveVillages = readInactiveVillagesFile(aldea);
   // Iterar sobre las aldeas inactivas
   for (const village of inactiveVillages) {
     const { targetMapId, population, player } = village;
@@ -153,7 +152,7 @@ export async function processTroopConfig(page, aldea, baseUrl) {
 
     // Verificar si la aldea actual es la que debe atacar
     
-    if (village.aldeas.includes(aldea.name)) {
+    //if (village.aldeas.includes(aldea.name)) {
       const url = `${baseUrl}x=${targetMapId[0]}&y=${targetMapId[1]}`;
       try {
         
@@ -273,7 +272,7 @@ export async function processTroopConfig(page, aldea, baseUrl) {
         logErrorToFile(errorMessage);
         continue;
       }
-    }
+    //}
   }
 }
 
