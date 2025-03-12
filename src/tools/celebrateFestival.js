@@ -35,7 +35,7 @@ export async function celebrateFestival(page, aldea) {
   
     try {
       // Visitar la URL directa de la fiesta grande
-      const festivalUrl = `${process.env.BASE_URL}/build.php?gid=24&action=celebration&do=2&t=1`;
+      const festivalUrl = `${process.env.BASE_URL}/build.php?gid=24&action=celebration&do=1&t=1`;
       console.log(`Iniciando fiesta grande en la aldea ${aldea.name}...`);
       await page.goto(festivalUrl, { waitUntil: 'networkidle2', timeout: 60000 });
   

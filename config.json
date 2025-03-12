@@ -4,17 +4,32 @@
   "password": "B0liv4r#12",
   "aldeas": [
     
-    { "name": "01", "newdid": "17685", "ruta": [31,1], "emergencyResourceReceiver": "01",
+    { "name": "01", "newdid": "17685", "ruta": [31,1], "emergencyResourceReceiver": "02",
       "task": [
+        {
+          "name": "celebrateFestival"
+        },
+        {
+          "name": "upgradeResourceField",
+          "preference": ["40", "29", "19", "24"]
+        },
         {
           "name": "balanceResources"
         },
         {
-          "name": "attackOasis"
+          "name": "createTroops",
+          "troopType": ["t1"]
         },
         {
+          "name": "processTroopConfig"
+        }
+      ] 
+    },
+    { "name": "02", "newdid": "25348", "ruta": [29,73], "emergencyResourceReceiver": "01",
+      "task": [
+        {
           "name": "upgradeResourceField",
-          "preference": ["38"]
+          "preference": ["1", "2", "3", "4", "5", "6", "7", "8", "9", "10", "11", "12", "13", "14", "15", "16", "17", "18"]
         }
       ] 
     }

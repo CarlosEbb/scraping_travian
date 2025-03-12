@@ -191,7 +191,7 @@ export async function attackOasis(page, aldea, baseUrl) {
         }
 
         // Enviar tropas (usando la lógica de sendOffensiveTroops)
-        const requiredAmount = 2; // Cantidad fija de tropas
+        const requiredAmount = 20; // Cantidad fija de tropas
         const troopData = await getAllAvailableTroops(page, requiredAmount);
 
         if (!troopData) {

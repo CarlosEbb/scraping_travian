@@ -1,0 +1,6 @@
+[
+  {
+    "timestamp": "2025-03-11T21:45:30.862Z",
+    "message": "Error procesando el enlace https://ts30.x3.america.travian.com/build.php?id=39&gid=16&tt=2&x=52&y=24: Waiting for selector `#in` failed: Waiting failed: 10000ms exceeded"
+  }
+]

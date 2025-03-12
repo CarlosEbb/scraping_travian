@@ -152,6 +152,7 @@ export async function processTroopConfig(page, aldea, baseUrl) {
     }
 
     // Verificar si la aldea actual es la que debe atacar
+    
     if (village.aldeas.includes(aldea.name)) {
       const url = `${baseUrl}x=${targetMapId[0]}&y=${targetMapId[1]}`;
       try {

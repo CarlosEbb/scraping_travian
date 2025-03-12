@@ -14,7 +14,7 @@ const logFilePath = path.join(__dirname, '..', 'temporal', 'inactive_villages_lo
 const inactiveVillagesFilePath = path.join(__dirname, '..', 'temporal', 'inactive_villages.json');
 
 // Número de páginas a procesar
-const numberOfPages = 7; // Cambia este valor según sea necesario
+const numberOfPages = 6; // Cambia este valor según sea necesario
 
 // Función para verificar si la tarea ya se ejecutó hoy
 function hasTaskRunToday(logData) {
@@ -51,7 +51,7 @@ export async function findInactiveVillages() {
 
     // Iterar sobre el número de páginas
     for (let pageNumber = 1; pageNumber <= numberOfPages; pageNumber++) {
-      const searchUrl = `https://www.travcotools.com/en/inactive-search/?travian_server=1042&x=98&y=48&days=2&village_pop_max=500&exclude_alliances=1224902&exclude_alliances=1224899&exclude_alliances=1224926&max_pop_increase=0&order_by=distance&page=${pageNumber}`;
+      const searchUrl = `https://www.travcotools.com/en/inactive-search/?travian_server=1050&x=35&y=1&days=3&distance_min=&distance_max=&player_pop_min=&player_pop_max=&village_pop_min=&village_pop_max=&exclude_alliances=1227799&exclude_alliances=1227792&exclude_alliances=1227797&max_pop_increase=0&village_is_capital=&order_by=distance&page=${pageNumber}`;
       console.log(`Procesando página ${pageNumber}...`);
       await page.goto(searchUrl, { waitUntil: 'networkidle2', timeout: 60000 });
 
@@ -66,7 +66,7 @@ export async function findInactiveVillages() {
           const [x, y] = coordinates.replace(/[\[\]]/g, '').split('|').map(Number);
 
           return {
-            aldeas: ["02"], // Aldeas desde donde se realizarán los ataques (estático por ahora)
+            aldeas: ["01"], // Aldeas desde donde se realizarán los ataques (estático por ahora)
             targetMapId: [x, y],
             population: parseInt(population, 10),
             player: playerName,

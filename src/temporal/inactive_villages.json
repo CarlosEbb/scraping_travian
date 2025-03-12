@@ -1,3852 +1,3302 @@
 [
   {
     "aldeas": [
-      "02"
+      "01"
     ],
     "targetMapId": [
-      97,
-      47
-    ],
-    "population": 199,
-    "player": "NIS"
-  },
-  {
-    "aldeas": [
-      "02"
-    ],
-    "targetMapId": [
-      98,
-      50
-    ],
-    "population": 92,
-    "player": "gilbab"
-  },
-  {
-    "aldeas": [
-      "02"
-    ],
-    "targetMapId": [
-      99,
-      46
-    ],
-    "population": 66,
-    "player": "Hellios73"
-  },
-  {
-    "aldeas": [
-      "02"
-    ],
-    "targetMapId": [
-      102,
-      45
-    ],
-    "population": 13,
-    "player": "HoliMousa"
-  },
-  {
-    "aldeas": [
-      "02"
-    ],
-    "targetMapId": [
-      94,
-      43
-    ],
-    "population": 10,
-    "player": "gagi"
-  },
-  {
-    "aldeas": [
-      "02"
-    ],
-    "targetMapId": [
-      103,
-      44
-    ],
-    "population": 169,
-    "player": "arascor"
-  },
-  {
-    "aldeas": [
-      "02"
-    ],
-    "targetMapId": [
-      95,
-      42
-    ],
-    "population": 10,
-    "player": "sakisnio"
-  },
-  {
-    "aldeas": [
-      "02"
-    ],
-    "targetMapId": [
-      92,
-      45
-    ],
-    "population": 148,
-    "player": "Leonn"
-  },
-  {
-    "aldeas": [
-      "02"
-    ],
-    "targetMapId": [
-      97,
-      41
-    ],
-    "population": 38,
-    "player": "tinerci19"
-  },
-  {
-    "aldeas": [
-      "02"
-    ],
-    "targetMapId": [
-      94,
-      54
-    ],
-    "population": 162,
-    "player": "MrG"
-  },
-  {
-    "aldeas": [
-      "02"
-    ],
-    "targetMapId": [
-      105,
-      52
-    ],
-    "population": 480,
-    "player": "wincenzo"
-  },
-  {
-    "aldeas": [
-      "02"
-    ],
-    "targetMapId": [
-      90,
-      50
-    ],
-    "population": 591,
-    "player": "parabola"
-  },
-  {
-    "aldeas": [
-      "02"
-    ],
-    "targetMapId": [
-      95,
-      40
-    ],
-    "population": 86,
-    "player": "Ryzen"
-  },
-  {
-    "aldeas": [
-      "02"
-    ],
-    "targetMapId": [
-      105,
-      43
-    ],
-    "population": 40,
-    "player": "JC.22"
-  },
-  {
-    "aldeas": [
-      "02"
-    ],
-    "targetMapId": [
-      93,
-      55
+      38,
+      2
     ],
     "population": 8,
-    "player": "wira14"
+    "player": "ZORBA"
   },
   {
     "aldeas": [
-      "02"
+      "01"
     ],
     "targetMapId": [
-      91,
-      43
-    ],
-    "population": 1404,
-    "player": "ptilou"
-  },
-  {
-    "aldeas": [
-      "02"
-    ],
-    "targetMapId": [
-      97,
-      57
-    ],
-    "population": 12,
-    "player": "Spartans"
-  },
-  {
-    "aldeas": [
-      "02"
-    ],
-    "targetMapId": [
-      90,
-      43
-    ],
-    "population": 20,
-    "player": "mojo"
-  },
-  {
-    "aldeas": [
-      "02"
-    ],
-    "targetMapId": [
-      106,
-      43
-    ],
-    "population": 597,
-    "player": "hadan"
-  },
-  {
-    "aldeas": [
-      "02"
-    ],
-    "targetMapId": [
-      89,
-      52
-    ],
-    "population": 56,
-    "player": "Gorkem"
-  },
-  {
-    "aldeas": [
-      "02"
-    ],
-    "targetMapId": [
-      91,
-      41
-    ],
-    "population": 146,
-    "player": "INSOMONIA"
-  },
-  {
-    "aldeas": [
-      "02"
-    ],
-    "targetMapId": [
-      106,
-      42
-    ],
-    "population": 597,
-    "player": "hadan"
-  },
-  {
-    "aldeas": [
-      "02"
-    ],
-    "targetMapId": [
-      88,
-      50
-    ],
-    "population": 591,
-    "player": "parabola"
-  },
-  {
-    "aldeas": [
-      "02"
-    ],
-    "targetMapId": [
-      108,
-      52
-    ],
-    "population": 344,
-    "player": "Evertonian"
-  },
-  {
-    "aldeas": [
-      "02"
-    ],
-    "targetMapId": [
-      109,
-      47
-    ],
-    "population": 196,
-    "player": "fe4rlessly"
-  },
-  {
-    "aldeas": [
-      "02"
-    ],
-    "targetMapId": [
-      99,
-      37
-    ],
-    "population": 751,
-    "player": "serblood"
-  },
-  {
-    "aldeas": [
-      "02"
-    ],
-    "targetMapId": [
-      109,
-      51
-    ],
-    "population": 454,
-    "player": "Renz"
-  },
-  {
-    "aldeas": [
-      "02"
-    ],
-    "targetMapId": [
-      91,
-      39
-    ],
-    "population": 40,
-    "player": "MoOoT"
-  },
-  {
-    "aldeas": [
-      "02"
-    ],
-    "targetMapId": [
-      87,
-      44
-    ],
-    "population": 10,
-    "player": "kae"
-  },
-  {
-    "aldeas": [
-      "02"
-    ],
-    "targetMapId": [
-      87,
-      53
-    ],
-    "population": 151,
-    "player": "Drvosjeca"
-  },
-  {
-    "aldeas": [
-      "02"
-    ],
-    "targetMapId": [
-      103,
-      37
-    ],
-    "population": 14,
-    "player": "diable54"
-  },
-  {
-    "aldeas": [
-      "02"
-    ],
-    "targetMapId": [
-      110,
-      50
-    ],
-    "population": 12,
-    "player": "Charmosa"
-  },
-  {
-    "aldeas": [
-      "02"
-    ],
-    "targetMapId": [
-      91,
-      58
-    ],
-    "population": 238,
-    "player": "Maprang"
-  },
-  {
-    "aldeas": [
-      "02"
-    ],
-    "targetMapId": [
-      95,
-      36
-    ],
-    "population": 52,
-    "player": "HollaDieWal…"
-  },
-  {
-    "aldeas": [
-      "02"
-    ],
-    "targetMapId": [
-      106,
-      58
-    ],
-    "population": 11,
-    "player": "Mutle"
-  },
-  {
-    "aldeas": [
-      "02"
-    ],
-    "targetMapId": [
-      93,
-      60
-    ],
-    "population": 696,
-    "player": "MeyTalina"
-  },
-  {
-    "aldeas": [
-      "02"
-    ],
-    "targetMapId": [
-      86,
-      43
-    ],
-    "population": 1404,
-    "player": "ptilou"
-  },
-  {
-    "aldeas": [
-      "02"
-    ],
-    "targetMapId": [
-      110,
-      42
-    ],
-    "population": 40,
-    "player": "oho"
-  },
-  {
-    "aldeas": [
-      "02"
-    ],
-    "targetMapId": [
-      109,
-      40
-    ],
-    "population": 6,
-    "player": "DMzKnight"
-  },
-  {
-    "aldeas": [
-      "02"
-    ],
-    "targetMapId": [
-      111,
-      44
-    ],
-    "population": 264,
-    "player": "Chopo"
-  },
-  {
-    "aldeas": [
-      "02"
-    ],
-    "targetMapId": [
-      87,
-      56
-    ],
-    "population": 281,
-    "player": "No_LoVe"
-  },
-  {
-    "aldeas": [
-      "02"
-    ],
-    "targetMapId": [
-      105,
-      36
-    ],
-    "population": 51,
-    "player": "Wakayu"
-  },
-  {
-    "aldeas": [
-      "02"
-    ],
-    "targetMapId": [
-      99,
-      62
-    ],
-    "population": 49,
-    "player": "ישי"
-  },
-  {
-    "aldeas": [
-      "02"
-    ],
-    "targetMapId": [
-      84,
-      50
-    ],
-    "population": 591,
-    "player": "parabola"
-  },
-  {
-    "aldeas": [
-      "02"
-    ],
-    "targetMapId": [
-      108,
-      58
-    ],
-    "population": 120,
-    "player": "Proffesor"
-  },
-  {
-    "aldeas": [
-      "02"
-    ],
-    "targetMapId": [
-      109,
-      57
-    ],
-    "population": 35,
-    "player": "igor95"
-  },
-  {
-    "aldeas": [
-      "02"
-    ],
-    "targetMapId": [
-      112,
-      45
-    ],
-    "population": 16,
-    "player": "DickVigaris…"
-  },
-  {
-    "aldeas": [
-      "02"
-    ],
-    "targetMapId": [
-      86,
-      40
-    ],
-    "population": 408,
-    "player": "kobi"
-  },
-  {
-    "aldeas": [
-      "02"
-    ],
-    "targetMapId": [
-      84,
-      44
-    ],
-    "population": 117,
-    "player": "Jacquoille"
-  },
-  {
-    "aldeas": [
-      "02"
-    ],
-    "targetMapId": [
-      93,
-      62
-    ],
-    "population": 10,
-    "player": "darkhair"
-  },
-  {
-    "aldeas": [
-      "02"
-    ],
-    "targetMapId": [
-      93,
-      62
-    ],
-    "population": 10,
-    "player": "darkhair"
-  },
-  {
-    "aldeas": [
-      "02"
-    ],
-    "targetMapId": [
-      88,
-      37
-    ],
-    "population": 26,
-    "player": "nozliw"
-  },
-  {
-    "aldeas": [
-      "02"
-    ],
-    "targetMapId": [
-      83,
-      49
-    ],
-    "population": 696,
-    "player": "MeyTalina"
-  },
-  {
-    "aldeas": [
-      "02"
-    ],
-    "targetMapId": [
-      106,
-      62
-    ],
-    "population": 13,
-    "player": "Ephesus"
-  },
-  {
-    "aldeas": [
-      "02"
-    ],
-    "targetMapId": [
-      101,
-      64
-    ],
-    "population": 160,
-    "player": "KayakaBG"
-  },
-  {
-    "aldeas": [
-      "02"
-    ],
-    "targetMapId": [
-      85,
-      58
-    ],
-    "population": 61,
-    "player": "Dva"
-  },
-  {
-    "aldeas": [
-      "02"
-    ],
-    "targetMapId": [
-      102,
-      32
-    ],
-    "population": 43,
-    "player": "ELA"
-  },
-  {
-    "aldeas": [
-      "02"
-    ],
-    "targetMapId": [
-      91,
-      63
-    ],
-    "population": 232,
-    "player": "Buhoy"
-  },
-  {
-    "aldeas": [
-      "02"
-    ],
-    "targetMapId": [
-      84,
-      39
-    ],
-    "population": 13,
-    "player": "7okshaia576"
-  },
-  {
-    "aldeas": [
-      "02"
-    ],
-    "targetMapId": [
-      103,
-      64
-    ],
-    "population": 82,
-    "player": "opiunte61"
-  },
-  {
-    "aldeas": [
-      "02"
-    ],
-    "targetMapId": [
-      98,
-      31
-    ],
-    "population": 323,
-    "player": "KARAYILAN"
-  },
-  {
-    "aldeas": [
-      "02"
-    ],
-    "targetMapId": [
-      90,
-      33
-    ],
-    "population": 245,
-    "player": "rubbish"
-  },
-  {
-    "aldeas": [
-      "02"
-    ],
-    "targetMapId": [
-      104,
-      32
-    ],
-    "population": 121,
-    "player": "Lenzoz"
-  },
-  {
-    "aldeas": [
-      "02"
-    ],
-    "targetMapId": [
-      108,
-      34
-    ],
-    "population": 10,
-    "player": "DigitalHamm…"
-  },
-  {
-    "aldeas": [
-      "02"
-    ],
-    "targetMapId": [
-      89,
-      63
-    ],
-    "population": 14,
-    "player": "NPLY"
-  },
-  {
-    "aldeas": [
-      "02"
-    ],
-    "targetMapId": [
-      86,
-      61
-    ],
-    "population": 270,
-    "player": "Mariux"
-  },
-  {
-    "aldeas": [
-      "02"
-    ],
-    "targetMapId": [
-      83,
-      58
-    ],
-    "population": 113,
-    "player": "Mstf"
-  },
-  {
-    "aldeas": [
-      "02"
-    ],
-    "targetMapId": [
-      89,
-      32
-    ],
-    "population": 395,
-    "player": "Larilicia"
-  },
-  {
-    "aldeas": [
-      "02"
-    ],
-    "targetMapId": [
-      115,
-      41
-    ],
-    "population": 16,
-    "player": "miakhalifa"
-  },
-  {
-    "aldeas": [
-      "02"
-    ],
-    "targetMapId": [
-      105,
-      65
-    ],
-    "population": 8,
-    "player": "duck"
-  },
-  {
-    "aldeas": [
-      "02"
-    ],
-    "targetMapId": [
-      87,
-      63
-    ],
-    "population": 5,
-    "player": "brook"
-  },
-  {
-    "aldeas": [
-      "02"
-    ],
-    "targetMapId": [
-      98,
-      29
-    ],
-    "population": 91,
-    "player": "reMcH7i"
-  },
-  {
-    "aldeas": [
-      "02"
-    ],
-    "targetMapId": [
-      79,
-      51
-    ],
-    "population": 30,
-    "player": "VIP"
-  },
-  {
-    "aldeas": [
-      "02"
-    ],
-    "targetMapId": [
-      101,
-      29
-    ],
-    "population": 70,
-    "player": "Harribel25"
-  },
-  {
-    "aldeas": [
-      "02"
-    ],
-    "targetMapId": [
-      80,
-      41
-    ],
-    "population": 302,
-    "player": "extinct"
-  },
-  {
-    "aldeas": [
-      "02"
-    ],
-    "targetMapId": [
-      82,
-      37
-    ],
-    "population": 313,
-    "player": "insomniac"
-  },
-  {
-    "aldeas": [
-      "02"
-    ],
-    "targetMapId": [
-      97,
-      28
-    ],
-    "population": 94,
-    "player": "ABO-ALEZZ"
-  },
-  {
-    "aldeas": [
-      "02"
-    ],
-    "targetMapId": [
-      89,
-      66
-    ],
-    "population": 503,
-    "player": "sicarg99"
-  },
-  {
-    "aldeas": [
-      "02"
-    ],
-    "targetMapId": [
-      79,
-      55
-    ],
-    "population": 154,
-    "player": "Toka"
-  },
-  {
-    "aldeas": [
-      "02"
-    ],
-    "targetMapId": [
-      81,
-      59
-    ],
-    "population": 11,
-    "player": "chia9997"
-  },
-  {
-    "aldeas": [
-      "02"
-    ],
-    "targetMapId": [
-      109,
-      31
-    ],
-    "population": 14,
-    "player": "kufy"
-  },
-  {
-    "aldeas": [
-      "02"
-    ],
-    "targetMapId": [
-      88,
-      66
-    ],
-    "population": 503,
-    "player": "sicarg99"
-  },
-  {
-    "aldeas": [
-      "02"
-    ],
-    "targetMapId": [
-      106,
-      29
-    ],
-    "population": 1222,
-    "player": "OBELIX"
-  },
-  {
-    "aldeas": [
-      "02"
-    ],
-    "targetMapId": [
-      82,
-      61
-    ],
-    "population": 3099,
-    "player": "Gavu"
-  },
-  {
-    "aldeas": [
-      "02"
-    ],
-    "targetMapId": [
-      82,
-      35
-    ],
-    "population": 465,
-    "player": "sombero"
-  },
-  {
-    "aldeas": [
-      "02"
-    ],
-    "targetMapId": [
-      107,
-      29
-    ],
-    "population": 414,
-    "player": "BERNANDO"
-  },
-  {
-    "aldeas": [
-      "02"
-    ],
-    "targetMapId": [
-      97,
-      27
-    ],
-    "population": 6254,
-    "player": "Black Eye"
-  },
-  {
-    "aldeas": [
-      "02"
-    ],
-    "targetMapId": [
-      96,
-      69
-    ],
-    "population": 430,
-    "player": "Cris_Dani"
-  },
-  {
-    "aldeas": [
-      "02"
-    ],
-    "targetMapId": [
-      96,
-      27
-    ],
-    "population": 6254,
-    "player": "Black Eye"
-  },
-  {
-    "aldeas": [
-      "02"
-    ],
-    "targetMapId": [
-      101,
-      69
-    ],
-    "population": 18,
-    "player": "VDro"
-  },
-  {
-    "aldeas": [
-      "02"
-    ],
-    "targetMapId": [
-      113,
-      33
-    ],
-    "population": 457,
-    "player": "Trasor"
-  },
-  {
-    "aldeas": [
-      "02"
-    ],
-    "targetMapId": [
-      82,
-      62
-    ],
-    "population": 3099,
-    "player": "Gavu"
-  },
-  {
-    "aldeas": [
-      "02"
-    ],
-    "targetMapId": [
-      81,
-      61
-    ],
-    "population": 3099,
-    "player": "Gavu"
-  },
-  {
-    "aldeas": [
-      "02"
-    ],
-    "targetMapId": [
-      108,
-      29
-    ],
-    "population": 387,
-    "player": "Gurbet"
-  },
-  {
-    "aldeas": [
-      "02"
-    ],
-    "targetMapId": [
-      93,
-      69
-    ],
-    "population": 25,
-    "player": "Ignis"
-  },
-  {
-    "aldeas": [
-      "02"
-    ],
-    "targetMapId": [
-      86,
-      66
-    ],
-    "population": 87,
-    "player": "premium"
-  },
-  {
-    "aldeas": [
-      "02"
-    ],
-    "targetMapId": [
-      82,
-      63
-    ],
-    "population": 3099,
-    "player": "Gavu"
-  },
-  {
-    "aldeas": [
-      "02"
-    ],
-    "targetMapId": [
-      89,
-      28
-    ],
-    "population": 9914,
-    "player": "Tygo"
-  },
-  {
-    "aldeas": [
-      "02"
-    ],
-    "targetMapId": [
-      97,
-      26
-    ],
-    "population": 95,
-    "player": "BellucaMosc…"
-  },
-  {
-    "aldeas": [
-      "02"
-    ],
-    "targetMapId": [
-      84,
-      31
-    ],
-    "population": 375,
-    "player": "kraken"
-  },
-  {
-    "aldeas": [
-      "02"
-    ],
-    "targetMapId": [
-      84,
-      31
-    ],
-    "population": 375,
-    "player": "kraken"
-  },
-  {
-    "aldeas": [
-      "02"
-    ],
-    "targetMapId": [
-      85,
-      30
-    ],
-    "population": 385,
-    "player": "floppy"
-  },
-  {
-    "aldeas": [
-      "02"
-    ],
-    "targetMapId": [
-      88,
-      68
+      32,
+      3
     ],
     "population": 15,
-    "player": "Barbosa-Mas…"
+    "player": "Andy Cola"
   },
   {
     "aldeas": [
-      "02"
+      "01"
     ],
     "targetMapId": [
-      114,
-      32
+      31,
+      -1
     ],
-    "population": 457,
-    "player": "Trasor"
+    "population": 46,
+    "player": "IRO"
   },
   {
     "aldeas": [
-      "02"
+      "01"
     ],
     "targetMapId": [
-      81,
-      33
-    ],
-    "population": 33,
-    "player": "Mimidiffr"
-  },
-  {
-    "aldeas": [
-      "02"
-    ],
-    "targetMapId": [
-      116,
-      34
-    ],
-    "population": 16,
-    "player": "AppleC"
-  },
-  {
-    "aldeas": [
-      "02"
-    ],
-    "targetMapId": [
-      87,
-      28
-    ],
-    "population": 9914,
-    "player": "Tygo"
-  },
-  {
-    "aldeas": [
-      "02"
-    ],
-    "targetMapId": [
-      98,
-      25
-    ],
-    "population": 82,
-    "player": "HusHus"
-  },
-  {
-    "aldeas": [
-      "02"
-    ],
-    "targetMapId": [
-      79,
-      61
-    ],
-    "population": 3099,
-    "player": "Gavu"
-  },
-  {
-    "aldeas": [
-      "02"
-    ],
-    "targetMapId": [
-      91,
-      70
-    ],
-    "population": 22,
-    "player": "Fnam"
-  },
-  {
-    "aldeas": [
-      "02"
-    ],
-    "targetMapId": [
-      101,
-      71
-    ],
-    "population": 10,
-    "player": "Noon"
-  },
-  {
-    "aldeas": [
-      "02"
-    ],
-    "targetMapId": [
-      80,
-      63
-    ],
-    "population": 3099,
-    "player": "Gavu"
-  },
-  {
-    "aldeas": [
-      "02"
-    ],
-    "targetMapId": [
-      77,
-      59
-    ],
-    "population": 16,
-    "player": "CR765"
-  },
-  {
-    "aldeas": [
-      "02"
-    ],
-    "targetMapId": [
-      74,
-      49
-    ],
-    "population": 12,
-    "player": "S1Rko_O"
-  },
-  {
-    "aldeas": [
-      "02"
-    ],
-    "targetMapId": [
-      99,
-      24
-    ],
-    "population": 256,
-    "player": "TriX"
-  },
-  {
-    "aldeas": [
-      "02"
-    ],
-    "targetMapId": [
-      114,
-      30
-    ],
-    "population": 34,
-    "player": "yuzumi2"
-  },
-  {
-    "aldeas": [
-      "02"
-    ],
-    "targetMapId": [
-      95,
-      24
-    ],
-    "population": 284,
-    "player": "Yassor"
-  },
-  {
-    "aldeas": [
-      "02"
-    ],
-    "targetMapId": [
-      79,
-      63
-    ],
-    "population": 3099,
-    "player": "Gavu"
-  },
-  {
-    "aldeas": [
-      "02"
-    ],
-    "targetMapId": [
-      102,
-      24
-    ],
-    "population": 1565,
-    "player": "schmak1"
-  },
-  {
-    "aldeas": [
-      "02"
-    ],
-    "targetMapId": [
-      84,
-      68
-    ],
-    "population": 27,
-    "player": "Kevinlaw"
-  },
-  {
-    "aldeas": [
-      "02"
-    ],
-    "targetMapId": [
-      87,
-      70
-    ],
-    "population": 10,
-    "player": "XEROH"
-  },
-  {
-    "aldeas": [
-      "02"
-    ],
-    "targetMapId": [
-      122,
-      54
-    ],
-    "population": 2254,
-    "player": "JarminKill"
-  },
-  {
-    "aldeas": [
-      "02"
-    ],
-    "targetMapId": [
-      120,
-      36
-    ],
-    "population": 668,
-    "player": "Zieldrik"
-  },
-  {
-    "aldeas": [
-      "02"
-    ],
-    "targetMapId": [
-      96,
-      23
-    ],
-    "population": 387,
-    "player": "Gurbet"
-  },
-  {
-    "aldeas": [
-      "02"
-    ],
-    "targetMapId": [
-      75,
-      58
-    ],
-    "population": 12,
-    "player": "craazy"
-  },
-  {
-    "aldeas": [
-      "02"
-    ],
-    "targetMapId": [
-      112,
-      27
-    ],
-    "population": 437,
-    "player": "Bybarss"
-  },
-  {
-    "aldeas": [
-      "02"
-    ],
-    "targetMapId": [
-      74,
-      56
-    ],
-    "population": 18,
-    "player": "A.K"
-  },
-  {
-    "aldeas": [
-      "02"
-    ],
-    "targetMapId": [
-      73,
-      52
+      39,
+      4
     ],
     "population": 8,
-    "player": "Lazy"
+    "player": "Crone"
   },
   {
     "aldeas": [
-      "02"
+      "01"
     ],
     "targetMapId": [
-      77,
-      33
+      35,
+      -5
     ],
-    "population": 548,
-    "player": "kizom"
+    "population": 130,
+    "player": "kurisaki_ic…"
   },
   {
     "aldeas": [
-      "02"
+      "01"
     ],
     "targetMapId": [
-      97,
-      22
+      39,
+      -4
     ],
-    "population": 10,
-    "player": "Messerschmi…"
+    "population": 8,
+    "player": "Koga"
   },
   {
     "aldeas": [
-      "02"
+      "01"
     ],
     "targetMapId": [
-      96,
-      22
+      30,
+      -4
     ],
-    "population": 6254,
-    "player": "Black Eye"
+    "population": 8,
+    "player": "cin"
   },
   {
     "aldeas": [
-      "02"
+      "01"
     ],
     "targetMapId": [
-      79,
-      30
+      42,
+      4
     ],
-    "population": 6254,
-    "player": "Black Eye"
+    "population": 8,
+    "player": "Don_Corleone"
   },
   {
     "aldeas": [
-      "02"
+      "01"
     ],
     "targetMapId": [
-      72,
-      45
+      36,
+      9
+    ],
+    "population": 8,
+    "player": "DcF"
+  },
+  {
+    "aldeas": [
+      "01"
+    ],
+    "targetMapId": [
+      41,
+      7
+    ],
+    "population": 8,
+    "player": "LUCIF3R"
+  },
+  {
+    "aldeas": [
+      "01"
+    ],
+    "targetMapId": [
+      34,
+      -8
     ],
     "population": 12,
-    "player": "WN1ntW"
+    "player": "MURATUMUTLU"
   },
   {
     "aldeas": [
-      "02"
+      "01"
     ],
     "targetMapId": [
-      109,
-      24
+      37,
+      -8
     ],
-    "population": 87,
-    "player": "Piapy"
+    "population": 11,
+    "player": "KareS"
   },
   {
     "aldeas": [
-      "02"
+      "01"
     ],
     "targetMapId": [
-      85,
-      25
+      43,
+      -4
     ],
-    "population": 4064,
-    "player": "rag"
+    "population": 16,
+    "player": "Seko-1986"
   },
   {
     "aldeas": [
-      "02"
+      "01"
     ],
     "targetMapId": [
-      72,
-      53
-    ],
-    "population": 331,
-    "player": "Louisleroi"
-  },
-  {
-    "aldeas": [
-      "02"
-    ],
-    "targetMapId": [
-      113,
-      26
-    ],
-    "population": 27,
-    "player": "xuantung87"
-  },
-  {
-    "aldeas": [
-      "02"
-    ],
-    "targetMapId": [
-      92,
-      74
-    ],
-    "population": 12,
-    "player": "steeve the …"
-  },
-  {
-    "aldeas": [
-      "02"
-    ],
-    "targetMapId": [
-      97,
-      75
-    ],
-    "population": 17,
-    "player": "erewy"
-  },
-  {
-    "aldeas": [
-      "02"
-    ],
-    "targetMapId": [
-      81,
-      27
-    ],
-    "population": 548,
-    "player": "kizom"
-  },
-  {
-    "aldeas": [
-      "02"
-    ],
-    "targetMapId": [
-      73,
-      37
-    ],
-    "population": 134,
-    "player": "Arcin55"
-  },
-  {
-    "aldeas": [
-      "02"
-    ],
-    "targetMapId": [
-      78,
-      29
-    ],
-    "population": 18,
-    "player": "Tunayonline"
-  },
-  {
-    "aldeas": [
-      "02"
-    ],
-    "targetMapId": [
-      118,
-      29
-    ],
-    "population": 101,
-    "player": "BigMama"
-  },
-  {
-    "aldeas": [
-      "02"
-    ],
-    "targetMapId": [
-      73,
-      36
-    ],
-    "population": 1971,
-    "player": "HusseinElat…"
-  },
-  {
-    "aldeas": [
-      "02"
-    ],
-    "targetMapId": [
-      112,
-      24
-    ],
-    "population": 21,
-    "player": "Hob"
-  },
-  {
-    "aldeas": [
-      "02"
-    ],
-    "targetMapId": [
-      84,
-      24
-    ],
-    "population": 27,
-    "player": "aLi001"
-  },
-  {
-    "aldeas": [
-      "02"
-    ],
-    "targetMapId": [
-      72,
-      58
-    ],
-    "population": 205,
-    "player": "Indefenso"
-  },
-  {
-    "aldeas": [
-      "02"
-    ],
-    "targetMapId": [
-      126,
-      47
-    ],
-    "population": 1404,
-    "player": "ptilou"
-  },
-  {
-    "aldeas": [
-      "02"
-    ],
-    "targetMapId": [
-      82,
-      71
-    ],
-    "population": 132,
-    "player": "Sinister"
-  },
-  {
-    "aldeas": [
-      "02"
-    ],
-    "targetMapId": [
-      96,
-      20
-    ],
-    "population": 6254,
-    "player": "Black Eye"
-  },
-  {
-    "aldeas": [
-      "02"
-    ],
-    "targetMapId": [
-      95,
-      20
-    ],
-    "population": 548,
-    "player": "kizom"
-  },
-  {
-    "aldeas": [
-      "02"
-    ],
-    "targetMapId": [
-      125,
-      56
-    ],
-    "population": 2254,
-    "player": "JarminKill"
-  },
-  {
-    "aldeas": [
-      "02"
-    ],
-    "targetMapId": [
-      85,
-      23
-    ],
-    "population": 4064,
-    "player": "rag"
-  },
-  {
-    "aldeas": [
-      "02"
-    ],
-    "targetMapId": [
-      87,
-      74
-    ],
-    "population": 27,
-    "player": "rko"
-  },
-  {
-    "aldeas": [
-      "02"
-    ],
-    "targetMapId": [
-      109,
-      74
-    ],
-    "population": 2551,
-    "player": "minar"
-  },
-  {
-    "aldeas": [
-      "02"
-    ],
-    "targetMapId": [
-      87,
-      22
-    ],
-    "population": 325,
-    "player": "spectre"
-  },
-  {
-    "aldeas": [
-      "02"
-    ],
-    "targetMapId": [
-      126,
-      53
-    ],
-    "population": 2252,
-    "player": "Dabbas"
-  },
-  {
-    "aldeas": [
-      "02"
-    ],
-    "targetMapId": [
-      112,
-      23
-    ],
-    "population": 1565,
-    "player": "schmak1"
-  },
-  {
-    "aldeas": [
-      "02"
-    ],
-    "targetMapId": [
-      108,
-      75
-    ],
-    "population": 2551,
-    "player": "minar"
-  },
-  {
-    "aldeas": [
-      "02"
-    ],
-    "targetMapId": [
-      88,
-      21
-    ],
-    "population": 1130,
-    "player": "Battle"
-  },
-  {
-    "aldeas": [
-      "02"
-    ],
-    "targetMapId": [
-      78,
-      69
+      42,
+      -6
     ],
     "population": 9,
-    "player": "Khoa"
+    "player": "MichaelScott"
   },
   {
     "aldeas": [
-      "02"
+      "01"
     ],
     "targetMapId": [
-      127,
-      47
+      41,
+      -7
     ],
-    "population": 2254,
-    "player": "JarminKill"
+    "population": 12,
+    "player": "Stuajs"
   },
   {
     "aldeas": [
-      "02"
+      "01"
     ],
     "targetMapId": [
-      72,
-      61
+      36,
+      -9
     ],
-    "population": 365,
-    "player": "Zygis"
+    "population": 20,
+    "player": "Zheng"
   },
   {
     "aldeas": [
-      "02"
+      "01"
     ],
     "targetMapId": [
-      90,
-      20
+      33,
+      -9
     ],
-    "population": 109,
-    "player": "Mato"
+    "population": 60,
+    "player": "marius88"
   },
   {
     "aldeas": [
-      "02"
+      "01"
     ],
     "targetMapId": [
-      109,
-      75
+      40,
+      10
     ],
-    "population": 2551,
-    "player": "minar"
+    "population": 168,
+    "player": "Threus"
   },
   {
     "aldeas": [
-      "02"
+      "01"
     ],
     "targetMapId": [
-      69,
-      51
+      46,
+      4
     ],
-    "population": 764,
-    "player": "Lamin"
+    "population": 192,
+    "player": "SKbabaYaga"
   },
   {
     "aldeas": [
-      "02"
+      "01"
     ],
     "targetMapId": [
-      71,
-      59
+      46,
+      -2
     ],
-    "population": 496,
-    "player": "Hijacker"
+    "population": 143,
+    "player": "Koluntez"
   },
   {
     "aldeas": [
-      "02"
+      "01"
     ],
     "targetMapId": [
-      116,
-      25
+      47,
+      -1
     ],
     "population": 8,
-    "player": "ByeBye"
+    "player": "NADER"
   },
   {
     "aldeas": [
-      "02"
+      "01"
     ],
     "targetMapId": [
-      94,
-      77
+      38,
+      -11
     ],
-    "population": 398,
-    "player": "indian"
+    "population": 18,
+    "player": "Hakuna"
   },
   {
     "aldeas": [
-      "02"
+      "01"
     ],
     "targetMapId": [
-      103,
-      19
+      41,
+      -10
     ],
-    "population": 248,
-    "player": "djn"
+    "population": 64,
+    "player": "Nameless"
   },
   {
     "aldeas": [
-      "02"
+      "01"
     ],
     "targetMapId": [
-      112,
-      22
+      46,
+      -5
     ],
-    "population": 0,
-    "player": "Stojaks"
+    "population": 28,
+    "player": "S2OILFZiE"
   },
   {
     "aldeas": [
-      "02"
+      "01"
     ],
     "targetMapId": [
-      110,
-      75
-    ],
-    "population": 2551,
-    "player": "minar"
-  },
-  {
-    "aldeas": [
-      "02"
-    ],
-    "targetMapId": [
-      69,
-      42
-    ],
-    "population": 1971,
-    "player": "HusseinElat…"
-  },
-  {
-    "aldeas": [
-      "02"
-    ],
-    "targetMapId": [
-      73,
-      64
-    ],
-    "population": 306,
-    "player": "محمثلاح"
-  },
-  {
-    "aldeas": [
-      "02"
-    ],
-    "targetMapId": [
-      76,
-      28
-    ],
-    "population": 4064,
-    "player": "rag"
-  },
-  {
-    "aldeas": [
-      "02"
-    ],
-    "targetMapId": [
-      85,
-      21
-    ],
-    "population": 605,
-    "player": "házmester"
-  },
-  {
-    "aldeas": [
-      "02"
-    ],
-    "targetMapId": [
-      69,
-      56
-    ],
-    "population": 27,
-    "player": "Kom"
-  },
-  {
-    "aldeas": [
-      "02"
-    ],
-    "targetMapId": [
-      73,
-      31
-    ],
-    "population": 29,
-    "player": "haze"
-  },
-  {
-    "aldeas": [
-      "02"
-    ],
-    "targetMapId": [
-      81,
-      23
-    ],
-    "population": 465,
-    "player": "Emine"
-  },
-  {
-    "aldeas": [
-      "02"
-    ],
-    "targetMapId": [
-      103,
-      18
-    ],
-    "population": 248,
-    "player": "djn"
-  },
-  {
-    "aldeas": [
-      "02"
-    ],
-    "targetMapId": [
-      128,
-      53
-    ],
-    "population": 2252,
-    "player": "Dabbas"
-  },
-  {
-    "aldeas": [
-      "02"
-    ],
-    "targetMapId": [
-      67,
-      48
-    ],
-    "population": 515,
-    "player": "M.Warrior"
-  },
-  {
-    "aldeas": [
-      "02"
-    ],
-    "targetMapId": [
-      109,
-      19
-    ],
-    "population": 38,
-    "player": "Balkan"
-  },
-  {
-    "aldeas": [
-      "02"
-    ],
-    "targetMapId": [
-      119,
-      25
-    ],
-    "population": 116,
-    "player": "FABO"
-  },
-  {
-    "aldeas": [
-      "02"
-    ],
-    "targetMapId": [
-      112,
-      76
-    ],
-    "population": 2551,
-    "player": "minar"
-  },
-  {
-    "aldeas": [
-      "02"
-    ],
-    "targetMapId": [
-      113,
-      20
-    ],
-    "population": 11,
-    "player": "Dewilll"
-  },
-  {
-    "aldeas": [
-      "02"
-    ],
-    "targetMapId": [
-      102,
-      16
-    ],
-    "population": 257,
-    "player": "Bortxfuti"
-  },
-  {
-    "aldeas": [
-      "02"
-    ],
-    "targetMapId": [
-      70,
-      64
+      44,
+      -8
     ],
     "population": 8,
-    "player": "hot.sauce"
+    "player": "Bfd"
   },
   {
     "aldeas": [
-      "02"
+      "01"
     ],
     "targetMapId": [
-      75,
-      71
+      30,
+      -11
     ],
-    "population": 11,
-    "player": "Salvinho"
+    "population": 102,
+    "player": "AGI"
   },
   {
     "aldeas": [
-      "02"
+      "01"
     ],
     "targetMapId": [
-      69,
-      63
-    ],
-    "population": 38,
-    "player": "mobeo"
-  },
-  {
-    "aldeas": [
-      "02"
-    ],
-    "targetMapId": [
-      119,
-      23
-    ],
-    "population": 208,
-    "player": "phamduy738"
-  },
-  {
-    "aldeas": [
-      "02"
-    ],
-    "targetMapId": [
-      114,
-      19
-    ],
-    "population": 382,
-    "player": "almidon01"
-  },
-  {
-    "aldeas": [
-      "02"
-    ],
-    "targetMapId": [
-      69,
-      32
-    ],
-    "population": 0,
-    "player": "AaBLund"
-  },
-  {
-    "aldeas": [
-      "02"
-    ],
-    "targetMapId": [
-      67,
-      60
-    ],
-    "population": 113,
-    "player": "Dr."
-  },
-  {
-    "aldeas": [
-      "02"
-    ],
-    "targetMapId": [
-      110,
-      17
-    ],
-    "population": 53,
-    "player": "Mokoko"
-  },
-  {
-    "aldeas": [
-      "02"
-    ],
-    "targetMapId": [
-      119,
-      74
-    ],
-    "population": 619,
-    "player": "Hellman"
-  },
-  {
-    "aldeas": [
-      "02"
-    ],
-    "targetMapId": [
-      88,
-      80
-    ],
-    "population": 10,
-    "player": "Макс"
-  },
-  {
-    "aldeas": [
-      "02"
-    ],
-    "targetMapId": [
-      104,
-      15
-    ],
-    "population": 65,
-    "player": "PersianGulf"
-  },
-  {
-    "aldeas": [
-      "02"
-    ],
-    "targetMapId": [
-      71,
-      68
-    ],
-    "population": 126,
-    "player": "kate"
-  },
-  {
-    "aldeas": [
-      "02"
-    ],
-    "targetMapId": [
-      74,
-      24
-    ],
-    "population": 225,
-    "player": "Riddick"
-  },
-  {
-    "aldeas": [
-      "02"
-    ],
-    "targetMapId": [
-      68,
-      64
-    ],
-    "population": 68,
-    "player": "El_Qatel"
-  },
-  {
-    "aldeas": [
-      "02"
-    ],
-    "targetMapId": [
-      114,
-      18
-    ],
-    "population": 382,
-    "player": "almidon01"
-  },
-  {
-    "aldeas": [
-      "02"
-    ],
-    "targetMapId": [
-      64,
-      45
-    ],
-    "population": 34,
-    "player": "ObuzDood"
-  },
-  {
-    "aldeas": [
-      "02"
-    ],
-    "targetMapId": [
-      86,
-      80
-    ],
-    "population": 33,
-    "player": "AjaxDTK"
-  },
-  {
-    "aldeas": [
-      "02"
-    ],
-    "targetMapId": [
-      94,
+      34,
       14
     ],
-    "population": 140,
-    "player": "Ometron"
+    "population": 130,
+    "player": "Raphaelde_"
   },
   {
     "aldeas": [
-      "02"
+      "01"
     ],
     "targetMapId": [
-      74,
-      73
-    ],
-    "population": 206,
-    "player": "Piruvat95"
-  },
-  {
-    "aldeas": [
-      "02"
-    ],
-    "targetMapId": [
-      87,
-      15
-    ],
-    "population": 321,
-    "player": "Zsukka"
-  },
-  {
-    "aldeas": [
-      "02"
-    ],
-    "targetMapId": [
-      120,
-      21
-    ],
-    "population": 91,
-    "player": "tarek"
-  },
-  {
-    "aldeas": [
-      "02"
-    ],
-    "targetMapId": [
-      76,
-      21
-    ],
-    "population": 298,
-    "player": "Sanremo"
-  },
-  {
-    "aldeas": [
-      "02"
-    ],
-    "targetMapId": [
-      119,
-      20
-    ],
-    "population": 16,
-    "player": "Semolina"
-  },
-  {
-    "aldeas": [
-      "02"
-    ],
-    "targetMapId": [
-      101,
-      13
-    ],
-    "population": 2116,
-    "player": "Mnk"
-  },
-  {
-    "aldeas": [
-      "02"
-    ],
-    "targetMapId": [
-      89,
-      82
-    ],
-    "population": 551,
-    "player": "maroc"
-  },
-  {
-    "aldeas": [
-      "02"
-    ],
-    "targetMapId": [
-      102,
-      13
-    ],
-    "population": 355,
-    "player": "Cevap"
-  },
-  {
-    "aldeas": [
-      "02"
-    ],
-    "targetMapId": [
-      83,
-      80
-    ],
-    "population": 13,
-    "player": "Bozdağ"
-  },
-  {
-    "aldeas": [
-      "02"
-    ],
-    "targetMapId": [
-      81,
-      17
-    ],
-    "population": 10,
-    "player": "Lewino"
-  },
-  {
-    "aldeas": [
-      "02"
-    ],
-    "targetMapId": [
-      124,
-      72
-    ],
-    "population": 619,
-    "player": "Hellman"
-  },
-  {
-    "aldeas": [
-      "02"
-    ],
-    "targetMapId": [
-      111,
-      15
-    ],
-    "population": 7,
-    "player": "redmi"
-  },
-  {
-    "aldeas": [
-      "02"
-    ],
-    "targetMapId": [
-      68,
-      67
-    ],
-    "population": 165,
-    "player": "vhalf"
-  },
-  {
-    "aldeas": [
-      "02"
-    ],
-    "targetMapId": [
-      65,
-      62
+      46,
+      8
     ],
     "population": 11,
-    "player": "AVATAR"
+    "player": "Pont"
   },
   {
     "aldeas": [
-      "02"
+      "01"
     ],
     "targetMapId": [
-      106,
-      13
+      48,
+      4
     ],
-    "population": 380,
-    "player": "Nats"
+    "population": 253,
+    "player": "Banshee"
   },
   {
     "aldeas": [
-      "02"
+      "01"
     ],
     "targetMapId": [
-      99,
+      44,
+      11
+    ],
+    "population": 59,
+    "player": "Eskulapio"
+  },
+  {
+    "aldeas": [
+      "01"
+    ],
+    "targetMapId": [
+      42,
+      -11
+    ],
+    "population": 41,
+    "player": "jwjw"
+  },
+  {
+    "aldeas": [
+      "01"
+    ],
+    "targetMapId": [
+      38,
+      15
+    ],
+    "population": 8,
+    "player": "Levi"
+  },
+  {
+    "aldeas": [
+      "01"
+    ],
+    "targetMapId": [
+      42,
+      14
+    ],
+    "population": 74,
+    "player": "Thing"
+  },
+  {
+    "aldeas": [
+      "01"
+    ],
+    "targetMapId": [
+      48,
+      8
+    ],
+    "population": 12,
+    "player": "Zetterberg"
+  },
+  {
+    "aldeas": [
+      "01"
+    ],
+    "targetMapId": [
+      44,
+      -11
+    ],
+    "population": 12,
+    "player": "Neto8500"
+  },
+  {
+    "aldeas": [
+      "01"
+    ],
+    "targetMapId": [
+      27,
+      14
+    ],
+    "population": 22,
+    "player": "Trip"
+  },
+  {
+    "aldeas": [
+      "01"
+    ],
+    "targetMapId": [
+      48,
+      10
+    ],
+    "population": 16,
+    "player": "GEN-B"
+  },
+  {
+    "aldeas": [
+      "01"
+    ],
+    "targetMapId": [
+      27,
+      16
+    ],
+    "population": 26,
+    "player": "Navid"
+  },
+  {
+    "aldeas": [
+      "01"
+    ],
+    "targetMapId": [
+      52,
+      1
+    ],
+    "population": 12,
+    "player": "Bizzo"
+  },
+  {
+    "aldeas": [
+      "01"
+    ],
+    "targetMapId": [
+      45,
+      15
+    ],
+    "population": 17,
+    "player": "Samycross"
+  },
+  {
+    "aldeas": [
+      "01"
+    ],
+    "targetMapId": [
+      42,
+      17
+    ],
+    "population": 82,
+    "player": "nostaji"
+  },
+  {
+    "aldeas": [
+      "01"
+    ],
+    "targetMapId": [
+      42,
+      -15
+    ],
+    "population": 119,
+    "player": "fsociety"
+  },
+  {
+    "aldeas": [
+      "01"
+    ],
+    "targetMapId": [
+      52,
+      6
+    ],
+    "population": 9,
+    "player": "Daniel"
+  },
+  {
+    "aldeas": [
+      "01"
+    ],
+    "targetMapId": [
+      51,
+      -7
+    ],
+    "population": 62,
+    "player": "Jonan"
+  },
+  {
+    "aldeas": [
+      "01"
+    ],
+    "targetMapId": [
+      50,
+      -9
+    ],
+    "population": 8,
+    "player": "FWEqDMbIzr"
+  },
+  {
+    "aldeas": [
+      "01"
+    ],
+    "targetMapId": [
+      25,
+      16
+    ],
+    "population": 172,
+    "player": "efozo"
+  },
+  {
+    "aldeas": [
+      "01"
+    ],
+    "targetMapId": [
+      44,
+      -15
+    ],
+    "population": 8,
+    "player": "Kolbasaider"
+  },
+  {
+    "aldeas": [
+      "01"
+    ],
+    "targetMapId": [
+      52,
+      -6
+    ],
+    "population": 49,
+    "player": "Vamp700"
+  },
+  {
+    "aldeas": [
+      "01"
+    ],
+    "targetMapId": [
+      47,
+      15
+    ],
+    "population": 22,
+    "player": "bolek40"
+  },
+  {
+    "aldeas": [
+      "01"
+    ],
+    "targetMapId": [
+      39,
+      19
+    ],
+    "population": 8,
+    "player": "Ardosby"
+  },
+  {
+    "aldeas": [
+      "01"
+    ],
+    "targetMapId": [
+      27,
+      18
+    ],
+    "population": 206,
+    "player": "GodLike"
+  },
+  {
+    "aldeas": [
+      "01"
+    ],
+    "targetMapId": [
+      35,
+      20
+    ],
+    "population": 86,
+    "player": "VR3kTpQ"
+  },
+  {
+    "aldeas": [
+      "01"
+    ],
+    "targetMapId": [
+      42,
+      -17
+    ],
+    "population": 8,
+    "player": "partenopeo84"
+  },
+  {
+    "aldeas": [
+      "01"
+    ],
+    "targetMapId": [
+      54,
+      6
+    ],
+    "population": 10,
+    "player": "Patrick258"
+  },
+  {
+    "aldeas": [
+      "01"
+    ],
+    "targetMapId": [
+      50,
+      -12
+    ],
+    "population": 8,
+    "player": "ziopera"
+  },
+  {
+    "aldeas": [
+      "01"
+    ],
+    "targetMapId": [
+      55,
+      2
+    ],
+    "population": 10,
+    "player": "Kurcinela"
+  },
+  {
+    "aldeas": [
+      "01"
+    ],
+    "targetMapId": [
+      53,
+      -9
+    ],
+    "population": 33,
+    "player": "Buitre"
+  },
+  {
+    "aldeas": [
+      "01"
+    ],
+    "targetMapId": [
+      46,
+      19
+    ],
+    "population": 24,
+    "player": "Zefiro"
+  },
+  {
+    "aldeas": [
+      "01"
+    ],
+    "targetMapId": [
+      56,
+      -2
+    ],
+    "population": 39,
+    "player": "Espectro"
+  },
+  {
+    "aldeas": [
+      "01"
+    ],
+    "targetMapId": [
+      25,
+      20
+    ],
+    "population": 58,
+    "player": "farshad"
+  },
+  {
+    "aldeas": [
+      "01"
+    ],
+    "targetMapId": [
+      47,
+      -17
+    ],
+    "population": 74,
+    "player": "No Fate"
+  },
+  {
+    "aldeas": [
+      "01"
+    ],
+    "targetMapId": [
+      56,
+      -5
+    ],
+    "population": 15,
+    "player": "isPedro"
+  },
+  {
+    "aldeas": [
+      "01"
+    ],
+    "targetMapId": [
+      44,
+      21
+    ],
+    "population": 117,
+    "player": "Harebo"
+  },
+  {
+    "aldeas": [
+      "01"
+    ],
+    "targetMapId": [
+      50,
+      -15
+    ],
+    "population": 30,
+    "player": "BAY-TAR"
+  },
+  {
+    "aldeas": [
+      "01"
+    ],
+    "targetMapId": [
+      25,
+      -19
+    ],
+    "population": 116,
+    "player": "2NaYOAwYVG"
+  },
+  {
+    "aldeas": [
+      "01"
+    ],
+    "targetMapId": [
+      57,
+      -4
+    ],
+    "population": 35,
+    "player": "Baramos"
+  },
+  {
+    "aldeas": [
+      "01"
+    ],
+    "targetMapId": [
+      29,
+      -21
+    ],
+    "population": 8,
+    "player": "Mafioso"
+  },
+  {
+    "aldeas": [
+      "01"
+    ],
+    "targetMapId": [
+      55,
       12
     ],
     "population": 25,
-    "player": "DyaBhy"
-  },
-  {
-    "aldeas": [
-      "02"
-    ],
-    "targetMapId": [
-      110,
-      14
-    ],
-    "population": 11,
-    "player": "wistoz"
-  },
-  {
-    "aldeas": [
-      "02"
-    ],
-    "targetMapId": [
-      89,
-      83
-    ],
-    "population": 9329,
-    "player": "M.T.T"
-  },
-  {
-    "aldeas": [
-      "02"
-    ],
-    "targetMapId": [
-      66,
-      31
-    ],
-    "population": 211,
-    "player": "Joao"
-  },
-  {
-    "aldeas": [
-      "02"
-    ],
-    "targetMapId": [
-      103,
-      12
-    ],
-    "population": 31,
-    "player": "Junior"
-  },
-  {
-    "aldeas": [
-      "02"
-    ],
-    "targetMapId": [
-      120,
-      19
-    ],
-    "population": 17,
-    "player": "PaoDeMel"
-  },
-  {
-    "aldeas": [
-      "02"
-    ],
-    "targetMapId": [
-      108,
-      13
-    ],
-    "population": 94,
-    "player": "bruangkutub"
-  },
-  {
-    "aldeas": [
-      "02"
-    ],
-    "targetMapId": [
-      69,
-      70
-    ],
-    "population": 10,
-    "player": "سرجون"
-  },
-  {
-    "aldeas": [
-      "02"
-    ],
-    "targetMapId": [
-      65,
-      64
-    ],
-    "population": 82,
-    "player": "Wesam"
-  },
-  {
-    "aldeas": [
-      "02"
-    ],
-    "targetMapId": [
-      66,
-      66
-    ],
-    "population": 79,
-    "player": "Nostradamus"
-  },
-  {
-    "aldeas": [
-      "02"
-    ],
-    "targetMapId": [
-      118,
-      17
-    ],
-    "population": 31,
-    "player": "Kakashi hat…"
-  },
-  {
-    "aldeas": [
-      "02"
-    ],
-    "targetMapId": [
-      98,
-      11
-    ],
-    "population": 222,
-    "player": "Baarodiuss"
-  },
-  {
-    "aldeas": [
-      "02"
-    ],
-    "targetMapId": [
-      115,
-      15
-    ],
-    "population": 55,
-    "player": "Obvicore"
-  },
-  {
-    "aldeas": [
-      "02"
-    ],
-    "targetMapId": [
-      95,
-      85
-    ],
-    "population": 2737,
-    "player": "Pandadk"
-  },
-  {
-    "aldeas": [
-      "02"
-    ],
-    "targetMapId": [
-      66,
-      67
-    ],
-    "population": 1825,
-    "player": "EL-SALTOAZUL"
-  },
-  {
-    "aldeas": [
-      "02"
-    ],
-    "targetMapId": [
-      111,
-      13
-    ],
-    "population": 101,
-    "player": "flyfish"
-  },
-  {
-    "aldeas": [
-      "02"
-    ],
-    "targetMapId": [
-      114,
-      14
-    ],
-    "population": 174,
-    "player": "Hitman"
-  },
-  {
-    "aldeas": [
-      "02"
-    ],
-    "targetMapId": [
-      66,
-      68
-    ],
-    "population": 1825,
-    "player": "EL-SALTOAZUL"
-  },
-  {
-    "aldeas": [
-      "02"
-    ],
-    "targetMapId": [
-      99,
-      10
-    ],
-    "population": 80,
-    "player": "Mohamed"
-  },
-  {
-    "aldeas": [
-      "02"
-    ],
-    "targetMapId": [
-      63,
-      33
-    ],
-    "population": 20,
-    "player": "Arel"
-  },
-  {
-    "aldeas": [
-      "02"
-    ],
-    "targetMapId": [
-      60,
-      51
-    ],
-    "population": 22,
-    "player": "KingAlex"
-  },
-  {
-    "aldeas": [
-      "02"
-    ],
-    "targetMapId": [
-      122,
-      18
-    ],
-    "population": 382,
-    "player": "Asd"
-  },
-  {
-    "aldeas": [
-      "02"
-    ],
-    "targetMapId": [
-      104,
-      10
-    ],
-    "population": 499,
-    "player": "entut"
-  },
-  {
-    "aldeas": [
-      "02"
-    ],
-    "targetMapId": [
-      82,
-      13
-    ],
-    "population": 154,
-    "player": "pibe de qui…"
-  },
-  {
-    "aldeas": [
-      "02"
-    ],
-    "targetMapId": [
-      65,
-      68
-    ],
-    "population": 1825,
-    "player": "EL-SALTOAZUL"
-  },
-  {
-    "aldeas": [
-      "02"
-    ],
-    "targetMapId": [
-      71,
-      20
-    ],
-    "population": 26,
-    "player": "RIV"
-  },
-  {
-    "aldeas": [
-      "02"
-    ],
-    "targetMapId": [
-      110,
-      11
-    ],
-    "population": 35,
-    "player": "Hoola"
-  },
-  {
-    "aldeas": [
-      "02"
-    ],
-    "targetMapId": [
-      70,
-      21
-    ],
-    "population": 216,
-    "player": "castro"
-  },
-  {
-    "aldeas": [
-      "02"
-    ],
-    "targetMapId": [
-      101,
-      9
-    ],
-    "population": 38,
     "player": "evaper"
   },
   {
     "aldeas": [
-      "02"
+      "01"
     ],
     "targetMapId": [
-      67,
-      72
+      35,
+      24
     ],
-    "population": 12,
-    "player": "TraKtor"
+    "population": 44,
+    "player": "VTAfCMXJ"
   },
   {
     "aldeas": [
-      "02"
+      "01"
     ],
     "targetMapId": [
-      67,
-      72
+      58,
+      0
     ],
-    "population": 12,
-    "player": "TraKtor"
+    "population": 211,
+    "player": "sprw"
   },
   {
     "aldeas": [
-      "02"
+      "01"
     ],
     "targetMapId": [
-      80,
-      83
+      25,
+      22
     ],
-    "population": 77,
-    "player": "Marchito90"
+    "population": 11,
+    "player": "Toke"
   },
   {
     "aldeas": [
-      "02"
+      "01"
     ],
     "targetMapId": [
-      112,
-      11
+      31,
+      -22
     ],
-    "population": 263,
-    "player": "SmbtN"
+    "population": 8,
+    "player": "Mick"
   },
   {
     "aldeas": [
-      "02"
+      "01"
     ],
     "targetMapId": [
-      87,
-      86
+      52,
+      17
     ],
-    "population": 10,
-    "player": "csv"
+    "population": 9,
+    "player": "CushySpike"
   },
   {
     "aldeas": [
-      "02"
+      "01"
     ],
     "targetMapId": [
-      60,
-      59
+      46,
+      22
     ],
-    "population": 14,
-    "player": "anahata"
+    "population": 8,
+    "player": "Alhzbr"
   },
   {
     "aldeas": [
-      "02"
+      "01"
     ],
     "targetMapId": [
-      64,
-      69
+      44,
+      23
     ],
-    "population": 216,
-    "player": "MARK"
+    "population": 81,
+    "player": "Numenor"
   },
   {
     "aldeas": [
-      "02"
-    ],
-    "targetMapId": [
-      97,
-      8
-    ],
-    "population": 133,
-    "player": "ankush"
-  },
-  {
-    "aldeas": [
-      "02"
-    ],
-    "targetMapId": [
-      100,
-      8
-    ],
-    "population": 86,
-    "player": "Kingforest_…"
-  },
-  {
-    "aldeas": [
-      "02"
-    ],
-    "targetMapId": [
-      94,
-      8
-    ],
-    "population": 19,
-    "player": "Hachas"
-  },
-  {
-    "aldeas": [
-      "02"
-    ],
-    "targetMapId": [
-      102,
-      8
-    ],
-    "population": 135,
-    "player": "Tritoke"
-  },
-  {
-    "aldeas": [
-      "02"
-    ],
-    "targetMapId": [
-      116,
-      12
-    ],
-    "population": 93,
-    "player": "Gectorix"
-  },
-  {
-    "aldeas": [
-      "02"
-    ],
-    "targetMapId": [
-      59,
-      58
-    ],
-    "population": 19,
-    "player": "DDT"
-  },
-  {
-    "aldeas": [
-      "02"
-    ],
-    "targetMapId": [
-      70,
-      77
-    ],
-    "population": 276,
-    "player": "likansillo"
-  },
-  {
-    "aldeas": [
-      "02"
-    ],
-    "targetMapId": [
-      70,
-      19
-    ],
-    "population": 208,
-    "player": "fire"
-  },
-  {
-    "aldeas": [
-      "02"
-    ],
-    "targetMapId": [
-      68,
-      76
-    ],
-    "population": 21,
-    "player": "Maimris"
-  },
-  {
-    "aldeas": [
-      "02"
-    ],
-    "targetMapId": [
-      121,
-      14
-    ],
-    "population": 646,
-    "player": "memeltu"
-  },
-  {
-    "aldeas": [
-      "02"
-    ],
-    "targetMapId": [
-      59,
-      35
-    ],
-    "population": 92,
-    "player": "Bquvhh7gj5"
-  },
-  {
-    "aldeas": [
-      "02"
-    ],
-    "targetMapId": [
-      80,
-      85
-    ],
-    "population": 412,
-    "player": "Lillejohn"
-  },
-  {
-    "aldeas": [
-      "02"
-    ],
-    "targetMapId": [
-      78,
-      84
-    ],
-    "population": 65,
-    "player": "Erox"
-  },
-  {
-    "aldeas": [
-      "02"
+      "01"
     ],
     "targetMapId": [
       57,
-      52
-    ],
-    "population": 24,
-    "player": "master45"
-  },
-  {
-    "aldeas": [
-      "02"
-    ],
-    "targetMapId": [
-      76,
-      83
-    ],
-    "population": 12,
-    "player": "juanjosanta…"
-  },
-  {
-    "aldeas": [
-      "02"
-    ],
-    "targetMapId": [
-      61,
-      67
-    ],
-    "population": 243,
-    "player": "Kwmy"
-  },
-  {
-    "aldeas": [
-      "02"
-    ],
-    "targetMapId": [
-      74,
-      82
-    ],
-    "population": 48,
-    "player": "Spužva Bob"
-  },
-  {
-    "aldeas": [
-      "02"
-    ],
-    "targetMapId": [
-      122,
-      14
-    ],
-    "population": 646,
-    "player": "memeltu"
-  },
-  {
-    "aldeas": [
-      "02"
-    ],
-    "targetMapId": [
-      77,
-      12
-    ],
-    "population": 70,
-    "player": "Mrc43"
-  },
-  {
-    "aldeas": [
-      "02"
-    ],
-    "targetMapId": [
-      129,
-      76
-    ],
-    "population": 441,
-    "player": "Clubathon"
-  },
-  {
-    "aldeas": [
-      "02"
-    ],
-    "targetMapId": [
-      83,
-      87
-    ],
-    "population": 993,
-    "player": "MeeZeeyn"
-  },
-  {
-    "aldeas": [
-      "02"
-    ],
-    "targetMapId": [
-      71,
-      16
-    ],
-    "population": 260,
-    "player": "mar"
-  },
-  {
-    "aldeas": [
-      "02"
-    ],
-    "targetMapId": [
-      80,
-      86
-    ],
-    "population": 412,
-    "player": "Lillejohn"
-  },
-  {
-    "aldeas": [
-      "02"
-    ],
-    "targetMapId": [
-      94,
-      6
-    ],
-    "population": 397,
-    "player": "Sola1234"
-  },
-  {
-    "aldeas": [
-      "02"
-    ],
-    "targetMapId": [
-      74,
-      83
-    ],
-    "population": 1131,
-    "player": "Büyücü"
-  },
-  {
-    "aldeas": [
-      "02"
-    ],
-    "targetMapId": [
-      79,
       10
     ],
-    "population": 61,
-    "player": "FaNEveR"
+    "population": 9,
+    "player": "CaoCao"
   },
   {
     "aldeas": [
-      "02"
-    ],
-    "targetMapId": [
-      65,
-      21
-    ],
-    "population": 84,
-    "player": "龙归故里"
-  },
-  {
-    "aldeas": [
-      "02"
-    ],
-    "targetMapId": [
-      75,
-      84
-    ],
-    "population": 1131,
-    "player": "Büyücü"
-  },
-  {
-    "aldeas": [
-      "02"
-    ],
-    "targetMapId": [
-      118,
-      10
-    ],
-    "population": 499,
-    "player": "entut"
-  },
-  {
-    "aldeas": [
-      "02"
-    ],
-    "targetMapId": [
-      56,
-      57
-    ],
-    "population": 1568,
-    "player": "Karolin"
-  },
-  {
-    "aldeas": [
-      "02"
-    ],
-    "targetMapId": [
-      57,
-      61
-    ],
-    "population": 890,
-    "player": "ANACONDA"
-  },
-  {
-    "aldeas": [
-      "02"
-    ],
-    "targetMapId": [
-      96,
-      5
-    ],
-    "population": 412,
-    "player": "jayzson"
-  },
-  {
-    "aldeas": [
-      "02"
-    ],
-    "targetMapId": [
-      120,
-      11
-    ],
-    "population": 38,
-    "player": "gansoft"
-  },
-  {
-    "aldeas": [
-      "02"
-    ],
-    "targetMapId": [
-      61,
-      25
-    ],
-    "population": 77,
-    "player": "Stinkewinki"
-  },
-  {
-    "aldeas": [
-      "02"
+      "01"
     ],
     "targetMapId": [
       55,
-      55
+      -12
     ],
-    "population": 233,
-    "player": "ajx"
+    "population": 48,
+    "player": "larvas"
   },
   {
     "aldeas": [
-      "02"
+      "01"
     ],
     "targetMapId": [
-      75,
-      85
+      36,
+      25
     ],
-    "population": 1131,
-    "player": "Büyücü"
+    "population": 286,
+    "player": "Джонни"
   },
   {
     "aldeas": [
-      "02"
+      "01"
+    ],
+    "targetMapId": [
+      42,
+      24
+    ],
+    "population": 41,
+    "player": "TheChaosEff…"
+  },
+  {
+    "aldeas": [
+      "01"
+    ],
+    "targetMapId": [
+      53,
+      -15
+    ],
+    "population": 8,
+    "player": "hxc2step"
+  },
+  {
+    "aldeas": [
+      "01"
+    ],
+    "targetMapId": [
+      53,
+      18
+    ],
+    "population": 9,
+    "player": "Rovexota"
+  },
+  {
+    "aldeas": [
+      "01"
+    ],
+    "targetMapId": [
+      54,
+      17
+    ],
+    "population": 8,
+    "player": "NotDeclan"
+  },
+  {
+    "aldeas": [
+      "01"
+    ],
+    "targetMapId": [
+      22,
+      -21
+    ],
+    "population": 50,
+    "player": "NashTheSeco…"
+  },
+  {
+    "aldeas": [
+      "01"
+    ],
+    "targetMapId": [
+      59,
+      -8
+    ],
+    "population": 54,
+    "player": "masa77727"
+  },
+  {
+    "aldeas": [
+      "01"
+    ],
+    "targetMapId": [
+      28,
+      -24
+    ],
+    "population": 126,
+    "player": "Shanx"
+  },
+  {
+    "aldeas": [
+      "01"
+    ],
+    "targetMapId": [
+      39,
+      27
+    ],
+    "population": 8,
+    "player": "Eskilerden"
+  },
+  {
+    "aldeas": [
+      "01"
+    ],
+    "targetMapId": [
+      39,
+      -25
+    ],
+    "population": 26,
+    "player": "renatoc1"
+  },
+  {
+    "aldeas": [
+      "01"
+    ],
+    "targetMapId": [
+      61,
+      5
+    ],
+    "population": 9,
+    "player": "Bandi"
+  },
+  {
+    "aldeas": [
+      "01"
+    ],
+    "targetMapId": [
+      24,
+      -23
+    ],
+    "population": 234,
+    "player": "poyraz"
+  },
+  {
+    "aldeas": [
+      "01"
+    ],
+    "targetMapId": [
+      54,
+      -18
+    ],
+    "population": 116,
+    "player": "notsad03"
+  },
+  {
+    "aldeas": [
+      "01"
+    ],
+    "targetMapId": [
+      36,
+      28
+    ],
+    "population": 8,
+    "player": "g4w"
+  },
+  {
+    "aldeas": [
+      "01"
+    ],
+    "targetMapId": [
+      54,
+      21
+    ],
+    "population": 79,
+    "player": "PoQ"
+  },
+  {
+    "aldeas": [
+      "01"
+    ],
+    "targetMapId": [
+      45,
+      27
+    ],
+    "population": 14,
+    "player": "Pekybaker"
+  },
+  {
+    "aldeas": [
+      "01"
+    ],
+    "targetMapId": [
+      51,
+      -22
+    ],
+    "population": 95,
+    "player": "Lykan"
+  },
+  {
+    "aldeas": [
+      "01"
+    ],
+    "targetMapId": [
+      58,
+      17
+    ],
+    "population": 13,
+    "player": "kojot"
+  },
+  {
+    "aldeas": [
+      "01"
+    ],
+    "targetMapId": [
+      33,
+      29
+    ],
+    "population": 34,
+    "player": "brollei"
+  },
+  {
+    "aldeas": [
+      "01"
+    ],
+    "targetMapId": [
+      37,
+      -27
+    ],
+    "population": 8,
+    "player": "Dottore"
+  },
+  {
+    "aldeas": [
+      "01"
+    ],
+    "targetMapId": [
+      61,
+      12
+    ],
+    "population": 21,
+    "player": "kuda"
+  },
+  {
+    "aldeas": [
+      "01"
+    ],
+    "targetMapId": [
+      59,
+      -14
+    ],
+    "population": 10,
+    "player": "i&i"
+  },
+  {
+    "aldeas": [
+      "01"
     ],
     "targetMapId": [
       57,
-      63
+      -17
     ],
-    "population": 621,
-    "player": "baranylmaz"
+    "population": 15,
+    "player": "Patagonico"
   },
   {
     "aldeas": [
-      "02"
+      "01"
+    ],
+    "targetMapId": [
+      52,
+      24
+    ],
+    "population": 67,
+    "player": "Franelio14"
+  },
+  {
+    "aldeas": [
+      "01"
+    ],
+    "targetMapId": [
+      23,
+      27
+    ],
+    "population": 27,
+    "player": "TheLegoMast…"
+  },
+  {
+    "aldeas": [
+      "01"
+    ],
+    "targetMapId": [
+      61,
+      -11
+    ],
+    "population": 12,
+    "player": "TNT"
+  },
+  {
+    "aldeas": [
+      "01"
+    ],
+    "targetMapId": [
+      51,
+      25
+    ],
+    "population": 11,
+    "player": "Diplomata"
+  },
+  {
+    "aldeas": [
+      "01"
+    ],
+    "targetMapId": [
+      64,
+      2
+    ],
+    "population": 52,
+    "player": "CanaslanL"
+  },
+  {
+    "aldeas": [
+      "01"
+    ],
+    "targetMapId": [
+      34,
+      30
+    ],
+    "population": 8,
+    "player": "MilfApe"
+  },
+  {
+    "aldeas": [
+      "01"
+    ],
+    "targetMapId": [
+      64,
+      0
+    ],
+    "population": 38,
+    "player": "hekimy"
+  },
+  {
+    "aldeas": [
+      "01"
+    ],
+    "targetMapId": [
+      54,
+      -21
+    ],
+    "population": 10,
+    "player": "dantes"
+  },
+  {
+    "aldeas": [
+      "01"
+    ],
+    "targetMapId": [
+      38,
+      -28
+    ],
+    "population": 8,
+    "player": "Itachi"
+  },
+  {
+    "aldeas": [
+      "01"
+    ],
+    "targetMapId": [
+      32,
+      30
+    ],
+    "population": 251,
+    "player": "Aram"
+  },
+  {
+    "aldeas": [
+      "01"
+    ],
+    "targetMapId": [
+      59,
+      18
+    ],
+    "population": 8,
+    "player": "archainur"
+  },
+  {
+    "aldeas": [
+      "01"
+    ],
+    "targetMapId": [
+      64,
+      -5
+    ],
+    "population": 8,
+    "player": "shacu"
+  },
+  {
+    "aldeas": [
+      "01"
+    ],
+    "targetMapId": [
+      29,
+      -28
+    ],
+    "population": 314,
+    "player": "BabaCiga"
+  },
+  {
+    "aldeas": [
+      "01"
+    ],
+    "targetMapId": [
+      25,
+      29
+    ],
+    "population": 115,
+    "player": "DonkeyFest"
+  },
+  {
+    "aldeas": [
+      "01"
+    ],
+    "targetMapId": [
+      54,
+      24
+    ],
+    "population": 8,
+    "player": "simaomp"
+  },
+  {
+    "aldeas": [
+      "01"
+    ],
+    "targetMapId": [
+      48,
+      28
+    ],
+    "population": 12,
+    "player": "mumu"
+  },
+  {
+    "aldeas": [
+      "01"
+    ],
+    "targetMapId": [
+      53,
+      25
+    ],
+    "population": 8,
+    "player": "karo"
+  },
+  {
+    "aldeas": [
+      "01"
+    ],
+    "targetMapId": [
+      65,
+      -2
+    ],
+    "population": 9,
+    "player": "Walltrana"
+  },
+  {
+    "aldeas": [
+      "01"
+    ],
+    "targetMapId": [
+      57,
+      -20
+    ],
+    "population": 22,
+    "player": "Sayajin"
+  },
+  {
+    "aldeas": [
+      "01"
+    ],
+    "targetMapId": [
+      65,
+      -6
+    ],
+    "population": 20,
+    "player": "Wael201"
+  },
+  {
+    "aldeas": [
+      "01"
+    ],
+    "targetMapId": [
+      22,
+      -27
+    ],
+    "population": 155,
+    "player": "excalibur76"
+  },
+  {
+    "aldeas": [
+      "01"
+    ],
+    "targetMapId": [
+      20,
+      28
+    ],
+    "population": 25,
+    "player": "Yoda"
+  },
+  {
+    "aldeas": [
+      "01"
+    ],
+    "targetMapId": [
+      50,
+      28
+    ],
+    "population": 13,
+    "player": "althamir"
+  },
+  {
+    "aldeas": [
+      "01"
+    ],
+    "targetMapId": [
+      59,
+      21
+    ],
+    "population": 10,
+    "player": "demz"
+  },
+  {
+    "aldeas": [
+      "01"
+    ],
+    "targetMapId": [
+      66,
+      -3
+    ],
+    "population": 22,
+    "player": "Genusio"
+  },
+  {
+    "aldeas": [
+      "01"
+    ],
+    "targetMapId": [
+      51,
+      -26
+    ],
+    "population": 37,
+    "player": "nermin"
+  },
+  {
+    "aldeas": [
+      "01"
+    ],
+    "targetMapId": [
+      40,
+      32
+    ],
+    "population": 8,
+    "player": "Zeus"
+  },
+  {
+    "aldeas": [
+      "01"
+    ],
+    "targetMapId": [
+      17,
+      27
+    ],
+    "population": 9,
+    "player": "Temujin"
+  },
+  {
+    "aldeas": [
+      "01"
+    ],
+    "targetMapId": [
+      17,
+      -25
+    ],
+    "population": 8,
+    "player": "kar"
+  },
+  {
+    "aldeas": [
+      "01"
+    ],
+    "targetMapId": [
+      25,
+      -29
+    ],
+    "population": 8,
+    "player": "hfd1oL9"
+  },
+  {
+    "aldeas": [
+      "01"
+    ],
+    "targetMapId": [
+      42,
+      -30
+    ],
+    "population": 8,
+    "player": "777k"
+  },
+  {
+    "aldeas": [
+      "01"
+    ],
+    "targetMapId": [
+      37,
+      -31
+    ],
+    "population": 212,
+    "player": "pepsico"
+  },
+  {
+    "aldeas": [
+      "01"
+    ],
+    "targetMapId": [
+      61,
+      20
+    ],
+    "population": 15,
+    "player": "Simsim"
+  },
+  {
+    "aldeas": [
+      "01"
+    ],
+    "targetMapId": [
+      39,
+      33
+    ],
+    "population": 190,
+    "player": "and"
+  },
+  {
+    "aldeas": [
+      "01"
+    ],
+    "targetMapId": [
+      67,
+      6
+    ],
+    "population": 10,
+    "player": "minini"
+  },
+  {
+    "aldeas": [
+      "01"
+    ],
+    "targetMapId": [
+      58,
+      24
+    ],
+    "population": 114,
+    "player": "Jason"
+  },
+  {
+    "aldeas": [
+      "01"
+    ],
+    "targetMapId": [
+      41,
+      -31
+    ],
+    "population": 44,
+    "player": "Os3O5zbjD"
+  },
+  {
+    "aldeas": [
+      "01"
+    ],
+    "targetMapId": [
+      29,
+      33
+    ],
+    "population": 251,
+    "player": "Alan"
+  },
+  {
+    "aldeas": [
+      "01"
+    ],
+    "targetMapId": [
+      50,
+      30
+    ],
+    "population": 57,
+    "player": "Who"
+  },
+  {
+    "aldeas": [
+      "01"
+    ],
+    "targetMapId": [
+      55,
+      -25
+    ],
+    "population": 45,
+    "player": "lasarte"
+  },
+  {
+    "aldeas": [
+      "01"
+    ],
+    "targetMapId": [
+      16,
+      28
+    ],
+    "population": 71,
+    "player": "VeexS"
+  },
+  {
+    "aldeas": [
+      "01"
+    ],
+    "targetMapId": [
+      36,
+      -32
+    ],
+    "population": 72,
+    "player": "eXhibiTion"
+  },
+  {
+    "aldeas": [
+      "01"
+    ],
+    "targetMapId": [
+      68,
+      0
+    ],
+    "population": 70,
+    "player": "Toplow"
+  },
+  {
+    "aldeas": [
+      "01"
+    ],
+    "targetMapId": [
+      68,
+      3
+    ],
+    "population": 74,
+    "player": "Palino"
+  },
+  {
+    "aldeas": [
+      "01"
+    ],
+    "targetMapId": [
+      51,
+      -28
+    ],
+    "population": 14,
+    "player": "Casamtres"
+  },
+  {
+    "aldeas": [
+      "01"
+    ],
+    "targetMapId": [
+      44,
+      33
+    ],
+    "population": 10,
+    "player": "Superfastpi…"
+  },
+  {
+    "aldeas": [
+      "01"
+    ],
+    "targetMapId": [
+      44,
+      -31
+    ],
+    "population": 187,
+    "player": "RIP"
+  },
+  {
+    "aldeas": [
+      "01"
+    ],
+    "targetMapId": [
+      23,
+      -30
+    ],
+    "population": 34,
+    "player": "I Merc3nari"
+  },
+  {
+    "aldeas": [
+      "01"
+    ],
+    "targetMapId": [
+      65,
+      16
+    ],
+    "population": 80,
+    "player": "pibe de qui…"
+  },
+  {
+    "aldeas": [
+      "01"
+    ],
+    "targetMapId": [
+      50,
+      -29
+    ],
+    "population": 11,
+    "player": "Lio"
+  },
+  {
+    "aldeas": [
+      "01"
+    ],
+    "targetMapId": [
+      66,
+      -12
+    ],
+    "population": 16,
+    "player": "hiken"
+  },
+  {
+    "aldeas": [
+      "01"
+    ],
+    "targetMapId": [
+      52,
+      30
+    ],
+    "population": 200,
+    "player": "Nyx"
+  },
+  {
+    "aldeas": [
+      "01"
+    ],
+    "targetMapId": [
+      69,
+      1
+    ],
+    "population": 9,
+    "player": "Fargust"
+  },
+  {
+    "aldeas": [
+      "01"
+    ],
+    "targetMapId": [
+      47,
+      -31
+    ],
+    "population": 15,
+    "player": "Eternallife"
+  },
+  {
+    "aldeas": [
+      "01"
+    ],
+    "targetMapId": [
+      64,
+      -18
+    ],
+    "population": 141,
+    "player": "Supaplex"
+  },
+  {
+    "aldeas": [
+      "01"
+    ],
+    "targetMapId": [
+      64,
+      20
+    ],
+    "population": 137,
+    "player": "PedroIvan96"
+  },
+  {
+    "aldeas": [
+      "01"
+    ],
+    "targetMapId": [
+      69,
+      8
+    ],
+    "population": 26,
+    "player": "Noah"
+  },
+  {
+    "aldeas": [
+      "01"
+    ],
+    "targetMapId": [
+      66,
+      -15
+    ],
+    "population": 11,
+    "player": "Barlas"
+  },
+  {
+    "aldeas": [
+      "01"
+    ],
+    "targetMapId": [
+      43,
+      35
+    ],
+    "population": 15,
+    "player": "Firesword"
+  },
+  {
+    "aldeas": [
+      "01"
+    ],
+    "targetMapId": [
+      70,
+      3
+    ],
+    "population": 42,
+    "player": "ZeusHK"
+  },
+  {
+    "aldeas": [
+      "01"
+    ],
+    "targetMapId": [
+      23,
+      -32
+    ],
+    "population": 8,
+    "player": "hBYB03Y1l"
+  },
+  {
+    "aldeas": [
+      "01"
+    ],
+    "targetMapId": [
+      70,
+      -2
+    ],
+    "population": 13,
+    "player": "Shinysock"
+  },
+  {
+    "aldeas": [
+      "01"
+    ],
+    "targetMapId": [
+      38,
+      36
+    ],
+    "population": 71,
+    "player": "TheRevival"
+  },
+  {
+    "aldeas": [
+      "01"
+    ],
+    "targetMapId": [
+      62,
+      24
+    ],
+    "population": 15,
+    "player": "Robin Hood"
+  },
+  {
+    "aldeas": [
+      "01"
+    ],
+    "targetMapId": [
+      24,
+      -33
+    ],
+    "population": 131,
+    "player": "LASAJd2H"
+  },
+  {
+    "aldeas": [
+      "01"
+    ],
+    "targetMapId": [
+      66,
+      19
+    ],
+    "population": 14,
+    "player": "ovi_ovi"
+  },
+  {
+    "aldeas": [
+      "01"
+    ],
+    "targetMapId": [
+      69,
+      -11
+    ],
+    "population": 14,
+    "player": "Cigarette211"
+  },
+  {
+    "aldeas": [
+      "01"
+    ],
+    "targetMapId": [
+      69,
+      13
+    ],
+    "population": 10,
+    "player": "okeeeeeeee"
+  },
+  {
+    "aldeas": [
+      "01"
     ],
     "targetMapId": [
       59,
       28
     ],
-    "population": 397,
-    "player": "sneakyrogue"
+    "population": 8,
+    "player": "Prince"
   },
   {
     "aldeas": [
-      "02"
+      "01"
     ],
     "targetMapId": [
-      122,
-      11
+      63,
+      -22
     ],
-    "population": 34,
-    "player": "3Nam"
+    "population": 15,
+    "player": "Arsenic"
   },
   {
     "aldeas": [
-      "02"
+      "01"
     ],
     "targetMapId": [
-      57,
-      65
+      18,
+      33
     ],
-    "population": 611,
-    "player": "M.K.O"
+    "population": 19,
+    "player": "SIRBOB"
   },
   {
     "aldeas": [
-      "02"
+      "01"
     ],
     "targetMapId": [
-      54,
-      54
-    ],
-    "population": 605,
-    "player": "DARK12"
-  },
-  {
-    "aldeas": [
-      "02"
-    ],
-    "targetMapId": [
-      72,
-      84
-    ],
-    "population": 55,
-    "player": "Leoz"
-  },
-  {
-    "aldeas": [
-      "02"
-    ],
-    "targetMapId": [
-      75,
-      86
-    ],
-    "population": 993,
-    "player": "MeeZeeyn"
-  },
-  {
-    "aldeas": [
-      "02"
-    ],
-    "targetMapId": [
-      73,
-      85
-    ],
-    "population": 5230,
-    "player": "NightX"
-  },
-  {
-    "aldeas": [
-      "02"
-    ],
-    "targetMapId": [
-      73,
-      85
-    ],
-    "population": 5230,
-    "player": "NightX"
-  },
-  {
-    "aldeas": [
-      "02"
-    ],
-    "targetMapId": [
-      69,
-      82
-    ],
-    "population": 29,
-    "player": "Aurelius43"
-  },
-  {
-    "aldeas": [
-      "02"
-    ],
-    "targetMapId": [
-      59,
-      70
-    ],
-    "population": 258,
-    "player": "daita"
-  },
-  {
-    "aldeas": [
-      "02"
-    ],
-    "targetMapId": [
-      100,
-      3
-    ],
-    "population": 1222,
-    "player": "OBELIX"
-  },
-  {
-    "aldeas": [
-      "02"
-    ],
-    "targetMapId": [
-      108,
-      4
+      40,
+      -35
     ],
     "population": 11,
-    "player": "BYGG"
+    "player": "tonefurioso"
   },
   {
     "aldeas": [
-      "02"
-    ],
-    "targetMapId": [
-      104,
-      3
-    ],
-    "population": 8,
-    "player": "Denyier"
-  },
-  {
-    "aldeas": [
-      "02"
-    ],
-    "targetMapId": [
-      54,
-      60
-    ],
-    "population": 890,
-    "player": "ANACONDA"
-  },
-  {
-    "aldeas": [
-      "02"
-    ],
-    "targetMapId": [
-      86,
-      4
-    ],
-    "population": 65,
-    "player": "BlueZebra"
-  },
-  {
-    "aldeas": [
-      "02"
-    ],
-    "targetMapId": [
-      54,
-      61
-    ],
-    "population": 890,
-    "player": "ANACONDA"
-  },
-  {
-    "aldeas": [
-      "02"
-    ],
-    "targetMapId": [
-      89,
-      3
-    ],
-    "population": 10,
-    "player": "AK-spol"
-  },
-  {
-    "aldeas": [
-      "02"
+      "01"
     ],
     "targetMapId": [
       66,
-      81
+      -18
     ],
-    "population": 45,
-    "player": "Cromhaarp"
+    "population": 38,
+    "player": "Geeze"
   },
   {
     "aldeas": [
-      "02"
-    ],
-    "targetMapId": [
-      66,
-      15
-    ],
-    "population": 323,
-    "player": "Delien"
-  },
-  {
-    "aldeas": [
-      "02"
-    ],
-    "targetMapId": [
-      65,
-      16
-    ],
-    "population": 662,
-    "player": "Chaos Warri…"
-  },
-  {
-    "aldeas": [
-      "02"
-    ],
-    "targetMapId": [
-      53,
-      58
-    ],
-    "population": 621,
-    "player": "baranylmaz"
-  },
-  {
-    "aldeas": [
-      "02"
-    ],
-    "targetMapId": [
-      79,
-      90
-    ],
-    "population": 8,
-    "player": "LosNabbos"
-  },
-  {
-    "aldeas": [
-      "02"
-    ],
-    "targetMapId": [
-      75,
-      8
-    ],
-    "population": 221,
-    "player": "أبو مشعل"
-  },
-  {
-    "aldeas": [
-      "02"
-    ],
-    "targetMapId": [
-      58,
-      71
-    ],
-    "population": 990,
-    "player": "Arwa"
-  },
-  {
-    "aldeas": [
-      "02"
-    ],
-    "targetMapId": [
-      53,
-      59
-    ],
-    "population": 1589,
-    "player": "Kabti"
-  },
-  {
-    "aldeas": [
-      "02"
-    ],
-    "targetMapId": [
-      120,
-      7
-    ],
-    "population": 276,
-    "player": "Jemppu777"
-  },
-  {
-    "aldeas": [
-      "02"
-    ],
-    "targetMapId": [
-      52,
-      56
-    ],
-    "population": 195,
-    "player": "Simsim"
-  },
-  {
-    "aldeas": [
-      "02"
-    ],
-    "targetMapId": [
-      85,
-      3
-    ],
-    "population": 482,
-    "player": "TrawianSuxx"
-  },
-  {
-    "aldeas": [
-      "02"
-    ],
-    "targetMapId": [
-      75,
-      89
-    ],
-    "population": 993,
-    "player": "MeeZeeyn"
-  },
-  {
-    "aldeas": [
-      "02"
-    ],
-    "targetMapId": [
-      61,
-      77
-    ],
-    "population": 367,
-    "player": "IvarTheBone…"
-  },
-  {
-    "aldeas": [
-      "02"
-    ],
-    "targetMapId": [
-      95,
-      1
-    ],
-    "population": 21,
-    "player": "Alice"
-  },
-  {
-    "aldeas": [
-      "02"
-    ],
-    "targetMapId": [
-      58,
-      23
-    ],
-    "population": 465,
-    "player": "neto"
-  },
-  {
-    "aldeas": [
-      "02"
-    ],
-    "targetMapId": [
-      51,
-      52
-    ],
-    "population": 387,
-    "player": "sucre"
-  },
-  {
-    "aldeas": [
-      "02"
-    ],
-    "targetMapId": [
-      70,
-      86
-    ],
-    "population": 5230,
-    "player": "NightX"
-  },
-  {
-    "aldeas": [
-      "02"
+      "01"
     ],
     "targetMapId": [
       71,
-      9
+      7
     ],
-    "population": 138,
-    "player": "TPG"
+    "population": 66,
+    "player": "VikingsBr"
   },
   {
     "aldeas": [
-      "02"
+      "01"
     ],
     "targetMapId": [
-      59,
-      75
+      19,
+      -32
     ],
-    "population": 475,
-    "player": "bouquert"
+    "population": 8,
+    "player": "Tony_Montana"
   },
   {
     "aldeas": [
-      "02"
+      "01"
     ],
     "targetMapId": [
-      80,
-      92
+      21,
+      35
     ],
-    "population": 56,
-    "player": "pat"
+    "population": 8,
+    "player": "ItalianMafia"
   },
   {
     "aldeas": [
-      "02"
+      "01"
     ],
     "targetMapId": [
-      53,
-      64
+      11,
+      29
     ],
-    "population": 621,
-    "player": "baranylmaz"
+    "population": 171,
+    "player": "Fethu"
   },
   {
     "aldeas": [
-      "02"
+      "01"
     ],
     "targetMapId": [
-      57,
-      23
+      12,
+      30
     ],
-    "population": 468,
-    "player": "gomes"
+    "population": 240,
+    "player": "Lyneya"
   },
   {
     "aldeas": [
-      "02"
+      "01"
     ],
     "targetMapId": [
-      57,
-      73
+      39,
+      -36
     ],
-    "population": 990,
-    "player": "Arwa"
+    "population": 8,
+    "player": "Civutka996"
   },
   {
     "aldeas": [
-      "02"
+      "01"
+    ],
+    "targetMapId": [
+      64,
+      25
+    ],
+    "population": 24,
+    "player": "fabriciorap2"
+  },
+  {
+    "aldeas": [
+      "01"
+    ],
+    "targetMapId": [
+      64,
+      -23
+    ],
+    "population": 44,
+    "player": "muami"
+  },
+  {
+    "aldeas": [
+      "01"
+    ],
+    "targetMapId": [
+      35,
+      39
+    ],
+    "population": 132,
+    "player": "Pants4Roy"
+  },
+  {
+    "aldeas": [
+      "01"
+    ],
+    "targetMapId": [
+      35,
+      -37
+    ],
+    "population": 11,
+    "player": "AFHM"
+  },
+  {
+    "aldeas": [
+      "01"
+    ],
+    "targetMapId": [
+      52,
+      -33
+    ],
+    "population": 48,
+    "player": "PNE"
+  },
+  {
+    "aldeas": [
+      "01"
+    ],
+    "targetMapId": [
+      69,
+      18
+    ],
+    "population": 15,
+    "player": "Ignis"
+  },
+  {
+    "aldeas": [
+      "01"
+    ],
+    "targetMapId": [
+      37,
+      -37
+    ],
+    "population": 139,
+    "player": "I am Back"
+  },
+  {
+    "aldeas": [
+      "01"
+    ],
+    "targetMapId": [
+      54,
+      34
+    ],
+    "population": 10,
+    "player": "Valer4ik91"
+  },
+  {
+    "aldeas": [
+      "01"
+    ],
+    "targetMapId": [
+      38,
+      39
+    ],
+    "population": 16,
+    "player": "natty_boh"
+  },
+  {
+    "aldeas": [
+      "01"
+    ],
+    "targetMapId": [
+      32,
+      -37
+    ],
+    "population": 10,
+    "player": "KOR"
+  },
+  {
+    "aldeas": [
+      "01"
     ],
     "targetMapId": [
       62,
-      16
+      28
     ],
-    "population": 31,
-    "player": "uJgdyv2"
+    "population": 74,
+    "player": "zara"
   },
   {
     "aldeas": [
-      "02"
+      "01"
+    ],
+    "targetMapId": [
+      48,
+      -35
+    ],
+    "population": 30,
+    "player": "pixel"
+  },
+  {
+    "aldeas": [
+      "01"
+    ],
+    "targetMapId": [
+      11,
+      31
+    ],
+    "population": 8,
+    "player": "beduin"
+  },
+  {
+    "aldeas": [
+      "01"
+    ],
+    "targetMapId": [
+      59,
+      31
+    ],
+    "population": 8,
+    "player": "Jhonn"
+  },
+  {
+    "aldeas": [
+      "01"
+    ],
+    "targetMapId": [
+      17,
+      -33
+    ],
+    "population": 110,
+    "player": "Karecko"
+  },
+  {
+    "aldeas": [
+      "01"
+    ],
+    "targetMapId": [
+      15,
+      -32
+    ],
+    "population": 16,
+    "player": "Maria"
+  },
+  {
+    "aldeas": [
+      "01"
+    ],
+    "targetMapId": [
+      72,
+      -10
+    ],
+    "population": 35,
+    "player": "frenkystyle"
+  },
+  {
+    "aldeas": [
+      "01"
+    ],
+    "targetMapId": [
+      73,
+      -6
+    ],
+    "population": 15,
+    "player": "oxii"
+  },
+  {
+    "aldeas": [
+      "01"
+    ],
+    "targetMapId": [
+      27,
+      39
+    ],
+    "population": 17,
+    "player": "Renaud90"
+  },
+  {
+    "aldeas": [
+      "01"
+    ],
+    "targetMapId": [
+      73,
+      9
+    ],
+    "population": 20,
+    "player": "Blackknight"
+  },
+  {
+    "aldeas": [
+      "01"
+    ],
+    "targetMapId": [
+      27,
+      -37
+    ],
+    "population": 37,
+    "player": "The Prince"
+  },
+  {
+    "aldeas": [
+      "01"
+    ],
+    "targetMapId": [
+      62,
+      -27
+    ],
+    "population": 21,
+    "player": "Dovydaxas"
+  },
+  {
+    "aldeas": [
+      "01"
+    ],
+    "targetMapId": [
+      18,
+      36
+    ],
+    "population": 13,
+    "player": "FRJ"
+  },
+  {
+    "aldeas": [
+      "01"
+    ],
+    "targetMapId": [
+      20,
+      -35
+    ],
+    "population": 8,
+    "player": "greger"
+  },
+  {
+    "aldeas": [
+      "01"
+    ],
+    "targetMapId": [
+      74,
+      0
+    ],
+    "population": 11,
+    "player": "MataSete"
+  },
+  {
+    "aldeas": [
+      "01"
+    ],
+    "targetMapId": [
+      60,
+      -29
+    ],
+    "population": 10,
+    "player": "motta"
+  },
+  {
+    "aldeas": [
+      "01"
+    ],
+    "targetMapId": [
+      56,
+      34
+    ],
+    "population": 35,
+    "player": "Ahmedgamal"
+  },
+  {
+    "aldeas": [
+      "01"
+    ],
+    "targetMapId": [
+      38,
+      -38
+    ],
+    "population": 80,
+    "player": "DISCORDIA"
+  },
+  {
+    "aldeas": [
+      "01"
+    ],
+    "targetMapId": [
+      11,
+      -30
+    ],
+    "population": 279,
+    "player": "VictorBrasil"
+  },
+  {
+    "aldeas": [
+      "01"
+    ],
+    "targetMapId": [
+      72,
+      14
+    ],
+    "population": 21,
+    "player": "FawMeh"
+  },
+  {
+    "aldeas": [
+      "01"
+    ],
+    "targetMapId": [
+      74,
+      -4
+    ],
+    "population": 16,
+    "player": "T.M"
+  },
+  {
+    "aldeas": [
+      "01"
+    ],
+    "targetMapId": [
+      53,
+      -34
+    ],
+    "population": 8,
+    "player": "Pilot"
+  },
+  {
+    "aldeas": [
+      "01"
+    ],
+    "targetMapId": [
+      67,
+      -22
+    ],
+    "population": 8,
+    "player": "ROY"
+  },
+  {
+    "aldeas": [
+      "01"
+    ],
+    "targetMapId": [
+      69,
+      21
+    ],
+    "population": 8,
+    "player": "Actros"
+  },
+  {
+    "aldeas": [
+      "01"
+    ],
+    "targetMapId": [
+      74,
+      7
+    ],
+    "population": 11,
+    "player": "buhamdan"
+  },
+  {
+    "aldeas": [
+      "01"
+    ],
+    "targetMapId": [
+      46,
+      39
+    ],
+    "population": 8,
+    "player": "Catalyst"
+  },
+  {
+    "aldeas": [
+      "01"
+    ],
+    "targetMapId": [
+      73,
+      12
+    ],
+    "population": 12,
+    "player": "parikal"
+  },
+  {
+    "aldeas": [
+      "01"
+    ],
+    "targetMapId": [
+      63,
+      29
+    ],
+    "population": 121,
+    "player": "Yok"
+  },
+  {
+    "aldeas": [
+      "01"
+    ],
+    "targetMapId": [
+      65,
+      27
+    ],
+    "population": 8,
+    "player": "preto123"
+  },
+  {
+    "aldeas": [
+      "01"
+    ],
+    "targetMapId": [
+      70,
+      20
+    ],
+    "population": 18,
+    "player": "KAlllAFE"
+  },
+  {
+    "aldeas": [
+      "01"
+    ],
+    "targetMapId": [
+      74,
+      -8
+    ],
+    "population": 65,
+    "player": "Weve"
+  },
+  {
+    "aldeas": [
+      "01"
+    ],
+    "targetMapId": [
+      75,
+      -1
+    ],
+    "population": 30,
+    "player": "Feraking"
+  },
+  {
+    "aldeas": [
+      "01"
+    ],
+    "targetMapId": [
+      32,
+      41
+    ],
+    "population": 12,
+    "player": "Johnson"
+  },
+  {
+    "aldeas": [
+      "01"
+    ],
+    "targetMapId": [
+      39,
+      -39
+    ],
+    "population": 16,
+    "player": "Hurin"
+  },
+  {
+    "aldeas": [
+      "01"
+    ],
+    "targetMapId": [
+      31,
+      -39
+    ],
+    "population": 8,
+    "player": "OrganDealer"
+  },
+  {
+    "aldeas": [
+      "01"
+    ],
+    "targetMapId": [
+      17,
+      -35
+    ],
+    "population": 109,
+    "player": "Xz9MXnuQd"
+  },
+  {
+    "aldeas": [
+      "01"
+    ],
+    "targetMapId": [
+      45,
+      40
+    ],
+    "population": 84,
+    "player": "telekomedi"
+  },
+  {
+    "aldeas": [
+      "01"
+    ],
+    "targetMapId": [
+      19,
+      38
+    ],
+    "population": 188,
+    "player": "Tony_Soprano"
+  },
+  {
+    "aldeas": [
+      "01"
+    ],
+    "targetMapId": [
+      40,
+      41
+    ],
+    "population": 38,
+    "player": "QuazSkr"
+  },
+  {
+    "aldeas": [
+      "01"
+    ],
+    "targetMapId": [
+      75,
+      -5
+    ],
+    "population": 8,
+    "player": "Zehralım"
+  },
+  {
+    "aldeas": [
+      "01"
+    ],
+    "targetMapId": [
+      9,
+      -30
+    ],
+    "population": 220,
+    "player": "Azaszek"
+  },
+  {
+    "aldeas": [
+      "01"
+    ],
+    "targetMapId": [
+      73,
+      -13
+    ],
+    "population": 12,
+    "player": "Gengar"
+  },
+  {
+    "aldeas": [
+      "01"
+    ],
+    "targetMapId": [
+      46,
+      -38
+    ],
+    "population": 8,
+    "player": "Krusty"
+  },
+  {
+    "aldeas": [
+      "01"
+    ],
+    "targetMapId": [
+      42,
+      -39
+    ],
+    "population": 8,
+    "player": "Reaper"
+  },
+  {
+    "aldeas": [
+      "01"
+    ],
+    "targetMapId": [
+      16,
+      37
+    ],
+    "population": 8,
+    "player": "God_Father"
+  },
+  {
+    "aldeas": [
+      "01"
+    ],
+    "targetMapId": [
+      59,
+      34
+    ],
+    "population": 9,
+    "player": "GoneAbbel"
+  },
+  {
+    "aldeas": [
+      "01"
+    ],
+    "targetMapId": [
+      68,
+      -23
+    ],
+    "population": 153,
+    "player": "SilentCanopy"
+  },
+  {
+    "aldeas": [
+      "01"
+    ],
+    "targetMapId": [
+      56,
+      36
+    ],
+    "population": 8,
+    "player": "Eldak"
+  },
+  {
+    "aldeas": [
+      "01"
+    ],
+    "targetMapId": [
+      44,
+      41
+    ],
+    "population": 50,
+    "player": "Sneg"
+  },
+  {
+    "aldeas": [
+      "01"
+    ],
+    "targetMapId": [
+      76,
+      2
+    ],
+    "population": 95,
+    "player": "ETZEL"
+  },
+  {
+    "aldeas": [
+      "01"
+    ],
+    "targetMapId": [
+      65,
+      29
+    ],
+    "population": 24,
+    "player": "Sinuxy"
+  },
+  {
+    "aldeas": [
+      "01"
+    ],
+    "targetMapId": [
+      69,
+      24
+    ],
+    "population": 15,
+    "player": "Nanto"
+  },
+  {
+    "aldeas": [
+      "01"
+    ],
+    "targetMapId": [
+      72,
+      -17
+    ],
+    "population": 20,
+    "player": "Grimm05"
+  },
+  {
+    "aldeas": [
+      "01"
+    ],
+    "targetMapId": [
+      55,
+      -35
+    ],
+    "population": 115,
+    "player": "Banderasss"
+  },
+  {
+    "aldeas": [
+      "01"
+    ],
+    "targetMapId": [
+      67,
+      27
+    ],
+    "population": 8,
+    "player": "Ozymandias"
+  },
+  {
+    "aldeas": [
+      "01"
+    ],
+    "targetMapId": [
+      76,
+      -4
+    ],
+    "population": 12,
+    "player": "SSSR"
+  },
+  {
+    "aldeas": [
+      "01"
+    ],
+    "targetMapId": [
+      10,
+      34
+    ],
+    "population": 9,
+    "player": "Julius Caes…"
+  },
+  {
+    "aldeas": [
+      "01"
+    ],
+    "targetMapId": [
+      76,
+      7
+    ],
+    "population": 18,
+    "player": "barbarr"
+  },
+  {
+    "aldeas": [
+      "01"
+    ],
+    "targetMapId": [
+      16,
+      -36
+    ],
+    "population": 8,
+    "player": "Meterdad"
+  },
+  {
+    "aldeas": [
+      "01"
+    ],
+    "targetMapId": [
+      59,
+      -33
+    ],
+    "population": 62,
+    "player": "edwin"
+  },
+  {
+    "aldeas": [
+      "01"
+    ],
+    "targetMapId": [
+      75,
+      13
+    ],
+    "population": 17,
+    "player": "EEEe"
+  },
+  {
+    "aldeas": [
+      "01"
+    ],
+    "targetMapId": [
+      27,
+      42
+    ],
+    "population": 14,
+    "player": "Wimpy_kid"
+  },
+  {
+    "aldeas": [
+      "01"
+    ],
+    "targetMapId": [
+      43,
+      42
+    ],
+    "population": 190,
+    "player": "Rasmis"
+  },
+  {
+    "aldeas": [
+      "01"
+    ],
+    "targetMapId": [
+      50,
+      40
+    ],
+    "population": 14,
+    "player": "nF7dwoH3px"
+  },
+  {
+    "aldeas": [
+      "01"
+    ],
+    "targetMapId": [
+      61,
+      34
+    ],
+    "population": 8,
+    "player": "WarZone"
+  },
+  {
+    "aldeas": [
+      "01"
+    ],
+    "targetMapId": [
+      48,
+      -39
+    ],
+    "population": 172,
+    "player": "Rye"
+  },
+  {
+    "aldeas": [
+      "01"
+    ],
+    "targetMapId": [
+      38,
+      -41
+    ],
+    "population": 10,
+    "player": "Google"
+  },
+  {
+    "aldeas": [
+      "01"
+    ],
+    "targetMapId": [
+      77,
+      -3
+    ],
+    "population": 27,
+    "player": "0knvfsnm"
+  },
+  {
+    "aldeas": [
+      "01"
+    ],
+    "targetMapId": [
+      77,
+      -5
+    ],
+    "population": 8,
+    "player": "EXPRES"
+  },
+  {
+    "aldeas": [
+      "01"
+    ],
+    "targetMapId": [
+      29,
+      43
+    ],
+    "population": 8,
+    "player": "casiank3"
+  },
+  {
+    "aldeas": [
+      "01"
+    ],
+    "targetMapId": [
+      70,
+      25
+    ],
+    "population": 12,
+    "player": "Alpertunga"
+  },
+  {
+    "aldeas": [
+      "01"
     ],
     "targetMapId": [
       66,
-      84
+      30
     ],
-    "population": 180,
-    "player": "Dampfarsan"
+    "population": 29,
+    "player": "Komarac"
   },
   {
     "aldeas": [
-      "02"
+      "01"
     ],
     "targetMapId": [
-      51,
-      59
+      67,
+      29
     ],
-    "population": 621,
+    "population": 10,
+    "player": "tormoz"
+  },
+  {
+    "aldeas": [
+      "01"
+    ],
+    "targetMapId": [
+      14,
+      38
+    ],
+    "population": 240,
+    "player": "Lyneya"
+  },
+  {
+    "aldeas": [
+      "01"
+    ],
+    "targetMapId": [
+      52,
+      -38
+    ],
+    "population": 173,
     "player": "baranylmaz"
   },
   {
     "aldeas": [
-      "02"
+      "01"
     ],
     "targetMapId": [
-      67,
-      85
+      68,
+      28
     ],
-    "population": 0,
-    "player": "acimili"
+    "population": 12,
+    "player": "pakuta"
   },
   {
     "aldeas": [
-      "02"
+      "01"
     ],
     "targetMapId": [
-      67,
-      11
+      58,
+      37
     ],
-    "population": 10,
-    "player": "Deja Vu"
+    "population": 19,
+    "player": "hunterxhunt…"
   },
   {
     "aldeas": [
-      "02"
+      "01"
     ],
     "targetMapId": [
-      61,
-      17
+      47,
+      42
     ],
-    "population": 414,
-    "player": "catwoman"
+    "population": 47,
+    "player": "Malerasa"
   },
   {
     "aldeas": [
-      "02"
+      "01"
+    ],
+    "targetMapId": [
+      23,
+      42
+    ],
+    "population": 130,
+    "player": "Sponsi777"
+  },
+  {
+    "aldeas": [
+      "01"
     ],
     "targetMapId": [
       55,
-      26
+      39
     ],
-    "population": 465,
-    "player": "neto"
+    "population": 8,
+    "player": "Paimon"
   },
   {
     "aldeas": [
-      "02"
+      "01"
     ],
     "targetMapId": [
-      76,
-      91
+      26,
+      -41
     ],
-    "population": 347,
-    "player": "Ironz"
+    "population": 26,
+    "player": "w8PP63q"
   },
   {
     "aldeas": [
-      "02"
+      "01"
     ],
     "targetMapId": [
-      56,
-      72
+      26,
+      43
     ],
-    "population": 990,
-    "player": "Arwa"
+    "population": 17,
+    "player": "Pagonis"
   },
   {
     "aldeas": [
-      "02"
+      "01"
     ],
     "targetMapId": [
-      56,
-      24
+      51,
+      41
     ],
-    "population": 468,
-    "player": "gomes"
+    "population": 8,
+    "player": "Cyric"
   },
   {
     "aldeas": [
-      "02"
+      "01"
     ],
     "targetMapId": [
-      57,
-      22
+      5,
+      32
     ],
-    "population": 475,
-    "player": "marcelino"
+    "population": 98,
+    "player": "Wild"
   },
   {
     "aldeas": [
-      "02"
+      "01"
     ],
     "targetMapId": [
-      75,
-      91
+      5,
+      -30
     ],
-    "population": 347,
-    "player": "Ironz"
+    "population": 14,
+    "player": "Redraa"
   },
   {
     "aldeas": [
-      "02"
+      "01"
     ],
     "targetMapId": [
-      58,
-      20
+      65,
+      -30
     ],
-    "population": 395,
-    "player": "Larilicia"
+    "population": 21,
+    "player": "makedonsky"
   },
   {
     "aldeas": [
-      "02"
+      "01"
     ],
     "targetMapId": [
-      58,
-      76
+      68,
+      -27
     ],
-    "population": 25,
-    "player": "MarcosPower"
+    "population": 8,
+    "player": "Atila_elhuno"
   },
   {
     "aldeas": [
-      "02"
+      "01"
     ],
     "targetMapId": [
-      79,
-      93
+      24,
+      43
     ],
-    "population": 9,
-    "player": "KIRIOKA"
+    "population": 49,
+    "player": "KayakaBG"
   },
   {
     "aldeas": [
-      "02"
+      "01"
     ],
     "targetMapId": [
-      117,
-      3
+      12,
+      -36
     ],
-    "population": 15,
-    "player": "AYI01"
+    "population": 67,
+    "player": "kumarbaz"
   },
   {
     "aldeas": [
-      "02"
+      "01"
     ],
     "targetMapId": [
       50,
+      42
+    ],
+    "population": 8,
+    "player": "TheMaster19…"
+  },
+  {
+    "aldeas": [
+      "01"
+    ],
+    "targetMapId": [
+      74,
+      -19
+    ],
+    "population": 24,
+    "player": "Player01"
+  },
+  {
+    "aldeas": [
+      "01"
+    ],
+    "targetMapId": [
+      75,
+      -17
+    ],
+    "population": 10,
+    "player": "lfl"
+  },
+  {
+    "aldeas": [
+      "01"
+    ],
+    "targetMapId": [
+      75,
+      19
+    ],
+    "population": 16,
+    "player": "MITSY"
+  },
+  {
+    "aldeas": [
+      "01"
+    ],
+    "targetMapId": [
+      73,
+      -21
+    ],
+    "population": 13,
+    "player": "SuperMurlock"
+  },
+  {
+    "aldeas": [
+      "01"
+    ],
+    "targetMapId": [
+      72,
+      -23
+    ],
+    "population": 17,
+    "player": "Karin"
+  },
+  {
+    "aldeas": [
+      "01"
+    ],
+    "targetMapId": [
+      25,
+      -42
+    ],
+    "population": 8,
+    "player": "3JA0QU"
+  },
+  {
+    "aldeas": [
+      "01"
+    ],
+    "targetMapId": [
+      76,
+      -16
+    ],
+    "population": 8,
+    "player": "Augustus"
+  },
+  {
+    "aldeas": [
+      "01"
+    ],
+    "targetMapId": [
+      18,
+      42
+    ],
+    "population": 19,
+    "player": "Max"
+  },
+  {
+    "aldeas": [
+      "01"
+    ],
+    "targetMapId": [
+      71,
+      -25
+    ],
+    "population": 9,
+    "player": "GugaIII"
+  },
+  {
+    "aldeas": [
+      "01"
+    ],
+    "targetMapId": [
+      12,
+      39
+    ],
+    "population": 8,
+    "player": "Mobster"
+  },
+  {
+    "aldeas": [
+      "01"
+    ],
+    "targetMapId": [
+      66,
+      33
+    ],
+    "population": 8,
+    "player": "CLAUDIUS VI…"
+  },
+  {
+    "aldeas": [
+      "01"
+    ],
+    "targetMapId": [
+      42,
+      -43
+    ],
+    "population": 138,
+    "player": "Greybeard"
+  },
+  {
+    "aldeas": [
+      "01"
+    ],
+    "targetMapId": [
+      77,
+      16
+    ],
+    "population": 9,
+    "player": "PowerAdapter"
+  },
+  {
+    "aldeas": [
+      "01"
+    ],
+    "targetMapId": [
+      23,
+      -42
+    ],
+    "population": 8,
+    "player": "Lollaccio"
+  },
+  {
+    "aldeas": [
+      "01"
+    ],
+    "targetMapId": [
+      64,
+      35
+    ],
+    "population": 8,
+    "player": "RainDREAM"
+  },
+  {
+    "aldeas": [
+      "01"
+    ],
+    "targetMapId": [
+      1,
+      30
+    ],
+    "population": 8,
+    "player": "Nemanjce"
+  },
+  {
+    "aldeas": [
+      "01"
+    ],
+    "targetMapId": [
+      8,
+      -35
+    ],
+    "population": 77,
+    "player": "Bpjs"
+  },
+  {
+    "aldeas": [
+      "01"
+    ],
+    "targetMapId": [
+      36,
+      46
+    ],
+    "population": 32,
+    "player": "Ruajmao"
+  },
+  {
+    "aldeas": [
+      "01"
+    ],
+    "targetMapId": [
+      16,
+      42
+    ],
+    "population": 37,
+    "player": "F8a8K2Ugur"
+  },
+  {
+    "aldeas": [
+      "01"
+    ],
+    "targetMapId": [
+      61,
       38
     ],
-    "population": 303,
-    "player": "viper"
+    "population": 104,
+    "player": "Flare"
+  },
+  {
+    "aldeas": [
+      "01"
+    ],
+    "targetMapId": [
+      65,
+      -33
+    ],
+    "population": 12,
+    "player": "Oxopia"
   }
 ]
