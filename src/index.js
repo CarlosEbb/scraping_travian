@@ -74,11 +74,12 @@ async function automateTask(config) {
   
     // Verificar si la tarea celebrateFestival está asignada
     const hasCelebrateFestivalTask = aldea.task.some(task => task.name === "celebrateFestival");
-  
+    const festivalType = aldea.task.find(t => t.name === "celebrateFestival")?.tipo || "1";
+
     // Verificar si hay fiestas activas
     let hasActiveFestivals = false;
     if (hasCelebrateFestivalTask) {
-      const festivalStatus = await celebrateFestival(page, aldea);
+      const festivalStatus = await celebrateFestival(page, aldea, festivalType);
       hasActiveFestivals = festivalStatus.hasFestivalInProgress;
     }
   
@@ -123,7 +124,7 @@ async function automateTask(config) {
       // Tarea celebrateFestival (siempre se ejecuta)
       else if (task.name === "celebrateFestival") {
         console.log(`Realizando fiesta en la aldea ${aldea.name}`);
-        await celebrateFestival(page, aldea);
+        await celebrateFestival(page, aldea, festivalType);
       }
   
       // Tareas que consumen recursos (solo se ejecutan si hay fiestas activas o no está asignada celebrateFestival)
@@ -153,17 +154,31 @@ async function automateTask(config) {
 
 let retryCount = 0;
 const maxRetries = 5;
+let isFirstExecution = true;
+
+// Función para generar un número aleatorio entre un mínimo y un máximo
+function getRandomDelay(min, max) {
+  return Math.floor(Math.random() * (max - min + 1)) + min;
+}
 
 async function executeTasksRecursively(config) {
   try {
-
     // Ejecutar la tarea de buscar aldeas inactivas una vez al día
-    
     const config = await reloadConfig();
     await findInactiveVillages(config.aldeas);
     await automateTask(config);
-    
+
     retryCount = 0; // Resetear el contador de reintentos si la tarea se ejecuta correctamente
+
+    // Si no es la primera ejecución, agregar un delay aleatorio entre 1 y 5 minutos
+    if (!isFirstExecution) {
+      const randomDelay = getRandomDelay(60000, 300000); // Entre 1 y 5 minutos
+      console.log(`Esperando ${randomDelay / 1000} segundos antes de la siguiente ejecución...`);
+      await new Promise(resolve => setTimeout(resolve, randomDelay));
+    } else {
+      isFirstExecution = false; // Marcar que ya no es la primera ejecución
+    }
+
     await executeTasksRecursively(config);
   } catch (error) {
     console.error("Error ejecutando las tareas:", error);

@@ -20,7 +20,7 @@ if (!fs.existsSync(temporalDir)) {
 
 // Función para obtener la primera tropa disponible que cumpla con la cantidad requerida
 export async function getAllAvailableTroops(page, requiredAmount) {
-  const troopTypes = ['t1', 't2', 't3', 't5', 't6']; // Tipos de tropa
+  const troopTypes = ['t1', 't5', 't6']; // Tipos de tropa
 
   // Extraer todos los datos de las tropas en una sola corrida
   const troopsData = await page.$$eval('input[name^="troop[t"]', (inputs) => {
@@ -330,7 +330,7 @@ export async function sendOffensiveTroops(page, aldea, baseUrl) {
     }
 
     // Enviar todas las tropas ofensivas (t1, t3, t5, t6, t7)
-    const offensiveTroops = ['t1', 't3', 't5', 't6', 't7'];
+    const offensiveTroops = ['t1', 't5', 't6', 't7'];
     for (const troopType of offensiveTroops) {
       const availableCount = troopsAvailable[troopType] || 0;
       if (availableCount > 0) {

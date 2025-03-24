@@ -51,13 +51,14 @@ export async function findInactiveVillages(aldeas) {
       }
 
       let allInactiveVillages = []; // Array para almacenar todas las aldeas inactivas
-
+      console.log(1111111111);
       // Iterar sobre el número de páginas
       for (let pageNumber = 1; pageNumber <= numberOfPages; pageNumber++) {
         const searchUrl = `https://www.travcotools.com/en/inactive-search/?travian_server=1050&x=${x}&y=${y}&days=3&distance_min=&distance_max=&player_pop_min=&player_pop_max=&village_pop_min=&village_pop_max=&exclude_alliances=1227799&exclude_alliances=1227792&exclude_alliances=1227797&max_pop_increase=0&village_is_capital=&order_by=distance&page=${pageNumber}`;
+        console.log(searchUrl);
         console.log(`Procesando página ${pageNumber} para la aldea ${name}...`);
         await page.goto(searchUrl, { waitUntil: 'networkidle2', timeout: 60000 });
-
+        await new Promise(resolve => setTimeout(resolve, 10000));
         // Extraer los datos de la tabla
         const inactiveVillages = await page.$$eval('tr.border-bottom', (rows) => {
           return rows.map(row => {

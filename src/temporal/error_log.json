@@ -2,5 +2,2581 @@
   {
     "timestamp": "2025-03-11T21:45:30.862Z",
     "message": "Error procesando el enlace https://ts30.x3.america.travian.com/build.php?id=39&gid=16&tt=2&x=52&y=24: Waiting for selector `#in` failed: Waiting failed: 10000ms exceeded"
+  },
+  {
+    "timestamp": "2025-03-12T19:29:47.827Z",
+    "message": "Error procesando el enlace https://ts30.x3.america.travian.com/build.php?id=39&gid=16&tt=2&x=39&y=4: net::ERR_NAME_NOT_RESOLVED at https://ts30.x3.america.travian.com/build.php?id=39&gid=16&tt=2&x=39&y=4"
+  },
+  {
+    "timestamp": "2025-03-15T10:33:34.074Z",
+    "message": "Error procesando el enlace https://ts30.x3.america.travian.com/build.php?id=39&gid=16&tt=2&x=31&y=69: net::ERR_ABORTED at https://ts30.x3.america.travian.com/build.php?id=39&gid=16&tt=2&x=31&y=69"
+  },
+  {
+    "timestamp": "2025-03-16T05:48:36.929Z",
+    "message": "Error procesando el enlace https://ts30.x3.america.travian.com/build.php?id=39&gid=16&tt=2&x=30&y=80: Waiting for selector `#in` failed: Waiting failed: 10000ms exceeded"
+  },
+  {
+    "timestamp": "2025-03-17T15:11:24.082Z",
+    "message": "Error procesando el enlace https://ts30.x3.america.travian.com/build.php?id=39&gid=16&tt=2&x=30&y=75: net::ERR_ABORTED at https://ts30.x3.america.travian.com/build.php?id=39&gid=16&tt=2&x=30&y=75"
+  },
+  {
+    "timestamp": "2025-03-17T18:28:57.062Z",
+    "message": "Error procesando el enlace https://ts30.x3.america.travian.com/build.php?id=39&gid=16&tt=2&x=36&y=73: net::ERR_ABORTED at https://ts30.x3.america.travian.com/build.php?id=39&gid=16&tt=2&x=36&y=73"
+  },
+  {
+    "timestamp": "2025-03-17T22:07:03.078Z",
+    "message": "Error procesando el enlace https://ts30.x3.america.travian.com/build.php?id=39&gid=16&tt=2&x=29&y=76: net::ERR_ABORTED at https://ts30.x3.america.travian.com/build.php?id=39&gid=16&tt=2&x=29&y=76"
+  },
+  {
+    "timestamp": "2025-03-17T22:51:20.064Z",
+    "message": "Error procesando el enlace https://ts30.x3.america.travian.com/build.php?id=39&gid=16&tt=2&x=18&y=73: net::ERR_ABORTED at https://ts30.x3.america.travian.com/build.php?id=39&gid=16&tt=2&x=18&y=73"
+  },
+  {
+    "timestamp": "2025-03-18T05:22:34.338Z",
+    "message": "Error procesando el enlace https://ts30.x3.america.travian.com/build.php?id=39&gid=16&tt=2&x=25&y=73: Navigation timeout of 60000 ms exceeded"
+  },
+  {
+    "timestamp": "2025-03-18T14:50:10.082Z",
+    "message": "Error procesando el enlace https://ts30.x3.america.travian.com/build.php?id=39&gid=16&tt=2&x=26&y=71: net::ERR_ABORTED at https://ts30.x3.america.travian.com/build.php?id=39&gid=16&tt=2&x=26&y=71"
+  },
+  {
+    "timestamp": "2025-03-19T19:52:14.821Z",
+    "message": "Error procesando el enlace https://ts30.x3.america.travian.com/build.php?id=39&gid=16&tt=2&x=33&y=-9: Navigation timeout of 60000 ms exceeded"
+  },
+  {
+    "timestamp": "2025-03-21T20:20:50.063Z",
+    "message": "Error procesando el enlace https://ts30.x3.america.travian.com/build.php?id=39&gid=16&tt=2&x=26&y=73: net::ERR_ABORTED at https://ts30.x3.america.travian.com/build.php?id=39&gid=16&tt=2&x=26&y=73"
+  },
+  {
+    "timestamp": "2025-03-22T05:21:58.081Z",
+    "message": "Error procesando el enlace https://ts30.x3.america.travian.com/build.php?id=39&gid=16&tt=2&x=31&y=69: net::ERR_ABORTED at https://ts30.x3.america.travian.com/build.php?id=39&gid=16&tt=2&x=31&y=69"
+  },
+  {
+    "timestamp": "2025-03-22T12:57:21.090Z",
+    "message": "Error procesando el enlace https://ts30.x3.america.travian.com/build.php?id=39&gid=16&tt=2&x=27&y=83: net::ERR_ABORTED at https://ts30.x3.america.travian.com/build.php?id=39&gid=16&tt=2&x=27&y=83"
+  },
+  {
+    "timestamp": "2025-03-22T19:43:57.379Z",
+    "message": "Error procesando el enlace https://ts30.x3.america.travian.com/build.php?id=39&gid=16&tt=2&x=35&y=88: Protocol error (DOM.resolveNode): Node with given id does not belong to the document"
+  },
+  {
+    "timestamp": "2025-03-23T05:18:37.103Z",
+    "message": "Error procesando el enlace https://ts30.x3.america.travian.com/build.php?id=39&gid=16&tt=2&x=35&y=15: net::ERR_ABORTED at https://ts30.x3.america.travian.com/build.php?id=39&gid=16&tt=2&x=35&y=15"
+  },
+  {
+    "timestamp": "2025-03-23T20:23:59.087Z",
+    "message": "Error procesando el enlace https://ts30.x3.america.travian.com/build.php?id=39&gid=16&tt=2&x=30&y=67: net::ERR_ABORTED at https://ts30.x3.america.travian.com/build.php?id=39&gid=16&tt=2&x=30&y=67"
+  },
+  {
+    "timestamp": "2025-03-23T21:14:23.977Z",
+    "message": "Error procesando el enlace https://ts30.x3.america.travian.com/build.php?id=39&gid=16&tt=2&x=48&y=70: Waiting for selector `#in` failed: Waiting failed: 10000ms exceeded"
+  },
+  {
+    "timestamp": "2025-03-24T01:59:24.704Z",
+    "message": "Error procesando el enlace https://ts30.x3.america.travian.com/build.php?id=39&gid=16&tt=2&x=43&y=13: Attempted to use detached Frame '030DF21BE1D7D91356EA099AC6185F16'."
+  },
+  {
+    "timestamp": "2025-03-24T01:59:24.705Z",
+    "message": "Error procesando el enlace https://ts30.x3.america.travian.com/build.php?id=39&gid=16&tt=2&x=44&y=12: Attempted to use detached Frame '030DF21BE1D7D91356EA099AC6185F16'."
+  },
+  {
+    "timestamp": "2025-03-24T01:59:24.708Z",
+    "message": "Error procesando el enlace https://ts30.x3.america.travian.com/build.php?id=39&gid=16&tt=2&x=42&y=14: Attempted to use detached Frame '030DF21BE1D7D91356EA099AC6185F16'."
+  },
+  {
+    "timestamp": "2025-03-24T01:59:24.710Z",
+    "message": "Error procesando el enlace https://ts30.x3.america.travian.com/build.php?id=39&gid=16&tt=2&x=48&y=4: Attempted to use detached Frame '030DF21BE1D7D91356EA099AC6185F16'."
+  },
+  {
+    "timestamp": "2025-03-24T01:59:24.715Z",
+    "message": "Error procesando el enlace https://ts30.x3.america.travian.com/build.php?id=39&gid=16&tt=2&x=44&y=-11: Attempted to use detached Frame '030DF21BE1D7D91356EA099AC6185F16'."
+  },
+  {
+    "timestamp": "2025-03-24T01:59:24.717Z",
+    "message": "Error procesando el enlace https://ts30.x3.america.travian.com/build.php?id=39&gid=16&tt=2&x=25&y=18: Attempted to use detached Frame '030DF21BE1D7D91356EA099AC6185F16'."
+  },
+  {
+    "timestamp": "2025-03-24T01:59:24.719Z",
+    "message": "Error procesando el enlace https://ts30.x3.america.travian.com/build.php?id=39&gid=16&tt=2&x=46&y=11: Attempted to use detached Frame '030DF21BE1D7D91356EA099AC6185F16'."
+  },
+  {
+    "timestamp": "2025-03-24T01:59:24.721Z",
+    "message": "Error procesando el enlace https://ts30.x3.america.travian.com/build.php?id=39&gid=16&tt=2&x=49&y=2: Attempted to use detached Frame '030DF21BE1D7D91356EA099AC6185F16'."
+  },
+  {
+    "timestamp": "2025-03-24T01:59:24.723Z",
+    "message": "Error procesando el enlace https://ts30.x3.america.travian.com/build.php?id=39&gid=16&tt=2&x=48&y=8: Attempted to use detached Frame '030DF21BE1D7D91356EA099AC6185F16'."
+  },
+  {
+    "timestamp": "2025-03-24T01:59:24.726Z",
+    "message": "Error procesando el enlace https://ts30.x3.america.travian.com/build.php?id=39&gid=16&tt=2&x=50&y=1: Attempted to use detached Frame '030DF21BE1D7D91356EA099AC6185F16'."
+  },
+  {
+    "timestamp": "2025-03-24T01:59:24.729Z",
+    "message": "Error procesando el enlace https://ts30.x3.america.travian.com/build.php?id=39&gid=16&tt=2&x=43&y=-14: Attempted to use detached Frame '030DF21BE1D7D91356EA099AC6185F16'."
+  },
+  {
+    "timestamp": "2025-03-24T01:59:24.730Z",
+    "message": "Error procesando el enlace https://ts30.x3.america.travian.com/build.php?id=39&gid=16&tt=2&x=48&y=10: Attempted to use detached Frame '030DF21BE1D7D91356EA099AC6185F16'."
+  },
+  {
+    "timestamp": "2025-03-24T01:59:24.733Z",
+    "message": "Error procesando el enlace https://ts30.x3.america.travian.com/build.php?id=39&gid=16&tt=2&x=35&y=20: Attempted to use detached Frame '030DF21BE1D7D91356EA099AC6185F16'."
+  },
+  {
+    "timestamp": "2025-03-24T01:59:24.734Z",
+    "message": "Error procesando el enlace https://ts30.x3.america.travian.com/build.php?id=39&gid=16&tt=2&x=42&y=17: Attempted to use detached Frame '030DF21BE1D7D91356EA099AC6185F16'."
+  },
+  {
+    "timestamp": "2025-03-24T01:59:24.736Z",
+    "message": "Error procesando el enlace https://ts30.x3.america.travian.com/build.php?id=39&gid=16&tt=2&x=45&y=15: Attempted to use detached Frame '030DF21BE1D7D91356EA099AC6185F16'."
+  },
+  {
+    "timestamp": "2025-03-24T01:59:24.738Z",
+    "message": "Error procesando el enlace https://ts30.x3.america.travian.com/build.php?id=39&gid=16&tt=2&x=50&y=-5: Attempted to use detached Frame '030DF21BE1D7D91356EA099AC6185F16'."
+  },
+  {
+    "timestamp": "2025-03-24T01:59:24.739Z",
+    "message": "Error procesando el enlace https://ts30.x3.america.travian.com/build.php?id=39&gid=16&tt=2&x=25&y=20: Attempted to use detached Frame '030DF21BE1D7D91356EA099AC6185F16'."
+  },
+  {
+    "timestamp": "2025-03-24T01:59:24.740Z",
+    "message": "Error procesando el enlace https://ts30.x3.america.travian.com/build.php?id=39&gid=16&tt=2&x=25&y=-19: Attempted to use detached Frame '030DF21BE1D7D91356EA099AC6185F16'."
+  },
+  {
+    "timestamp": "2025-03-24T01:59:24.742Z",
+    "message": "Error procesando el enlace https://ts30.x3.america.travian.com/build.php?id=39&gid=16&tt=2&x=52&y=1: Attempted to use detached Frame '030DF21BE1D7D91356EA099AC6185F16'."
+  },
+  {
+    "timestamp": "2025-03-24T01:59:24.743Z",
+    "message": "Error procesando el enlace https://ts30.x3.america.travian.com/build.php?id=39&gid=16&tt=2&x=28&y=22: Attempted to use detached Frame '030DF21BE1D7D91356EA099AC6185F16'."
+  },
+  {
+    "timestamp": "2025-03-24T01:59:24.745Z",
+    "message": "Error procesando el enlace https://ts30.x3.america.travian.com/build.php?id=39&gid=16&tt=2&x=47&y=15: Attempted to use detached Frame '030DF21BE1D7D91356EA099AC6185F16'."
+  },
+  {
+    "timestamp": "2025-03-24T01:59:24.746Z",
+    "message": "Error procesando el enlace https://ts30.x3.america.travian.com/build.php?id=39&gid=16&tt=2&x=51&y=-7: Attempted to use detached Frame '030DF21BE1D7D91356EA099AC6185F16'."
+  },
+  {
+    "timestamp": "2025-03-24T01:59:24.748Z",
+    "message": "Error procesando el enlace https://ts30.x3.america.travian.com/build.php?id=39&gid=16&tt=2&x=52&y=6: Attempted to use detached Frame '030DF21BE1D7D91356EA099AC6185F16'."
+  },
+  {
+    "timestamp": "2025-03-24T01:59:24.749Z",
+    "message": "Error procesando el enlace https://ts30.x3.america.travian.com/build.php?id=39&gid=16&tt=2&x=25&y=22: Attempted to use detached Frame '030DF21BE1D7D91356EA099AC6185F16'."
+  },
+  {
+    "timestamp": "2025-03-24T01:59:24.752Z",
+    "message": "Error procesando el enlace https://ts30.x3.america.travian.com/build.php?id=39&gid=16&tt=2&x=52&y=-6: Attempted to use detached Frame '030DF21BE1D7D91356EA099AC6185F16'."
+  },
+  {
+    "timestamp": "2025-03-24T01:59:24.753Z",
+    "message": "Error procesando el enlace https://ts30.x3.america.travian.com/build.php?id=39&gid=16&tt=2&x=23&y=-20: Attempted to use detached Frame '030DF21BE1D7D91356EA099AC6185F16'."
+  },
+  {
+    "timestamp": "2025-03-24T01:59:24.755Z",
+    "message": "Error procesando el enlace https://ts30.x3.america.travian.com/build.php?id=39&gid=16&tt=2&x=54&y=1: Attempted to use detached Frame '030DF21BE1D7D91356EA099AC6185F16'."
+  },
+  {
+    "timestamp": "2025-03-24T01:59:24.756Z",
+    "message": "Error procesando el enlace https://ts30.x3.america.travian.com/build.php?id=39&gid=16&tt=2&x=35&y=-22: Attempted to use detached Frame '030DF21BE1D7D91356EA099AC6185F16'."
+  },
+  {
+    "timestamp": "2025-03-24T01:59:24.757Z",
+    "message": "Error procesando el enlace https://ts30.x3.america.travian.com/build.php?id=39&gid=16&tt=2&x=35&y=24: Attempted to use detached Frame '030DF21BE1D7D91356EA099AC6185F16'."
+  },
+  {
+    "timestamp": "2025-03-24T01:59:24.759Z",
+    "message": "Error procesando el enlace https://ts30.x3.america.travian.com/build.php?id=39&gid=16&tt=2&x=46&y=19: Attempted to use detached Frame '030DF21BE1D7D91356EA099AC6185F16'."
+  },
+  {
+    "timestamp": "2025-03-24T01:59:24.761Z",
+    "message": "Error procesando el enlace https://ts30.x3.america.travian.com/build.php?id=39&gid=16&tt=2&x=36&y=-22: Attempted to use detached Frame '030DF21BE1D7D91356EA099AC6185F16'."
+  },
+  {
+    "timestamp": "2025-03-24T01:59:24.763Z",
+    "message": "Error procesando el enlace https://ts30.x3.america.travian.com/build.php?id=39&gid=16&tt=2&x=54&y=6: Attempted to use detached Frame '030DF21BE1D7D91356EA099AC6185F16'."
+  },
+  {
+    "timestamp": "2025-03-24T01:59:24.764Z",
+    "message": "Error procesando el enlace https://ts30.x3.america.travian.com/build.php?id=39&gid=16&tt=2&x=22&y=-21: Attempted to use detached Frame '030DF21BE1D7D91356EA099AC6185F16'."
+  },
+  {
+    "timestamp": "2025-03-24T01:59:24.765Z",
+    "message": "Error procesando el enlace https://ts30.x3.america.travian.com/build.php?id=39&gid=16&tt=2&x=55&y=0: Attempted to use detached Frame '030DF21BE1D7D91356EA099AC6185F16'."
+  },
+  {
+    "timestamp": "2025-03-24T01:59:24.766Z",
+    "message": "Error procesando el enlace https://ts30.x3.america.travian.com/build.php?id=39&gid=16&tt=2&x=55&y=2: Attempted to use detached Frame '030DF21BE1D7D91356EA099AC6185F16'."
+  },
+  {
+    "timestamp": "2025-03-24T01:59:24.768Z",
+    "message": "Error procesando el enlace https://ts30.x3.america.travian.com/build.php?id=39&gid=16&tt=2&x=41&y=23: Attempted to use detached Frame '030DF21BE1D7D91356EA099AC6185F16'."
+  },
+  {
+    "timestamp": "2025-03-24T01:59:24.770Z",
+    "message": "Error procesando el enlace https://ts30.x3.america.travian.com/build.php?id=39&gid=16&tt=2&x=53&y=-9: Attempted to use detached Frame '030DF21BE1D7D91356EA099AC6185F16'."
+  },
+  {
+    "timestamp": "2025-03-24T01:59:24.773Z",
+    "message": "Error procesando el enlace https://ts30.x3.america.travian.com/build.php?id=39&gid=16&tt=2&x=50&y=-15: Attempted to use detached Frame '030DF21BE1D7D91356EA099AC6185F16'."
+  },
+  {
+    "timestamp": "2025-03-24T01:59:24.774Z",
+    "message": "Error procesando el enlace https://ts30.x3.america.travian.com/build.php?id=39&gid=16&tt=2&x=56&y=-2: Attempted to use detached Frame '030DF21BE1D7D91356EA099AC6185F16'."
+  },
+  {
+    "timestamp": "2025-03-24T01:59:24.776Z",
+    "message": "Error procesando el enlace https://ts30.x3.america.travian.com/build.php?id=39&gid=16&tt=2&x=42&y=24: Attempted to use detached Frame '030DF21BE1D7D91356EA099AC6185F16'."
+  },
+  {
+    "timestamp": "2025-03-24T01:59:24.781Z",
+    "message": "Error procesando el enlace https://ts30.x3.america.travian.com/build.php?id=39&gid=16&tt=2&x=44&y=23: Attempted to use detached Frame '030DF21BE1D7D91356EA099AC6185F16'."
+  },
+  {
+    "timestamp": "2025-03-24T01:59:24.783Z",
+    "message": "Error procesando el enlace https://ts30.x3.america.travian.com/build.php?id=39&gid=16&tt=2&x=56&y=-5: Attempted to use detached Frame '030DF21BE1D7D91356EA099AC6185F16'."
+  },
+  {
+    "timestamp": "2025-03-24T01:59:24.785Z",
+    "message": "Error procesando el enlace https://ts30.x3.america.travian.com/build.php?id=39&gid=16&tt=2&x=46&y=22: Attempted to use detached Frame '030DF21BE1D7D91356EA099AC6185F16'."
+  },
+  {
+    "timestamp": "2025-03-24T01:59:24.787Z",
+    "message": "Error procesando el enlace https://ts30.x3.america.travian.com/build.php?id=39&gid=16&tt=2&x=54&y=13: Attempted to use detached Frame '030DF21BE1D7D91356EA099AC6185F16'."
+  },
+  {
+    "timestamp": "2025-03-24T01:59:24.788Z",
+    "message": "Error procesando el enlace https://ts30.x3.america.travian.com/build.php?id=39&gid=16&tt=2&x=55&y=12: Attempted to use detached Frame '030DF21BE1D7D91356EA099AC6185F16'."
+  },
+  {
+    "timestamp": "2025-03-24T01:59:24.790Z",
+    "message": "Error procesando el enlace https://ts30.x3.america.travian.com/build.php?id=39&gid=16&tt=2&x=57&y=-4: Attempted to use detached Frame '030DF21BE1D7D91356EA099AC6185F16'."
+  },
+  {
+    "timestamp": "2025-03-24T01:59:24.791Z",
+    "message": "Error procesando el enlace https://ts30.x3.america.travian.com/build.php?id=39&gid=16&tt=2&x=53&y=16: Attempted to use detached Frame '030DF21BE1D7D91356EA099AC6185F16'."
+  },
+  {
+    "timestamp": "2025-03-24T01:59:24.793Z",
+    "message": "Error procesando el enlace https://ts30.x3.america.travian.com/build.php?id=39&gid=16&tt=2&x=54&y=15: Attempted to use detached Frame '030DF21BE1D7D91356EA099AC6185F16'."
+  },
+  {
+    "timestamp": "2025-03-24T01:59:24.799Z",
+    "message": "Error procesando el enlace https://ts30.x3.america.travian.com/build.php?id=39&gid=16&tt=2&x=57&y=-6: Attempted to use detached Frame '030DF21BE1D7D91356EA099AC6185F16'."
+  },
+  {
+    "timestamp": "2025-03-24T01:59:24.801Z",
+    "message": "Error procesando el enlace https://ts30.x3.america.travian.com/build.php?id=39&gid=16&tt=2&x=58&y=0: Attempted to use detached Frame '030DF21BE1D7D91356EA099AC6185F16'."
+  },
+  {
+    "timestamp": "2025-03-24T01:59:24.802Z",
+    "message": "Error procesando el enlace https://ts30.x3.america.travian.com/build.php?id=39&gid=16&tt=2&x=4&y=4: Attempted to use detached Frame '030DF21BE1D7D91356EA099AC6185F16'."
+  },
+  {
+    "timestamp": "2025-03-24T01:59:24.804Z",
+    "message": "Error procesando el enlace https://ts30.x3.america.travian.com/build.php?id=39&gid=16&tt=2&x=53&y=-15: Attempted to use detached Frame '030DF21BE1D7D91356EA099AC6185F16'."
+  },
+  {
+    "timestamp": "2025-03-24T01:59:24.806Z",
+    "message": "Error procesando el enlace https://ts30.x3.america.travian.com/build.php?id=39&gid=16&tt=2&x=39&y=-25: Attempted to use detached Frame '030DF21BE1D7D91356EA099AC6185F16'."
+  },
+  {
+    "timestamp": "2025-03-24T01:59:24.808Z",
+    "message": "Error procesando el enlace https://ts30.x3.america.travian.com/build.php?id=39&gid=16&tt=2&x=55&y=-12: Attempted to use detached Frame '030DF21BE1D7D91356EA099AC6185F16'."
+  },
+  {
+    "timestamp": "2025-03-24T01:59:24.812Z",
+    "message": "Error procesando el enlace https://ts30.x3.america.travian.com/build.php?id=39&gid=16&tt=2&x=57&y=10: Attempted to use detached Frame '030DF21BE1D7D91356EA099AC6185F16'."
+  },
+  {
+    "timestamp": "2025-03-24T01:59:24.818Z",
+    "message": "Error procesando el enlace https://ts30.x3.america.travian.com/build.php?id=39&gid=16&tt=2&x=43&y=26: Attempted to use detached Frame '030DF21BE1D7D91356EA099AC6185F16'."
+  },
+  {
+    "timestamp": "2025-03-24T01:59:24.819Z",
+    "message": "Error procesando el enlace https://ts30.x3.america.travian.com/build.php?id=39&gid=16&tt=2&x=53&y=18: Attempted to use detached Frame '030DF21BE1D7D91356EA099AC6185F16'."
+  },
+  {
+    "timestamp": "2025-03-24T01:59:24.821Z",
+    "message": "Error procesando el enlace https://ts30.x3.america.travian.com/build.php?id=39&gid=16&tt=2&x=33&y=29: Attempted to use detached Frame '030DF21BE1D7D91356EA099AC6185F16'."
+  },
+  {
+    "timestamp": "2025-03-24T01:59:24.822Z",
+    "message": "Error procesando el enlace https://ts30.x3.america.travian.com/build.php?id=39&gid=16&tt=2&x=3&y=4: Attempted to use detached Frame '030DF21BE1D7D91356EA099AC6185F16'."
+  },
+  {
+    "timestamp": "2025-03-24T01:59:24.824Z",
+    "message": "Error procesando el enlace https://ts30.x3.america.travian.com/build.php?id=39&gid=16&tt=2&x=25&y=29: Attempted to use detached Frame '030DF21BE1D7D91356EA099AC6185F16'."
+  },
+  {
+    "timestamp": "2025-03-24T01:59:24.827Z",
+    "message": "Error procesando el enlace https://ts30.x3.america.travian.com/build.php?id=39&gid=16&tt=2&x=30&y=30: Attempted to use detached Frame '030DF21BE1D7D91356EA099AC6185F16'."
+  },
+  {
+    "timestamp": "2025-03-24T01:59:24.833Z",
+    "message": "Error procesando el enlace https://ts30.x3.america.travian.com/build.php?id=39&gid=16&tt=2&x=29&y=-28: Attempted to use detached Frame '030DF21BE1D7D91356EA099AC6185F16'."
+  },
+  {
+    "timestamp": "2025-03-24T01:59:24.835Z",
+    "message": "Error procesando el enlace https://ts30.x3.america.travian.com/build.php?id=39&gid=16&tt=2&x=29&y=30: Attempted to use detached Frame '030DF21BE1D7D91356EA099AC6185F16'."
+  },
+  {
+    "timestamp": "2025-03-24T01:59:24.836Z",
+    "message": "Error procesando el enlace https://ts30.x3.america.travian.com/build.php?id=39&gid=16&tt=2&x=50&y=23: Attempted to use detached Frame '030DF21BE1D7D91356EA099AC6185F16'."
+  },
+  {
+    "timestamp": "2025-03-24T01:59:24.838Z",
+    "message": "Error procesando el enlace https://ts30.x3.america.travian.com/build.php?id=39&gid=16&tt=2&x=22&y=-27: Attempted to use detached Frame '030DF21BE1D7D91356EA099AC6185F16'."
+  },
+  {
+    "timestamp": "2025-03-24T01:59:24.840Z",
+    "message": "Error procesando el enlace https://ts30.x3.america.travian.com/build.php?id=39&gid=16&tt=2&x=59&y=-8: Attempted to use detached Frame '030DF21BE1D7D91356EA099AC6185F16'."
+  },
+  {
+    "timestamp": "2025-03-24T01:59:24.842Z",
+    "message": "Error procesando el enlace https://ts30.x3.america.travian.com/build.php?id=39&gid=16&tt=2&x=45&y=27: Attempted to use detached Frame '030DF21BE1D7D91356EA099AC6185F16'."
+  },
+  {
+    "timestamp": "2025-03-24T01:59:24.849Z",
+    "message": "Error procesando el enlace https://ts30.x3.america.travian.com/build.php?id=39&gid=16&tt=2&x=54&y=-18: Attempted to use detached Frame '030DF21BE1D7D91356EA099AC6185F16'."
+  },
+  {
+    "timestamp": "2025-03-24T01:59:24.851Z",
+    "message": "Error procesando el enlace https://ts30.x3.america.travian.com/build.php?id=39&gid=16&tt=2&x=61&y=5: Attempted to use detached Frame '030DF21BE1D7D91356EA099AC6185F16'."
+  },
+  {
+    "timestamp": "2025-03-24T01:59:24.853Z",
+    "message": "Error procesando el enlace https://ts30.x3.america.travian.com/build.php?id=39&gid=16&tt=2&x=51&y=-22: Attempted to use detached Frame '030DF21BE1D7D91356EA099AC6185F16'."
+  },
+  {
+    "timestamp": "2025-03-24T01:59:24.854Z",
+    "message": "Error procesando el enlace https://ts30.x3.america.travian.com/build.php?id=39&gid=16&tt=2&x=54&y=21: Attempted to use detached Frame '030DF21BE1D7D91356EA099AC6185F16'."
+  },
+  {
+    "timestamp": "2025-03-24T01:59:24.856Z",
+    "message": "Error procesando el enlace https://ts30.x3.america.travian.com/build.php?id=39&gid=16&tt=2&x=47&y=-25: Attempted to use detached Frame '030DF21BE1D7D91356EA099AC6185F16'."
+  },
+  {
+    "timestamp": "2025-03-24T01:59:24.858Z",
+    "message": "Error procesando el enlace https://ts30.x3.america.travian.com/build.php?id=39&gid=16&tt=2&x=59&y=-12: Attempted to use detached Frame '030DF21BE1D7D91356EA099AC6185F16'."
+  },
+  {
+    "timestamp": "2025-03-24T01:59:24.861Z",
+    "message": "Error procesando el enlace https://ts30.x3.america.travian.com/build.php?id=39&gid=16&tt=2&x=16&y=28: Attempted to use detached Frame '030DF21BE1D7D91356EA099AC6185F16'."
+  },
+  {
+    "timestamp": "2025-03-24T01:59:24.867Z",
+    "message": "Error procesando el enlace https://ts30.x3.america.travian.com/build.php?id=39&gid=16&tt=2&x=52&y=24: Attempted to use detached Frame '030DF21BE1D7D91356EA099AC6185F16'."
+  },
+  {
+    "timestamp": "2025-03-24T01:59:24.869Z",
+    "message": "Error procesando el enlace https://ts30.x3.america.travian.com/build.php?id=39&gid=16&tt=2&x=51&y=25: Attempted to use detached Frame '030DF21BE1D7D91356EA099AC6185F16'."
+  },
+  {
+    "timestamp": "2025-03-24T01:59:24.870Z",
+    "message": "Error procesando el enlace https://ts30.x3.america.travian.com/build.php?id=39&gid=16&tt=2&x=58&y=17: Attempted to use detached Frame '030DF21BE1D7D91356EA099AC6185F16'."
+  },
+  {
+    "timestamp": "2025-03-24T01:59:24.872Z",
+    "message": "Error procesando el enlace https://ts30.x3.america.travian.com/build.php?id=39&gid=16&tt=2&x=43&y=30: Attempted to use detached Frame '030DF21BE1D7D91356EA099AC6185F16'."
+  },
+  {
+    "timestamp": "2025-03-24T01:59:24.874Z",
+    "message": "Error procesando el enlace https://ts30.x3.america.travian.com/build.php?id=39&gid=16&tt=2&x=36&y=32: Attempted to use detached Frame '030DF21BE1D7D91356EA099AC6185F16'."
+  },
+  {
+    "timestamp": "2025-03-24T01:59:24.876Z",
+    "message": "Error procesando el enlace https://ts30.x3.america.travian.com/build.php?id=39&gid=16&tt=2&x=41&y=-29: Attempted to use detached Frame '030DF21BE1D7D91356EA099AC6185F16'."
+  },
+  {
+    "timestamp": "2025-03-24T01:59:24.879Z",
+    "message": "Error procesando el enlace https://ts30.x3.america.travian.com/build.php?id=39&gid=16&tt=2&x=54&y=-21: Attempted to use detached Frame '030DF21BE1D7D91356EA099AC6185F16'."
+  },
+  {
+    "timestamp": "2025-03-24T01:59:24.884Z",
+    "message": "Error procesando el enlace https://ts30.x3.america.travian.com/build.php?id=39&gid=16&tt=2&x=48&y=28: Attempted to use detached Frame '030DF21BE1D7D91356EA099AC6185F16'."
+  },
+  {
+    "timestamp": "2025-03-24T01:59:24.886Z",
+    "message": "Error procesando el enlace https://ts30.x3.america.travian.com/build.php?id=39&gid=16&tt=2&x=61&y=12: Attempted to use detached Frame '030DF21BE1D7D91356EA099AC6185F16'."
+  },
+  {
+    "timestamp": "2025-03-24T01:59:24.887Z",
+    "message": "Error procesando el enlace https://ts30.x3.america.travian.com/build.php?id=39&gid=16&tt=2&x=23&y=-30: Attempted to use detached Frame '030DF21BE1D7D91356EA099AC6185F16'."
+  },
+  {
+    "timestamp": "2025-03-24T01:59:24.889Z",
+    "message": "Error procesando el enlace https://ts30.x3.america.travian.com/build.php?id=39&gid=16&tt=2&x=61&y=-11: Attempted to use detached Frame '030DF21BE1D7D91356EA099AC6185F16'."
+  },
+  {
+    "timestamp": "2025-03-24T01:59:24.891Z",
+    "message": "Error procesando el enlace https://ts30.x3.america.travian.com/build.php?id=39&gid=16&tt=2&x=54&y=24: Attempted to use detached Frame '030DF21BE1D7D91356EA099AC6185F16'."
+  },
+  {
+    "timestamp": "2025-03-24T01:59:24.896Z",
+    "message": "Error procesando el enlace https://ts30.x3.america.travian.com/build.php?id=39&gid=16&tt=2&x=53&y=25: Attempted to use detached Frame '030DF21BE1D7D91356EA099AC6185F16'."
+  },
+  {
+    "timestamp": "2025-03-24T01:59:24.900Z",
+    "message": "Error procesando el enlace https://ts30.x3.america.travian.com/build.php?id=39&gid=16&tt=2&x=59&y=18: Attempted to use detached Frame '030DF21BE1D7D91356EA099AC6185F16'."
+  },
+  {
+    "timestamp": "2025-03-24T01:59:24.902Z",
+    "message": "Error procesando el enlace https://ts30.x3.america.travian.com/build.php?id=39&gid=16&tt=2&x=24&y=-31: Attempted to use detached Frame '030DF21BE1D7D91356EA099AC6185F16'."
+  },
+  {
+    "timestamp": "2025-03-24T01:59:24.904Z",
+    "message": "Error procesando el enlace https://ts30.x3.america.travian.com/build.php?id=39&gid=16&tt=2&x=42&y=-30: Attempted to use detached Frame '030DF21BE1D7D91356EA099AC6185F16'."
+  },
+  {
+    "timestamp": "2025-03-24T01:59:24.906Z",
+    "message": "Error procesando el enlace https://ts30.x3.america.travian.com/build.php?id=39&gid=16&tt=2&x=39&y=33: Attempted to use detached Frame '030DF21BE1D7D91356EA099AC6185F16'."
+  },
+  {
+    "timestamp": "2025-03-24T01:59:24.907Z",
+    "message": "Error procesando el enlace https://ts30.x3.america.travian.com/build.php?id=39&gid=16&tt=2&x=64&y=2: Attempted to use detached Frame '030DF21BE1D7D91356EA099AC6185F16'."
+  },
+  {
+    "timestamp": "2025-03-24T01:59:24.910Z",
+    "message": "Error procesando el enlace https://ts30.x3.america.travian.com/build.php?id=39&gid=16&tt=2&x=50&y=28: Attempted to use detached Frame '030DF21BE1D7D91356EA099AC6185F16'."
+  },
+  {
+    "timestamp": "2025-03-24T01:59:24.916Z",
+    "message": "Error procesando el enlace https://ts30.x3.america.travian.com/build.php?id=39&gid=16&tt=2&x=64&y=0: Attempted to use detached Frame '030DF21BE1D7D91356EA099AC6185F16'."
+  },
+  {
+    "timestamp": "2025-03-24T01:59:24.918Z",
+    "message": "Error procesando el enlace https://ts30.x3.america.travian.com/build.php?id=39&gid=16&tt=2&x=36&y=-32: Attempted to use detached Frame '030DF21BE1D7D91356EA099AC6185F16'."
+  },
+  {
+    "timestamp": "2025-03-24T01:59:24.920Z",
+    "message": "Error procesando el enlace https://ts30.x3.america.travian.com/build.php?id=39&gid=16&tt=2&x=57&y=-20: Attempted to use detached Frame '030DF21BE1D7D91356EA099AC6185F16'."
+  },
+  {
+    "timestamp": "2025-03-24T01:59:24.921Z",
+    "message": "Error procesando el enlace https://ts30.x3.america.travian.com/build.php?id=39&gid=16&tt=2&x=41&y=-31: Attempted to use detached Frame '030DF21BE1D7D91356EA099AC6185F16'."
+  },
+  {
+    "timestamp": "2025-03-24T01:59:24.922Z",
+    "message": "Error procesando el enlace https://ts30.x3.america.travian.com/build.php?id=39&gid=16&tt=2&x=37&y=34: Attempted to use detached Frame '030DF21BE1D7D91356EA099AC6185F16'."
+  },
+  {
+    "timestamp": "2025-03-24T01:59:24.924Z",
+    "message": "Error procesando el enlace https://ts30.x3.america.travian.com/build.php?id=39&gid=16&tt=2&x=64&y=-5: Attempted to use detached Frame '030DF21BE1D7D91356EA099AC6185F16'."
+  },
+  {
+    "timestamp": "2025-03-24T01:59:24.927Z",
+    "message": "Error procesando el enlace https://ts30.x3.america.travian.com/build.php?id=39&gid=16&tt=2&x=51&y=-26: Attempted to use detached Frame '030DF21BE1D7D91356EA099AC6185F16'."
+  },
+  {
+    "timestamp": "2025-03-24T01:59:24.932Z",
+    "message": "Error procesando el enlace https://ts30.x3.america.travian.com/build.php?id=39&gid=16&tt=2&x=20&y=-31: Attempted to use detached Frame '030DF21BE1D7D91356EA099AC6185F16'."
+  },
+  {
+    "timestamp": "2025-03-24T01:59:24.935Z",
+    "message": "Error procesando el enlace https://ts30.x3.america.travian.com/build.php?id=39&gid=16&tt=2&x=64&y=9: Attempted to use detached Frame '030DF21BE1D7D91356EA099AC6185F16'."
+  },
+  {
+    "timestamp": "2025-03-24T01:59:24.936Z",
+    "message": "Error procesando el enlace https://ts30.x3.america.travian.com/build.php?id=39&gid=16&tt=2&x=65&y=-2: Attempted to use detached Frame '030DF21BE1D7D91356EA099AC6185F16'."
+  },
+  {
+    "timestamp": "2025-03-24T01:59:24.938Z",
+    "message": "Error procesando el enlace https://ts30.x3.america.travian.com/build.php?id=39&gid=16&tt=2&x=34&y=35: Attempted to use detached Frame '030DF21BE1D7D91356EA099AC6185F16'."
+  },
+  {
+    "timestamp": "2025-03-24T01:59:24.939Z",
+    "message": "Error procesando el enlace https://ts30.x3.america.travian.com/build.php?id=39&gid=16&tt=2&x=52&y=28: Attempted to use detached Frame '030DF21BE1D7D91356EA099AC6185F16'."
+  },
+  {
+    "timestamp": "2025-03-24T01:59:24.941Z",
+    "message": "Error procesando el enlace https://ts30.x3.america.travian.com/build.php?id=39&gid=16&tt=2&x=59&y=21: Attempted to use detached Frame '030DF21BE1D7D91356EA099AC6185F16'."
+  },
+  {
+    "timestamp": "2025-03-24T01:59:24.944Z",
+    "message": "Error procesando el enlace https://ts30.x3.america.travian.com/build.php?id=39&gid=16&tt=2&x=44&y=33: Attempted to use detached Frame '030DF21BE1D7D91356EA099AC6185F16'."
+  },
+  {
+    "timestamp": "2025-03-24T01:59:24.950Z",
+    "message": "Error procesando el enlace https://ts30.x3.america.travian.com/build.php?id=39&gid=16&tt=2&x=18&y=33: Attempted to use detached Frame '030DF21BE1D7D91356EA099AC6185F16'."
+  },
+  {
+    "timestamp": "2025-03-24T01:59:24.951Z",
+    "message": "Error procesando el enlace https://ts30.x3.america.travian.com/build.php?id=39&gid=16&tt=2&x=50&y=30: Attempted to use detached Frame '030DF21BE1D7D91356EA099AC6185F16'."
+  },
+  {
+    "timestamp": "2025-03-24T01:59:24.953Z",
+    "message": "Error procesando el enlace https://ts30.x3.america.travian.com/build.php?id=39&gid=16&tt=2&x=12&y=30: Attempted to use detached Frame '030DF21BE1D7D91356EA099AC6185F16'."
+  },
+  {
+    "timestamp": "2025-03-24T01:59:24.954Z",
+    "message": "Error procesando el enlace https://ts30.x3.america.travian.com/build.php?id=39&gid=16&tt=2&x=65&y=-6: Attempted to use detached Frame '030DF21BE1D7D91356EA099AC6185F16'."
+  },
+  {
+    "timestamp": "2025-03-24T01:59:24.956Z",
+    "message": "Error procesando el enlace https://ts30.x3.america.travian.com/build.php?id=39&gid=16&tt=2&x=24&y=-33: Attempted to use detached Frame '030DF21BE1D7D91356EA099AC6185F16'."
+  },
+  {
+    "timestamp": "2025-03-24T01:59:24.958Z",
+    "message": "Error procesando el enlace https://ts30.x3.america.travian.com/build.php?id=39&gid=16&tt=2&x=66&y=5: Attempted to use detached Frame '030DF21BE1D7D91356EA099AC6185F16'."
+  },
+  {
+    "timestamp": "2025-03-24T01:59:24.960Z",
+    "message": "Error procesando el enlace https://ts30.x3.america.travian.com/build.php?id=39&gid=16&tt=2&x=66&y=-3: Attempted to use detached Frame '030DF21BE1D7D91356EA099AC6185F16'."
+  },
+  {
+    "timestamp": "2025-03-24T01:59:24.966Z",
+    "message": "Error procesando el enlace https://ts30.x3.america.travian.com/build.php?id=39&gid=16&tt=2&x=51&y=-28: Attempted to use detached Frame '030DF21BE1D7D91356EA099AC6185F16'."
+  },
+  {
+    "timestamp": "2025-03-24T01:59:24.968Z",
+    "message": "Error procesando el enlace https://ts30.x3.america.travian.com/build.php?id=39&gid=16&tt=2&x=55&y=-25: Attempted to use detached Frame '030DF21BE1D7D91356EA099AC6185F16'."
+  },
+  {
+    "timestamp": "2025-03-24T01:59:24.970Z",
+    "message": "Error procesando el enlace https://ts30.x3.america.travian.com/build.php?id=39&gid=16&tt=2&x=50&y=-29: Attempted to use detached Frame '030DF21BE1D7D91356EA099AC6185F16'."
+  },
+  {
+    "timestamp": "2025-03-24T01:59:24.971Z",
+    "message": "Error procesando el enlace https://ts30.x3.america.travian.com/build.php?id=39&gid=16&tt=2&x=61&y=20: Attempted to use detached Frame '030DF21BE1D7D91356EA099AC6185F16'."
+  },
+  {
+    "timestamp": "2025-03-24T01:59:24.973Z",
+    "message": "Error procesando el enlace https://ts30.x3.america.travian.com/build.php?id=39&gid=16&tt=2&x=38&y=36: Attempted to use detached Frame '030DF21BE1D7D91356EA099AC6185F16'."
+  },
+  {
+    "timestamp": "2025-03-24T01:59:24.975Z",
+    "message": "Error procesando el enlace https://ts30.x3.america.travian.com/build.php?id=39&gid=16&tt=2&x=47&y=-31: Attempted to use detached Frame '030DF21BE1D7D91356EA099AC6185F16'."
+  },
+  {
+    "timestamp": "2025-03-24T01:59:24.979Z",
+    "message": "Error procesando el enlace https://ts30.x3.america.travian.com/build.php?id=39&gid=16&tt=2&x=45&y=34: Attempted to use detached Frame '030DF21BE1D7D91356EA099AC6185F16'."
+  },
+  {
+    "timestamp": "2025-03-24T01:59:24.984Z",
+    "message": "Error procesando el enlace https://ts30.x3.america.travian.com/build.php?id=39&gid=16&tt=2&x=23&y=-34: Attempted to use detached Frame '030DF21BE1D7D91356EA099AC6185F16'."
+  },
+  {
+    "timestamp": "2025-03-24T01:59:24.986Z",
+    "message": "Error procesando el enlace https://ts30.x3.america.travian.com/build.php?id=39&gid=16&tt=2&x=43&y=35: Attempted to use detached Frame '030DF21BE1D7D91356EA099AC6185F16'."
+  },
+  {
+    "timestamp": "2025-03-24T01:59:24.987Z",
+    "message": "Error procesando el enlace https://ts30.x3.america.travian.com/build.php?id=39&gid=16&tt=2&x=67&y=4: Attempted to use detached Frame '030DF21BE1D7D91356EA099AC6185F16'."
+  },
+  {
+    "timestamp": "2025-03-24T01:59:24.989Z",
+    "message": "Error procesando el enlace https://ts30.x3.america.travian.com/build.php?id=39&gid=16&tt=2&x=2&y=23: Attempted to use detached Frame '030DF21BE1D7D91356EA099AC6185F16'."
+  },
+  {
+    "timestamp": "2025-03-24T01:59:24.991Z",
+    "message": "Error procesando el enlace https://ts30.x3.america.travian.com/build.php?id=39&gid=16&tt=2&x=61&y=22: Attempted to use detached Frame '030DF21BE1D7D91356EA099AC6185F16'."
+  },
+  {
+    "timestamp": "2025-03-24T01:59:24.993Z",
+    "message": "Error procesando el enlace https://ts30.x3.america.travian.com/build.php?id=39&gid=16&tt=2&x=15&y=-32: Attempted to use detached Frame '030DF21BE1D7D91356EA099AC6185F16'."
+  },
+  {
+    "timestamp": "2025-03-24T01:59:24.999Z",
+    "message": "Error procesando el enlace https://ts30.x3.america.travian.com/build.php?id=39&gid=16&tt=2&x=64&y=-15: Attempted to use detached Frame '030DF21BE1D7D91356EA099AC6185F16'."
+  },
+  {
+    "timestamp": "2025-03-24T01:59:25.001Z",
+    "message": "Error procesando el enlace https://ts30.x3.america.travian.com/build.php?id=39&gid=16&tt=2&x=17&y=-33: Attempted to use detached Frame '030DF21BE1D7D91356EA099AC6185F16'."
+  },
+  {
+    "timestamp": "2025-03-24T01:59:25.003Z",
+    "message": "Error procesando el enlace https://ts30.x3.america.travian.com/build.php?id=39&gid=16&tt=2&x=11&y=-30: Attempted to use detached Frame '030DF21BE1D7D91356EA099AC6185F16'."
+  },
+  {
+    "timestamp": "2025-03-24T01:59:25.004Z",
+    "message": "Error procesando el enlace https://ts30.x3.america.travian.com/build.php?id=39&gid=16&tt=2&x=68&y=3: Attempted to use detached Frame '030DF21BE1D7D91356EA099AC6185F16'."
+  },
+  {
+    "timestamp": "2025-03-24T01:59:25.006Z",
+    "message": "Error procesando el enlace https://ts30.x3.america.travian.com/build.php?id=39&gid=16&tt=2&x=40&y=-35: Attempted to use detached Frame '030DF21BE1D7D91356EA099AC6185F16'."
+  },
+  {
+    "timestamp": "2025-03-24T01:59:25.008Z",
+    "message": "Error procesando el enlace https://ts30.x3.america.travian.com/build.php?id=39&gid=16&tt=2&x=65&y=16: Attempted to use detached Frame '030DF21BE1D7D91356EA099AC6185F16'."
+  },
+  {
+    "timestamp": "2025-03-24T01:59:25.012Z",
+    "message": "Error procesando el enlace https://ts30.x3.america.travian.com/build.php?id=39&gid=16&tt=2&x=61&y=23: Attempted to use detached Frame '030DF21BE1D7D91356EA099AC6185F16'."
+  },
+  {
+    "timestamp": "2025-03-24T01:59:25.016Z",
+    "message": "Error procesando el enlace https://ts30.x3.america.travian.com/build.php?id=39&gid=16&tt=2&x=18&y=36: Attempted to use detached Frame '030DF21BE1D7D91356EA099AC6185F16'."
+  },
+  {
+    "timestamp": "2025-03-24T01:59:25.018Z",
+    "message": "Error procesando el enlace https://ts30.x3.america.travian.com/build.php?id=39&gid=16&tt=2&x=2&y=25: Attempted to use detached Frame '030DF21BE1D7D91356EA099AC6185F16'."
+  },
+  {
+    "timestamp": "2025-03-24T01:59:25.019Z",
+    "message": "Error procesando el enlace https://ts30.x3.america.travian.com/build.php?id=39&gid=16&tt=2&x=69&y=1: Attempted to use detached Frame '030DF21BE1D7D91356EA099AC6185F16'."
+  },
+  {
+    "timestamp": "2025-03-24T01:59:25.022Z",
+    "message": "Error procesando el enlace https://ts30.x3.america.travian.com/build.php?id=39&gid=16&tt=2&x=9&y=-30: Attempted to use detached Frame '030DF21BE1D7D91356EA099AC6185F16'."
+  },
+  {
+    "timestamp": "2025-03-24T01:59:25.023Z",
+    "message": "Error procesando el enlace https://ts30.x3.america.travian.com/build.php?id=39&gid=16&tt=2&x=64&y=20: Attempted to use detached Frame '030DF21BE1D7D91356EA099AC6185F16'."
+  },
+  {
+    "timestamp": "2025-03-24T01:59:25.025Z",
+    "message": "Error procesando el enlace https://ts30.x3.america.travian.com/build.php?id=39&gid=16&tt=2&x=27&y=39: Attempted to use detached Frame '030DF21BE1D7D91356EA099AC6185F16'."
+  },
+  {
+    "timestamp": "2025-03-24T01:59:25.028Z",
+    "message": "Error procesando el enlace https://ts30.x3.america.travian.com/build.php?id=39&gid=16&tt=2&x=35&y=39: Attempted to use detached Frame '030DF21BE1D7D91356EA099AC6185F16'."
+  },
+  {
+    "timestamp": "2025-03-24T01:59:25.033Z",
+    "message": "Error procesando el enlace https://ts30.x3.america.travian.com/build.php?id=39&gid=16&tt=2&x=35&y=-37: Attempted to use detached Frame '030DF21BE1D7D91356EA099AC6185F16'."
+  },
+  {
+    "timestamp": "2025-03-24T01:59:25.035Z",
+    "message": "Error procesando el enlace https://ts30.x3.america.travian.com/build.php?id=39&gid=16&tt=2&x=27&y=-37: Attempted to use detached Frame '030DF21BE1D7D91356EA099AC6185F16'."
+  },
+  {
+    "timestamp": "2025-03-24T01:59:25.036Z",
+    "message": "Error procesando el enlace https://ts30.x3.america.travian.com/build.php?id=39&gid=16&tt=2&x=66&y=-15: Attempted to use detached Frame '030DF21BE1D7D91356EA099AC6185F16'."
+  },
+  {
+    "timestamp": "2025-03-24T01:59:25.038Z",
+    "message": "Error procesando el enlace https://ts30.x3.america.travian.com/build.php?id=39&gid=16&tt=2&x=51&y=-32: Attempted to use detached Frame '030DF21BE1D7D91356EA099AC6185F16'."
+  },
+  {
+    "timestamp": "2025-03-24T01:59:25.040Z",
+    "message": "Error procesando el enlace https://ts30.x3.america.travian.com/build.php?id=39&gid=16&tt=2&x=67&y=15: Attempted to use detached Frame '030DF21BE1D7D91356EA099AC6185F16'."
+  },
+  {
+    "timestamp": "2025-03-24T01:59:25.043Z",
+    "message": "Error procesando el enlace https://ts30.x3.america.travian.com/build.php?id=39&gid=16&tt=2&x=17&y=-35: Attempted to use detached Frame '030DF21BE1D7D91356EA099AC6185F16'."
+  },
+  {
+    "timestamp": "2025-03-24T01:59:25.048Z",
+    "message": "Error procesando el enlace https://ts30.x3.america.travian.com/build.php?id=39&gid=16&tt=2&x=38&y=39: Attempted to use detached Frame '030DF21BE1D7D91356EA099AC6185F16'."
+  },
+  {
+    "timestamp": "2025-03-24T01:59:25.050Z",
+    "message": "Error procesando el enlace https://ts30.x3.america.travian.com/build.php?id=39&gid=16&tt=2&x=69&y=8: Attempted to use detached Frame '030DF21BE1D7D91356EA099AC6185F16'."
+  },
+  {
+    "timestamp": "2025-03-24T01:59:25.052Z",
+    "message": "Error procesando el enlace https://ts30.x3.america.travian.com/build.php?id=39&gid=16&tt=2&x=19&y=38: Attempted to use detached Frame '030DF21BE1D7D91356EA099AC6185F16'."
+  },
+  {
+    "timestamp": "2025-03-24T01:59:25.053Z",
+    "message": "Error procesando el enlace https://ts30.x3.america.travian.com/build.php?id=39&gid=16&tt=2&x=-5&y=16: Attempted to use detached Frame '030DF21BE1D7D91356EA099AC6185F16'."
+  },
+  {
+    "timestamp": "2025-03-24T01:59:25.055Z",
+    "message": "Error procesando el enlace https://ts30.x3.america.travian.com/build.php?id=39&gid=16&tt=2&x=67&y=-14: Attempted to use detached Frame '030DF21BE1D7D91356EA099AC6185F16'."
+  },
+  {
+    "timestamp": "2025-03-24T01:59:25.057Z",
+    "message": "Error procesando el enlace https://ts30.x3.america.travian.com/build.php?id=39&gid=16&tt=2&x=70&y=3: Attempted to use detached Frame '030DF21BE1D7D91356EA099AC6185F16'."
+  },
+  {
+    "timestamp": "2025-03-24T01:59:25.058Z",
+    "message": "Error procesando el enlace https://ts30.x3.america.travian.com/build.php?id=39&gid=16&tt=2&x=70&y=-2: Attempted to use detached Frame '030DF21BE1D7D91356EA099AC6185F16'."
+  },
+  {
+    "timestamp": "2025-03-24T01:59:25.062Z",
+    "message": "Error procesando el enlace https://ts30.x3.america.travian.com/build.php?id=39&gid=16&tt=2&x=70&y=4: Attempted to use detached Frame '030DF21BE1D7D91356EA099AC6185F16'."
+  },
+  {
+    "timestamp": "2025-03-24T01:59:25.066Z",
+    "message": "Error procesando el enlace https://ts30.x3.america.travian.com/build.php?id=39&gid=16&tt=2&x=10&y=34: Attempted to use detached Frame '030DF21BE1D7D91356EA099AC6185F16'."
+  },
+  {
+    "timestamp": "2025-03-24T01:59:25.068Z",
+    "message": "Error procesando el enlace https://ts30.x3.america.travian.com/build.php?id=39&gid=16&tt=2&x=7&y=32: Attempted to use detached Frame '030DF21BE1D7D91356EA099AC6185F16'."
+  },
+  {
+    "timestamp": "2025-03-24T01:59:25.069Z",
+    "message": "Error procesando el enlace https://ts30.x3.america.travian.com/build.php?id=39&gid=16&tt=2&x=66&y=19: Attempted to use detached Frame '030DF21BE1D7D91356EA099AC6185F16'."
+  },
+  {
+    "timestamp": "2025-03-24T01:59:25.071Z",
+    "message": "Error procesando el enlace https://ts30.x3.america.travian.com/build.php?id=39&gid=16&tt=2&x=70&y=-5: Attempted to use detached Frame '030DF21BE1D7D91356EA099AC6185F16'."
+  },
+  {
+    "timestamp": "2025-03-24T01:59:25.073Z",
+    "message": "Error procesando el enlace https://ts30.x3.america.travian.com/build.php?id=39&gid=16&tt=2&x=38&y=-38: Attempted to use detached Frame '030DF21BE1D7D91356EA099AC6185F16'."
+  },
+  {
+    "timestamp": "2025-03-24T01:59:25.074Z",
+    "message": "Error procesando el enlace https://ts30.x3.america.travian.com/build.php?id=39&gid=16&tt=2&x=48&y=-35: Attempted to use detached Frame '030DF21BE1D7D91356EA099AC6185F16'."
+  },
+  {
+    "timestamp": "2025-03-24T01:59:25.077Z",
+    "message": "Error procesando el enlace https://ts30.x3.america.travian.com/build.php?id=39&gid=16&tt=2&x=66&y=-18: Attempted to use detached Frame '030DF21BE1D7D91356EA099AC6185F16'."
+  },
+  {
+    "timestamp": "2025-03-24T01:59:25.082Z",
+    "message": "Error procesando el enlace https://ts30.x3.america.travian.com/build.php?id=39&gid=16&tt=2&x=69&y=-11: Attempted to use detached Frame '030DF21BE1D7D91356EA099AC6185F16'."
+  },
+  {
+    "timestamp": "2025-03-24T01:59:25.084Z",
+    "message": "Error procesando el enlace https://ts30.x3.america.travian.com/build.php?id=39&gid=16&tt=2&x=69&y=13: Attempted to use detached Frame '030DF21BE1D7D91356EA099AC6185F16'."
+  },
+  {
+    "timestamp": "2025-03-24T01:59:25.086Z",
+    "message": "Error procesando el enlace https://ts30.x3.america.travian.com/build.php?id=39&gid=16&tt=2&x=52&y=-33: Attempted to use detached Frame '030DF21BE1D7D91356EA099AC6185F16'."
+  },
+  {
+    "timestamp": "2025-03-24T01:59:25.087Z",
+    "message": "Error procesando el enlace https://ts30.x3.america.travian.com/build.php?id=39&gid=16&tt=2&x=32&y=41: Attempted to use detached Frame '030DF21BE1D7D91356EA099AC6185F16'."
+  },
+  {
+    "timestamp": "2025-03-24T01:59:25.089Z",
+    "message": "Error procesando el enlace https://ts30.x3.america.travian.com/build.php?id=39&gid=16&tt=2&x=71&y=3: Attempted to use detached Frame '030DF21BE1D7D91356EA099AC6185F16'."
+  },
+  {
+    "timestamp": "2025-03-24T01:59:25.091Z",
+    "message": "Error procesando el enlace https://ts30.x3.america.travian.com/build.php?id=39&gid=16&tt=2&x=54&y=34: Attempted to use detached Frame '030DF21BE1D7D91356EA099AC6185F16'."
+  },
+  {
+    "timestamp": "2025-03-24T01:59:25.093Z",
+    "message": "Error procesando el enlace https://ts30.x3.america.travian.com/build.php?id=39&gid=16&tt=2&x=67&y=19: Attempted to use detached Frame '030DF21BE1D7D91356EA099AC6185F16'."
+  },
+  {
+    "timestamp": "2025-03-24T01:59:25.099Z",
+    "message": "Error procesando el enlace https://ts30.x3.america.travian.com/build.php?id=39&gid=16&tt=2&x=51&y=36: Attempted to use detached Frame '030DF21BE1D7D91356EA099AC6185F16'."
+  },
+  {
+    "timestamp": "2025-03-24T01:59:25.101Z",
+    "message": "Error procesando el enlace https://ts30.x3.america.travian.com/build.php?id=39&gid=16&tt=2&x=68&y=17: Attempted to use detached Frame '030DF21BE1D7D91356EA099AC6185F16'."
+  },
+  {
+    "timestamp": "2025-03-24T01:59:25.102Z",
+    "message": "Error procesando el enlace https://ts30.x3.america.travian.com/build.php?id=39&gid=16&tt=2&x=71&y=7: Attempted to use detached Frame '030DF21BE1D7D91356EA099AC6185F16'."
+  },
+  {
+    "timestamp": "2025-03-24T01:59:25.104Z",
+    "message": "Error procesando el enlace https://ts30.x3.america.travian.com/build.php?id=39&gid=16&tt=2&x=5&y=32: Attempted to use detached Frame '030DF21BE1D7D91356EA099AC6185F16'."
+  },
+  {
+    "timestamp": "2025-03-24T01:59:25.105Z",
+    "message": "Error procesando el enlace https://ts30.x3.america.travian.com/build.php?id=39&gid=16&tt=2&x=39&y=-39: Attempted to use detached Frame '030DF21BE1D7D91356EA099AC6185F16'."
+  },
+  {
+    "timestamp": "2025-03-24T01:59:25.107Z",
+    "message": "Error procesando el enlace https://ts30.x3.america.travian.com/build.php?id=39&gid=16&tt=2&x=64&y=25: Attempted to use detached Frame '030DF21BE1D7D91356EA099AC6185F16'."
+  },
+  {
+    "timestamp": "2025-03-24T01:59:25.109Z",
+    "message": "Error procesando el enlace https://ts30.x3.america.travian.com/build.php?id=39&gid=16&tt=2&x=64&y=-23: Attempted to use detached Frame '030DF21BE1D7D91356EA099AC6185F16'."
+  },
+  {
+    "timestamp": "2025-03-24T01:59:25.114Z",
+    "message": "Error procesando el enlace https://ts30.x3.america.travian.com/build.php?id=39&gid=16&tt=2&x=46&y=39: Attempted to use detached Frame '030DF21BE1D7D91356EA099AC6185F16'."
+  },
+  {
+    "timestamp": "2025-03-24T01:59:25.117Z",
+    "message": "Error procesando el enlace https://ts30.x3.america.travian.com/build.php?id=39&gid=16&tt=2&x=59&y=31: Attempted to use detached Frame '030DF21BE1D7D91356EA099AC6185F16'."
+  },
+  {
+    "timestamp": "2025-03-24T01:59:25.119Z",
+    "message": "Error procesando el enlace https://ts30.x3.america.travian.com/build.php?id=39&gid=16&tt=2&x=72&y=3: Attempted to use detached Frame '030DF21BE1D7D91356EA099AC6185F16'."
+  },
+  {
+    "timestamp": "2025-03-24T01:59:25.120Z",
+    "message": "Error procesando el enlace https://ts30.x3.america.travian.com/build.php?id=39&gid=16&tt=2&x=62&y=28: Attempted to use detached Frame '030DF21BE1D7D91356EA099AC6185F16'."
+  },
+  {
+    "timestamp": "2025-03-24T01:59:25.122Z",
+    "message": "Error procesando el enlace https://ts30.x3.america.travian.com/build.php?id=39&gid=16&tt=2&x=27&y=42: Attempted to use detached Frame '030DF21BE1D7D91356EA099AC6185F16'."
+  },
+  {
+    "timestamp": "2025-03-24T01:59:25.124Z",
+    "message": "Error procesando el enlace https://ts30.x3.america.travian.com/build.php?id=39&gid=16&tt=2&x=56&y=34: Attempted to use detached Frame '030DF21BE1D7D91356EA099AC6185F16'."
+  },
+  {
+    "timestamp": "2025-03-24T01:59:25.126Z",
+    "message": "Error procesando el enlace https://ts30.x3.america.travian.com/build.php?id=39&gid=16&tt=2&x=45&y=40: Attempted to use detached Frame '030DF21BE1D7D91356EA099AC6185F16'."
+  },
+  {
+    "timestamp": "2025-03-24T01:59:25.132Z",
+    "message": "Error procesando el enlace https://ts30.x3.america.travian.com/build.php?id=39&gid=16&tt=2&x=12&y=-36: Attempted to use detached Frame '030DF21BE1D7D91356EA099AC6185F16'."
+  },
+  {
+    "timestamp": "2025-03-24T01:59:25.134Z",
+    "message": "Error procesando el enlace https://ts30.x3.america.travian.com/build.php?id=39&gid=16&tt=2&x=68&y=20: Attempted to use detached Frame '030DF21BE1D7D91356EA099AC6185F16'."
+  },
+  {
+    "timestamp": "2025-03-24T01:59:25.135Z",
+    "message": "Error procesando el enlace https://ts30.x3.america.travian.com/build.php?id=39&gid=16&tt=2&x=69&y=18: Attempted to use detached Frame '030DF21BE1D7D91356EA099AC6185F16'."
+  },
+  {
+    "timestamp": "2025-03-24T01:59:25.137Z",
+    "message": "Error procesando el enlace https://ts30.x3.america.travian.com/build.php?id=39&gid=16&tt=2&x=52&y=37: Attempted to use detached Frame '030DF21BE1D7D91356EA099AC6185F16'."
+  },
+  {
+    "timestamp": "2025-03-24T01:59:25.139Z",
+    "message": "Error procesando el enlace https://ts30.x3.america.travian.com/build.php?id=39&gid=16&tt=2&x=60&y=-29: Attempted to use detached Frame '030DF21BE1D7D91356EA099AC6185F16'."
+  },
+  {
+    "timestamp": "2025-03-24T01:59:25.141Z",
+    "message": "Error procesando el enlace https://ts30.x3.america.travian.com/build.php?id=39&gid=16&tt=2&x=71&y=13: Attempted to use detached Frame '030DF21BE1D7D91356EA099AC6185F16'."
+  },
+  {
+    "timestamp": "2025-03-24T01:59:25.143Z",
+    "message": "Error procesando el enlace https://ts30.x3.america.travian.com/build.php?id=39&gid=16&tt=2&x=23&y=42: Attempted to use detached Frame '030DF21BE1D7D91356EA099AC6185F16'."
+  },
+  {
+    "timestamp": "2025-03-24T01:59:25.149Z",
+    "message": "Error procesando el enlace https://ts30.x3.america.travian.com/build.php?id=39&gid=16&tt=2&x=46&y=-38: Attempted to use detached Frame '030DF21BE1D7D91356EA099AC6185F16'."
+  },
+  {
+    "timestamp": "2025-03-24T01:59:25.151Z",
+    "message": "Error procesando el enlace https://ts30.x3.america.travian.com/build.php?id=39&gid=16&tt=2&x=72&y=-8: Attempted to use detached Frame '030DF21BE1D7D91356EA099AC6185F16'."
+  },
+  {
+    "timestamp": "2025-03-24T01:59:25.153Z",
+    "message": "Error procesando el enlace https://ts30.x3.america.travian.com/build.php?id=39&gid=16&tt=2&x=29&y=43: Attempted to use detached Frame '030DF21BE1D7D91356EA099AC6185F16'."
+  },
+  {
+    "timestamp": "2025-03-24T01:59:25.154Z",
+    "message": "Error procesando el enlace https://ts30.x3.america.travian.com/build.php?id=39&gid=16&tt=2&x=73&y=3: Attempted to use detached Frame '030DF21BE1D7D91356EA099AC6185F16'."
+  },
+  {
+    "timestamp": "2025-03-24T01:59:25.156Z",
+    "message": "Error procesando el enlace https://ts30.x3.america.travian.com/build.php?id=39&gid=16&tt=2&x=44&y=41: Attempted to use detached Frame '030DF21BE1D7D91356EA099AC6185F16'."
+  },
+  {
+    "timestamp": "2025-03-24T01:59:25.158Z",
+    "message": "Error procesando el enlace https://ts30.x3.america.travian.com/build.php?id=39&gid=16&tt=2&x=36&y=-41: Attempted to use detached Frame '030DF21BE1D7D91356EA099AC6185F16'."
+  },
+  {
+    "timestamp": "2025-03-24T01:59:25.162Z",
+    "message": "Error procesando el enlace https://ts30.x3.america.travian.com/build.php?id=39&gid=16&tt=2&x=26&y=-41: Attempted to use detached Frame '030DF21BE1D7D91356EA099AC6185F16'."
+  },
+  {
+    "timestamp": "2025-03-24T01:59:25.166Z",
+    "message": "Error procesando el enlace https://ts30.x3.america.travian.com/build.php?id=39&gid=16&tt=2&x=26&y=43: Attempted to use detached Frame '030DF21BE1D7D91356EA099AC6185F16'."
+  },
+  {
+    "timestamp": "2025-03-24T01:59:25.168Z",
+    "message": "Error procesando el enlace https://ts30.x3.america.travian.com/build.php?id=39&gid=16&tt=2&x=72&y=-10: Attempted to use detached Frame '030DF21BE1D7D91356EA099AC6185F16'."
+  },
+  {
+    "timestamp": "2025-03-24T01:59:25.169Z",
+    "message": "Error procesando el enlace https://ts30.x3.america.travian.com/build.php?id=39&gid=16&tt=2&x=63&y=29: Attempted to use detached Frame '030DF21BE1D7D91356EA099AC6185F16'."
+  },
+  {
+    "timestamp": "2025-03-24T01:59:25.171Z",
+    "message": "Error procesando el enlace https://ts30.x3.america.travian.com/build.php?id=39&gid=16&tt=2&x=70&y=18: Attempted to use detached Frame '030DF21BE1D7D91356EA099AC6185F16'."
+  },
+  {
+    "timestamp": "2025-03-24T01:59:25.173Z",
+    "message": "Error procesando el enlace https://ts30.x3.america.travian.com/build.php?id=39&gid=16&tt=2&x=73&y=-6: Attempted to use detached Frame '030DF21BE1D7D91356EA099AC6185F16'."
+  },
+  {
+    "timestamp": "2025-03-24T01:59:25.174Z",
+    "message": "Error procesando el enlace https://ts30.x3.america.travian.com/build.php?id=39&gid=16&tt=2&x=38&y=-41: Attempted to use detached Frame '030DF21BE1D7D91356EA099AC6185F16'."
+  },
+  {
+    "timestamp": "2025-03-24T01:59:25.178Z",
+    "message": "Error procesando el enlace https://ts30.x3.america.travian.com/build.php?id=39&gid=16&tt=2&x=24&y=43: Attempted to use detached Frame '030DF21BE1D7D91356EA099AC6185F16'."
+  },
+  {
+    "timestamp": "2025-03-24T01:59:25.183Z",
+    "message": "Error procesando el enlace https://ts30.x3.america.travian.com/build.php?id=39&gid=16&tt=2&x=58&y=-32: Attempted to use detached Frame '030DF21BE1D7D91356EA099AC6185F16'."
+  },
+  {
+    "timestamp": "2025-03-24T01:59:25.185Z",
+    "message": "Error procesando el enlace https://ts30.x3.america.travian.com/build.php?id=39&gid=16&tt=2&x=67&y=-22: Attempted to use detached Frame '030DF21BE1D7D91356EA099AC6185F16'."
+  },
+  {
+    "timestamp": "2025-03-24T01:59:25.186Z",
+    "message": "Error procesando el enlace https://ts30.x3.america.travian.com/build.php?id=39&gid=16&tt=2&x=43&y=42: Attempted to use detached Frame '030DF21BE1D7D91356EA099AC6185F16'."
+  },
+  {
+    "timestamp": "2025-03-24T01:59:25.188Z",
+    "message": "Error procesando el enlace https://ts30.x3.america.travian.com/build.php?id=39&gid=16&tt=2&x=8&y=-35: Attempted to use detached Frame '030DF21BE1D7D91356EA099AC6185F16'."
+  },
+  {
+    "timestamp": "2025-03-24T01:59:25.190Z",
+    "message": "Error procesando el enlace https://ts30.x3.america.travian.com/build.php?id=39&gid=16&tt=2&x=73&y=9: Attempted to use detached Frame '030DF21BE1D7D91356EA099AC6185F16'."
+  },
+  {
+    "timestamp": "2025-03-24T01:59:25.191Z",
+    "message": "Error procesando el enlace https://ts30.x3.america.travian.com/build.php?id=39&gid=16&tt=2&x=65&y=27: Attempted to use detached Frame '030DF21BE1D7D91356EA099AC6185F16'."
+  },
+  {
+    "timestamp": "2025-03-24T01:59:25.195Z",
+    "message": "Error procesando el enlace https://ts30.x3.america.travian.com/build.php?id=39&gid=16&tt=2&x=69&y=21: Attempted to use detached Frame '030DF21BE1D7D91356EA099AC6185F16'."
+  },
+  {
+    "timestamp": "2025-03-24T01:59:25.200Z",
+    "message": "Error procesando el enlace https://ts30.x3.america.travian.com/build.php?id=39&gid=16&tt=2&x=18&y=42: Attempted to use detached Frame '030DF21BE1D7D91356EA099AC6185F16'."
+  },
+  {
+    "timestamp": "2025-03-24T01:59:25.201Z",
+    "message": "Error procesando el enlace https://ts30.x3.america.travian.com/build.php?id=39&gid=16&tt=2&x=74&y=0: Attempted to use detached Frame '030DF21BE1D7D91356EA099AC6185F16'."
+  },
+  {
+    "timestamp": "2025-03-24T01:59:25.203Z",
+    "message": "Error procesando el enlace https://ts30.x3.america.travian.com/build.php?id=39&gid=16&tt=2&x=56&y=36: Attempted to use detached Frame '030DF21BE1D7D91356EA099AC6185F16'."
+  },
+  {
+    "timestamp": "2025-03-24T01:59:25.205Z",
+    "message": "Error procesando el enlace https://ts30.x3.america.travian.com/build.php?id=39&gid=16&tt=2&x=53&y=38: Attempted to use detached Frame '030DF21BE1D7D91356EA099AC6185F16'."
+  },
+  {
+    "timestamp": "2025-03-24T01:59:25.207Z",
+    "message": "Error procesando el enlace https://ts30.x3.america.travian.com/build.php?id=39&gid=16&tt=2&x=-11&y=-9: Attempted to use detached Frame '030DF21BE1D7D91356EA099AC6185F16'."
+  },
+  {
+    "timestamp": "2025-03-24T01:59:25.208Z",
+    "message": "Error procesando el enlace https://ts30.x3.america.travian.com/build.php?id=39&gid=16&tt=2&x=55&y=-35: Attempted to use detached Frame '030DF21BE1D7D91356EA099AC6185F16'."
+  },
+  {
+    "timestamp": "2025-03-24T01:59:25.215Z",
+    "message": "Error procesando el enlace https://ts30.x3.america.travian.com/build.php?id=39&gid=16&tt=2&x=59&y=34: Attempted to use detached Frame '030DF21BE1D7D91356EA099AC6185F16'."
+  },
+  {
+    "timestamp": "2025-03-24T01:59:25.217Z",
+    "message": "Error procesando el enlace https://ts30.x3.america.travian.com/build.php?id=39&gid=16&tt=2&x=74&y=-4: Attempted to use detached Frame '030DF21BE1D7D91356EA099AC6185F16'."
+  },
+  {
+    "timestamp": "2025-03-24T01:59:25.218Z",
+    "message": "Error procesando el enlace https://ts30.x3.america.travian.com/build.php?id=39&gid=16&tt=2&x=70&y=20: Attempted to use detached Frame '030DF21BE1D7D91356EA099AC6185F16'."
+  },
+  {
+    "timestamp": "2025-03-24T01:59:25.220Z",
+    "message": "Error procesando el enlace https://ts30.x3.america.travian.com/build.php?id=39&gid=16&tt=2&x=50&y=40: Attempted to use detached Frame '030DF21BE1D7D91356EA099AC6185F16'."
+  },
+  {
+    "timestamp": "2025-03-24T01:59:25.222Z",
+    "message": "Error procesando el enlace https://ts30.x3.america.travian.com/build.php?id=39&gid=16&tt=2&x=48&y=-39: Attempted to use detached Frame '030DF21BE1D7D91356EA099AC6185F16'."
+  },
+  {
+    "timestamp": "2025-03-24T01:59:25.224Z",
+    "message": "Error procesando el enlace https://ts30.x3.america.travian.com/build.php?id=39&gid=16&tt=2&x=16&y=42: Attempted to use detached Frame '030DF21BE1D7D91356EA099AC6185F16'."
+  },
+  {
+    "timestamp": "2025-03-24T01:59:25.225Z",
+    "message": "Error procesando el enlace https://ts30.x3.america.travian.com/build.php?id=39&gid=16&tt=2&x=0&y=32: Attempted to use detached Frame '030DF21BE1D7D91356EA099AC6185F16'."
+  },
+  {
+    "timestamp": "2025-03-24T01:59:25.232Z",
+    "message": "Error procesando el enlace https://ts30.x3.america.travian.com/build.php?id=39&gid=16&tt=2&x=74&y=-8: Attempted to use detached Frame '030DF21BE1D7D91356EA099AC6185F16'."
+  },
+  {
+    "timestamp": "2025-03-24T01:59:25.234Z",
+    "message": "Error procesando el enlace https://ts30.x3.america.travian.com/build.php?id=39&gid=16&tt=2&x=47&y=42: Attempted to use detached Frame '030DF21BE1D7D91356EA099AC6185F16'."
+  },
+  {
+    "timestamp": "2025-03-24T01:59:25.236Z",
+    "message": "Error procesando el enlace https://ts30.x3.america.travian.com/build.php?id=39&gid=16&tt=2&x=75&y=-1: Attempted to use detached Frame '030DF21BE1D7D91356EA099AC6185F16'."
+  },
+  {
+    "timestamp": "2025-03-24T01:59:25.237Z",
+    "message": "Error procesando el enlace https://ts30.x3.america.travian.com/build.php?id=39&gid=16&tt=2&x=65&y=29: Attempted to use detached Frame '030DF21BE1D7D91356EA099AC6185F16'."
+  },
+  {
+    "timestamp": "2025-03-24T01:59:25.239Z",
+    "message": "Error procesando el enlace https://ts30.x3.america.travian.com/build.php?id=39&gid=16&tt=2&x=59&y=-33: Attempted to use detached Frame '030DF21BE1D7D91356EA099AC6185F16'."
+  },
+  {
+    "timestamp": "2025-03-24T01:59:25.241Z",
+    "message": "Error procesando el enlace https://ts30.x3.america.travian.com/build.php?id=39&gid=16&tt=2&x=68&y=-23: Attempted to use detached Frame '030DF21BE1D7D91356EA099AC6185F16'."
+  },
+  {
+    "timestamp": "2025-03-24T01:59:25.243Z",
+    "message": "Error procesando el enlace https://ts30.x3.america.travian.com/build.php?id=39&gid=16&tt=2&x=73&y=-13: Attempted to use detached Frame '030DF21BE1D7D91356EA099AC6185F16'."
+  },
+  {
+    "timestamp": "2025-03-24T01:59:25.249Z",
+    "message": "Error procesando el enlace https://ts30.x3.america.travian.com/build.php?id=39&gid=16&tt=2&x=70&y=22: Attempted to use detached Frame '030DF21BE1D7D91356EA099AC6185F16'."
+  },
+  {
+    "timestamp": "2025-03-24T01:59:25.250Z",
+    "message": "Error procesando el enlace https://ts30.x3.america.travian.com/build.php?id=39&gid=16&tt=2&x=20&y=44: Attempted to use detached Frame '030DF21BE1D7D91356EA099AC6185F16'."
+  },
+  {
+    "timestamp": "2025-03-24T01:59:25.252Z",
+    "message": "Error procesando el enlace https://ts30.x3.america.travian.com/build.php?id=39&gid=16&tt=2&x=75&y=-5: Attempted to use detached Frame '030DF21BE1D7D91356EA099AC6185F16'."
+  },
+  {
+    "timestamp": "2025-03-24T01:59:25.254Z",
+    "message": "Error procesando el enlace https://ts30.x3.america.travian.com/build.php?id=39&gid=16&tt=2&x=67&y=27: Attempted to use detached Frame '030DF21BE1D7D91356EA099AC6185F16'."
+  },
+  {
+    "timestamp": "2025-03-24T01:59:25.256Z",
+    "message": "Error procesando el enlace https://ts30.x3.america.travian.com/build.php?id=39&gid=16&tt=2&x=69&y=24: Attempted to use detached Frame '030DF21BE1D7D91356EA099AC6185F16'."
+  },
+  {
+    "timestamp": "2025-03-24T01:59:25.257Z",
+    "message": "Error procesando el enlace https://ts30.x3.america.travian.com/build.php?id=39&gid=16&tt=2&x=61&y=34: Attempted to use detached Frame '030DF21BE1D7D91356EA099AC6185F16'."
+  },
+  {
+    "timestamp": "2025-03-24T01:59:25.260Z",
+    "message": "Error procesando el enlace https://ts30.x3.america.travian.com/build.php?id=39&gid=16&tt=2&x=51&y=41: Attempted to use detached Frame '030DF21BE1D7D91356EA099AC6185F16'."
+  },
+  {
+    "timestamp": "2025-03-24T01:59:25.265Z",
+    "message": "Error procesando el enlace https://ts30.x3.america.travian.com/build.php?id=39&gid=16&tt=2&x=11&y=41: Attempted to use detached Frame '030DF21BE1D7D91356EA099AC6185F16'."
+  },
+  {
+    "timestamp": "2025-03-24T01:59:25.267Z",
+    "message": "Error procesando el enlace https://ts30.x3.america.travian.com/build.php?id=39&gid=16&tt=2&x=72&y=-17: Attempted to use detached Frame '030DF21BE1D7D91356EA099AC6185F16'."
+  },
+  {
+    "timestamp": "2025-03-24T01:59:25.268Z",
+    "message": "Error procesando el enlace https://ts30.x3.america.travian.com/build.php?id=39&gid=16&tt=2&x=22&y=45: Attempted to use detached Frame '030DF21BE1D7D91356EA099AC6185F16'."
+  },
+  {
+    "timestamp": "2025-03-24T01:59:25.270Z",
+    "message": "Error procesando el enlace https://ts30.x3.america.travian.com/build.php?id=39&gid=16&tt=2&x=55&y=39: Attempted to use detached Frame '030DF21BE1D7D91356EA099AC6185F16'."
+  },
+  {
+    "timestamp": "2025-03-24T01:59:25.272Z",
+    "message": "Error procesando el enlace https://ts30.x3.america.travian.com/build.php?id=39&gid=16&tt=2&x=58&y=37: Attempted to use detached Frame '030DF21BE1D7D91356EA099AC6185F16'."
+  },
+  {
+    "timestamp": "2025-03-24T01:59:25.274Z",
+    "message": "Error procesando el enlace https://ts30.x3.america.travian.com/build.php?id=39&gid=16&tt=2&x=27&y=-44: Attempted to use detached Frame '030DF21BE1D7D91356EA099AC6185F16'."
+  },
+  {
+    "timestamp": "2025-03-24T01:59:25.276Z",
+    "message": "Error procesando el enlace https://ts30.x3.america.travian.com/build.php?id=39&gid=16&tt=2&x=50&y=42: Attempted to use detached Frame '030DF21BE1D7D91356EA099AC6185F16'."
+  },
+  {
+    "timestamp": "2025-03-24T01:59:25.281Z",
+    "message": "Error procesando el enlace https://ts30.x3.america.travian.com/build.php?id=39&gid=16&tt=2&x=74&y=-13: Attempted to use detached Frame '030DF21BE1D7D91356EA099AC6185F16'."
+  },
+  {
+    "timestamp": "2025-03-24T01:59:25.284Z",
+    "message": "Error procesando el enlace https://ts30.x3.america.travian.com/build.php?id=39&gid=16&tt=2&x=63&y=33: Attempted to use detached Frame '030DF21BE1D7D91356EA099AC6185F16'."
+  },
+  {
+    "timestamp": "2025-03-24T01:59:25.286Z",
+    "message": "Error procesando el enlace https://ts30.x3.america.travian.com/build.php?id=39&gid=16&tt=2&x=36&y=46: Attempted to use detached Frame '030DF21BE1D7D91356EA099AC6185F16'."
+  },
+  {
+    "timestamp": "2025-03-24T01:59:25.287Z",
+    "message": "Error procesando el enlace https://ts30.x3.america.travian.com/build.php?id=39&gid=16&tt=2&x=76&y=-4: Attempted to use detached Frame '030DF21BE1D7D91356EA099AC6185F16'."
+  },
+  {
+    "timestamp": "2025-03-24T01:59:25.290Z",
+    "message": "Error procesando el enlace https://ts30.x3.america.travian.com/build.php?id=39&gid=16&tt=2&x=14&y=43: Attempted to use detached Frame '030DF21BE1D7D91356EA099AC6185F16'."
+  },
+  {
+    "timestamp": "2025-03-24T01:59:25.291Z",
+    "message": "Error procesando el enlace https://ts30.x3.america.travian.com/build.php?id=39&gid=16&tt=2&x=-4&y=30: Attempted to use detached Frame '030DF21BE1D7D91356EA099AC6185F16'."
+  },
+  {
+    "timestamp": "2025-03-24T01:59:25.295Z",
+    "message": "Error procesando el enlace https://ts30.x3.america.travian.com/build.php?id=39&gid=16&tt=2&x=66&y=30: Attempted to use detached Frame '030DF21BE1D7D91356EA099AC6185F16'."
+  },
+  {
+    "timestamp": "2025-03-24T01:59:25.299Z",
+    "message": "Error procesando el enlace https://ts30.x3.america.travian.com/build.php?id=39&gid=16&tt=2&x=74&y=-14: Attempted to use detached Frame '030DF21BE1D7D91356EA099AC6185F16'."
+  },
+  {
+    "timestamp": "2025-03-24T01:59:25.301Z",
+    "message": "Error procesando el enlace https://ts30.x3.america.travian.com/build.php?id=39&gid=16&tt=2&x=75&y=13: Attempted to use detached Frame '030DF21BE1D7D91356EA099AC6185F16'."
+  },
+  {
+    "timestamp": "2025-03-24T01:59:25.303Z",
+    "message": "Error procesando el enlace https://ts30.x3.america.travian.com/build.php?id=39&gid=16&tt=2&x=11&y=-40: Attempted to use detached Frame '030DF21BE1D7D91356EA099AC6185F16'."
+  },
+  {
+    "timestamp": "2025-03-24T01:59:25.305Z",
+    "message": "Error procesando el enlace https://ts30.x3.america.travian.com/build.php?id=39&gid=16&tt=2&x=72&y=-19: Attempted to use detached Frame '030DF21BE1D7D91356EA099AC6185F16'."
+  },
+  {
+    "timestamp": "2025-03-24T01:59:25.307Z",
+    "message": "Error procesando el enlace https://ts30.x3.america.travian.com/build.php?id=39&gid=16&tt=2&x=13&y=-41: Attempted to use detached Frame '030DF21BE1D7D91356EA099AC6185F16'."
+  },
+  {
+    "timestamp": "2025-03-24T01:59:25.309Z",
+    "message": "Error procesando el enlace https://ts30.x3.america.travian.com/build.php?id=39&gid=16&tt=2&x=-8&y=25: Attempted to use detached Frame '030DF21BE1D7D91356EA099AC6185F16'."
+  },
+  {
+    "timestamp": "2025-03-24T01:59:25.315Z",
+    "message": "Error procesando el enlace https://ts30.x3.america.travian.com/build.php?id=39&gid=16&tt=2&x=70&y=25: Attempted to use detached Frame '030DF21BE1D7D91356EA099AC6185F16'."
+  },
+  {
+    "timestamp": "2025-03-24T01:59:25.317Z",
+    "message": "Error procesando el enlace https://ts30.x3.america.travian.com/build.php?id=39&gid=16&tt=2&x=4&y=-36: Attempted to use detached Frame '030DF21BE1D7D91356EA099AC6185F16'."
+  },
+  {
+    "timestamp": "2025-03-24T01:59:25.319Z",
+    "message": "Error procesando el enlace https://ts30.x3.america.travian.com/build.php?id=39&gid=16&tt=2&x=18&y=-43: Attempted to use detached Frame '030DF21BE1D7D91356EA099AC6185F16'."
+  },
+  {
+    "timestamp": "2025-03-24T01:59:25.320Z",
+    "message": "Error procesando el enlace https://ts30.x3.america.travian.com/build.php?id=39&gid=16&tt=2&x=57&y=-37: Attempted to use detached Frame '030DF21BE1D7D91356EA099AC6185F16'."
+  },
+  {
+    "timestamp": "2025-03-24T01:59:25.322Z",
+    "message": "Error procesando el enlace https://ts30.x3.america.travian.com/build.php?id=39&gid=16&tt=2&x=41&y=-44: Attempted to use detached Frame '030DF21BE1D7D91356EA099AC6185F16'."
+  },
+  {
+    "timestamp": "2025-03-24T01:59:25.324Z",
+    "message": "Error procesando el enlace https://ts30.x3.america.travian.com/build.php?id=39&gid=16&tt=2&x=77&y=4: Attempted to use detached Frame '030DF21BE1D7D91356EA099AC6185F16'."
+  },
+  {
+    "timestamp": "2025-03-24T01:59:25.326Z",
+    "message": "Error procesando el enlace https://ts30.x3.america.travian.com/build.php?id=39&gid=16&tt=2&x=77&y=-3: Attempted to use detached Frame '030DF21BE1D7D91356EA099AC6185F16'."
+  },
+  {
+    "timestamp": "2025-03-24T01:59:25.332Z",
+    "message": "Error procesando el enlace https://ts30.x3.america.travian.com/build.php?id=39&gid=16&tt=2&x=17&y=-43: Attempted to use detached Frame '030DF21BE1D7D91356EA099AC6185F16'."
+  },
+  {
+    "timestamp": "2025-03-24T01:59:25.334Z",
+    "message": "Error procesando el enlace https://ts30.x3.america.travian.com/build.php?id=39&gid=16&tt=2&x=37&y=-45: Attempted to use detached Frame '030DF21BE1D7D91356EA099AC6185F16'."
+  },
+  {
+    "timestamp": "2025-03-24T01:59:25.356Z",
+    "message": "Error procesando el enlace https://ts30.x3.america.travian.com/build.php?id=39&gid=16&tt=2&x=36&y=68: Attempted to use detached Frame '030DF21BE1D7D91356EA099AC6185F16'."
+  },
+  {
+    "timestamp": "2025-03-24T01:59:25.358Z",
+    "message": "Error procesando el enlace https://ts30.x3.america.travian.com/build.php?id=39&gid=16&tt=2&x=37&y=77: Attempted to use detached Frame '030DF21BE1D7D91356EA099AC6185F16'."
+  },
+  {
+    "timestamp": "2025-03-24T01:59:25.361Z",
+    "message": "Error procesando el enlace https://ts30.x3.america.travian.com/build.php?id=39&gid=16&tt=2&x=39&y=75: Attempted to use detached Frame '030DF21BE1D7D91356EA099AC6185F16'."
+  },
+  {
+    "timestamp": "2025-03-24T01:59:25.366Z",
+    "message": "Error procesando el enlace https://ts30.x3.america.travian.com/build.php?id=39&gid=16&tt=2&x=27&y=83: Attempted to use detached Frame '030DF21BE1D7D91356EA099AC6185F16'."
+  },
+  {
+    "timestamp": "2025-03-24T01:59:25.368Z",
+    "message": "Error procesando el enlace https://ts30.x3.america.travian.com/build.php?id=39&gid=16&tt=2&x=39&y=77: Attempted to use detached Frame '030DF21BE1D7D91356EA099AC6185F16'."
+  },
+  {
+    "timestamp": "2025-03-24T01:59:25.370Z",
+    "message": "Error procesando el enlace https://ts30.x3.america.travian.com/build.php?id=39&gid=16&tt=2&x=18&y=73: Attempted to use detached Frame '030DF21BE1D7D91356EA099AC6185F16'."
+  },
+  {
+    "timestamp": "2025-03-24T01:59:25.372Z",
+    "message": "Error procesando el enlace https://ts30.x3.america.travian.com/build.php?id=39&gid=16&tt=2&x=37&y=81: Attempted to use detached Frame '030DF21BE1D7D91356EA099AC6185F16'."
+  },
+  {
+    "timestamp": "2025-03-24T01:59:25.374Z",
+    "message": "Error procesando el enlace https://ts30.x3.america.travian.com/build.php?id=39&gid=16&tt=2&x=36&y=64: Attempted to use detached Frame '030DF21BE1D7D91356EA099AC6185F16'."
+  },
+  {
+    "timestamp": "2025-03-24T01:59:25.378Z",
+    "message": "Error procesando el enlace https://ts30.x3.america.travian.com/build.php?id=39&gid=16&tt=2&x=35&y=83: Attempted to use detached Frame '030DF21BE1D7D91356EA099AC6185F16'."
+  },
+  {
+    "timestamp": "2025-03-24T01:59:25.382Z",
+    "message": "Error procesando el enlace https://ts30.x3.america.travian.com/build.php?id=39&gid=16&tt=2&x=18&y=77: Attempted to use detached Frame '030DF21BE1D7D91356EA099AC6185F16'."
+  },
+  {
+    "timestamp": "2025-03-24T01:59:25.386Z",
+    "message": "Error procesando el enlace https://ts30.x3.america.travian.com/build.php?id=39&gid=16&tt=2&x=19&y=80: Attempted to use detached Frame '030DF21BE1D7D91356EA099AC6185F16'."
+  },
+  {
+    "timestamp": "2025-03-24T01:59:25.388Z",
+    "message": "Error procesando el enlace https://ts30.x3.america.travian.com/build.php?id=39&gid=16&tt=2&x=39&y=66: Attempted to use detached Frame '030DF21BE1D7D91356EA099AC6185F16'."
+  },
+  {
+    "timestamp": "2025-03-24T01:59:25.390Z",
+    "message": "Error procesando el enlace https://ts30.x3.america.travian.com/build.php?id=39&gid=16&tt=2&x=41&y=76: Attempted to use detached Frame '030DF21BE1D7D91356EA099AC6185F16'."
+  },
+  {
+    "timestamp": "2025-03-24T01:59:25.394Z",
+    "message": "Error procesando el enlace https://ts30.x3.america.travian.com/build.php?id=39&gid=16&tt=2&x=18&y=79: Attempted to use detached Frame '030DF21BE1D7D91356EA099AC6185F16'."
+  },
+  {
+    "timestamp": "2025-03-24T01:59:25.400Z",
+    "message": "Error procesando el enlace https://ts30.x3.america.travian.com/build.php?id=39&gid=16&tt=2&x=33&y=61: Attempted to use detached Frame '030DF21BE1D7D91356EA099AC6185F16'."
+  },
+  {
+    "timestamp": "2025-03-24T01:59:25.402Z",
+    "message": "Error procesando el enlace https://ts30.x3.america.travian.com/build.php?id=39&gid=16&tt=2&x=39&y=81: Attempted to use detached Frame '030DF21BE1D7D91356EA099AC6185F16'."
+  },
+  {
+    "timestamp": "2025-03-24T01:59:25.404Z",
+    "message": "Error procesando el enlace https://ts30.x3.america.travian.com/build.php?id=39&gid=16&tt=2&x=22&y=84: Attempted to use detached Frame '030DF21BE1D7D91356EA099AC6185F16'."
+  },
+  {
+    "timestamp": "2025-03-24T01:59:25.406Z",
+    "message": "Error procesando el enlace https://ts30.x3.america.travian.com/build.php?id=39&gid=16&tt=2&x=42&y=70: Attempted to use detached Frame '030DF21BE1D7D91356EA099AC6185F16'."
+  },
+  {
+    "timestamp": "2025-03-24T01:59:25.408Z",
+    "message": "Error procesando el enlace https://ts30.x3.america.travian.com/build.php?id=39&gid=16&tt=2&x=20&y=63: Attempted to use detached Frame '030DF21BE1D7D91356EA099AC6185F16'."
+  },
+  {
+    "timestamp": "2025-03-24T01:59:25.413Z",
+    "message": "Error procesando el enlace https://ts30.x3.america.travian.com/build.php?id=39&gid=16&tt=2&x=16&y=77: Attempted to use detached Frame '030DF21BE1D7D91356EA099AC6185F16'."
+  },
+  {
+    "timestamp": "2025-03-24T01:59:25.418Z",
+    "message": "Error procesando el enlace https://ts30.x3.america.travian.com/build.php?id=39&gid=16&tt=2&x=16&y=77: Attempted to use detached Frame '030DF21BE1D7D91356EA099AC6185F16'."
+  },
+  {
+    "timestamp": "2025-03-24T01:59:25.420Z",
+    "message": "Error procesando el enlace https://ts30.x3.america.travian.com/build.php?id=39&gid=16&tt=2&x=42&y=68: Attempted to use detached Frame '030DF21BE1D7D91356EA099AC6185F16'."
+  },
+  {
+    "timestamp": "2025-03-24T01:59:25.422Z",
+    "message": "Error procesando el enlace https://ts30.x3.america.travian.com/build.php?id=39&gid=16&tt=2&x=34&y=86: Attempted to use detached Frame '030DF21BE1D7D91356EA099AC6185F16'."
+  },
+  {
+    "timestamp": "2025-03-24T01:59:25.424Z",
+    "message": "Error procesando el enlace https://ts30.x3.america.travian.com/build.php?id=39&gid=16&tt=2&x=42&y=78: Attempted to use detached Frame '030DF21BE1D7D91356EA099AC6185F16'."
+  },
+  {
+    "timestamp": "2025-03-24T01:59:25.430Z",
+    "message": "Error procesando el enlace https://ts30.x3.america.travian.com/build.php?id=39&gid=16&tt=2&x=30&y=87: Attempted to use detached Frame '030DF21BE1D7D91356EA099AC6185F16'."
+  },
+  {
+    "timestamp": "2025-03-24T01:59:25.435Z",
+    "message": "Error procesando el enlace https://ts30.x3.america.travian.com/build.php?id=39&gid=16&tt=2&x=43&y=71: Attempted to use detached Frame '030DF21BE1D7D91356EA099AC6185F16'."
+  },
+  {
+    "timestamp": "2025-03-24T01:59:25.437Z",
+    "message": "Error procesando el enlace https://ts30.x3.america.travian.com/build.php?id=39&gid=16&tt=2&x=23&y=86: Attempted to use detached Frame '030DF21BE1D7D91356EA099AC6185F16'."
+  },
+  {
+    "timestamp": "2025-03-24T01:59:25.439Z",
+    "message": "Error procesando el enlace https://ts30.x3.america.travian.com/build.php?id=39&gid=16&tt=2&x=28&y=58: Attempted to use detached Frame '030DF21BE1D7D91356EA099AC6185F16'."
+  },
+  {
+    "timestamp": "2025-03-24T01:59:25.442Z",
+    "message": "Error procesando el enlace https://ts30.x3.america.travian.com/build.php?id=39&gid=16&tt=2&x=31&y=58: Attempted to use detached Frame '030DF21BE1D7D91356EA099AC6185F16'."
+  },
+  {
+    "timestamp": "2025-03-24T01:59:25.449Z",
+    "message": "Error procesando el enlace https://ts30.x3.america.travian.com/build.php?id=39&gid=16&tt=2&x=42&y=81: Attempted to use detached Frame '030DF21BE1D7D91356EA099AC6185F16'."
+  },
+  {
+    "timestamp": "2025-03-24T01:59:25.451Z",
+    "message": "Error procesando el enlace https://ts30.x3.america.travian.com/build.php?id=39&gid=16&tt=2&x=33&y=58: Attempted to use detached Frame '030DF21BE1D7D91356EA099AC6185F16'."
+  },
+  {
+    "timestamp": "2025-03-24T01:59:25.453Z",
+    "message": "Error procesando el enlace https://ts30.x3.america.travian.com/build.php?id=39&gid=16&tt=2&x=17&y=63: Attempted to use detached Frame '030DF21BE1D7D91356EA099AC6185F16'."
+  },
+  {
+    "timestamp": "2025-03-24T01:59:25.454Z",
+    "message": "Error procesando el enlace https://ts30.x3.america.travian.com/build.php?id=39&gid=16&tt=2&x=17&y=83: Attempted to use detached Frame '030DF21BE1D7D91356EA099AC6185F16'."
+  },
+  {
+    "timestamp": "2025-03-24T01:59:25.456Z",
+    "message": "Error procesando el enlace https://ts30.x3.america.travian.com/build.php?id=39&gid=16&tt=2&x=28&y=57: Attempted to use detached Frame '030DF21BE1D7D91356EA099AC6185F16'."
+  },
+  {
+    "timestamp": "2025-03-24T01:59:25.458Z",
+    "message": "Error procesando el enlace https://ts30.x3.america.travian.com/build.php?id=39&gid=16&tt=2&x=13&y=74: Attempted to use detached Frame '030DF21BE1D7D91356EA099AC6185F16'."
+  },
+  {
+    "timestamp": "2025-03-24T01:59:25.463Z",
+    "message": "Error procesando el enlace https://ts30.x3.america.travian.com/build.php?id=39&gid=16&tt=2&x=27&y=57: Attempted to use detached Frame '030DF21BE1D7D91356EA099AC6185F16'."
+  },
+  {
+    "timestamp": "2025-03-24T01:59:25.467Z",
+    "message": "Error procesando el enlace https://ts30.x3.america.travian.com/build.php?id=39&gid=16&tt=2&x=45&y=75: Attempted to use detached Frame '030DF21BE1D7D91356EA099AC6185F16'."
+  },
+  {
+    "timestamp": "2025-03-24T01:59:25.469Z",
+    "message": "Error procesando el enlace https://ts30.x3.america.travian.com/build.php?id=39&gid=16&tt=2&x=35&y=88: Attempted to use detached Frame '030DF21BE1D7D91356EA099AC6185F16'."
+  },
+  {
+    "timestamp": "2025-03-24T01:59:25.470Z",
+    "message": "Error procesando el enlace https://ts30.x3.america.travian.com/build.php?id=39&gid=16&tt=2&x=18&y=85: Attempted to use detached Frame '030DF21BE1D7D91356EA099AC6185F16'."
+  },
+  {
+    "timestamp": "2025-03-24T01:59:25.472Z",
+    "message": "Error procesando el enlace https://ts30.x3.america.travian.com/build.php?id=39&gid=16&tt=2&x=18&y=61: Attempted to use detached Frame '030DF21BE1D7D91356EA099AC6185F16'."
+  },
+  {
+    "timestamp": "2025-03-24T01:59:25.474Z",
+    "message": "Error procesando el enlace https://ts30.x3.america.travian.com/build.php?id=39&gid=16&tt=2&x=43&y=64: Attempted to use detached Frame '030DF21BE1D7D91356EA099AC6185F16'."
+  },
+  {
+    "timestamp": "2025-03-24T01:59:25.477Z",
+    "message": "Error procesando el enlace https://ts30.x3.america.travian.com/build.php?id=39&gid=16&tt=2&x=28&y=56: Attempted to use detached Frame '030DF21BE1D7D91356EA099AC6185F16'."
+  },
+  {
+    "timestamp": "2025-03-24T01:59:25.483Z",
+    "message": "Error procesando el enlace https://ts30.x3.america.travian.com/build.php?id=39&gid=16&tt=2&x=28&y=90: Attempted to use detached Frame '030DF21BE1D7D91356EA099AC6185F16'."
+  },
+  {
+    "timestamp": "2025-03-24T01:59:25.484Z",
+    "message": "Error procesando el enlace https://ts30.x3.america.travian.com/build.php?id=39&gid=16&tt=2&x=31&y=90: Attempted to use detached Frame '030DF21BE1D7D91356EA099AC6185F16'."
+  },
+  {
+    "timestamp": "2025-03-24T01:59:25.486Z",
+    "message": "Error procesando el enlace https://ts30.x3.america.travian.com/build.php?id=39&gid=16&tt=2&x=19&y=87: Attempted to use detached Frame '030DF21BE1D7D91356EA099AC6185F16'."
+  },
+  {
+    "timestamp": "2025-03-24T01:59:25.488Z",
+    "message": "Error procesando el enlace https://ts30.x3.america.travian.com/build.php?id=39&gid=16&tt=2&x=36&y=89: Attempted to use detached Frame '030DF21BE1D7D91356EA099AC6185F16'."
+  },
+  {
+    "timestamp": "2025-03-24T01:59:25.490Z",
+    "message": "Error procesando el enlace https://ts30.x3.america.travian.com/build.php?id=39&gid=16&tt=2&x=17&y=86: Attempted to use detached Frame '030DF21BE1D7D91356EA099AC6185F16'."
+  },
+  {
+    "timestamp": "2025-03-24T01:59:25.492Z",
+    "message": "Error procesando el enlace https://ts30.x3.america.travian.com/build.php?id=39&gid=16&tt=2&x=12&y=68: Attempted to use detached Frame '030DF21BE1D7D91356EA099AC6185F16'."
+  },
+  {
+    "timestamp": "2025-03-24T01:59:25.498Z",
+    "message": "Error procesando el enlace https://ts30.x3.america.travian.com/build.php?id=39&gid=16&tt=2&x=43&y=84: Attempted to use detached Frame '030DF21BE1D7D91356EA099AC6185F16'."
+  },
+  {
+    "timestamp": "2025-03-24T01:59:25.500Z",
+    "message": "Error procesando el enlace https://ts30.x3.america.travian.com/build.php?id=39&gid=16&tt=2&x=47&y=73: Attempted to use detached Frame '030DF21BE1D7D91356EA099AC6185F16'."
+  },
+  {
+    "timestamp": "2025-03-24T01:59:25.502Z",
+    "message": "Error procesando el enlace https://ts30.x3.america.travian.com/build.php?id=39&gid=16&tt=2&x=29&y=55: Attempted to use detached Frame '030DF21BE1D7D91356EA099AC6185F16'."
+  },
+  {
+    "timestamp": "2025-03-24T01:59:25.504Z",
+    "message": "Error procesando el enlace https://ts30.x3.america.travian.com/build.php?id=39&gid=16&tt=2&x=44&y=63: Attempted to use detached Frame '030DF21BE1D7D91356EA099AC6185F16'."
+  },
+  {
+    "timestamp": "2025-03-24T01:59:25.506Z",
+    "message": "Error procesando el enlace https://ts30.x3.america.travian.com/build.php?id=39&gid=16&tt=2&x=26&y=55: Attempted to use detached Frame '030DF21BE1D7D91356EA099AC6185F16'."
+  },
+  {
+    "timestamp": "2025-03-24T01:59:25.508Z",
+    "message": "Error procesando el enlace https://ts30.x3.america.travian.com/build.php?id=39&gid=16&tt=2&x=33&y=55: Attempted to use detached Frame '030DF21BE1D7D91356EA099AC6185F16'."
+  },
+  {
+    "timestamp": "2025-03-24T01:59:25.514Z",
+    "message": "Error procesando el enlace https://ts30.x3.america.travian.com/build.php?id=39&gid=16&tt=2&x=25&y=55: Attempted to use detached Frame '030DF21BE1D7D91356EA099AC6185F16'."
+  },
+  {
+    "timestamp": "2025-03-24T01:59:25.518Z",
+    "message": "Error procesando el enlace https://ts30.x3.america.travian.com/build.php?id=39&gid=16&tt=2&x=47&y=68: Attempted to use detached Frame '030DF21BE1D7D91356EA099AC6185F16'."
+  },
+  {
+    "timestamp": "2025-03-24T01:59:25.520Z",
+    "message": "Error procesando el enlace https://ts30.x3.america.travian.com/build.php?id=39&gid=16&tt=2&x=34&y=91: Attempted to use detached Frame '030DF21BE1D7D91356EA099AC6185F16'."
+  },
+  {
+    "timestamp": "2025-03-24T01:59:25.522Z",
+    "message": "Error procesando el enlace https://ts30.x3.america.travian.com/build.php?id=39&gid=16&tt=2&x=13&y=83: Attempted to use detached Frame '030DF21BE1D7D91356EA099AC6185F16'."
+  },
+  {
+    "timestamp": "2025-03-24T01:59:25.524Z",
+    "message": "Error procesando el enlace https://ts30.x3.america.travian.com/build.php?id=39&gid=16&tt=2&x=23&y=91: Attempted to use detached Frame '030DF21BE1D7D91356EA099AC6185F16'."
+  },
+  {
+    "timestamp": "2025-03-24T01:59:25.528Z",
+    "message": "Error procesando el enlace https://ts30.x3.america.travian.com/build.php?id=39&gid=16&tt=2&x=11&y=79: Attempted to use detached Frame '030DF21BE1D7D91356EA099AC6185F16'."
+  },
+  {
+    "timestamp": "2025-03-24T01:59:25.534Z",
+    "message": "Error procesando el enlace https://ts30.x3.america.travian.com/build.php?id=39&gid=16&tt=2&x=44&y=85: Attempted to use detached Frame '030DF21BE1D7D91356EA099AC6185F16'."
+  },
+  {
+    "timestamp": "2025-03-24T01:59:25.536Z",
+    "message": "Error procesando el enlace https://ts30.x3.america.travian.com/build.php?id=39&gid=16&tt=2&x=48&y=70: Attempted to use detached Frame '030DF21BE1D7D91356EA099AC6185F16'."
+  },
+  {
+    "timestamp": "2025-03-24T01:59:25.538Z",
+    "message": "Error procesando el enlace https://ts30.x3.america.travian.com/build.php?id=39&gid=16&tt=2&x=12&y=82: Attempted to use detached Frame '030DF21BE1D7D91356EA099AC6185F16'."
+  },
+  {
+    "timestamp": "2025-03-24T01:59:25.540Z",
+    "message": "Error procesando el enlace https://ts30.x3.america.travian.com/build.php?id=39&gid=16&tt=2&x=36&y=91: Attempted to use detached Frame '030DF21BE1D7D91356EA099AC6185F16'."
+  },
+  {
+    "timestamp": "2025-03-24T01:59:25.541Z",
+    "message": "Error procesando el enlace https://ts30.x3.america.travian.com/build.php?id=39&gid=16&tt=2&x=33&y=92: Attempted to use detached Frame '030DF21BE1D7D91356EA099AC6185F16'."
+  },
+  {
+    "timestamp": "2025-03-24T01:59:25.546Z",
+    "message": "Error procesando el enlace https://ts30.x3.america.travian.com/build.php?id=39&gid=16&tt=2&x=24&y=92: Attempted to use detached Frame '030DF21BE1D7D91356EA099AC6185F16'."
+  },
+  {
+    "timestamp": "2025-03-24T01:59:25.550Z",
+    "message": "Error procesando el enlace https://ts30.x3.america.travian.com/build.php?id=39&gid=16&tt=2&x=10&y=78: Attempted to use detached Frame '030DF21BE1D7D91356EA099AC6185F16'."
+  },
+  {
+    "timestamp": "2025-03-24T01:59:25.552Z",
+    "message": "Error procesando el enlace https://ts30.x3.america.travian.com/build.php?id=39&gid=16&tt=2&x=12&y=83: Attempted to use detached Frame '030DF21BE1D7D91356EA099AC6185F16'."
+  },
+  {
+    "timestamp": "2025-03-24T01:59:25.554Z",
+    "message": "Error procesando el enlace https://ts30.x3.america.travian.com/build.php?id=39&gid=16&tt=2&x=39&y=56: Attempted to use detached Frame '030DF21BE1D7D91356EA099AC6185F16'."
+  },
+  {
+    "timestamp": "2025-03-24T01:59:25.556Z",
+    "message": "Error procesando el enlace https://ts30.x3.america.travian.com/build.php?id=39&gid=16&tt=2&x=15&y=87: Attempted to use detached Frame '030DF21BE1D7D91356EA099AC6185F16'."
+  },
+  {
+    "timestamp": "2025-03-24T01:59:25.557Z",
+    "message": "Error procesando el enlace https://ts30.x3.america.travian.com/build.php?id=39&gid=16&tt=2&x=16&y=88: Attempted to use detached Frame '030DF21BE1D7D91356EA099AC6185F16'."
+  },
+  {
+    "timestamp": "2025-03-24T01:59:25.561Z",
+    "message": "Error procesando el enlace https://ts30.x3.america.travian.com/build.php?id=39&gid=16&tt=2&x=35&y=54: Attempted to use detached Frame '030DF21BE1D7D91356EA099AC6185F16'."
+  },
+  {
+    "timestamp": "2025-03-24T01:59:25.566Z",
+    "message": "Error procesando el enlace https://ts30.x3.america.travian.com/build.php?id=39&gid=16&tt=2&x=17&y=89: Attempted to use detached Frame '030DF21BE1D7D91356EA099AC6185F16'."
+  },
+  {
+    "timestamp": "2025-03-24T01:59:25.568Z",
+    "message": "Error procesando el enlace https://ts30.x3.america.travian.com/build.php?id=39&gid=16&tt=2&x=13&y=85: Attempted to use detached Frame '030DF21BE1D7D91356EA099AC6185F16'."
+  },
+  {
+    "timestamp": "2025-03-24T01:59:25.569Z",
+    "message": "Error procesando el enlace https://ts30.x3.america.travian.com/build.php?id=39&gid=16&tt=2&x=28&y=93: Attempted to use detached Frame '030DF21BE1D7D91356EA099AC6185F16'."
+  },
+  {
+    "timestamp": "2025-03-24T01:59:25.571Z",
+    "message": "Error procesando el enlace https://ts30.x3.america.travian.com/build.php?id=39&gid=16&tt=2&x=10&y=80: Attempted to use detached Frame '030DF21BE1D7D91356EA099AC6185F16'."
+  },
+  {
+    "timestamp": "2025-03-24T01:59:25.573Z",
+    "message": "Error procesando el enlace https://ts30.x3.america.travian.com/build.php?id=39&gid=16&tt=2&x=47&y=83: Attempted to use detached Frame '030DF21BE1D7D91356EA099AC6185F16'."
+  },
+  {
+    "timestamp": "2025-03-24T01:59:25.575Z",
+    "message": "Error procesando el enlace https://ts30.x3.america.travian.com/build.php?id=39&gid=16&tt=2&x=11&y=83: Attempted to use detached Frame '030DF21BE1D7D91356EA099AC6185F16'."
+  },
+  {
+    "timestamp": "2025-03-24T01:59:25.581Z",
+    "message": "Error procesando el enlace https://ts30.x3.america.travian.com/build.php?id=39&gid=16&tt=2&x=13&y=60: Attempted to use detached Frame '030DF21BE1D7D91356EA099AC6185F16'."
+  },
+  {
+    "timestamp": "2025-03-24T01:59:25.583Z",
+    "message": "Error procesando el enlace https://ts30.x3.america.travian.com/build.php?id=39&gid=16&tt=2&x=12&y=61: Attempted to use detached Frame '030DF21BE1D7D91356EA099AC6185F16'."
+  },
+  {
+    "timestamp": "2025-03-24T01:59:25.585Z",
+    "message": "Error procesando el enlace https://ts30.x3.america.travian.com/build.php?id=39&gid=16&tt=2&x=46&y=85: Attempted to use detached Frame '030DF21BE1D7D91356EA099AC6185F16'."
+  },
+  {
+    "timestamp": "2025-03-24T01:59:25.587Z",
+    "message": "Error procesando el enlace https://ts30.x3.america.travian.com/build.php?id=39&gid=16&tt=2&x=23&y=93: Attempted to use detached Frame '030DF21BE1D7D91356EA099AC6185F16'."
+  },
+  {
+    "timestamp": "2025-03-24T01:59:25.589Z",
+    "message": "Error procesando el enlace https://ts30.x3.america.travian.com/build.php?id=39&gid=16&tt=2&x=49&y=67: Attempted to use detached Frame '030DF21BE1D7D91356EA099AC6185F16'."
+  },
+  {
+    "timestamp": "2025-03-24T01:59:25.591Z",
+    "message": "Error procesando el enlace https://ts30.x3.america.travian.com/build.php?id=39&gid=16&tt=2&x=31&y=52: Attempted to use detached Frame '030DF21BE1D7D91356EA099AC6185F16'."
+  },
+  {
+    "timestamp": "2025-03-24T01:59:25.594Z",
+    "message": "Error procesando el enlace https://ts30.x3.america.travian.com/build.php?id=39&gid=16&tt=2&x=27&y=94: Attempted to use detached Frame '030DF21BE1D7D91356EA099AC6185F16'."
+  },
+  {
+    "timestamp": "2025-03-24T01:59:25.599Z",
+    "message": "Error procesando el enlace https://ts30.x3.america.travian.com/build.php?id=39&gid=16&tt=2&x=14&y=58: Attempted to use detached Frame '030DF21BE1D7D91356EA099AC6185F16'."
+  },
+  {
+    "timestamp": "2025-03-24T01:59:25.601Z",
+    "message": "Error procesando el enlace https://ts30.x3.america.travian.com/build.php?id=39&gid=16&tt=2&x=8&y=69: Attempted to use detached Frame '030DF21BE1D7D91356EA099AC6185F16'."
+  },
+  {
+    "timestamp": "2025-03-24T01:59:25.603Z",
+    "message": "Error procesando el enlace https://ts30.x3.america.travian.com/build.php?id=39&gid=16&tt=2&x=12&y=86: Attempted to use detached Frame '030DF21BE1D7D91356EA099AC6185F16'."
+  },
+  {
+    "timestamp": "2025-03-24T01:59:25.604Z",
+    "message": "Error procesando el enlace https://ts30.x3.america.travian.com/build.php?id=39&gid=16&tt=2&x=16&y=90: Attempted to use detached Frame '030DF21BE1D7D91356EA099AC6185F16'."
+  },
+  {
+    "timestamp": "2025-03-24T01:59:25.607Z",
+    "message": "Error procesando el enlace https://ts30.x3.america.travian.com/build.php?id=39&gid=16&tt=2&x=42&y=56: Attempted to use detached Frame '030DF21BE1D7D91356EA099AC6185F16'."
+  },
+  {
+    "timestamp": "2025-03-24T01:59:25.609Z",
+    "message": "Error procesando el enlace https://ts30.x3.america.travian.com/build.php?id=39&gid=16&tt=2&x=21&y=93: Attempted to use detached Frame '030DF21BE1D7D91356EA099AC6185F16'."
+  },
+  {
+    "timestamp": "2025-03-24T01:59:25.615Z",
+    "message": "Error procesando el enlace https://ts30.x3.america.travian.com/build.php?id=39&gid=16&tt=2&x=21&y=53: Attempted to use detached Frame '030DF21BE1D7D91356EA099AC6185F16'."
+  },
+  {
+    "timestamp": "2025-03-24T01:59:25.616Z",
+    "message": "Error procesando el enlace https://ts30.x3.america.travian.com/build.php?id=39&gid=16&tt=2&x=49&y=82: Attempted to use detached Frame '030DF21BE1D7D91356EA099AC6185F16'."
+  },
+  {
+    "timestamp": "2025-03-24T01:59:25.618Z",
+    "message": "Error procesando el enlace https://ts30.x3.america.travian.com/build.php?id=39&gid=16&tt=2&x=18&y=54: Attempted to use detached Frame '030DF21BE1D7D91356EA099AC6185F16'."
+  },
+  {
+    "timestamp": "2025-03-24T01:59:25.620Z",
+    "message": "Error procesando el enlace https://ts30.x3.america.travian.com/build.php?id=39&gid=16&tt=2&x=51&y=72: Attempted to use detached Frame '030DF21BE1D7D91356EA099AC6185F16'."
+  },
+  {
+    "timestamp": "2025-03-24T01:59:25.622Z",
+    "message": "Error procesando el enlace https://ts30.x3.america.travian.com/build.php?id=39&gid=16&tt=2&x=28&y=51: Attempted to use detached Frame '030DF21BE1D7D91356EA099AC6185F16'."
+  },
+  {
+    "timestamp": "2025-03-24T01:59:25.624Z",
+    "message": "Error procesando el enlace https://ts30.x3.america.travian.com/build.php?id=39&gid=16&tt=2&x=46&y=87: Attempted to use detached Frame '030DF21BE1D7D91356EA099AC6185F16'."
+  },
+  {
+    "timestamp": "2025-03-24T01:59:25.628Z",
+    "message": "Error procesando el enlace https://ts30.x3.america.travian.com/build.php?id=39&gid=16&tt=2&x=8&y=66: Attempted to use detached Frame '030DF21BE1D7D91356EA099AC6185F16'."
+  },
+  {
+    "timestamp": "2025-03-24T01:59:25.633Z",
+    "message": "Error procesando el enlace https://ts30.x3.america.travian.com/build.php?id=39&gid=16&tt=2&x=7&y=76: Attempted to use detached Frame '030DF21BE1D7D91356EA099AC6185F16'."
+  },
+  {
+    "timestamp": "2025-03-24T01:59:25.635Z",
+    "message": "Error procesando el enlace https://ts30.x3.america.travian.com/build.php?id=39&gid=16&tt=2&x=26&y=51: Attempted to use detached Frame '030DF21BE1D7D91356EA099AC6185F16'."
+  },
+  {
+    "timestamp": "2025-03-24T01:59:25.638Z",
+    "message": "Error procesando el enlace https://ts30.x3.america.travian.com/build.php?id=39&gid=16&tt=2&x=23&y=95: Attempted to use detached Frame '030DF21BE1D7D91356EA099AC6185F16'."
+  },
+  {
+    "timestamp": "2025-03-24T01:59:25.640Z",
+    "message": "Error procesando el enlace https://ts30.x3.america.travian.com/build.php?id=39&gid=16&tt=2&x=15&y=91: Attempted to use detached Frame '030DF21BE1D7D91356EA099AC6185F16'."
+  },
+  {
+    "timestamp": "2025-03-24T01:59:25.642Z",
+    "message": "Error procesando el enlace https://ts30.x3.america.travian.com/build.php?id=39&gid=16&tt=2&x=51&y=79: Attempted to use detached Frame '030DF21BE1D7D91356EA099AC6185F16'."
+  },
+  {
+    "timestamp": "2025-03-24T01:59:25.647Z",
+    "message": "Error procesando el enlace https://ts30.x3.america.travian.com/build.php?id=39&gid=16&tt=2&x=18&y=93: Attempted to use detached Frame '030DF21BE1D7D91356EA099AC6185F16'."
+  },
+  {
+    "timestamp": "2025-03-24T01:59:25.650Z",
+    "message": "Error procesando el enlace https://ts30.x3.america.travian.com/build.php?id=39&gid=16&tt=2&x=6&y=73: Attempted to use detached Frame '030DF21BE1D7D91356EA099AC6185F16'."
+  },
+  {
+    "timestamp": "2025-03-24T01:59:25.652Z",
+    "message": "Error procesando el enlace https://ts30.x3.america.travian.com/build.php?id=39&gid=16&tt=2&x=29&y=50: Attempted to use detached Frame '030DF21BE1D7D91356EA099AC6185F16'."
+  },
+  {
+    "timestamp": "2025-03-24T01:59:25.653Z",
+    "message": "Error procesando el enlace https://ts30.x3.america.travian.com/build.php?id=39&gid=16&tt=2&x=51&y=66: Attempted to use detached Frame '030DF21BE1D7D91356EA099AC6185F16'."
+  },
+  {
+    "timestamp": "2025-03-24T01:59:25.656Z",
+    "message": "Error procesando el enlace https://ts30.x3.america.travian.com/build.php?id=39&gid=16&tt=2&x=46&y=57: Attempted to use detached Frame '030DF21BE1D7D91356EA099AC6185F16'."
+  },
+  {
+    "timestamp": "2025-03-24T01:59:25.657Z",
+    "message": "Error procesando el enlace https://ts30.x3.america.travian.com/build.php?id=39&gid=16&tt=2&x=45&y=56: Attempted to use detached Frame '030DF21BE1D7D91356EA099AC6185F16'."
+  },
+  {
+    "timestamp": "2025-03-24T01:59:25.661Z",
+    "message": "Error procesando el enlace https://ts30.x3.america.travian.com/build.php?id=39&gid=16&tt=2&x=52&y=78: Attempted to use detached Frame '030DF21BE1D7D91356EA099AC6185F16'."
+  },
+  {
+    "timestamp": "2025-03-24T01:59:25.666Z",
+    "message": "Error procesando el enlace https://ts30.x3.america.travian.com/build.php?id=39&gid=16&tt=2&x=48&y=87: Attempted to use detached Frame '030DF21BE1D7D91356EA099AC6185F16'."
+  },
+  {
+    "timestamp": "2025-03-24T01:59:25.668Z",
+    "message": "Error procesando el enlace https://ts30.x3.america.travian.com/build.php?id=39&gid=16&tt=2&x=50&y=62: Attempted to use detached Frame '030DF21BE1D7D91356EA099AC6185F16'."
+  },
+  {
+    "timestamp": "2025-03-24T01:59:25.670Z",
+    "message": "Error procesando el enlace https://ts30.x3.america.travian.com/build.php?id=39&gid=16&tt=2&x=53&y=73: Attempted to use detached Frame '030DF21BE1D7D91356EA099AC6185F16'."
+  },
+  {
+    "timestamp": "2025-03-24T01:59:25.672Z",
+    "message": "Error procesando el enlace https://ts30.x3.america.travian.com/build.php?id=39&gid=16&tt=2&x=11&y=89: Attempted to use detached Frame '030DF21BE1D7D91356EA099AC6185F16'."
+  },
+  {
+    "timestamp": "2025-03-24T01:59:25.674Z",
+    "message": "Error procesando el enlace https://ts30.x3.america.travian.com/build.php?id=39&gid=16&tt=2&x=53&y=71: Attempted to use detached Frame '030DF21BE1D7D91356EA099AC6185F16'."
+  },
+  {
+    "timestamp": "2025-03-24T01:59:25.678Z",
+    "message": "Error procesando el enlace https://ts30.x3.america.travian.com/build.php?id=39&gid=16&tt=2&x=19&y=95: Attempted to use detached Frame '030DF21BE1D7D91356EA099AC6185F16'."
+  },
+  {
+    "timestamp": "2025-03-24T01:59:25.683Z",
+    "message": "Error procesando el enlace https://ts30.x3.america.travian.com/build.php?id=39&gid=16&tt=2&x=20&y=50: Attempted to use detached Frame '030DF21BE1D7D91356EA099AC6185F16'."
+  },
+  {
+    "timestamp": "2025-03-24T01:59:25.684Z",
+    "message": "Error procesando el enlace https://ts30.x3.america.travian.com/build.php?id=39&gid=16&tt=2&x=5&y=79: Attempted to use detached Frame '030DF21BE1D7D91356EA099AC6185F16'."
+  },
+  {
+    "timestamp": "2025-03-24T01:59:25.686Z",
+    "message": "Error procesando el enlace https://ts30.x3.america.travian.com/build.php?id=39&gid=16&tt=2&x=12&y=55: Attempted to use detached Frame '030DF21BE1D7D91356EA099AC6185F16'."
+  },
+  {
+    "timestamp": "2025-03-24T01:59:25.689Z",
+    "message": "Error procesando el enlace https://ts30.x3.america.travian.com/build.php?id=39&gid=16&tt=2&x=10&y=57: Attempted to use detached Frame '030DF21BE1D7D91356EA099AC6185F16'."
+  },
+  {
+    "timestamp": "2025-03-24T01:59:25.691Z",
+    "message": "Error procesando el enlace https://ts30.x3.america.travian.com/build.php?id=39&gid=16&tt=2&x=14&y=93: Attempted to use detached Frame '030DF21BE1D7D91356EA099AC6185F16'."
+  },
+  {
+    "timestamp": "2025-03-24T01:59:25.695Z",
+    "message": "Error procesando el enlace https://ts30.x3.america.travian.com/build.php?id=39&gid=16&tt=2&x=41&y=51: Attempted to use detached Frame '030DF21BE1D7D91356EA099AC6185F16'."
+  },
+  {
+    "timestamp": "2025-03-24T01:59:25.699Z",
+    "message": "Error procesando el enlace https://ts30.x3.america.travian.com/build.php?id=39&gid=16&tt=2&x=10&y=90: Attempted to use detached Frame '030DF21BE1D7D91356EA099AC6185F16'."
+  },
+  {
+    "timestamp": "2025-03-24T01:59:25.701Z",
+    "message": "Error procesando el enlace https://ts30.x3.america.travian.com/build.php?id=39&gid=16&tt=2&x=40&y=50: Attempted to use detached Frame '030DF21BE1D7D91356EA099AC6185F16'."
+  },
+  {
+    "timestamp": "2025-03-24T01:59:25.703Z",
+    "message": "Error procesando el enlace https://ts30.x3.america.travian.com/build.php?id=39&gid=16&tt=2&x=9&y=89: Attempted to use detached Frame '030DF21BE1D7D91356EA099AC6185F16'."
+  },
+  {
+    "timestamp": "2025-03-24T01:59:25.705Z",
+    "message": "Error procesando el enlace https://ts30.x3.america.travian.com/build.php?id=39&gid=16&tt=2&x=49&y=57: Attempted to use detached Frame '030DF21BE1D7D91356EA099AC6185F16'."
+  },
+  {
+    "timestamp": "2025-03-24T01:59:25.707Z",
+    "message": "Error procesando el enlace https://ts30.x3.america.travian.com/build.php?id=39&gid=16&tt=2&x=4&y=67: Attempted to use detached Frame '030DF21BE1D7D91356EA099AC6185F16'."
+  },
+  {
+    "timestamp": "2025-03-24T01:59:25.709Z",
+    "message": "Error procesando el enlace https://ts30.x3.america.travian.com/build.php?id=39&gid=16&tt=2&x=52&y=61: Attempted to use detached Frame '030DF21BE1D7D91356EA099AC6185F16'."
+  },
+  {
+    "timestamp": "2025-03-24T01:59:25.715Z",
+    "message": "Error procesando el enlace https://ts30.x3.america.travian.com/build.php?id=39&gid=16&tt=2&x=54&y=80: Attempted to use detached Frame '030DF21BE1D7D91356EA099AC6185F16'."
+  },
+  {
+    "timestamp": "2025-03-24T01:59:25.717Z",
+    "message": "Error procesando el enlace https://ts30.x3.america.travian.com/build.php?id=39&gid=16&tt=2&x=3&y=73: Attempted to use detached Frame '030DF21BE1D7D91356EA099AC6185F16'."
+  },
+  {
+    "timestamp": "2025-03-24T01:59:25.719Z",
+    "message": "Error procesando el enlace https://ts30.x3.america.travian.com/build.php?id=39&gid=16&tt=2&x=3&y=70: Attempted to use detached Frame '030DF21BE1D7D91356EA099AC6185F16'."
+  },
+  {
+    "timestamp": "2025-03-24T01:59:25.721Z",
+    "message": "Error procesando el enlace https://ts30.x3.america.travian.com/build.php?id=39&gid=16&tt=2&x=54&y=65: Attempted to use detached Frame '030DF21BE1D7D91356EA099AC6185F16'."
+  },
+  {
+    "timestamp": "2025-03-24T01:59:25.723Z",
+    "message": "Error procesando el enlace https://ts30.x3.america.travian.com/build.php?id=39&gid=16&tt=2&x=49&y=56: Attempted to use detached Frame '030DF21BE1D7D91356EA099AC6185F16'."
+  },
+  {
+    "timestamp": "2025-03-24T01:59:25.726Z",
+    "message": "Error procesando el enlace https://ts30.x3.america.travian.com/build.php?id=39&gid=16&tt=2&x=8&y=57: Attempted to use detached Frame '030DF21BE1D7D91356EA099AC6185F16'."
+  },
+  {
+    "timestamp": "2025-03-24T01:59:25.731Z",
+    "message": "Error procesando el enlace https://ts30.x3.america.travian.com/build.php?id=39&gid=16&tt=2&x=42&y=50: Attempted to use detached Frame '030DF21BE1D7D91356EA099AC6185F16'."
+  },
+  {
+    "timestamp": "2025-03-24T01:59:25.734Z",
+    "message": "Error procesando el enlace https://ts30.x3.america.travian.com/build.php?id=39&gid=16&tt=2&x=55&y=66: Attempted to use detached Frame '030DF21BE1D7D91356EA099AC6185F16'."
+  },
+  {
+    "timestamp": "2025-03-24T01:59:25.736Z",
+    "message": "Error procesando el enlace https://ts30.x3.america.travian.com/build.php?id=39&gid=16&tt=2&x=46&y=52: Attempted to use detached Frame '030DF21BE1D7D91356EA099AC6185F16'."
+  },
+  {
+    "timestamp": "2025-03-24T01:59:25.737Z",
+    "message": "Error procesando el enlace https://ts30.x3.america.travian.com/build.php?id=39&gid=16&tt=2&x=8&y=56: Attempted to use detached Frame '030DF21BE1D7D91356EA099AC6185F16'."
+  },
+  {
+    "timestamp": "2025-03-24T01:59:25.739Z",
+    "message": "Error procesando el enlace https://ts30.x3.america.travian.com/build.php?id=39&gid=16&tt=2&x=56&y=70: Attempted to use detached Frame '030DF21BE1D7D91356EA099AC6185F16'."
+  },
+  {
+    "timestamp": "2025-03-24T01:59:25.742Z",
+    "message": "Error procesando el enlace https://ts30.x3.america.travian.com/build.php?id=39&gid=16&tt=2&x=51&y=57: Attempted to use detached Frame '030DF21BE1D7D91356EA099AC6185F16'."
+  },
+  {
+    "timestamp": "2025-03-24T01:59:25.748Z",
+    "message": "Error procesando el enlace https://ts30.x3.america.travian.com/build.php?id=39&gid=16&tt=2&x=2&y=69: Attempted to use detached Frame '030DF21BE1D7D91356EA099AC6185F16'."
+  },
+  {
+    "timestamp": "2025-03-24T01:59:25.750Z",
+    "message": "Error procesando el enlace https://ts30.x3.america.travian.com/build.php?id=39&gid=16&tt=2&x=40&y=48: Attempted to use detached Frame '030DF21BE1D7D91356EA099AC6185F16'."
+  },
+  {
+    "timestamp": "2025-03-24T01:59:25.752Z",
+    "message": "Error procesando el enlace https://ts30.x3.america.travian.com/build.php?id=39&gid=16&tt=2&x=55&y=64: Attempted to use detached Frame '030DF21BE1D7D91356EA099AC6185F16'."
+  },
+  {
+    "timestamp": "2025-03-24T01:59:25.754Z",
+    "message": "Error procesando el enlace https://ts30.x3.america.travian.com/build.php?id=39&gid=16&tt=2&x=15&y=49: Attempted to use detached Frame '030DF21BE1D7D91356EA099AC6185F16'."
+  },
+  {
+    "timestamp": "2025-03-24T01:59:25.756Z",
+    "message": "Error procesando el enlace https://ts30.x3.america.travian.com/build.php?id=39&gid=16&tt=2&x=7&y=56: Attempted to use detached Frame '030DF21BE1D7D91356EA099AC6185F16'."
+  },
+  {
+    "timestamp": "2025-03-24T01:59:25.757Z",
+    "message": "Error procesando el enlace https://ts30.x3.america.travian.com/build.php?id=39&gid=16&tt=2&x=36&y=46: Attempted to use detached Frame '030DF21BE1D7D91356EA099AC6185F16'."
+  },
+  {
+    "timestamp": "2025-03-24T01:59:25.764Z",
+    "message": "Error procesando el enlace https://ts30.x3.america.travian.com/build.php?id=39&gid=16&tt=2&x=6&y=89: Attempted to use detached Frame '030DF21BE1D7D91356EA099AC6185F16'."
+  },
+  {
+    "timestamp": "2025-03-24T01:59:25.767Z",
+    "message": "Error procesando el enlace https://ts30.x3.america.travian.com/build.php?id=39&gid=16&tt=2&x=57&y=74: Attempted to use detached Frame '030DF21BE1D7D91356EA099AC6185F16'."
+  },
+  {
+    "timestamp": "2025-03-24T01:59:25.768Z",
+    "message": "Error procesando el enlace https://ts30.x3.america.travian.com/build.php?id=39&gid=16&tt=2&x=56&y=65: Attempted to use detached Frame '030DF21BE1D7D91356EA099AC6185F16'."
+  },
+  {
+    "timestamp": "2025-03-24T01:59:25.770Z",
+    "message": "Error procesando el enlace https://ts30.x3.america.travian.com/build.php?id=39&gid=16&tt=2&x=1&y=77: Attempted to use detached Frame '030DF21BE1D7D91356EA099AC6185F16'."
+  },
+  {
+    "timestamp": "2025-03-24T01:59:25.773Z",
+    "message": "Error procesando el enlace https://ts30.x3.america.travian.com/build.php?id=39&gid=16&tt=2&x=48&y=52: Attempted to use detached Frame '030DF21BE1D7D91356EA099AC6185F16'."
+  },
+  {
+    "timestamp": "2025-03-24T01:59:25.775Z",
+    "message": "Error procesando el enlace https://ts30.x3.america.travian.com/build.php?id=39&gid=16&tt=2&x=46&y=50: Attempted to use detached Frame '030DF21BE1D7D91356EA099AC6185F16'."
+  },
+  {
+    "timestamp": "2025-03-24T01:59:25.781Z",
+    "message": "Error procesando el enlace https://ts30.x3.america.travian.com/build.php?id=39&gid=16&tt=2&x=4&y=87: Attempted to use detached Frame '030DF21BE1D7D91356EA099AC6185F16'."
+  },
+  {
+    "timestamp": "2025-03-24T01:59:25.783Z",
+    "message": "Error procesando el enlace https://ts30.x3.america.travian.com/build.php?id=39&gid=16&tt=2&x=22&y=45: Attempted to use detached Frame '030DF21BE1D7D91356EA099AC6185F16'."
+  },
+  {
+    "timestamp": "2025-03-24T01:59:25.786Z",
+    "message": "Error procesando el enlace https://ts30.x3.america.travian.com/build.php?id=39&gid=16&tt=2&x=1&y=80: Attempted to use detached Frame '030DF21BE1D7D91356EA099AC6185F16'."
+  },
+  {
+    "timestamp": "2025-03-24T01:59:25.787Z",
+    "message": "Error procesando el enlace https://ts30.x3.america.travian.com/build.php?id=39&gid=16&tt=2&x=9&y=52: Attempted to use detached Frame '030DF21BE1D7D91356EA099AC6185F16'."
+  },
+  {
+    "timestamp": "2025-03-24T01:59:25.790Z",
+    "message": "Error procesando el enlace https://ts30.x3.america.travian.com/build.php?id=39&gid=16&tt=2&x=58&y=72: Attempted to use detached Frame '030DF21BE1D7D91356EA099AC6185F16'."
+  },
+  {
+    "timestamp": "2025-03-24T01:59:25.793Z",
+    "message": "Error procesando el enlace https://ts30.x3.america.travian.com/build.php?id=39&gid=16&tt=2&x=55&y=60: Attempted to use detached Frame '030DF21BE1D7D91356EA099AC6185F16'."
+  },
+  {
+    "timestamp": "2025-03-24T01:59:25.799Z",
+    "message": "Error procesando el enlace https://ts30.x3.america.travian.com/build.php?id=39&gid=16&tt=2&x=58&y=77: Attempted to use detached Frame '030DF21BE1D7D91356EA099AC6185F16'."
+  },
+  {
+    "timestamp": "2025-03-24T01:59:25.801Z",
+    "message": "Error procesando el enlace https://ts30.x3.america.travian.com/build.php?id=39&gid=16&tt=2&x=53&y=56: Attempted to use detached Frame '030DF21BE1D7D91356EA099AC6185F16'."
+  },
+  {
+    "timestamp": "2025-03-24T01:59:25.802Z",
+    "message": "Error procesando el enlace https://ts30.x3.america.travian.com/build.php?id=39&gid=16&tt=2&x=12&y=97: Attempted to use detached Frame '030DF21BE1D7D91356EA099AC6185F16'."
+  },
+  {
+    "timestamp": "2025-03-24T01:59:25.805Z",
+    "message": "Error procesando el enlace https://ts30.x3.america.travian.com/build.php?id=39&gid=16&tt=2&x=57&y=64: Attempted to use detached Frame '030DF21BE1D7D91356EA099AC6185F16'."
+  },
+  {
+    "timestamp": "2025-03-24T01:59:25.807Z",
+    "message": "Error procesando el enlace https://ts30.x3.america.travian.com/build.php?id=39&gid=16&tt=2&x=1&y=82: Attempted to use detached Frame '030DF21BE1D7D91356EA099AC6185F16'."
+  },
+  {
+    "timestamp": "2025-03-24T01:59:25.809Z",
+    "message": "Error procesando el enlace https://ts30.x3.america.travian.com/build.php?id=39&gid=16&tt=2&x=58&y=79: Attempted to use detached Frame '030DF21BE1D7D91356EA099AC6185F16'."
+  },
+  {
+    "timestamp": "2025-03-24T01:59:25.816Z",
+    "message": "Error procesando el enlace https://ts30.x3.america.travian.com/build.php?id=39&gid=16&tt=2&x=52&y=54: Attempted to use detached Frame '030DF21BE1D7D91356EA099AC6185F16'."
+  },
+  {
+    "timestamp": "2025-03-24T01:59:25.817Z",
+    "message": "Error procesando el enlace https://ts30.x3.america.travian.com/build.php?id=39&gid=16&tt=2&x=2&y=60: Attempted to use detached Frame '030DF21BE1D7D91356EA099AC6185F16'."
+  },
+  {
+    "timestamp": "2025-03-24T01:59:25.819Z",
+    "message": "Error procesando el enlace https://ts30.x3.america.travian.com/build.php?id=39&gid=16&tt=2&x=2&y=86: Attempted to use detached Frame '030DF21BE1D7D91356EA099AC6185F16'."
+  },
+  {
+    "timestamp": "2025-03-24T01:59:25.821Z",
+    "message": "Error procesando el enlace https://ts30.x3.america.travian.com/build.php?id=39&gid=16&tt=2&x=29&y=43: Attempted to use detached Frame '030DF21BE1D7D91356EA099AC6185F16'."
+  },
+  {
+    "timestamp": "2025-03-24T01:59:25.823Z",
+    "message": "Error procesando el enlace https://ts30.x3.america.travian.com/build.php?id=39&gid=16&tt=2&x=3&y=58: Attempted to use detached Frame '030DF21BE1D7D91356EA099AC6185F16'."
+  },
+  {
+    "timestamp": "2025-03-24T01:59:25.826Z",
+    "message": "Error procesando el enlace https://ts30.x3.america.travian.com/build.php?id=39&gid=16&tt=2&x=26&y=43: Attempted to use detached Frame '030DF21BE1D7D91356EA099AC6185F16'."
+  },
+  {
+    "timestamp": "2025-03-24T01:59:25.844Z",
+    "message": "Error procesando el enlace https://ts30.x3.america.travian.com/build.php?id=39&gid=16&tt=2&x=12&y=48: Attempted to use detached Frame '030DF21BE1D7D91356EA099AC6185F16'."
+  },
+  {
+    "timestamp": "2025-03-24T01:59:25.850Z",
+    "message": "Error procesando el enlace https://ts30.x3.america.travian.com/build.php?id=39&gid=16&tt=2&x=-1&y=77: Attempted to use detached Frame '030DF21BE1D7D91356EA099AC6185F16'."
+  },
+  {
+    "timestamp": "2025-03-24T01:59:25.852Z",
+    "message": "Error procesando el enlace https://ts30.x3.america.travian.com/build.php?id=39&gid=16&tt=2&x=59&y=69: Attempted to use detached Frame '030DF21BE1D7D91356EA099AC6185F16'."
+  },
+  {
+    "timestamp": "2025-03-24T01:59:25.854Z",
+    "message": "Error procesando el enlace https://ts30.x3.america.travian.com/build.php?id=39&gid=16&tt=2&x=20&y=44: Attempted to use detached Frame '030DF21BE1D7D91356EA099AC6185F16'."
+  },
+  {
+    "timestamp": "2025-03-24T01:59:25.856Z",
+    "message": "Error procesando el enlace https://ts30.x3.america.travian.com/build.php?id=39&gid=16&tt=2&x=24&y=43: Attempted to use detached Frame '030DF21BE1D7D91356EA099AC6185F16'."
+  },
+  {
+    "timestamp": "2025-03-24T01:59:25.858Z",
+    "message": "Error procesando el enlace https://ts30.x3.america.travian.com/build.php?id=39&gid=16&tt=2&x=45&y=47: Attempted to use detached Frame '030DF21BE1D7D91356EA099AC6185F16'."
+  },
+  {
+    "timestamp": "2025-03-24T01:59:25.864Z",
+    "message": "Error procesando el enlace https://ts30.x3.america.travian.com/build.php?id=39&gid=16&tt=2&x=-1&y=66: Attempted to use detached Frame '030DF21BE1D7D91356EA099AC6185F16'."
+  },
+  {
+    "timestamp": "2025-03-24T01:59:25.866Z",
+    "message": "Error procesando el enlace https://ts30.x3.america.travian.com/build.php?id=39&gid=16&tt=2&x=2&y=88: Attempted to use detached Frame '030DF21BE1D7D91356EA099AC6185F16'."
+  },
+  {
+    "timestamp": "2025-03-24T01:59:25.868Z",
+    "message": "Error procesando el enlace https://ts30.x3.america.travian.com/build.php?id=39&gid=16&tt=2&x=27&y=42: Attempted to use detached Frame '030DF21BE1D7D91356EA099AC6185F16'."
+  },
+  {
+    "timestamp": "2025-03-24T01:59:25.870Z",
+    "message": "Error procesando el enlace https://ts30.x3.america.travian.com/build.php?id=39&gid=16&tt=2&x=7&y=51: Attempted to use detached Frame '030DF21BE1D7D91356EA099AC6185F16'."
+  },
+  {
+    "timestamp": "2025-03-24T01:59:25.872Z",
+    "message": "Error procesando el enlace https://ts30.x3.america.travian.com/build.php?id=39&gid=16&tt=2&x=-2&y=69: Attempted to use detached Frame '030DF21BE1D7D91356EA099AC6185F16'."
+  },
+  {
+    "timestamp": "2025-03-24T01:59:25.874Z",
+    "message": "Error procesando el enlace https://ts30.x3.america.travian.com/build.php?id=39&gid=16&tt=2&x=60&y=78: Attempted to use detached Frame '030DF21BE1D7D91356EA099AC6185F16'."
+  },
+  {
+    "timestamp": "2025-03-24T01:59:25.879Z",
+    "message": "Error procesando el enlace https://ts30.x3.america.travian.com/build.php?id=39&gid=16&tt=2&x=23&y=42: Attempted to use detached Frame '030DF21BE1D7D91356EA099AC6185F16'."
+  },
+  {
+    "timestamp": "2025-03-24T01:59:25.883Z",
+    "message": "Error procesando el enlace https://ts30.x3.america.travian.com/build.php?id=39&gid=16&tt=2&x=-1&y=63: Attempted to use detached Frame '030DF21BE1D7D91356EA099AC6185F16'."
+  },
+  {
+    "timestamp": "2025-03-24T01:59:25.885Z",
+    "message": "Error procesando el enlace https://ts30.x3.america.travian.com/build.php?id=39&gid=16&tt=2&x=-1&y=83: Attempted to use detached Frame '030DF21BE1D7D91356EA099AC6185F16'."
+  },
+  {
+    "timestamp": "2025-03-24T01:59:25.888Z",
+    "message": "Error procesando el enlace https://ts30.x3.america.travian.com/build.php?id=39&gid=16&tt=2&x=6&y=95: Attempted to use detached Frame '030DF21BE1D7D91356EA099AC6185F16'."
+  },
+  {
+    "timestamp": "2025-03-24T01:59:25.890Z",
+    "message": "Error procesando el enlace https://ts30.x3.america.travian.com/build.php?id=39&gid=16&tt=2&x=49&y=48: Attempted to use detached Frame '030DF21BE1D7D91356EA099AC6185F16'."
+  },
+  {
+    "timestamp": "2025-03-24T01:59:25.893Z",
+    "message": "Error procesando el enlace https://ts30.x3.america.travian.com/build.php?id=39&gid=16&tt=2&x=61&y=72: Attempted to use detached Frame '030DF21BE1D7D91356EA099AC6185F16'."
+  },
+  {
+    "timestamp": "2025-03-24T01:59:25.899Z",
+    "message": "Error procesando el enlace https://ts30.x3.america.travian.com/build.php?id=39&gid=16&tt=2&x=61&y=76: Attempted to use detached Frame '030DF21BE1D7D91356EA099AC6185F16'."
+  },
+  {
+    "timestamp": "2025-03-24T01:59:25.901Z",
+    "message": "Error procesando el enlace https://ts30.x3.america.travian.com/build.php?id=39&gid=16&tt=2&x=32&y=41: Attempted to use detached Frame '030DF21BE1D7D91356EA099AC6185F16'."
+  },
+  {
+    "timestamp": "2025-03-24T01:59:25.903Z",
+    "message": "Error procesando el enlace https://ts30.x3.america.travian.com/build.php?id=39&gid=16&tt=2&x=58&y=59: Attempted to use detached Frame '030DF21BE1D7D91356EA099AC6185F16'."
+  },
+  {
+    "timestamp": "2025-03-24T01:59:25.905Z",
+    "message": "Error procesando el enlace https://ts30.x3.america.travian.com/build.php?id=39&gid=16&tt=2&x=-3&y=77: Attempted to use detached Frame '030DF21BE1D7D91356EA099AC6185F16'."
+  },
+  {
+    "timestamp": "2025-03-24T01:59:25.908Z",
+    "message": "Error procesando el enlace https://ts30.x3.america.travian.com/build.php?id=39&gid=16&tt=2&x=59&y=61: Attempted to use detached Frame '030DF21BE1D7D91356EA099AC6185F16'."
+  },
+  {
+    "timestamp": "2025-03-24T01:59:25.916Z",
+    "message": "Error procesando el enlace https://ts30.x3.america.travian.com/build.php?id=39&gid=16&tt=2&x=61&y=66: Attempted to use detached Frame '030DF21BE1D7D91356EA099AC6185F16'."
+  },
+  {
+    "timestamp": "2025-03-24T01:59:25.918Z",
+    "message": "Error procesando el enlace https://ts30.x3.america.travian.com/build.php?id=39&gid=16&tt=2&x=3&y=93: Attempted to use detached Frame '030DF21BE1D7D91356EA099AC6185F16'."
+  },
+  {
+    "timestamp": "2025-03-24T01:59:25.920Z",
+    "message": "Error procesando el enlace https://ts30.x3.america.travian.com/build.php?id=39&gid=16&tt=2&x=18&y=42: Attempted to use detached Frame '030DF21BE1D7D91356EA099AC6185F16'."
+  },
+  {
+    "timestamp": "2025-03-24T01:59:25.923Z",
+    "message": "Error procesando el enlace https://ts30.x3.america.travian.com/build.php?id=39&gid=16&tt=2&x=62&y=71: Attempted to use detached Frame '030DF21BE1D7D91356EA099AC6185F16'."
+  },
+  {
+    "timestamp": "2025-03-24T01:59:25.929Z",
+    "message": "Error procesando el enlace https://ts30.x3.america.travian.com/build.php?id=39&gid=16&tt=2&x=60&y=61: Attempted to use detached Frame '030DF21BE1D7D91356EA099AC6185F16'."
+  },
+  {
+    "timestamp": "2025-03-24T01:59:25.983Z",
+    "message": "Error procesando el enlace https://ts30.x3.america.travian.com/build.php?id=39&gid=16&tt=2&x=53&y=50: Attempted to use detached Frame '030DF21BE1D7D91356EA099AC6185F16'."
+  },
+  {
+    "timestamp": "2025-03-24T01:59:25.986Z",
+    "message": "Error procesando el enlace https://ts30.x3.america.travian.com/build.php?id=39&gid=16&tt=2&x=62&y=69: Attempted to use detached Frame '030DF21BE1D7D91356EA099AC6185F16'."
+  },
+  {
+    "timestamp": "2025-03-24T01:59:25.988Z",
+    "message": "Error procesando el enlace https://ts30.x3.america.travian.com/build.php?id=39&gid=16&tt=2&x=54&y=51: Attempted to use detached Frame '030DF21BE1D7D91356EA099AC6185F16'."
+  },
+  {
+    "timestamp": "2025-03-24T01:59:25.992Z",
+    "message": "Error procesando el enlace https://ts30.x3.america.travian.com/build.php?id=39&gid=16&tt=2&x=62&y=67: Attempted to use detached Frame '030DF21BE1D7D91356EA099AC6185F16'."
+  },
+  {
+    "timestamp": "2025-03-24T01:59:26.009Z",
+    "message": "Error procesando el enlace https://ts30.x3.america.travian.com/build.php?id=39&gid=16&tt=2&x=14&y=43: Attempted to use detached Frame '030DF21BE1D7D91356EA099AC6185F16'."
+  },
+  {
+    "timestamp": "2025-03-24T01:59:26.014Z",
+    "message": "Error procesando el enlace https://ts30.x3.america.travian.com/build.php?id=39&gid=16&tt=2&x=16&y=42: Attempted to use detached Frame '030DF21BE1D7D91356EA099AC6185F16'."
+  },
+  {
+    "timestamp": "2025-03-24T01:59:26.015Z",
+    "message": "Error procesando el enlace https://ts30.x3.america.travian.com/build.php?id=39&gid=16&tt=2&x=61&y=62: Attempted to use detached Frame '030DF21BE1D7D91356EA099AC6185F16'."
+  },
+  {
+    "timestamp": "2025-03-24T01:59:26.018Z",
+    "message": "Error procesando el enlace https://ts30.x3.america.travian.com/build.php?id=39&gid=16&tt=2&x=43&y=42: Attempted to use detached Frame '030DF21BE1D7D91356EA099AC6185F16'."
+  },
+  {
+    "timestamp": "2025-03-24T01:59:26.019Z",
+    "message": "Error procesando el enlace https://ts30.x3.america.travian.com/build.php?id=39&gid=16&tt=2&x=27&y=39: Attempted to use detached Frame '030DF21BE1D7D91356EA099AC6185F16'."
+  },
+  {
+    "timestamp": "2025-03-24T01:59:26.021Z",
+    "message": "Error procesando el enlace https://ts30.x3.america.travian.com/build.php?id=39&gid=16&tt=2&x=1&y=53: Attempted to use detached Frame '030DF21BE1D7D91356EA099AC6185F16'."
+  },
+  {
+    "timestamp": "2025-03-24T01:59:26.023Z",
+    "message": "Error procesando el enlace https://ts30.x3.america.travian.com/build.php?id=39&gid=16&tt=2&x=35&y=39: Attempted to use detached Frame '030DF21BE1D7D91356EA099AC6185F16'."
+  },
+  {
+    "timestamp": "2025-03-24T01:59:26.026Z",
+    "message": "Error procesando el enlace https://ts30.x3.america.travian.com/build.php?id=39&gid=16&tt=2&x=0&y=92: Attempted to use detached Frame '030DF21BE1D7D91356EA099AC6185F16'."
+  },
+  {
+    "timestamp": "2025-03-24T01:59:26.033Z",
+    "message": "Error procesando el enlace https://ts30.x3.america.travian.com/build.php?id=39&gid=16&tt=2&x=-5&y=80: Attempted to use detached Frame '030DF21BE1D7D91356EA099AC6185F16'."
+  },
+  {
+    "timestamp": "2025-03-24T01:59:26.035Z",
+    "message": "Error procesando el enlace https://ts30.x3.america.travian.com/build.php?id=39&gid=16&tt=2&x=-4&y=62: Attempted to use detached Frame '030DF21BE1D7D91356EA099AC6185F16'."
+  },
+  {
+    "timestamp": "2025-03-24T01:59:26.037Z",
+    "message": "Error procesando el enlace https://ts30.x3.america.travian.com/build.php?id=39&gid=16&tt=2&x=63&y=81: Attempted to use detached Frame '030DF21BE1D7D91356EA099AC6185F16'."
+  },
+  {
+    "timestamp": "2025-03-24T01:59:26.039Z",
+    "message": "Error procesando el enlace https://ts30.x3.america.travian.com/build.php?id=39&gid=16&tt=2&x=1&y=94: Attempted to use detached Frame '030DF21BE1D7D91356EA099AC6185F16'."
+  },
+  {
+    "timestamp": "2025-03-24T01:59:26.041Z",
+    "message": "Error procesando el enlace https://ts30.x3.america.travian.com/build.php?id=39&gid=16&tt=2&x=-6&y=75: Attempted to use detached Frame '030DF21BE1D7D91356EA099AC6185F16'."
+  },
+  {
+    "timestamp": "2025-03-24T01:59:26.048Z",
+    "message": "Error procesando el enlace https://ts30.x3.america.travian.com/build.php?id=39&gid=16&tt=2&x=62&y=61: Attempted to use detached Frame '030DF21BE1D7D91356EA099AC6185F16'."
+  },
+  {
+    "timestamp": "2025-03-24T01:59:26.051Z",
+    "message": "Error procesando el enlace https://ts30.x3.america.travian.com/build.php?id=39&gid=16&tt=2&x=38&y=39: Attempted to use detached Frame '030DF21BE1D7D91356EA099AC6185F16'."
+  },
+  {
+    "timestamp": "2025-03-24T01:59:26.053Z",
+    "message": "Error procesando el enlace https://ts30.x3.america.travian.com/build.php?id=39&gid=16&tt=2&x=-6&y=69: Attempted to use detached Frame '030DF21BE1D7D91356EA099AC6185F16'."
+  },
+  {
+    "timestamp": "2025-03-24T01:59:26.055Z",
+    "message": "Error procesando el enlace https://ts30.x3.america.travian.com/build.php?id=39&gid=16&tt=2&x=58&y=53: Attempted to use detached Frame '030DF21BE1D7D91356EA099AC6185F16'."
+  },
+  {
+    "timestamp": "2025-03-24T01:59:26.057Z",
+    "message": "Error procesando el enlace https://ts30.x3.america.travian.com/build.php?id=39&gid=16&tt=2&x=-6&y=77: Attempted to use detached Frame '030DF21BE1D7D91356EA099AC6185F16'."
+  },
+  {
+    "timestamp": "2025-03-24T01:59:26.062Z",
+    "message": "Error procesando el enlace https://ts30.x3.america.travian.com/build.php?id=39&gid=16&tt=2&x=61&y=58: Attempted to use detached Frame '030DF21BE1D7D91356EA099AC6185F16'."
+  },
+  {
+    "timestamp": "2025-03-24T01:59:26.067Z",
+    "message": "Error procesando el enlace https://ts30.x3.america.travian.com/build.php?id=39&gid=16&tt=2&x=44&y=41: Attempted to use detached Frame '030DF21BE1D7D91356EA099AC6185F16'."
+  },
+  {
+    "timestamp": "2025-03-24T01:59:26.069Z",
+    "message": "Error procesando el enlace https://ts30.x3.america.travian.com/build.php?id=39&gid=16&tt=2&x=-1&y=54: Attempted to use detached Frame '030DF21BE1D7D91356EA099AC6185F16'."
+  },
+  {
+    "timestamp": "2025-03-24T01:59:26.071Z",
+    "message": "Error procesando el enlace https://ts30.x3.america.travian.com/build.php?id=39&gid=16&tt=2&x=64&y=66: Attempted to use detached Frame '030DF21BE1D7D91356EA099AC6185F16'."
+  },
+  {
+    "timestamp": "2025-03-24T01:59:26.073Z",
+    "message": "Error procesando el enlace https://ts30.x3.america.travian.com/build.php?id=39&gid=16&tt=2&x=8&y=44: Attempted to use detached Frame '030DF21BE1D7D91356EA099AC6185F16'."
+  },
+  {
+    "timestamp": "2025-03-24T01:59:26.077Z",
+    "message": "Error procesando el enlace https://ts30.x3.america.travian.com/build.php?id=39&gid=16&tt=2&x=47&y=42: Attempted to use detached Frame '030DF21BE1D7D91356EA099AC6185F16'."
+  },
+  {
+    "timestamp": "2025-03-24T01:59:26.082Z",
+    "message": "Error procesando el enlace https://ts30.x3.america.travian.com/build.php?id=39&gid=16&tt=2&x=-2&y=55: Attempted to use detached Frame '030DF21BE1D7D91356EA099AC6185F16'."
+  },
+  {
+    "timestamp": "2025-03-24T01:59:26.084Z",
+    "message": "Error procesando el enlace https://ts30.x3.america.travian.com/build.php?id=39&gid=16&tt=2&x=65&y=72: Attempted to use detached Frame '030DF21BE1D7D91356EA099AC6185F16'."
+  },
+  {
+    "timestamp": "2025-03-24T01:59:26.086Z",
+    "message": "Error procesando el enlace https://ts30.x3.america.travian.com/build.php?id=39&gid=16&tt=2&x=-5&y=85: Attempted to use detached Frame '030DF21BE1D7D91356EA099AC6185F16'."
+  },
+  {
+    "timestamp": "2025-03-24T01:59:26.088Z",
+    "message": "Error procesando el enlace https://ts30.x3.america.travian.com/build.php?id=39&gid=16&tt=2&x=-5&y=61: Attempted to use detached Frame '030DF21BE1D7D91356EA099AC6185F16'."
+  },
+  {
+    "timestamp": "2025-03-24T01:59:26.090Z",
+    "message": "Error procesando el enlace https://ts30.x3.america.travian.com/build.php?id=39&gid=16&tt=2&x=54&y=47: Attempted to use detached Frame '030DF21BE1D7D91356EA099AC6185F16'."
+  },
+  {
+    "timestamp": "2025-03-24T01:59:26.093Z",
+    "message": "Error procesando el enlace https://ts30.x3.america.travian.com/build.php?id=39&gid=16&tt=2&x=64&y=64: Attempted to use detached Frame '030DF21BE1D7D91356EA099AC6185F16'."
+  },
+  {
+    "timestamp": "2025-03-24T01:59:26.099Z",
+    "message": "Error procesando el enlace https://ts30.x3.america.travian.com/build.php?id=39&gid=16&tt=2&x=51&y=44: Attempted to use detached Frame '030DF21BE1D7D91356EA099AC6185F16'."
+  },
+  {
+    "timestamp": "2025-03-24T01:59:26.101Z",
+    "message": "Error procesando el enlace https://ts30.x3.america.travian.com/build.php?id=39&gid=16&tt=2&x=19&y=38: Attempted to use detached Frame '030DF21BE1D7D91356EA099AC6185F16'."
+  },
+  {
+    "timestamp": "2025-03-24T01:59:26.103Z",
+    "message": "Error procesando el enlace https://ts30.x3.america.travian.com/build.php?id=39&gid=16&tt=2&x=58&y=51: Attempted to use detached Frame '030DF21BE1D7D91356EA099AC6185F16'."
+  },
+  {
+    "timestamp": "2025-03-24T01:59:26.105Z",
+    "message": "Error procesando el enlace https://ts30.x3.america.travian.com/build.php?id=39&gid=16&tt=2&x=45&y=40: Attempted to use detached Frame '030DF21BE1D7D91356EA099AC6185F16'."
+  },
+  {
+    "timestamp": "2025-03-24T01:59:26.108Z",
+    "message": "Error procesando el enlace https://ts30.x3.america.travian.com/build.php?id=39&gid=16&tt=2&x=-7&y=80: Attempted to use detached Frame '030DF21BE1D7D91356EA099AC6185F16'."
+  },
+  {
+    "timestamp": "2025-03-24T01:59:26.115Z",
+    "message": "Error procesando el enlace https://ts30.x3.america.travian.com/build.php?id=39&gid=16&tt=2&x=11&y=41: Attempted to use detached Frame '030DF21BE1D7D91356EA099AC6185F16'."
+  },
+  {
+    "timestamp": "2025-03-24T01:59:26.117Z",
+    "message": "Error procesando el enlace https://ts30.x3.america.travian.com/build.php?id=39&gid=16&tt=2&x=-5&y=58: Attempted to use detached Frame '030DF21BE1D7D91356EA099AC6185F16'."
+  },
+  {
+    "timestamp": "2025-03-24T01:59:26.119Z",
+    "message": "Error procesando el enlace https://ts30.x3.america.travian.com/build.php?id=39&gid=16&tt=2&x=-3&y=92: Attempted to use detached Frame '030DF21BE1D7D91356EA099AC6185F16'."
+  },
+  {
+    "timestamp": "2025-03-24T01:59:26.121Z",
+    "message": "Error procesando el enlace https://ts30.x3.america.travian.com/build.php?id=39&gid=16&tt=2&x=61&y=54: Attempted to use detached Frame '030DF21BE1D7D91356EA099AC6185F16'."
+  },
+  {
+    "timestamp": "2025-03-24T01:59:26.123Z",
+    "message": "Error procesando el enlace https://ts30.x3.america.travian.com/build.php?id=39&gid=16&tt=2&x=66&y=68: Attempted to use detached Frame '030DF21BE1D7D91356EA099AC6185F16'."
+  },
+  {
+    "timestamp": "2025-03-24T01:59:26.127Z",
+    "message": "Error procesando el enlace https://ts30.x3.america.travian.com/build.php?id=39&gid=16&tt=2&x=50&y=42: Attempted to use detached Frame '030DF21BE1D7D91356EA099AC6185F16'."
+  },
+  {
+    "timestamp": "2025-03-24T01:59:26.133Z",
+    "message": "Error procesando el enlace https://ts30.x3.america.travian.com/build.php?id=39&gid=16&tt=2&x=-8&y=67: Attempted to use detached Frame '030DF21BE1D7D91356EA099AC6185F16'."
+  },
+  {
+    "timestamp": "2025-03-24T01:59:26.135Z",
+    "message": "Error procesando el enlace https://ts30.x3.america.travian.com/build.php?id=39&gid=16&tt=2&x=-8&y=81: Attempted to use detached Frame '030DF21BE1D7D91356EA099AC6185F16'."
+  },
+  {
+    "timestamp": "2025-03-24T01:59:26.137Z",
+    "message": "Error procesando el enlace https://ts30.x3.america.travian.com/build.php?id=39&gid=16&tt=2&x=-9&y=72: Attempted to use detached Frame '030DF21BE1D7D91356EA099AC6185F16'."
+  },
+  {
+    "timestamp": "2025-03-24T01:59:26.139Z",
+    "message": "Error procesando el enlace https://ts30.x3.america.travian.com/build.php?id=39&gid=16&tt=2&x=-5&y=90: Attempted to use detached Frame '030DF21BE1D7D91356EA099AC6185F16'."
+  },
+  {
+    "timestamp": "2025-03-24T01:59:26.143Z",
+    "message": "Error procesando el enlace https://ts30.x3.america.travian.com/build.php?id=39&gid=16&tt=2&x=46&y=39: Attempted to use detached Frame '030DF21BE1D7D91356EA099AC6185F16'."
+  },
+  {
+    "timestamp": "2025-03-24T01:59:26.149Z",
+    "message": "Error procesando el enlace https://ts30.x3.america.travian.com/build.php?id=39&gid=16&tt=2&x=60&y=51: Attempted to use detached Frame '030DF21BE1D7D91356EA099AC6185F16'."
+  },
+  {
+    "timestamp": "2025-03-24T01:59:26.151Z",
+    "message": "Error procesando el enlace https://ts30.x3.america.travian.com/build.php?id=39&gid=16&tt=2&x=67&y=71: Attempted to use detached Frame '030DF21BE1D7D91356EA099AC6185F16'."
+  },
+  {
+    "timestamp": "2025-03-24T01:59:26.154Z",
+    "message": "Error procesando el enlace https://ts30.x3.america.travian.com/build.php?id=39&gid=16&tt=2&x=38&y=36: Attempted to use detached Frame '030DF21BE1D7D91356EA099AC6185F16'."
+  },
+  {
+    "timestamp": "2025-03-24T01:59:26.156Z",
+    "message": "Error procesando el enlace https://ts30.x3.america.travian.com/build.php?id=39&gid=16&tt=2&x=66&y=64: Attempted to use detached Frame '030DF21BE1D7D91356EA099AC6185F16'."
+  },
+  {
+    "timestamp": "2025-03-24T01:59:26.160Z",
+    "message": "Error procesando el enlace https://ts30.x3.america.travian.com/build.php?id=39&gid=16&tt=2&x=-9&y=76: Attempted to use detached Frame '030DF21BE1D7D91356EA099AC6185F16'."
+  },
+  {
+    "timestamp": "2025-03-24T01:59:26.166Z",
+    "message": "Error procesando el enlace https://ts30.x3.america.travian.com/build.php?id=39&gid=16&tt=2&x=57&y=47: Attempted to use detached Frame '030DF21BE1D7D91356EA099AC6185F16'."
+  },
+  {
+    "timestamp": "2025-03-24T01:59:26.168Z",
+    "message": "Error procesando el enlace https://ts30.x3.america.travian.com/build.php?id=39&gid=16&tt=2&x=61&y=52: Attempted to use detached Frame '030DF21BE1D7D91356EA099AC6185F16'."
+  },
+  {
+    "timestamp": "2025-03-24T01:59:26.171Z",
+    "message": "Error procesando el enlace https://ts30.x3.america.travian.com/build.php?id=39&gid=16&tt=2&x=34&y=35: Attempted to use detached Frame '030DF21BE1D7D91356EA099AC6185F16'."
+  },
+  {
+    "timestamp": "2025-03-24T01:59:26.174Z",
+    "message": "Error procesando el enlace https://ts30.x3.america.travian.com/build.php?id=39&gid=16&tt=2&x=-1&y=97: Attempted to use detached Frame '030DF21BE1D7D91356EA099AC6185F16'."
+  },
+  {
+    "timestamp": "2025-03-24T01:59:26.181Z",
+    "message": "Error procesando el enlace https://ts30.x3.america.travian.com/build.php?id=39&gid=16&tt=2&x=18&y=36: Attempted to use detached Frame '030DF21BE1D7D91356EA099AC6185F16'."
+  },
+  {
+    "timestamp": "2025-03-24T01:59:26.185Z",
+    "message": "Error procesando el enlace https://ts30.x3.america.travian.com/build.php?id=39&gid=16&tt=2&x=-9&y=80: Attempted to use detached Frame '030DF21BE1D7D91356EA099AC6185F16'."
+  },
+  {
+    "timestamp": "2025-03-24T01:59:26.187Z",
+    "message": "Error procesando el enlace https://ts30.x3.america.travian.com/build.php?id=39&gid=16&tt=2&x=67&y=66: Attempted to use detached Frame '030DF21BE1D7D91356EA099AC6185F16'."
+  },
+  {
+    "timestamp": "2025-03-24T01:59:26.190Z",
+    "message": "Error procesando el enlace https://ts30.x3.america.travian.com/build.php?id=39&gid=16&tt=2&x=51&y=41: Attempted to use detached Frame '030DF21BE1D7D91356EA099AC6185F16'."
+  },
+  {
+    "timestamp": "2025-03-24T01:59:26.197Z",
+    "message": "Error procesando el enlace https://ts30.x3.america.travian.com/build.php?id=39&gid=16&tt=2&x=59&y=48: Attempted to use detached Frame '030DF21BE1D7D91356EA099AC6185F16'."
+  },
+  {
+    "timestamp": "2025-03-24T01:59:26.201Z",
+    "message": "Error procesando el enlace https://ts30.x3.america.travian.com/build.php?id=39&gid=16&tt=2&x=50&y=40: Attempted to use detached Frame '030DF21BE1D7D91356EA099AC6185F16'."
+  },
+  {
+    "timestamp": "2025-03-24T01:59:26.203Z",
+    "message": "Error procesando el enlace https://ts30.x3.america.travian.com/build.php?id=39&gid=16&tt=2&x=60&y=49: Attempted to use detached Frame '030DF21BE1D7D91356EA099AC6185F16'."
+  },
+  {
+    "timestamp": "2025-03-24T01:59:26.206Z",
+    "message": "Error procesando el enlace https://ts30.x3.america.travian.com/build.php?id=39&gid=16&tt=2&x=63&y=53: Attempted to use detached Frame '030DF21BE1D7D91356EA099AC6185F16'."
+  },
+  {
+    "timestamp": "2025-03-24T01:59:26.251Z",
+    "message": "Error procesando el enlace https://ts30.x3.america.travian.com/build.php?id=39&gid=16&tt=2&x=27&y=83: Attempted to use detached Frame '030DF21BE1D7D91356EA099AC6185F16'."
+  },
+  {
+    "timestamp": "2025-03-24T01:59:26.285Z",
+    "message": "Error procesando el enlace https://ts30.x3.america.travian.com/build.php?id=39&gid=16&tt=2&x=18&y=77: Attempted to use detached Frame '030DF21BE1D7D91356EA099AC6185F16'."
+  },
+  {
+    "timestamp": "2025-03-24T01:59:26.320Z",
+    "message": "Error procesando el enlace https://ts30.x3.america.travian.com/build.php?id=39&gid=16&tt=2&x=27&y=68: Attempted to use detached Frame '030DF21BE1D7D91356EA099AC6185F16'."
+  },
+  {
+    "timestamp": "2025-03-24T01:59:26.322Z",
+    "message": "Error procesando el enlace https://ts30.x3.america.travian.com/build.php?id=39&gid=16&tt=2&x=-5&y=80: Attempted to use detached Frame '030DF21BE1D7D91356EA099AC6185F16'."
+  },
+  {
+    "timestamp": "2025-03-24T01:59:26.325Z",
+    "message": "Error procesando el enlace https://ts30.x3.america.travian.com/build.php?id=39&gid=16&tt=2&x=-15&y=94: Attempted to use detached Frame '030DF21BE1D7D91356EA099AC6185F16'."
+  },
+  {
+    "timestamp": "2025-03-24T01:59:26.332Z",
+    "message": "Error procesando el enlace https://ts30.x3.america.travian.com/build.php?id=39&gid=16&tt=2&x=33&y=68: Attempted to use detached Frame '030DF21BE1D7D91356EA099AC6185F16'."
+  },
+  {
+    "timestamp": "2025-03-24T01:59:26.334Z",
+    "message": "Error procesando el enlace https://ts30.x3.america.travian.com/build.php?id=39&gid=16&tt=2&x=43&y=71: Attempted to use detached Frame '030DF21BE1D7D91356EA099AC6185F16'."
+  },
+  {
+    "timestamp": "2025-03-24T01:59:26.336Z",
+    "message": "Error procesando el enlace https://ts30.x3.america.travian.com/build.php?id=39&gid=16&tt=2&x=3&y=73: Attempted to use detached Frame '030DF21BE1D7D91356EA099AC6185F16'."
+  },
+  {
+    "timestamp": "2025-03-24T01:59:26.339Z",
+    "message": "Error procesando el enlace https://ts30.x3.america.travian.com/build.php?id=39&gid=16&tt=2&x=47&y=73: Attempted to use detached Frame '030DF21BE1D7D91356EA099AC6185F16'."
+  },
+  {
+    "timestamp": "2025-03-24T01:59:26.342Z",
+    "message": "Error procesando el enlace https://ts30.x3.america.travian.com/build.php?id=39&gid=16&tt=2&x=-3&y=77: Attempted to use detached Frame '030DF21BE1D7D91356EA099AC6185F16'."
+  },
+  {
+    "timestamp": "2025-03-24T01:59:26.348Z",
+    "message": "Error procesando el enlace https://ts30.x3.america.travian.com/build.php?id=39&gid=16&tt=2&x=30&y=67: Attempted to use detached Frame '030DF21BE1D7D91356EA099AC6185F16'."
+  },
+  {
+    "timestamp": "2025-03-24T01:59:26.351Z",
+    "message": "Error procesando el enlace https://ts30.x3.america.travian.com/build.php?id=39&gid=16&tt=2&x=42&y=70: Attempted to use detached Frame '030DF21BE1D7D91356EA099AC6185F16'."
+  },
+  {
+    "timestamp": "2025-03-24T01:59:26.354Z",
+    "message": "Error procesando el enlace https://ts30.x3.america.travian.com/build.php?id=39&gid=16&tt=2&x=36&y=68: Attempted to use detached Frame '030DF21BE1D7D91356EA099AC6185F16'."
+  },
+  {
+    "timestamp": "2025-03-24T01:59:26.356Z",
+    "message": "Error procesando el enlace https://ts30.x3.america.travian.com/build.php?id=39&gid=16&tt=2&x=-13&y=88: Attempted to use detached Frame '030DF21BE1D7D91356EA099AC6185F16'."
+  },
+  {
+    "timestamp": "2025-03-24T01:59:26.360Z",
+    "message": "Error procesando el enlace https://ts30.x3.america.travian.com/build.php?id=39&gid=16&tt=2&x=-7&y=80: Attempted to use detached Frame '030DF21BE1D7D91356EA099AC6185F16'."
+  },
+  {
+    "timestamp": "2025-03-24T01:59:26.365Z",
+    "message": "Error procesando el enlace https://ts30.x3.america.travian.com/build.php?id=39&gid=16&tt=2&x=-8&y=81: Attempted to use detached Frame '030DF21BE1D7D91356EA099AC6185F16'."
+  },
+  {
+    "timestamp": "2025-03-24T01:59:26.367Z",
+    "message": "Error procesando el enlace https://ts30.x3.america.travian.com/build.php?id=39&gid=16&tt=2&x=-17&y=96: Attempted to use detached Frame '030DF21BE1D7D91356EA099AC6185F16'."
+  },
+  {
+    "timestamp": "2025-03-24T01:59:26.370Z",
+    "message": "Error procesando el enlace https://ts30.x3.america.travian.com/build.php?id=39&gid=16&tt=2&x=-16&y=93: Attempted to use detached Frame '030DF21BE1D7D91356EA099AC6185F16'."
+  },
+  {
+    "timestamp": "2025-03-24T01:59:26.372Z",
+    "message": "Error procesando el enlace https://ts30.x3.america.travian.com/build.php?id=39&gid=16&tt=2&x=12&y=68: Attempted to use detached Frame '030DF21BE1D7D91356EA099AC6185F16'."
+  },
+  {
+    "timestamp": "2025-03-24T01:59:26.375Z",
+    "message": "Error procesando el enlace https://ts30.x3.america.travian.com/build.php?id=39&gid=16&tt=2&x=8&y=69: Attempted to use detached Frame '030DF21BE1D7D91356EA099AC6185F16'."
+  },
+  {
+    "timestamp": "2025-03-24T01:59:26.383Z",
+    "message": "Error procesando el enlace https://ts30.x3.america.travian.com/build.php?id=39&gid=16&tt=2&x=58&y=79: Attempted to use detached Frame '030DF21BE1D7D91356EA099AC6185F16'."
+  },
+  {
+    "timestamp": "2025-03-24T01:59:26.401Z",
+    "message": "Error procesando el enlace https://ts30.x3.america.travian.com/build.php?id=39&gid=16&tt=2&x=60&y=78: Attempted to use detached Frame '030DF21BE1D7D91356EA099AC6185F16'."
+  },
+  {
+    "timestamp": "2025-03-24T01:59:26.406Z",
+    "message": "Error procesando el enlace https://ts30.x3.america.travian.com/build.php?id=39&gid=16&tt=2&x=63&y=81: Attempted to use detached Frame '030DF21BE1D7D91356EA099AC6185F16'."
+  },
+  {
+    "timestamp": "2025-03-24T01:59:26.416Z",
+    "message": "Error procesando el enlace https://ts30.x3.america.travian.com/build.php?id=39&gid=16&tt=2&x=17&y=63: Attempted to use detached Frame '030DF21BE1D7D91356EA099AC6185F16'."
+  },
+  {
+    "timestamp": "2025-03-24T01:59:26.419Z",
+    "message": "Error procesando el enlace https://ts30.x3.america.travian.com/build.php?id=39&gid=16&tt=2&x=4&y=67: Attempted to use detached Frame '030DF21BE1D7D91356EA099AC6185F16'."
+  },
+  {
+    "timestamp": "2025-03-24T01:59:26.421Z",
+    "message": "Error procesando el enlace https://ts30.x3.america.travian.com/build.php?id=39&gid=16&tt=2&x=-18&y=88: Attempted to use detached Frame '030DF21BE1D7D91356EA099AC6185F16'."
+  },
+  {
+    "timestamp": "2025-03-24T01:59:26.425Z",
+    "message": "Error procesando el enlace https://ts30.x3.america.travian.com/build.php?id=39&gid=16&tt=2&x=-9&y=76: Attempted to use detached Frame '030DF21BE1D7D91356EA099AC6185F16'."
+  },
+  {
+    "timestamp": "2025-03-24T01:59:26.432Z",
+    "message": "Error procesando el enlace https://ts30.x3.america.travian.com/build.php?id=39&gid=16&tt=2&x=53&y=71: Attempted to use detached Frame '030DF21BE1D7D91356EA099AC6185F16'."
+  },
+  {
+    "timestamp": "2025-03-24T01:59:26.434Z",
+    "message": "Error procesando el enlace https://ts30.x3.america.travian.com/build.php?id=39&gid=16&tt=2&x=-11&y=78: Attempted to use detached Frame '030DF21BE1D7D91356EA099AC6185F16'."
+  },
+  {
+    "timestamp": "2025-03-24T01:59:26.436Z",
+    "message": "Error procesando el enlace https://ts30.x3.america.travian.com/build.php?id=39&gid=16&tt=2&x=57&y=74: Attempted to use detached Frame '030DF21BE1D7D91356EA099AC6185F16'."
+  },
+  {
+    "timestamp": "2025-03-24T01:59:26.447Z",
+    "message": "Error procesando el enlace https://ts30.x3.america.travian.com/build.php?id=39&gid=16&tt=2&x=-11&y=76: Attempted to use detached Frame '030DF21BE1D7D91356EA099AC6185F16'."
+  },
+  {
+    "timestamp": "2025-03-24T01:59:26.450Z",
+    "message": "Error procesando el enlace https://ts30.x3.america.travian.com/build.php?id=39&gid=16&tt=2&x=61&y=76: Attempted to use detached Frame '030DF21BE1D7D91356EA099AC6185F16'."
+  },
+  {
+    "timestamp": "2025-03-24T01:59:26.452Z",
+    "message": "Error procesando el enlace https://ts30.x3.america.travian.com/build.php?id=39&gid=16&tt=2&x=-23&y=96: Attempted to use detached Frame '030DF21BE1D7D91356EA099AC6185F16'."
+  },
+  {
+    "timestamp": "2025-03-24T01:59:26.455Z",
+    "message": "Error procesando el enlace https://ts30.x3.america.travian.com/build.php?id=39&gid=16&tt=2&x=-22&y=93: Attempted to use detached Frame '030DF21BE1D7D91356EA099AC6185F16'."
+  },
+  {
+    "timestamp": "2025-03-24T01:59:26.458Z",
+    "message": "Error procesando el enlace https://ts30.x3.america.travian.com/build.php?id=39&gid=16&tt=2&x=43&y=64: Attempted to use detached Frame '030DF21BE1D7D91356EA099AC6185F16'."
+  },
+  {
+    "timestamp": "2025-03-24T01:59:26.464Z",
+    "message": "Error procesando el enlace https://ts30.x3.america.travian.com/build.php?id=39&gid=16&tt=2&x=18&y=61: Attempted to use detached Frame '030DF21BE1D7D91356EA099AC6185F16'."
+  },
+  {
+    "timestamp": "2025-03-24T01:59:26.467Z",
+    "message": "Error procesando el enlace https://ts30.x3.america.travian.com/build.php?id=39&gid=16&tt=2&x=33&y=61: Attempted to use detached Frame '030DF21BE1D7D91356EA099AC6185F16'."
+  },
+  {
+    "timestamp": "2025-03-24T01:59:26.470Z",
+    "message": "Error procesando el enlace https://ts30.x3.america.travian.com/build.php?id=39&gid=16&tt=2&x=-13&y=77: Attempted to use detached Frame '030DF21BE1D7D91356EA099AC6185F16'."
+  },
+  {
+    "timestamp": "2025-03-24T01:59:26.473Z",
+    "message": "Error procesando el enlace https://ts30.x3.america.travian.com/build.php?id=39&gid=16&tt=2&x=58&y=72: Attempted to use detached Frame '030DF21BE1D7D91356EA099AC6185F16'."
+  },
+  {
+    "timestamp": "2025-03-24T01:59:26.506Z",
+    "message": "Error procesando el enlace https://ts30.x3.america.travian.com/build.php?id=39&gid=16&tt=2&x=26&y=55: Attempted to use detached Frame '030DF21BE1D7D91356EA099AC6185F16'."
+  },
+  {
+    "timestamp": "2025-03-24T01:59:26.510Z",
+    "message": "Error procesando el enlace https://ts30.x3.america.travian.com/build.php?id=39&gid=16&tt=2&x=10&y=57: Attempted to use detached Frame '030DF21BE1D7D91356EA099AC6185F16'."
+  },
+  {
+    "timestamp": "2025-03-24T01:59:26.515Z",
+    "message": "Error procesando el enlace https://ts30.x3.america.travian.com/build.php?id=39&gid=16&tt=2&x=29&y=55: Attempted to use detached Frame '030DF21BE1D7D91356EA099AC6185F16'."
+  },
+  {
+    "timestamp": "2025-03-24T01:59:26.517Z",
+    "message": "Error procesando el enlace https://ts30.x3.america.travian.com/build.php?id=39&gid=16&tt=2&x=-10&y=67: Attempted to use detached Frame '030DF21BE1D7D91356EA099AC6185F16'."
+  },
+  {
+    "timestamp": "2025-03-24T01:59:26.520Z",
+    "message": "Error procesando el enlace https://ts30.x3.america.travian.com/build.php?id=39&gid=16&tt=2&x=-22&y=80: Attempted to use detached Frame '030DF21BE1D7D91356EA099AC6185F16'."
+  },
+  {
+    "timestamp": "2025-03-24T01:59:26.522Z",
+    "message": "Error procesando el enlace https://ts30.x3.america.travian.com/build.php?id=39&gid=16&tt=2&x=-29&y=95: Attempted to use detached Frame '030DF21BE1D7D91356EA099AC6185F16'."
+  },
+  {
+    "timestamp": "2025-03-24T01:59:26.526Z",
+    "message": "Error procesando el enlace https://ts30.x3.america.travian.com/build.php?id=39&gid=16&tt=2&x=33&y=55: Attempted to use detached Frame '030DF21BE1D7D91356EA099AC6185F16'."
+  },
+  {
+    "timestamp": "2025-03-24T01:59:26.532Z",
+    "message": "Error procesando el enlace https://ts30.x3.america.travian.com/build.php?id=39&gid=16&tt=2&x=-16&y=72: Attempted to use detached Frame '030DF21BE1D7D91356EA099AC6185F16'."
+  },
+  {
+    "timestamp": "2025-03-24T01:59:26.535Z",
+    "message": "Error procesando el enlace https://ts30.x3.america.travian.com/build.php?id=39&gid=16&tt=2&x=8&y=57: Attempted to use detached Frame '030DF21BE1D7D91356EA099AC6185F16'."
+  },
+  {
+    "timestamp": "2025-03-24T01:59:26.537Z",
+    "message": "Error procesando el enlace https://ts30.x3.america.travian.com/build.php?id=39&gid=16&tt=2&x=39&y=56: Attempted to use detached Frame '030DF21BE1D7D91356EA099AC6185F16'."
+  },
+  {
+    "timestamp": "2025-03-24T01:59:26.539Z",
+    "message": "Error procesando el enlace https://ts30.x3.america.travian.com/build.php?id=39&gid=16&tt=2&x=52&y=61: Attempted to use detached Frame '030DF21BE1D7D91356EA099AC6185F16'."
+  },
+  {
+    "timestamp": "2025-03-24T01:59:26.544Z",
+    "message": "Error procesando el enlace https://ts30.x3.america.travian.com/build.php?id=39&gid=16&tt=2&x=57&y=64: Attempted to use detached Frame '030DF21BE1D7D91356EA099AC6185F16'."
+  },
+  {
+    "timestamp": "2025-03-24T01:59:26.549Z",
+    "message": "Error procesando el enlace https://ts30.x3.america.travian.com/build.php?id=39&gid=16&tt=2&x=-4&y=62: Attempted to use detached Frame '030DF21BE1D7D91356EA099AC6185F16'."
+  },
+  {
+    "timestamp": "2025-03-24T01:59:26.551Z",
+    "message": "Error procesando el enlace https://ts30.x3.america.travian.com/build.php?id=39&gid=16&tt=2&x=81&y=100: Attempted to use detached Frame '030DF21BE1D7D91356EA099AC6185F16'."
+  },
+  {
+    "timestamp": "2025-03-24T01:59:26.553Z",
+    "message": "Error procesando el enlace https://ts30.x3.america.travian.com/build.php?id=39&gid=16&tt=2&x=-26&y=85: Attempted to use detached Frame '030DF21BE1D7D91356EA099AC6185F16'."
+  },
+  {
+    "timestamp": "2025-03-24T01:59:26.556Z",
+    "message": "Error procesando el enlace https://ts30.x3.america.travian.com/build.php?id=39&gid=16&tt=2&x=-27&y=87: Attempted to use detached Frame '030DF21BE1D7D91356EA099AC6185F16'."
+  },
+  {
+    "timestamp": "2025-03-24T01:59:26.561Z",
+    "message": "Error procesando el enlace https://ts30.x3.america.travian.com/build.php?id=39&gid=16&tt=2&x=-28&y=89: Attempted to use detached Frame '030DF21BE1D7D91356EA099AC6185F16'."
+  },
+  {
+    "timestamp": "2025-03-24T01:59:26.566Z",
+    "message": "Error procesando el enlace https://ts30.x3.america.travian.com/build.php?id=39&gid=16&tt=2&x=3&y=58: Attempted to use detached Frame '030DF21BE1D7D91356EA099AC6185F16'."
+  },
+  {
+    "timestamp": "2025-03-24T01:59:26.568Z",
+    "message": "Error procesando el enlace https://ts30.x3.america.travian.com/build.php?id=39&gid=16&tt=2&x=18&y=54: Attempted to use detached Frame '030DF21BE1D7D91356EA099AC6185F16'."
+  },
+  {
+    "timestamp": "2025-03-24T01:59:26.571Z",
+    "message": "Error procesando el enlace https://ts30.x3.america.travian.com/build.php?id=39&gid=16&tt=2&x=12&y=55: Attempted to use detached Frame '030DF21BE1D7D91356EA099AC6185F16'."
+  },
+  {
+    "timestamp": "2025-03-24T01:59:26.574Z",
+    "message": "Error procesando el enlace https://ts30.x3.america.travian.com/build.php?id=39&gid=16&tt=2&x=62&y=67: Attempted to use detached Frame '030DF21BE1D7D91356EA099AC6185F16'."
+  },
+  {
+    "timestamp": "2025-03-24T01:59:26.583Z",
+    "message": "Error procesando el enlace https://ts30.x3.america.travian.com/build.php?id=39&gid=16&tt=2&x=8&y=56: Attempted to use detached Frame '030DF21BE1D7D91356EA099AC6185F16'."
+  },
+  {
+    "timestamp": "2025-03-24T01:59:26.585Z",
+    "message": "Error procesando el enlace https://ts30.x3.america.travian.com/build.php?id=39&gid=16&tt=2&x=42&y=56: Attempted to use detached Frame '030DF21BE1D7D91356EA099AC6185F16'."
+  },
+  {
+    "timestamp": "2025-03-24T01:59:26.588Z",
+    "message": "Error procesando el enlace https://ts30.x3.america.travian.com/build.php?id=39&gid=16&tt=2&x=61&y=66: Attempted to use detached Frame '030DF21BE1D7D91356EA099AC6185F16'."
+  },
+  {
+    "timestamp": "2025-03-24T01:59:26.591Z",
+    "message": "Error procesando el enlace https://ts30.x3.america.travian.com/build.php?id=39&gid=16&tt=2&x=35&y=54: Attempted to use detached Frame '030DF21BE1D7D91356EA099AC6185F16'."
+  },
+  {
+    "timestamp": "2025-03-24T01:59:26.598Z",
+    "message": "Error procesando el enlace https://ts30.x3.america.travian.com/build.php?id=39&gid=16&tt=2&x=7&y=56: Attempted to use detached Frame '030DF21BE1D7D91356EA099AC6185F16'."
+  },
+  {
+    "timestamp": "2025-03-24T01:59:26.600Z",
+    "message": "Error procesando el enlace https://ts30.x3.america.travian.com/build.php?id=39&gid=16&tt=2&x=46&y=57: Attempted to use detached Frame '030DF21BE1D7D91356EA099AC6185F16'."
+  },
+  {
+    "timestamp": "2025-03-24T01:59:26.603Z",
+    "message": "Error procesando el enlace https://ts30.x3.america.travian.com/build.php?id=39&gid=16&tt=2&x=67&y=71: Attempted to use detached Frame '030DF21BE1D7D91356EA099AC6185F16'."
+  },
+  {
+    "timestamp": "2025-03-24T01:59:26.606Z",
+    "message": "Error procesando el enlace https://ts30.x3.america.travian.com/build.php?id=39&gid=16&tt=2&x=-17&y=71: Attempted to use detached Frame '030DF21BE1D7D91356EA099AC6185F16'."
+  },
+  {
+    "timestamp": "2025-03-24T01:59:26.610Z",
+    "message": "Error procesando el enlace https://ts30.x3.america.travian.com/build.php?id=39&gid=16&tt=2&x=21&y=53: Attempted to use detached Frame '030DF21BE1D7D91356EA099AC6185F16'."
+  },
+  {
+    "timestamp": "2025-03-24T01:59:26.615Z",
+    "message": "Error procesando el enlace https://ts30.x3.america.travian.com/build.php?id=39&gid=16&tt=2&x=-30&y=92: Attempted to use detached Frame '030DF21BE1D7D91356EA099AC6185F16'."
+  },
+  {
+    "timestamp": "2025-03-24T01:59:26.618Z",
+    "message": "Error procesando el enlace https://ts30.x3.america.travian.com/build.php?id=39&gid=16&tt=2&x=-5&y=61: Attempted to use detached Frame '030DF21BE1D7D91356EA099AC6185F16'."
+  },
+  {
+    "timestamp": "2025-03-24T01:59:26.621Z",
+    "message": "Error procesando el enlace https://ts30.x3.america.travian.com/build.php?id=39&gid=16&tt=2&x=45&y=56: Attempted to use detached Frame '030DF21BE1D7D91356EA099AC6185F16'."
+  },
+  {
+    "timestamp": "2025-03-24T01:59:26.623Z",
+    "message": "Error procesando el enlace https://ts30.x3.america.travian.com/build.php?id=39&gid=16&tt=2&x=-27&y=84: Attempted to use detached Frame '030DF21BE1D7D91356EA099AC6185F16'."
+  },
+  {
+    "timestamp": "2025-03-24T01:59:26.628Z",
+    "message": "Error procesando el enlace https://ts30.x3.america.travian.com/build.php?id=39&gid=16&tt=2&x=-22&y=76: Attempted to use detached Frame '030DF21BE1D7D91356EA099AC6185F16'."
+  },
+  {
+    "timestamp": "2025-03-24T01:59:26.633Z",
+    "message": "Error procesando el enlace https://ts30.x3.america.travian.com/build.php?id=39&gid=16&tt=2&x=-26&y=82: Attempted to use detached Frame '030DF21BE1D7D91356EA099AC6185F16'."
+  },
+  {
+    "timestamp": "2025-03-24T01:59:26.636Z",
+    "message": "Error procesando el enlace https://ts30.x3.america.travian.com/build.php?id=39&gid=16&tt=2&x=-13&y=66: Attempted to use detached Frame '030DF21BE1D7D91356EA099AC6185F16'."
+  },
+  {
+    "timestamp": "2025-03-24T01:59:26.638Z",
+    "message": "Error procesando el enlace https://ts30.x3.america.travian.com/build.php?id=39&gid=16&tt=2&x=49&y=57: Attempted to use detached Frame '030DF21BE1D7D91356EA099AC6185F16'."
+  },
+  {
+    "timestamp": "2025-03-24T01:59:26.641Z",
+    "message": "Error procesando el enlace https://ts30.x3.america.travian.com/build.php?id=39&gid=16&tt=2&x=55&y=60: Attempted to use detached Frame '030DF21BE1D7D91356EA099AC6185F16'."
+  },
+  {
+    "timestamp": "2025-03-24T01:59:26.648Z",
+    "message": "Error procesando el enlace https://ts30.x3.america.travian.com/build.php?id=39&gid=16&tt=2&x=31&y=52: Attempted to use detached Frame '030DF21BE1D7D91356EA099AC6185F16'."
+  },
+  {
+    "timestamp": "2025-03-24T01:59:26.650Z",
+    "message": "Error procesando el enlace https://ts30.x3.america.travian.com/build.php?id=39&gid=16&tt=2&x=66&y=68: Attempted to use detached Frame '030DF21BE1D7D91356EA099AC6185F16'."
+  },
+  {
+    "timestamp": "2025-03-24T01:59:26.653Z",
+    "message": "Error procesando el enlace https://ts30.x3.america.travian.com/build.php?id=39&gid=16&tt=2&x=64&y=66: Attempted to use detached Frame '030DF21BE1D7D91356EA099AC6185F16'."
+  },
+  {
+    "timestamp": "2025-03-24T01:59:26.655Z",
+    "message": "Error procesando el enlace https://ts30.x3.america.travian.com/build.php?id=39&gid=16&tt=2&x=51&y=57: Attempted to use detached Frame '030DF21BE1D7D91356EA099AC6185F16'."
+  },
+  {
+    "timestamp": "2025-03-24T01:59:26.658Z",
+    "message": "Error procesando el enlace https://ts30.x3.america.travian.com/build.php?id=39&gid=16&tt=2&x=26&y=51: Attempted to use detached Frame '030DF21BE1D7D91356EA099AC6185F16'."
+  },
+  {
+    "timestamp": "2025-03-24T01:59:26.665Z",
+    "message": "Error procesando el enlace https://ts30.x3.america.travian.com/build.php?id=39&gid=16&tt=2&x=49&y=56: Attempted to use detached Frame '030DF21BE1D7D91356EA099AC6185F16'."
+  },
+  {
+    "timestamp": "2025-03-24T01:59:26.667Z",
+    "message": "Error procesando el enlace https://ts30.x3.america.travian.com/build.php?id=39&gid=16&tt=2&x=28&y=51: Attempted to use detached Frame '030DF21BE1D7D91356EA099AC6185F16'."
+  },
+  {
+    "timestamp": "2025-03-24T01:59:26.670Z",
+    "message": "Error procesando el enlace https://ts30.x3.america.travian.com/build.php?id=39&gid=16&tt=2&x=69&y=70: Attempted to use detached Frame '030DF21BE1D7D91356EA099AC6185F16'."
+  },
+  {
+    "timestamp": "2025-03-24T01:59:26.672Z",
+    "message": "Error procesando el enlace https://ts30.x3.america.travian.com/build.php?id=39&gid=16&tt=2&x=59&y=61: Attempted to use detached Frame '030DF21BE1D7D91356EA099AC6185F16'."
+  },
+  {
+    "timestamp": "2025-03-24T01:59:26.676Z",
+    "message": "Error procesando el enlace https://ts30.x3.america.travian.com/build.php?id=39&gid=16&tt=2&x=-32&y=90: Attempted to use detached Frame '030DF21BE1D7D91356EA099AC6185F16'."
+  },
+  {
+    "timestamp": "2025-03-24T01:59:26.683Z",
+    "message": "Error procesando el enlace https://ts30.x3.america.travian.com/build.php?id=39&gid=16&tt=2&x=61&y=62: Attempted to use detached Frame '030DF21BE1D7D91356EA099AC6185F16'."
+  },
+  {
+    "timestamp": "2025-03-24T01:59:26.685Z",
+    "message": "Error procesando el enlace https://ts30.x3.america.travian.com/build.php?id=39&gid=16&tt=2&x=-5&y=58: Attempted to use detached Frame '030DF21BE1D7D91356EA099AC6185F16'."
+  },
+  {
+    "timestamp": "2025-03-24T01:59:26.688Z",
+    "message": "Error procesando el enlace https://ts30.x3.america.travian.com/build.php?id=39&gid=16&tt=2&x=60&y=61: Attempted to use detached Frame '030DF21BE1D7D91356EA099AC6185F16'."
+  },
+  {
+    "timestamp": "2025-03-24T01:59:26.690Z",
+    "message": "Error procesando el enlace https://ts30.x3.america.travian.com/build.php?id=39&gid=16&tt=2&x=64&y=64: Attempted to use detached Frame '030DF21BE1D7D91356EA099AC6185F16'."
+  },
+  {
+    "timestamp": "2025-03-24T01:59:26.695Z",
+    "message": "Error procesando el enlace https://ts30.x3.america.travian.com/build.php?id=39&gid=16&tt=2&x=29&y=50: Attempted to use detached Frame '030DF21BE1D7D91356EA099AC6185F16'."
+  },
+  {
+    "timestamp": "2025-03-24T06:06:07.077Z",
+    "message": "Error procesando el enlace https://ts30.x3.america.travian.com/build.php?id=39&gid=16&tt=2&x=20&y=63: Waiting for selector `#in` failed: Waiting failed: 10000ms exceeded"
+  },
+  {
+    "timestamp": "2025-03-24T13:19:12.098Z",
+    "message": "Error procesando el enlace https://ts30.x3.america.travian.com/build.php?id=39&gid=16&tt=2&x=28&y=93: net::ERR_ABORTED at https://ts30.x3.america.travian.com/build.php?id=39&gid=16&tt=2&x=28&y=93"
   }
 ]

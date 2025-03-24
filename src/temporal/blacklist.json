@@ -1,6 +1,146 @@
 [
   {
     "targetMapId": [
+      47,
+      -17
+    ],
+    "errorMessage": "tiene tropas"
+  },
+  {
+    "targetMapId": [
+      37,
+      70
+    ],
+    "errorMessage": "tiene tropas"
+  },
+  {
+    "targetMapId": [
+      -12,
+      78
+    ],
+    "errorMessage": "tiene tropas"
+  },
+  {
+    "targetMapId": [
+      26,
+      -14
+    ],
+    "errorMessage": "tiene tropas"
+  },
+  {
+    "targetMapId": [
+      -12,
+      76
+    ],
+    "errorMessage": "tiene tropas"
+  },
+  {
+    "targetMapId": [
+      26,
+      84
+    ],
+    "errorMessage": "tiene tropas"
+  },
+  {
+    "targetMapId": [
+      31,
+      -5
+    ],
+    "errorMessage": "tiene tropas"
+  },
+  {
+    "targetMapId": [
+      24,
+      84
+    ],
+    "errorMessage": "tiene tropas"
+  },
+  {
+    "targetMapId": [
+      -26,
+      93
+    ],
+    "errorMessage": "tiene tropas"
+  },
+  {
+    "targetMapId": [
+      5,
+      63
+    ],
+    "errorMessage": "tiene tropas"
+  },
+  {
+    "targetMapId": [
+      16,
+      94
+    ],
+    "errorMessage": "tiene tropas"
+  },
+  {
+    "targetMapId": [
+      59,
+      -2
+    ],
+    "errorMessage": "tiene tropas"
+  },
+  {
+    "targetMapId": [
+      17,
+      130
+    ],
+    "errorMessage": "tiene tropas"
+  },
+  {
+    "targetMapId": [
+      17,
+      131
+    ],
+    "errorMessage": "tiene tropas"
+  },
+  {
+    "targetMapId": [
+      24,
+      62
+    ],
+    "errorMessage": "tiene tropas"
+  },
+  {
+    "targetMapId": [
+      9,
+      79
+    ],
+    "errorMessage": "tiene tropas"
+  },
+  {
+    "targetMapId": [
+      4,
+      98
+    ],
+    "errorMessage": "aliado"
+  },
+  {
+    "targetMapId": [
+      25,
+      73
+    ],
+    "errorMessage": "tiene tropas"
+  },
+  {
+    "targetMapId": [
+      28,
+      67
+    ],
+    "errorMessage": "tiene escondites"
+  },
+  {
+    "targetMapId": [
+      62,
+      -2
+    ],
+    "errorMessage": "tiene tropas"
+  },
+  {
+    "targetMapId": [
       30,
       -4
     ],
@@ -94,6 +234,1112 @@
     "targetMapId": [
       36,
       25
+    ],
+    "errorMessage": "No existe ninguna aldea en estas coordenadas."
+  },
+  {
+    "targetMapId": [
+      32,
+      30
+    ],
+    "errorMessage": "El personaje está bloqueado."
+  },
+  {
+    "targetMapId": [
+      29,
+      33
+    ],
+    "errorMessage": "El personaje está bloqueado."
+  },
+  {
+    "targetMapId": [
+      37,
+      -31
+    ],
+    "errorMessage": "No puedes eviar tropas a otros jugadores mientras estén en modo vacaciones."
+  },
+  {
+    "targetMapId": [
+      44,
+      -31
+    ],
+    "errorMessage": "No existe ninguna aldea en estas coordenadas."
+  },
+  {
+    "targetMapId": [
+      52,
+      30
+    ],
+    "errorMessage": "No puedes atracar un jugador mientras su protección de principiante esta activa."
+  },
+  {
+    "targetMapId": [
+      64,
+      -18
+    ],
+    "errorMessage": "No existe ninguna aldea en estas coordenadas."
+  },
+  {
+    "targetMapId": [
+      37,
+      -37
+    ],
+    "errorMessage": "No existe ninguna aldea en estas coordenadas."
+  },
+  {
+    "targetMapId": [
+      16,
+      37
+    ],
+    "errorMessage": "El personaje está bloqueado."
+  },
+  {
+    "targetMapId": [
+      25,
+      69
+    ],
+    "errorMessage": "No puedes atracar un jugador mientras su protección de principiante esta activa."
+  },
+  {
+    "targetMapId": [
+      24,
+      65
+    ],
+    "errorMessage": "No existe ninguna aldea en estas coordenadas."
+  },
+  {
+    "targetMapId": [
+      23,
+      27
+    ],
+    "errorMessage": "No se ha elegido ninguna tropa."
+  },
+  {
+    "targetMapId": [
+      34,
+      2
+    ],
+    "errorMessage": "No existe ninguna aldea en estas coordenadas."
+  },
+  {
+    "targetMapId": [
+      31,
+      7
+    ],
+    "errorMessage": "El personaje está bloqueado."
+  },
+  {
+    "targetMapId": [
+      36,
+      5
+    ],
+    "errorMessage": "El personaje está bloqueado."
+  },
+  {
+    "targetMapId": [
+      38,
+      6
+    ],
+    "errorMessage": "El personaje está bloqueado."
+  },
+  {
+    "targetMapId": [
+      38,
+      10
+    ],
+    "errorMessage": "El personaje está bloqueado."
+  },
+  {
+    "targetMapId": [
+      43,
+      3
+    ],
+    "errorMessage": "El personaje está bloqueado."
+  },
+  {
+    "targetMapId": [
+      44,
+      4
+    ],
+    "errorMessage": "El personaje está bloqueado."
+  },
+  {
+    "targetMapId": [
+      30,
+      22
+    ],
+    "errorMessage": "El personaje está bloqueado."
+  },
+  {
+    "targetMapId": [
+      28,
+      77
+    ],
+    "errorMessage": "No existe ninguna aldea en estas coordenadas."
+  },
+  {
+    "targetMapId": [
+      36,
+      9
+    ],
+    "errorMessage": "El personaje está bloqueado."
+  },
+  {
+    "targetMapId": [
+      39,
+      4
+    ],
+    "errorMessage": "El personaje está bloqueado."
+  },
+  {
+    "targetMapId": [
+      52,
+      15
+    ],
+    "errorMessage": "El personaje está bloqueado."
+  },
+  {
+    "targetMapId": [
+      24,
+      26
+    ],
+    "errorMessage": "El personaje está bloqueado."
+  },
+  {
+    "targetMapId": [
+      44,
+      -15
+    ],
+    "errorMessage": "El personaje está bloqueado."
+  },
+  {
+    "targetMapId": [
+      49,
+      22
+    ],
+    "errorMessage": "El personaje está bloqueado."
+  },
+  {
+    "targetMapId": [
+      38,
+      28
+    ],
+    "errorMessage": "No existe ninguna aldea en estas coordenadas."
+  },
+  {
+    "targetMapId": [
+      56,
+      -15
+    ],
+    "errorMessage": "No existe ninguna aldea en estas coordenadas."
+  },
+  {
+    "targetMapId": [
+      28,
+      32
+    ],
+    "errorMessage": "El personaje está bloqueado."
+  },
+  {
+    "targetMapId": [
+      17,
+      29
+    ],
+    "errorMessage": "El personaje está bloqueado."
+  },
+  {
+    "targetMapId": [
+      21,
+      31
+    ],
+    "errorMessage": "El personaje está bloqueado."
+  },
+  {
+    "targetMapId": [
+      18,
+      30
+    ],
+    "errorMessage": "El personaje está bloqueado."
+  },
+  {
+    "targetMapId": [
+      62,
+      16
+    ],
+    "errorMessage": "El personaje está bloqueado."
+  },
+  {
+    "targetMapId": [
+      26,
+      36
+    ],
+    "errorMessage": "El personaje está bloqueado."
+  },
+  {
+    "targetMapId": [
+      19,
+      35
+    ],
+    "errorMessage": "El personaje está bloqueado."
+  },
+  {
+    "targetMapId": [
+      56,
+      28
+    ],
+    "errorMessage": "El personaje está bloqueado."
+  },
+  {
+    "targetMapId": [
+      12,
+      36
+    ],
+    "errorMessage": "El personaje está bloqueado."
+  },
+  {
+    "targetMapId": [
+      13,
+      37
+    ],
+    "errorMessage": "El personaje está bloqueado."
+  },
+  {
+    "targetMapId": [
+      14,
+      38
+    ],
+    "errorMessage": "No existe ninguna aldea en estas coordenadas."
+  },
+  {
+    "targetMapId": [
+      16,
+      39
+    ],
+    "errorMessage": "El personaje está bloqueado."
+  },
+  {
+    "targetMapId": [
+      53,
+      -34
+    ],
+    "errorMessage": "El personaje está bloqueado."
+  },
+  {
+    "targetMapId": [
+      62,
+      -27
+    ],
+    "errorMessage": "No existe ninguna aldea en estas coordenadas."
+  },
+  {
+    "targetMapId": [
+      9,
+      37
+    ],
+    "errorMessage": "El personaje está bloqueado."
+  },
+  {
+    "targetMapId": [
+      12,
+      39
+    ],
+    "errorMessage": "El personaje está bloqueado."
+  },
+  {
+    "targetMapId": [
+      74,
+      7
+    ],
+    "errorMessage": "El personaje está bloqueado."
+  },
+  {
+    "targetMapId": [
+      73,
+      12
+    ],
+    "errorMessage": "El personaje está bloqueado."
+  },
+  {
+    "targetMapId": [
+      46,
+      4
+    ],
+    "errorMessage": "No existe ninguna aldea en estas coordenadas."
+  },
+  {
+    "targetMapId": [
+      35,
+      6
+    ],
+    "errorMessage": "El personaje está bloqueado."
+  },
+  {
+    "targetMapId": [
+      38,
+      8
+    ],
+    "errorMessage": "El personaje está bloqueado."
+  },
+  {
+    "targetMapId": [
+      39,
+      14
+    ],
+    "errorMessage": "El personaje está bloqueado."
+  },
+  {
+    "targetMapId": [
+      22,
+      24
+    ],
+    "errorMessage": "El personaje está bloqueado."
+  },
+  {
+    "targetMapId": [
+      32,
+      26
+    ],
+    "errorMessage": "El personaje está bloqueado."
+  },
+  {
+    "targetMapId": [
+      44,
+      28
+    ],
+    "errorMessage": "No existe ninguna aldea en estas coordenadas."
+  },
+  {
+    "targetMapId": [
+      25,
+      -29
+    ],
+    "errorMessage": "No existe ninguna aldea en estas coordenadas."
+  },
+  {
+    "targetMapId": [
+      46,
+      8
+    ],
+    "errorMessage": "El personaje está bloqueado."
+  },
+  {
+    "targetMapId": [
+      58,
+      24
+    ],
+    "errorMessage": "No existe ninguna aldea en estas coordenadas."
+  },
+  {
+    "targetMapId": [
+      68,
+      0
+    ],
+    "errorMessage": "No existe ninguna aldea en estas coordenadas."
+  },
+  {
+    "targetMapId": [
+      39,
+      -36
+    ],
+    "errorMessage": "El personaje está bloqueado."
+  },
+  {
+    "targetMapId": [
+      32,
+      -37
+    ],
+    "errorMessage": "El personaje está bloqueado."
+  },
+  {
+    "targetMapId": [
+      63,
+      -22
+    ],
+    "errorMessage": "No existe ninguna aldea en estas coordenadas."
+  },
+  {
+    "targetMapId": [
+      37,
+      66
+    ],
+    "errorMessage": "No existe ninguna aldea en estas coordenadas."
+  },
+  {
+    "targetMapId": [
+      38,
+      67
+    ],
+    "errorMessage": "El personaje está bloqueado."
+  },
+  {
+    "targetMapId": [
+      46,
+      -2
+    ],
+    "errorMessage": "No existe ninguna aldea en estas coordenadas."
+  },
+  {
+    "targetMapId": [
+      52,
+      17
+    ],
+    "errorMessage": "No existe ninguna aldea en estas coordenadas."
+  },
+  {
+    "targetMapId": [
+      5,
+      -30
+    ],
+    "errorMessage": "No existe ninguna aldea en estas coordenadas."
+  },
+  {
+    "targetMapId": [
+      66,
+      -12
+    ],
+    "errorMessage": "No existe ninguna aldea en estas coordenadas."
+  },
+  {
+    "targetMapId": [
+      31,
+      4
+    ],
+    "errorMessage": "El personaje está bloqueado."
+  },
+  {
+    "targetMapId": [
+      39,
+      0
+    ],
+    "errorMessage": "El personaje está bloqueado."
+  },
+  {
+    "targetMapId": [
+      35,
+      10
+    ],
+    "errorMessage": "El personaje está bloqueado."
+  },
+  {
+    "targetMapId": [
+      47,
+      -6
+    ],
+    "errorMessage": "No existe ninguna aldea en estas coordenadas."
+  },
+  {
+    "targetMapId": [
+      30,
+      19
+    ],
+    "errorMessage": "El personaje está bloqueado."
+  },
+  {
+    "targetMapId": [
+      34,
+      19
+    ],
+    "errorMessage": "El personaje está bloqueado."
+  },
+  {
+    "targetMapId": [
+      31,
+      20
+    ],
+    "errorMessage": "El personaje está bloqueado."
+  },
+  {
+    "targetMapId": [
+      37,
+      23
+    ],
+    "errorMessage": "El personaje está bloqueado."
+  },
+  {
+    "targetMapId": [
+      36,
+      -11
+    ],
+    "errorMessage": "No existe ninguna aldea en estas coordenadas."
+  },
+  {
+    "targetMapId": [
+      25,
+      -3
+    ],
+    "errorMessage": "No existe ninguna aldea en estas coordenadas."
+  },
+  {
+    "targetMapId": [
+      36,
+      -6
+    ],
+    "errorMessage": "No existe ninguna aldea en estas coordenadas."
+  },
+  {
+    "targetMapId": [
+      43,
+      10
+    ],
+    "errorMessage": "El personaje está bloqueado."
+  },
+  {
+    "targetMapId": [
+      31,
+      10
+    ],
+    "errorMessage": "No existe ninguna aldea en estas coordenadas."
+  },
+  {
+    "targetMapId": [
+      32,
+      17
+    ],
+    "errorMessage": "El personaje está bloqueado."
+  },
+  {
+    "targetMapId": [
+      48,
+      -9
+    ],
+    "errorMessage": "El personaje está bloqueado."
+  },
+  {
+    "targetMapId": [
+      37,
+      21
+    ],
+    "errorMessage": "El personaje está bloqueado."
+  },
+  {
+    "targetMapId": [
+      38,
+      2
+    ],
+    "errorMessage": "No existe ninguna aldea en estas coordenadas."
+  },
+  {
+    "targetMapId": [
+      38,
+      15
+    ],
+    "errorMessage": "No existe ninguna aldea en estas coordenadas."
+  },
+  {
+    "targetMapId": [
+      40,
+      10
+    ],
+    "errorMessage": "No existe ninguna aldea en estas coordenadas."
+  },
+  {
+    "targetMapId": [
+      34,
+      70
+    ],
+    "errorMessage": "El personaje está bloqueado."
+  },
+  {
+    "targetMapId": [
+      22,
+      75
+    ],
+    "errorMessage": "El personaje está bloqueado."
+  },
+  {
+    "targetMapId": [
+      39,
+      -4
+    ],
+    "errorMessage": "No existe ninguna aldea en estas coordenadas."
+  },
+  {
+    "targetMapId": [
+      44,
+      -8
+    ],
+    "errorMessage": "No existe ninguna aldea en estas coordenadas."
+  },
+  {
+    "targetMapId": [
+      39,
+      19
+    ],
+    "errorMessage": "No existe ninguna aldea en estas coordenadas."
+  },
+  {
+    "targetMapId": [
+      31,
+      -19
+    ],
+    "errorMessage": "No existe ninguna aldea en estas coordenadas."
+  },
+  {
+    "targetMapId": [
+      42,
+      -17
+    ],
+    "errorMessage": "No existe ninguna aldea en estas coordenadas."
+  },
+  {
+    "targetMapId": [
+      44,
+      19
+    ],
+    "errorMessage": "No existe ninguna aldea en estas coordenadas."
+  },
+  {
+    "targetMapId": [
+      47,
+      -15
+    ],
+    "errorMessage": "No existe ninguna aldea en estas coordenadas."
+  },
+  {
+    "targetMapId": [
+      39,
+      -21
+    ],
+    "errorMessage": "No existe ninguna aldea en estas coordenadas."
+  },
+  {
+    "targetMapId": [
+      43,
+      22
+    ],
+    "errorMessage": "No existe ninguna aldea en estas coordenadas."
+  },
+  {
+    "targetMapId": [
+      25,
+      25
+    ],
+    "errorMessage": "No existe ninguna aldea en estas coordenadas."
+  },
+  {
+    "targetMapId": [
+      48,
+      19
+    ],
+    "errorMessage": "No existe ninguna aldea en estas coordenadas."
+  },
+  {
+    "targetMapId": [
+      19,
+      76
+    ],
+    "errorMessage": "El personaje está bloqueado."
+  },
+  {
+    "targetMapId": [
+      17,
+      91
+    ],
+    "errorMessage": "No existe ninguna aldea en estas coordenadas."
+  },
+  {
+    "targetMapId": [
+      30,
+      75
+    ],
+    "errorMessage": "No existe ninguna aldea en estas coordenadas."
+  },
+  {
+    "targetMapId": [
+      40,
+      69
+    ],
+    "errorMessage": "No existe ninguna aldea en estas coordenadas."
+  },
+  {
+    "targetMapId": [
+      31,
+      86
+    ],
+    "errorMessage": "No puedes atracar un jugador mientras su protección de principiante esta activa."
+  },
+  {
+    "targetMapId": [
+      54,
+      12
+    ],
+    "errorMessage": "No existe ninguna aldea en estas coordenadas."
+  },
+  {
+    "targetMapId": [
+      39,
+      27
+    ],
+    "errorMessage": "No existe ninguna aldea en estas coordenadas."
+  },
+  {
+    "targetMapId": [
+      38,
+      -26
+    ],
+    "errorMessage": "No existe ninguna aldea en estas coordenadas."
+  },
+  {
+    "targetMapId": [
+      10,
+      82
+    ],
+    "errorMessage": "No existe ninguna aldea en estas coordenadas."
+  },
+  {
+    "targetMapId": [
+      40,
+      -20
+    ],
+    "errorMessage": "No existe ninguna aldea en estas coordenadas."
+  },
+  {
+    "targetMapId": [
+      26,
+      71
+    ],
+    "errorMessage": "No existe ninguna aldea en estas coordenadas."
+  },
+  {
+    "targetMapId": [
+      9,
+      77
+    ],
+    "errorMessage": "El personaje está bloqueado."
+  },
+  {
+    "targetMapId": [
+      34,
+      30
+    ],
+    "errorMessage": "No existe ninguna aldea en estas coordenadas."
+  },
+  {
+    "targetMapId": [
+      32,
+      3
+    ],
+    "errorMessage": "El personaje está bloqueado."
+  },
+  {
+    "targetMapId": [
+      40,
+      67
+    ],
+    "errorMessage": "No existe ninguna aldea en estas coordenadas."
+  },
+  {
+    "targetMapId": [
+      20,
+      81
+    ],
+    "errorMessage": "No existe ninguna aldea en estas coordenadas."
+  },
+  {
+    "targetMapId": [
+      40,
+      74
+    ],
+    "errorMessage": "No existe ninguna aldea en estas coordenadas."
+  },
+  {
+    "targetMapId": [
+      20,
+      28
+    ],
+    "errorMessage": "El personaje está bloqueado."
+  },
+  {
+    "targetMapId": [
+      17,
+      27
+    ],
+    "errorMessage": "El personaje está bloqueado."
+  },
+  {
+    "targetMapId": [
+      46,
+      70
+    ],
+    "errorMessage": "No existe ninguna aldea en estas coordenadas."
+  },
+  {
+    "targetMapId": [
+      2,
+      84
+    ],
+    "errorMessage": "No existe ninguna aldea en estas coordenadas."
+  },
+  {
+    "targetMapId": [
+      -3,
+      79
+    ],
+    "errorMessage": "No existe ninguna aldea en estas coordenadas."
+  },
+  {
+    "targetMapId": [
+      25,
+      76
+    ],
+    "errorMessage": "No existe ninguna aldea en estas coordenadas."
+  },
+  {
+    "targetMapId": [
+      42,
+      -6
+    ],
+    "errorMessage": "No existe ninguna aldea en estas coordenadas."
+  },
+  {
+    "targetMapId": [
+      47,
+      -1
+    ],
+    "errorMessage": "No existe ninguna aldea en estas coordenadas."
+  },
+  {
+    "targetMapId": [
+      38,
+      65
+    ],
+    "errorMessage": "No existe ninguna aldea en estas coordenadas."
+  },
+  {
+    "targetMapId": [
+      72,
+      95
+    ],
+    "errorMessage": "No existe ninguna aldea en estas coordenadas."
+  },
+  {
+    "targetMapId": [
+      -11,
+      74
+    ],
+    "errorMessage": "No existe ninguna aldea en estas coordenadas."
+  },
+  {
+    "targetMapId": [
+      -19,
+      82
+    ],
+    "errorMessage": "No existe ninguna aldea en estas coordenadas."
+  },
+  {
+    "targetMapId": [
+      46,
+      -4
+    ],
+    "errorMessage": "No existe ninguna aldea en estas coordenadas."
+  },
+  {
+    "targetMapId": [
+      33,
+      81
+    ],
+    "errorMessage": "No existe ninguna aldea en estas coordenadas."
+  },
+  {
+    "targetMapId": [
+      -12,
+      87
+    ],
+    "errorMessage": "No existe ninguna aldea en estas coordenadas."
+  },
+  {
+    "targetMapId": [
+      44,
+      76
+    ],
+    "errorMessage": "No existe ninguna aldea en estas coordenadas."
+  },
+  {
+    "targetMapId": [
+      17,
+      66
+    ],
+    "errorMessage": "No existe ninguna aldea en estas coordenadas."
+  },
+  {
+    "targetMapId": [
+      15,
+      65
+    ],
+    "errorMessage": "No existe ninguna aldea en estas coordenadas."
+  },
+  {
+    "targetMapId": [
+      -5,
+      88
+    ],
+    "errorMessage": "No existe ninguna aldea en estas coordenadas."
+  },
+  {
+    "targetMapId": [
+      5,
+      91
+    ],
+    "errorMessage": "No existe ninguna aldea en estas coordenadas."
+  },
+  {
+    "targetMapId": [
+      6,
+      85
+    ],
+    "errorMessage": "No existe ninguna aldea en estas coordenadas."
+  },
+  {
+    "targetMapId": [
+      50,
+      116
+    ],
+    "errorMessage": "No existe ninguna aldea en estas coordenadas."
+  },
+  {
+    "targetMapId": [
+      51,
+      121
+    ],
+    "errorMessage": "No existe ninguna aldea en estas coordenadas."
+  },
+  {
+    "targetMapId": [
+      -22,
+      83
+    ],
+    "errorMessage": "No existe ninguna aldea en estas coordenadas."
+  },
+  {
+    "targetMapId": [
+      58,
+      66
+    ],
+    "errorMessage": "No existe ninguna aldea en estas coordenadas."
+  },
+  {
+    "targetMapId": [
+      5,
+      96
+    ],
+    "errorMessage": "No existe ninguna aldea en estas coordenadas."
+  },
+  {
+    "targetMapId": [
+      12,
+      88
+    ],
+    "errorMessage": "No existe ninguna aldea en estas coordenadas."
+  },
+  {
+    "targetMapId": [
+      -22,
+      95
+    ],
+    "errorMessage": "No existe ninguna aldea en estas coordenadas."
+  },
+  {
+    "targetMapId": [
+      -14,
+      86
+    ],
+    "errorMessage": "No existe ninguna aldea en estas coordenadas."
+  },
+  {
+    "targetMapId": [
+      0,
+      73
+    ],
+    "errorMessage": "No existe ninguna aldea en estas coordenadas."
+  },
+  {
+    "targetMapId": [
+      -4,
+      76
+    ],
+    "errorMessage": "No existe ninguna aldea en estas coordenadas."
+  },
+  {
+    "targetMapId": [
+      32,
+      79
+    ],
+    "errorMessage": "El personaje está bloqueado."
+  },
+  {
+    "targetMapId": [
+      34,
+      16
+    ],
+    "errorMessage": "El personaje está bloqueado."
+  },
+  {
+    "targetMapId": [
+      18,
+      81
+    ],
+    "errorMessage": "No existe ninguna aldea en estas coordenadas."
+  },
+  {
+    "targetMapId": [
+      17,
+      81
+    ],
+    "errorMessage": "No existe ninguna aldea en estas coordenadas."
+  },
+  {
+    "targetMapId": [
+      20,
+      78
+    ],
+    "errorMessage": "No existe ninguna aldea en estas coordenadas."
+  },
+  {
+    "targetMapId": [
+      26,
+      76
+    ],
+    "errorMessage": "No existe ninguna aldea en estas coordenadas."
+  },
+  {
+    "targetMapId": [
+      63,
+      81
+    ],
+    "errorMessage": "No existe ninguna aldea en estas coordenadas."
+  },
+  {
+    "targetMapId": [
+      17,
+      63
+    ],
+    "errorMessage": "No existe ninguna aldea en estas coordenadas."
+  },
+  {
+    "targetMapId": [
+      -22,
+      80
+    ],
+    "errorMessage": "No existe ninguna aldea en estas coordenadas."
+  },
+  {
+    "targetMapId": [
+      81,
+      100
+    ],
+    "errorMessage": "No existe ninguna aldea en estas coordenadas."
+  },
+  {
+    "targetMapId": [
+      18,
+      54
+    ],
+    "errorMessage": "No existe ninguna aldea en estas coordenadas."
+  },
+  {
+    "targetMapId": [
+      12,
+      55
     ],
     "errorMessage": "No existe ninguna aldea en estas coordenadas."
   }

@@ -15,7 +15,7 @@ function convertToMilliseconds(timeString) {
 
 // Función principal para realizar la fiesta
 // tools/celebrateFestival.js
-export async function celebrateFestival(page, aldea) {
+export async function celebrateFestival(page, aldea, tipo = 1) {
     const logFilePath = path.join(__dirname, '..', 'temporal', `log_${aldea.name}_festival.json`);
     let festivalLogData = {};
   
@@ -32,10 +32,16 @@ export async function celebrateFestival(page, aldea) {
     //   console.log("Ya hay una fiesta en progreso. Esperando...");
     //   return { hasFestivalInProgress: true }; // Devolver estado de fiestas
     // }
-  
+    let finaltipo = 1
+    if(tipo != 1 && tipo != 2){
+      finaltipo = 1;
+    }else{
+      finaltipo = tipo;
+    }
+
     try {
       // Visitar la URL directa de la fiesta grande
-      const festivalUrl = `${process.env.BASE_URL}/build.php?gid=24&action=celebration&do=1&t=1`;
+      const festivalUrl = `${process.env.BASE_URL}/build.php?gid=24&action=celebration&do=${finaltipo}&t=1`;
       console.log(`Iniciando fiesta grande en la aldea ${aldea.name}...`);
       await page.goto(festivalUrl, { waitUntil: 'networkidle2', timeout: 60000 });
   
