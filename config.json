@@ -4,7 +4,49 @@
   "password": "B0liv4r#12",
   "aldeas": [
     
-    { "name": "01", "newdid": "17685", "ruta": [31,1], "emergencyResourceReceiver": "02",
+    { "name": "01", "newdid": "22551", "ruta": [57,4], "emergencyResourceReceiver": "02",
+      "task": [
+        {
+          "name": "celebrateFestival",
+          "tipo": "2"
+        },
+        {
+          "name": "createTroops",
+          "troopType": ["t1"]
+        },
+        {
+          "name": "sendResources",
+          "targetVillage": {
+            "x": 68,
+            "y": 50
+          }
+        },
+        {
+          "name": "upgradeResourceField",
+          "preference": ["27"]
+        }
+      ] 
+    },
+    { "name": "02", "newdid": "25264", "ruta": [68,50], "emergencyResourceReceiver": "02",
+      "task": [
+        {
+          "name": "balanceResources"
+        },
+        {
+          "name": "celebrateFestival",
+          "tipo": "2"
+        },
+        {
+          "name": "upgradeResourceField"
+        },
+        {
+          "name": "processTroopConfig"
+        }
+
+      ] 
+    },
+
+    { "name": "03", "newdid": "27441", "ruta": [66,52], "emergencyResourceReceiver": "02",
       "task": [
         {
           "name": "celebrateFestival",
@@ -12,57 +54,42 @@
         },
         {
           "name": "upgradeResourceField",
-          "preference": ["25","37"]
-        },
-        {
-          "name": "sendResources",
-          "targetVillage": {
-            "x": 25,
-            "y": 111
-          }
-        },
-        {
-          "name": "processTroopConfig"
+          "preference": ["34"]
         }
       ] 
     },
-    { "name": "02", "newdid": "25348", "ruta": [29,73], "emergencyResourceReceiver": "01",
+    { "name": "04", "newdid": "28712", "ruta": [67,50], "emergencyResourceReceiver": "02",
       "task": [
         {
-          "name": "celebrateFestival"
-        },
-        {
           "name": "upgradeResourceField",
-          "preference": ["28","30", "27", "37", "38", "19", "24"]
-        },
-        {
-          "name": "processTroopConfig"
+          "preference": ["30", "34", "24"]
         }
       ] 
     },
-
-    { "name": "03", "newdid": "28310", "ruta": [25,111], "emergencyResourceReceiver": "02",
+    { "name": "05", "newdid": "29467", "ruta": [69,49], "emergencyResourceReceiver": "02",
       "task": [
         {
-          "name": "celebrateFestival"
-        },
-        {
-          "name": "balanceResources"
-        },
-        {
           "name": "upgradeResourceField",
-          "preference": ["31", "35", "38", "29", "39"]
-        },
-        {
-          "name": "createTroops",
-          "troopType": ["t1"]
-        },
-        {
-          "name": "processTroopConfig"
+          "preference": ["30", "38", "27"]
         }
       ] 
     },
-    { "name": "04", "newdid": "30485", "ruta": [23,111], "emergencyResourceReceiver": "03",
+    { "name": "06", "newdid": "30359", "ruta": [70,50], "emergencyResourceReceiver": "02",
+      "task": [
+        {
+          "name": "upgradeResourceField"
+        }
+      ] 
+    },
+    { "name": "07", "newdid": "31330", "ruta": [69,50], "emergencyResourceReceiver": "02",
+      "task": [
+        {
+          "name": "upgradeResourceField",
+          "preference": ["32","31","29"]
+        }
+      ] 
+    },
+    { "name": "08", "newdid": "31864", "ruta": [71,47], "emergencyResourceReceiver": "02",
       "task": [
         {
           "name": "upgradeResourceField"

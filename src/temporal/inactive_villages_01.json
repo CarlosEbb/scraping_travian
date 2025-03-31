@@ -1,459 +1,11 @@
 [
   {
     "targetMapId": [
-      31,
-      -1
-    ],
-    "population": 46,
-    "player": "IRO"
-  },
-  {
-    "targetMapId": [
-      32,
-      3
-    ],
-    "population": 15,
-    "player": "Andy Cola"
-  },
-  {
-    "targetMapId": [
-      31,
-      -5
-    ],
-    "population": 611,
-    "player": "Fax76"
-  },
-  {
-    "targetMapId": [
-      35,
-      -5
-    ],
-    "population": 130,
-    "player": "kurisaki_ic…"
-  },
-  {
-    "targetMapId": [
-      25,
-      7
-    ],
-    "population": 349,
-    "player": "RaiDeR"
-  },
-  {
-    "targetMapId": [
-      34,
-      -8
-    ],
-    "population": 40,
-    "player": "MURATUMUTLU"
-  },
-  {
-    "targetMapId": [
-      33,
-      -9
-    ],
-    "population": 60,
-    "player": "marius88"
-  },
-  {
-    "targetMapId": [
-      37,
-      -8
-    ],
-    "population": 11,
-    "player": "KareS"
-  },
-  {
-    "targetMapId": [
-      36,
-      -9
-    ],
-    "population": 19,
-    "player": "Zheng"
-  },
-  {
-    "targetMapId": [
-      21,
-      -5
-    ],
-    "population": 611,
-    "player": "Fax76"
-  },
-  {
-    "targetMapId": [
-      30,
-      -11
-    ],
-    "population": 102,
-    "player": "AGI"
-  },
-  {
-    "targetMapId": [
-      41,
-      -7
-    ],
-    "population": 12,
-    "player": "Stuajs"
-  },
-  {
-    "targetMapId": [
-      43,
-      -4
-    ],
-    "population": 16,
-    "player": "Seko-1986"
-  },
-  {
-    "targetMapId": [
-      34,
-      14
-    ],
-    "population": 130,
-    "player": "Raphaelde_"
-  },
-  {
-    "targetMapId": [
-      38,
-      -11
-    ],
-    "population": 18,
-    "player": "Hakuna"
-  },
-  {
-    "targetMapId": [
-      35,
-      15
-    ],
-    "population": 263,
-    "player": "Jolly Joker"
-  },
-  {
-    "targetMapId": [
-      41,
-      -10
-    ],
-    "population": 64,
-    "player": "Nameless"
-  },
-  {
-    "targetMapId": [
-      39,
-      -12
-    ],
-    "population": 178,
-    "player": "balcard"
-  },
-  {
-    "targetMapId": [
-      34,
-      16
-    ],
-    "population": 1361,
-    "player": "ЗСУ"
-  },
-  {
-    "targetMapId": [
-      27,
-      16
-    ],
-    "population": 26,
-    "player": "Navid"
-  },
-  {
-    "targetMapId": [
-      45,
-      -7
-    ],
-    "population": 679,
-    "player": "Добрыня Ник…"
-  },
-  {
-    "targetMapId": [
-      25,
-      16
-    ],
-    "population": 160,
-    "player": "efozo"
-  },
-  {
-    "targetMapId": [
-      46,
-      -5
-    ],
-    "population": 28,
-    "player": "S2OILFZiE"
-  },
-  {
-    "targetMapId": [
-      42,
-      -11
-    ],
-    "population": 41,
-    "player": "jwjw"
-  },
-  {
-    "targetMapId": [
-      44,
-      11
-    ],
-    "population": 59,
-    "player": "Eskulapio"
-  },
-  {
-    "targetMapId": [
-      43,
-      13
-    ],
-    "population": 1892,
-    "player": "Tuezin"
-  },
-  {
-    "targetMapId": [
-      44,
-      12
-    ],
-    "population": 1892,
-    "player": "Tuezin"
-  },
-  {
-    "targetMapId": [
-      42,
-      14
-    ],
-    "population": 74,
-    "player": "Thing"
-  },
-  {
-    "targetMapId": [
-      48,
-      4
-    ],
-    "population": 242,
-    "player": "Banshee"
-  },
-  {
-    "targetMapId": [
-      44,
-      -11
-    ],
-    "population": 12,
-    "player": "Neto8500"
-  },
-  {
-    "targetMapId": [
-      25,
-      18
-    ],
-    "population": 349,
-    "player": "RaiDeR"
-  },
-  {
-    "targetMapId": [
-      46,
-      11
-    ],
-    "population": 1892,
-    "player": "Tuezin"
-  },
-  {
-    "targetMapId": [
-      49,
+      55,
       2
     ],
-    "population": 137,
-    "player": "ene"
-  },
-  {
-    "targetMapId": [
-      48,
-      8
-    ],
-    "population": 12,
-    "player": "Zetterberg"
-  },
-  {
-    "targetMapId": [
-      50,
-      1
-    ],
-    "population": 501,
-    "player": "Masa"
-  },
-  {
-    "targetMapId": [
-      43,
-      -14
-    ],
-    "population": 624,
-    "player": "Rouse"
-  },
-  {
-    "targetMapId": [
-      48,
-      10
-    ],
-    "population": 16,
-    "player": "GEN-B"
-  },
-  {
-    "targetMapId": [
-      42,
-      -15
-    ],
-    "population": 624,
-    "player": "Rouse"
-  },
-  {
-    "targetMapId": [
-      35,
-      20
-    ],
-    "population": 86,
-    "player": "VR3kTpQ"
-  },
-  {
-    "targetMapId": [
-      42,
-      17
-    ],
-    "population": 78,
-    "player": "nostaji"
-  },
-  {
-    "targetMapId": [
-      45,
-      15
-    ],
-    "population": 17,
-    "player": "Samycross"
-  },
-  {
-    "targetMapId": [
-      50,
-      -5
-    ],
-    "population": 245,
-    "player": "MJRRM"
-  },
-  {
-    "targetMapId": [
-      25,
-      20
-    ],
-    "population": 58,
-    "player": "farshad"
-  },
-  {
-    "targetMapId": [
-      25,
-      -19
-    ],
-    "population": 116,
-    "player": "2NaYOAwYVG"
-  },
-  {
-    "targetMapId": [
-      52,
-      1
-    ],
-    "population": 12,
-    "player": "Bizzo"
-  },
-  {
-    "targetMapId": [
-      28,
-      22
-    ],
-    "population": 521,
-    "player": "Dee"
-  },
-  {
-    "targetMapId": [
-      47,
-      15
-    ],
-    "population": 22,
-    "player": "bolek40"
-  },
-  {
-    "targetMapId": [
-      51,
-      -7
-    ],
-    "population": 62,
-    "player": "Jonan"
-  },
-  {
-    "targetMapId": [
-      52,
-      6
-    ],
-    "population": 9,
-    "player": "Daniel"
-  },
-  {
-    "targetMapId": [
-      25,
-      22
-    ],
-    "population": 11,
-    "player": "Toke"
-  },
-  {
-    "targetMapId": [
-      52,
-      -6
-    ],
-    "population": 49,
-    "player": "Vamp700"
-  },
-  {
-    "targetMapId": [
-      23,
-      -20
-    ],
-    "population": 164,
-    "player": "Haze"
-  },
-  {
-    "targetMapId": [
-      54,
-      1
-    ],
-    "population": 160,
-    "player": "SheikWill"
-  },
-  {
-    "targetMapId": [
-      35,
-      -22
-    ],
-    "population": 547,
-    "player": "Blacking"
-  },
-  {
-    "targetMapId": [
-      35,
-      24
-    ],
-    "population": 44,
-    "player": "VTAfCMXJ"
-  },
-  {
-    "targetMapId": [
-      46,
-      19
-    ],
-    "population": 24,
-    "player": "Zefiro"
-  },
-  {
-    "targetMapId": [
-      36,
-      -22
-    ],
-    "population": 547,
-    "player": "Blacking"
+    "population": 10,
+    "player": "Kurcinela"
   },
   {
     "targetMapId": [
@@ -465,315 +17,11 @@
   },
   {
     "targetMapId": [
-      22,
-      -21
-    ],
-    "population": 50,
-    "player": "NashTheSeco…"
-  },
-  {
-    "targetMapId": [
-      55,
-      0
-    ],
-    "population": 384,
-    "player": "Baliche"
-  },
-  {
-    "targetMapId": [
-      55,
-      2
-    ],
-    "population": 10,
-    "player": "Kurcinela"
-  },
-  {
-    "targetMapId": [
-      41,
-      23
-    ],
-    "population": 675,
-    "player": "AFK4Food"
-  },
-  {
-    "targetMapId": [
-      53,
-      -9
-    ],
-    "population": 33,
-    "player": "Buitre"
-  },
-  {
-    "targetMapId": [
-      50,
-      -15
-    ],
-    "population": 30,
-    "player": "BAY-TAR"
-  },
-  {
-    "targetMapId": [
-      56,
-      -2
-    ],
-    "population": 39,
-    "player": "Espectro"
-  },
-  {
-    "targetMapId": [
-      42,
-      24
-    ],
-    "population": 41,
-    "player": "TheChaosEff…"
-  },
-  {
-    "targetMapId": [
-      44,
-      23
-    ],
-    "population": 81,
-    "player": "Numenor"
-  },
-  {
-    "targetMapId": [
-      56,
-      -5
-    ],
-    "population": 15,
-    "player": "isPedro"
-  },
-  {
-    "targetMapId": [
-      46,
-      22
-    ],
-    "population": 8,
-    "player": "Alhzbr"
-  },
-  {
-    "targetMapId": [
-      54,
-      13
-    ],
-    "population": 402,
-    "player": "ameddrag"
-  },
-  {
-    "targetMapId": [
-      55,
-      12
-    ],
-    "population": 25,
-    "player": "evaper"
-  },
-  {
-    "targetMapId": [
-      57,
-      -4
-    ],
-    "population": 35,
-    "player": "Baramos"
-  },
-  {
-    "targetMapId": [
-      53,
-      16
-    ],
-    "population": 402,
-    "player": "ameddrag"
-  },
-  {
-    "targetMapId": [
-      54,
-      15
-    ],
-    "population": 402,
-    "player": "ameddrag"
-  },
-  {
-    "targetMapId": [
-      57,
-      -6
-    ],
-    "population": 246,
-    "player": "BradFang"
-  },
-  {
-    "targetMapId": [
       58,
       0
     ],
     "population": 196,
     "player": "sprw"
-  },
-  {
-    "targetMapId": [
-      4,
-      4
-    ],
-    "population": 520,
-    "player": "AWACS"
-  },
-  {
-    "targetMapId": [
-      23,
-      27
-    ],
-    "population": 27,
-    "player": "TheLegoMast…"
-  },
-  {
-    "targetMapId": [
-      53,
-      -15
-    ],
-    "population": 8,
-    "player": "hxc2step"
-  },
-  {
-    "targetMapId": [
-      39,
-      -25
-    ],
-    "population": 26,
-    "player": "renatoc1"
-  },
-  {
-    "targetMapId": [
-      55,
-      -12
-    ],
-    "population": 48,
-    "player": "larvas"
-  },
-  {
-    "targetMapId": [
-      57,
-      10
-    ],
-    "population": 9,
-    "player": "CaoCao"
-  },
-  {
-    "targetMapId": [
-      43,
-      26
-    ],
-    "population": 273,
-    "player": "Sonka"
-  },
-  {
-    "targetMapId": [
-      53,
-      18
-    ],
-    "population": 9,
-    "player": "Rovexota"
-  },
-  {
-    "targetMapId": [
-      33,
-      29
-    ],
-    "population": 34,
-    "player": "brollei"
-  },
-  {
-    "targetMapId": [
-      3,
-      4
-    ],
-    "population": 520,
-    "player": "AWACS"
-  },
-  {
-    "targetMapId": [
-      25,
-      29
-    ],
-    "population": 115,
-    "player": "DonkeyFest"
-  },
-  {
-    "targetMapId": [
-      30,
-      30
-    ],
-    "population": 521,
-    "player": "Dee"
-  },
-  {
-    "targetMapId": [
-      29,
-      -28
-    ],
-    "population": 304,
-    "player": "BabaCiga"
-  },
-  {
-    "targetMapId": [
-      29,
-      30
-    ],
-    "population": 1361,
-    "player": "ЗСУ"
-  },
-  {
-    "targetMapId": [
-      50,
-      23
-    ],
-    "population": 304,
-    "player": "OKEH"
-  },
-  {
-    "targetMapId": [
-      20,
-      28
-    ],
-    "population": 25,
-    "player": "Yoda"
-  },
-  {
-    "targetMapId": [
-      22,
-      -27
-    ],
-    "population": 155,
-    "player": "excalibur76"
-  },
-  {
-    "targetMapId": [
-      59,
-      -8
-    ],
-    "population": 54,
-    "player": "masa77727"
-  },
-  {
-    "targetMapId": [
-      45,
-      27
-    ],
-    "population": 14,
-    "player": "Pekybaker"
-  },
-  {
-    "targetMapId": [
-      17,
-      27
-    ],
-    "population": 9,
-    "player": "Temujin"
-  },
-  {
-    "targetMapId": [
-      54,
-      -18
-    ],
-    "population": 116,
-    "player": "notsad03"
   },
   {
     "targetMapId": [
@@ -785,195 +33,51 @@
   },
   {
     "targetMapId": [
-      51,
-      -22
-    ],
-    "population": 87,
-    "player": "Lykan"
-  },
-  {
-    "targetMapId": [
       54,
-      21
+      1
     ],
-    "population": 79,
-    "player": "PoQ"
+    "population": 160,
+    "player": "SheikWill"
   },
   {
     "targetMapId": [
-      47,
-      -25
+      55,
+      0
     ],
-    "population": 117,
-    "player": "nk76"
-  },
-  {
-    "targetMapId": [
-      59,
-      -12
-    ],
-    "population": 494,
-    "player": "BabyEl"
-  },
-  {
-    "targetMapId": [
-      16,
-      28
-    ],
-    "population": 71,
-    "player": "VeexS"
-  },
-  {
-    "targetMapId": [
-      62,
-      -2
-    ],
-    "population": 265,
-    "player": "rafarodrigu…"
+    "population": 384,
+    "player": "Baliche"
   },
   {
     "targetMapId": [
       52,
-      24
+      6
     ],
-    "population": 67,
-    "player": "Franelio14"
+    "population": 9,
+    "player": "Daniel"
   },
   {
     "targetMapId": [
-      51,
-      25
-    ],
-    "population": 11,
-    "player": "Diplomata"
-  },
-  {
-    "targetMapId": [
-      58,
-      17
-    ],
-    "population": 13,
-    "player": "kojot"
-  },
-  {
-    "targetMapId": [
-      43,
-      30
-    ],
-    "population": 96,
-    "player": "LucNic"
-  },
-  {
-    "targetMapId": [
-      36,
-      32
-    ],
-    "population": 90,
-    "player": "jarlax0"
-  },
-  {
-    "targetMapId": [
-      41,
-      -29
-    ],
-    "population": 328,
-    "player": "Injouable"
-  },
-  {
-    "targetMapId": [
-      54,
-      -21
-    ],
-    "population": 10,
-    "player": "dantes"
-  },
-  {
-    "targetMapId": [
-      48,
-      28
+      52,
+      1
     ],
     "population": 12,
-    "player": "mumu"
+    "player": "Bizzo"
   },
   {
     "targetMapId": [
-      61,
-      12
+      57,
+      10
     ],
-    "population": 21,
-    "player": "kuda"
+    "population": 9,
+    "player": "CaoCao"
   },
   {
     "targetMapId": [
-      23,
-      -30
+      56,
+      -2
     ],
-    "population": 34,
-    "player": "I Merc3nari"
-  },
-  {
-    "targetMapId": [
-      61,
-      -11
-    ],
-    "population": 12,
-    "player": "TNT"
-  },
-  {
-    "targetMapId": [
-      54,
-      24
-    ],
-    "population": 8,
-    "player": "simaomp"
-  },
-  {
-    "targetMapId": [
-      37,
-      -31
-    ],
-    "population": 212,
-    "player": "pepsico"
-  },
-  {
-    "targetMapId": [
-      53,
-      25
-    ],
-    "population": 8,
-    "player": "karo"
-  },
-  {
-    "targetMapId": [
-      59,
-      18
-    ],
-    "population": 8,
-    "player": "archainur"
-  },
-  {
-    "targetMapId": [
-      24,
-      -31
-    ],
-    "population": 145,
-    "player": "JeehTadeu"
-  },
-  {
-    "targetMapId": [
-      42,
-      -30
-    ],
-    "population": 8,
-    "player": "777k"
-  },
-  {
-    "targetMapId": [
-      39,
-      33
-    ],
-    "population": 162,
-    "player": "and"
+    "population": 39,
+    "player": "Espectro"
   },
   {
     "targetMapId": [
@@ -985,11 +89,19 @@
   },
   {
     "targetMapId": [
-      50,
-      28
+      62,
+      -2
     ],
-    "population": 13,
-    "player": "althamir"
+    "population": 265,
+    "player": "rafarodrigu…"
+  },
+  {
+    "targetMapId": [
+      57,
+      -4
+    ],
+    "population": 35,
+    "player": "Baramos"
   },
   {
     "targetMapId": [
@@ -1001,59 +113,11 @@
   },
   {
     "targetMapId": [
-      36,
-      -32
+      55,
+      12
     ],
-    "population": 72,
-    "player": "eXhibiTion"
-  },
-  {
-    "targetMapId": [
-      57,
-      -20
-    ],
-    "population": 22,
-    "player": "Sayajin"
-  },
-  {
-    "targetMapId": [
-      41,
-      -31
-    ],
-    "population": 44,
-    "player": "Os3O5zbjD"
-  },
-  {
-    "targetMapId": [
-      37,
-      34
-    ],
-    "population": 790,
-    "player": "Auditor"
-  },
-  {
-    "targetMapId": [
-      64,
-      -5
-    ],
-    "population": 8,
-    "player": "shacu"
-  },
-  {
-    "targetMapId": [
-      51,
-      -26
-    ],
-    "population": 37,
-    "player": "nermin"
-  },
-  {
-    "targetMapId": [
-      20,
-      -31
-    ],
-    "population": 1751,
-    "player": "Connoisseur"
+    "population": 25,
+    "player": "evaper"
   },
   {
     "targetMapId": [
@@ -1065,83 +129,27 @@
   },
   {
     "targetMapId": [
-      65,
-      -2
+      61,
+      12
     ],
-    "population": 9,
-    "player": "Walltrana"
+    "population": 21,
+    "player": "kuda"
   },
   {
     "targetMapId": [
-      34,
-      35
+      48,
+      4
     ],
-    "population": 790,
-    "player": "Auditor"
+    "population": 242,
+    "player": "Banshee"
   },
   {
     "targetMapId": [
-      52,
-      28
+      56,
+      -5
     ],
-    "population": 454,
-    "player": "cremate123"
-  },
-  {
-    "targetMapId": [
-      59,
-      21
-    ],
-    "population": 10,
-    "player": "demz"
-  },
-  {
-    "targetMapId": [
-      44,
-      33
-    ],
-    "population": 10,
-    "player": "Superfastpi…"
-  },
-  {
-    "targetMapId": [
-      18,
-      33
-    ],
-    "population": 19,
-    "player": "SIRBOB"
-  },
-  {
-    "targetMapId": [
-      50,
-      30
-    ],
-    "population": 57,
-    "player": "Who"
-  },
-  {
-    "targetMapId": [
-      12,
-      30
-    ],
-    "population": 199,
-    "player": "Lyneya"
-  },
-  {
-    "targetMapId": [
-      65,
-      -6
-    ],
-    "population": 20,
-    "player": "Wael201"
-  },
-  {
-    "targetMapId": [
-      24,
-      -33
-    ],
-    "population": 131,
-    "player": "LASAJd2H"
+    "population": 15,
+    "player": "isPedro"
   },
   {
     "targetMapId": [
@@ -1153,91 +161,19 @@
   },
   {
     "targetMapId": [
-      66,
-      -3
+      48,
+      8
     ],
-    "population": 22,
-    "player": "Genusio"
+    "population": 12,
+    "player": "Zetterberg"
   },
   {
     "targetMapId": [
-      51,
-      -28
+      57,
+      -6
     ],
-    "population": 14,
-    "player": "Casamtres"
-  },
-  {
-    "targetMapId": [
-      55,
-      -25
-    ],
-    "population": 45,
-    "player": "lasarte"
-  },
-  {
-    "targetMapId": [
-      50,
-      -29
-    ],
-    "population": 11,
-    "player": "Lio"
-  },
-  {
-    "targetMapId": [
-      61,
-      20
-    ],
-    "population": 15,
-    "player": "Simsim"
-  },
-  {
-    "targetMapId": [
-      38,
-      36
-    ],
-    "population": 70,
-    "player": "TheRevival"
-  },
-  {
-    "targetMapId": [
-      47,
-      -31
-    ],
-    "population": 15,
-    "player": "Eternallife"
-  },
-  {
-    "targetMapId": [
-      52,
-      30
-    ],
-    "population": 107,
-    "player": "Nyx"
-  },
-  {
-    "targetMapId": [
-      45,
-      34
-    ],
-    "population": 454,
-    "player": "cremate123"
-  },
-  {
-    "targetMapId": [
-      23,
-      -34
-    ],
-    "population": 1751,
-    "player": "Connoisseur"
-  },
-  {
-    "targetMapId": [
-      43,
-      35
-    ],
-    "population": 15,
-    "player": "Firesword"
+    "population": 246,
+    "player": "BradFang"
   },
   {
     "targetMapId": [
@@ -1249,51 +185,19 @@
   },
   {
     "targetMapId": [
-      2,
-      23
+      65,
+      -2
     ],
-    "population": 1156,
-    "player": "Thunder"
+    "population": 9,
+    "player": "Walltrana"
   },
   {
     "targetMapId": [
-      61,
-      22
-    ],
-    "population": 440,
-    "player": "manhgold"
-  },
-  {
-    "targetMapId": [
-      15,
-      -32
+      48,
+      10
     ],
     "population": 16,
-    "player": "Maria"
-  },
-  {
-    "targetMapId": [
-      64,
-      -15
-    ],
-    "population": 117,
-    "player": "XXXXL"
-  },
-  {
-    "targetMapId": [
-      17,
-      -33
-    ],
-    "population": 110,
-    "player": "Karecko"
-  },
-  {
-    "targetMapId": [
-      11,
-      -30
-    ],
-    "population": 270,
-    "player": "VictorBrasil"
+    "player": "GEN-B"
   },
   {
     "targetMapId": [
@@ -1305,43 +209,51 @@
   },
   {
     "targetMapId": [
-      40,
-      -35
+      52,
+      -6
     ],
-    "population": 11,
-    "player": "tonefurioso"
+    "population": 49,
+    "player": "Vamp700"
   },
   {
     "targetMapId": [
-      65,
-      16
+      66,
+      -3
     ],
-    "population": 80,
-    "player": "pibe de qui…"
+    "population": 22,
+    "player": "Genusio"
   },
   {
     "targetMapId": [
-      61,
-      23
+      50,
+      -5
     ],
-    "population": 179,
-    "player": "Léonidas"
+    "population": 203,
+    "player": "MJRRM"
   },
   {
     "targetMapId": [
-      18,
-      36
+      67,
+      10
     ],
-    "population": 13,
-    "player": "FRJ"
+    "population": 355,
+    "player": "mukavvakutu"
   },
   {
     "targetMapId": [
-      2,
-      25
+      59,
+      -8
     ],
-    "population": 1156,
-    "player": "Thunder"
+    "population": 54,
+    "player": "masa77727"
+  },
+  {
+    "targetMapId": [
+      67,
+      11
+    ],
+    "population": 355,
+    "player": "mukavvakutu"
   },
   {
     "targetMapId": [
@@ -1353,99 +265,11 @@
   },
   {
     "targetMapId": [
-      32,
-      -37
-    ],
-    "population": 10,
-    "player": "KOR"
-  },
-  {
-    "targetMapId": [
-      9,
-      -30
-    ],
-    "population": 208,
-    "player": "Azaszek"
-  },
-  {
-    "targetMapId": [
-      64,
-      20
-    ],
-    "population": 137,
-    "player": "PedroIvan96"
-  },
-  {
-    "targetMapId": [
-      27,
-      39
-    ],
-    "population": 17,
-    "player": "Renaud90"
-  },
-  {
-    "targetMapId": [
-      35,
-      39
-    ],
-    "population": 132,
-    "player": "Pants4Roy"
-  },
-  {
-    "targetMapId": [
-      35,
-      -37
-    ],
-    "population": 11,
-    "player": "AFHM"
-  },
-  {
-    "targetMapId": [
-      27,
-      -37
-    ],
-    "population": 37,
-    "player": "The Prince"
-  },
-  {
-    "targetMapId": [
-      66,
-      -15
-    ],
-    "population": 11,
-    "player": "Barlas"
-  },
-  {
-    "targetMapId": [
       51,
-      -32
+      -7
     ],
-    "population": 147,
-    "player": "Marlboro"
-  },
-  {
-    "targetMapId": [
-      67,
-      15
-    ],
-    "population": 114,
-    "player": "izuku"
-  },
-  {
-    "targetMapId": [
-      17,
-      -35
-    ],
-    "population": 109,
-    "player": "Xz9MXnuQd"
-  },
-  {
-    "targetMapId": [
-      38,
-      39
-    ],
-    "population": 13,
-    "player": "natty_boh"
+    "population": 62,
+    "player": "Jonan"
   },
   {
     "targetMapId": [
@@ -1457,27 +281,19 @@
   },
   {
     "targetMapId": [
-      19,
-      38
+      65,
+      -6
     ],
-    "population": 188,
-    "player": "Tony_Soprano"
+    "population": 19,
+    "player": "Wael201"
   },
   {
     "targetMapId": [
-      -5,
-      16
+      70,
+      4
     ],
-    "population": 285,
-    "player": "FarukBey"
-  },
-  {
-    "targetMapId": [
-      67,
-      -14
-    ],
-    "population": 440,
-    "player": "Smash"
+    "population": 365,
+    "player": "Bruten"
   },
   {
     "targetMapId": [
@@ -1489,147 +305,35 @@
   },
   {
     "targetMapId": [
-      70,
-      -2
-    ],
-    "population": 5,
-    "player": "Shinysock"
-  },
-  {
-    "targetMapId": [
-      70,
-      4
-    ],
-    "population": 606,
-    "player": "Bruten"
-  },
-  {
-    "targetMapId": [
-      10,
-      34
-    ],
-    "population": 9,
-    "player": "Julius Caes…"
-  },
-  {
-    "targetMapId": [
-      7,
-      32
-    ],
-    "population": 288,
-    "player": "Tatakae"
-  },
-  {
-    "targetMapId": [
-      66,
-      19
-    ],
-    "population": 12,
-    "player": "ovi_ovi"
-  },
-  {
-    "targetMapId": [
-      70,
-      -5
-    ],
-    "population": 230,
-    "player": "asthal"
-  },
-  {
-    "targetMapId": [
-      38,
-      -38
-    ],
-    "population": 80,
-    "player": "DISCORDIA"
-  },
-  {
-    "targetMapId": [
-      48,
-      -35
-    ],
-    "population": 30,
-    "player": "pixel"
-  },
-  {
-    "targetMapId": [
-      66,
-      -18
-    ],
-    "population": 38,
-    "player": "Geeze"
-  },
-  {
-    "targetMapId": [
-      69,
-      -11
-    ],
-    "population": 14,
-    "player": "Cigarette211"
-  },
-  {
-    "targetMapId": [
-      69,
-      13
-    ],
-    "population": 10,
-    "player": "okeeeeeeee"
-  },
-  {
-    "targetMapId": [
-      52,
-      -33
-    ],
-    "population": 48,
-    "player": "PNE"
-  },
-  {
-    "targetMapId": [
-      32,
-      41
-    ],
-    "population": 12,
-    "player": "Johnson"
-  },
-  {
-    "targetMapId": [
-      71,
-      3
-    ],
-    "population": 606,
-    "player": "Bruten"
-  },
-  {
-    "targetMapId": [
-      54,
-      34
-    ],
-    "population": 10,
-    "player": "Valer4ik91"
-  },
-  {
-    "targetMapId": [
-      67,
-      19
-    ],
-    "population": 804,
-    "player": "nirgun"
-  },
-  {
-    "targetMapId": [
-      51,
-      36
-    ],
-    "population": 99,
-    "player": "Xiphos"
-  },
-  {
-    "targetMapId": [
-      68,
+      58,
       17
     ],
-    "population": 606,
-    "player": "Bruten"
+    "population": 13,
+    "player": "kojot"
+  },
+  {
+    "targetMapId": [
+      53,
+      -9
+    ],
+    "population": 33,
+    "player": "Buitre"
+  },
+  {
+    "targetMapId": [
+      62,
+      -9
+    ],
+    "population": 299,
+    "player": "Barzin"
+  },
+  {
+    "targetMapId": [
+      46,
+      -5
+    ],
+    "population": 28,
+    "player": "S2OILFZiE"
   },
   {
     "targetMapId": [
@@ -1641,291 +345,107 @@
   },
   {
     "targetMapId": [
-      5,
-      32
+      65,
+      16
     ],
-    "population": 98,
-    "player": "Wild"
+    "population": 80,
+    "player": "pibe de qui…"
   },
   {
     "targetMapId": [
-      39,
-      -39
+      53,
+      18
     ],
-    "population": 16,
-    "player": "Hurin"
+    "population": 9,
+    "player": "Rovexota"
   },
   {
     "targetMapId": [
-      64,
-      25
+      44,
+      11
     ],
-    "population": 24,
-    "player": "fabriciorap2"
+    "population": 59,
+    "player": "Eskulapio"
   },
   {
     "targetMapId": [
-      64,
-      -23
+      67,
+      15
     ],
-    "population": 44,
-    "player": "muami"
-  },
-  {
-    "targetMapId": [
-      46,
-      39
-    ],
-    "population": 8,
-    "player": "Catalyst"
-  },
-  {
-    "targetMapId": [
-      59,
-      31
-    ],
-    "population": 8,
-    "player": "Jhonn"
-  },
-  {
-    "targetMapId": [
-      72,
-      3
-    ],
-    "population": 414,
-    "player": "EL-SALTOAZUL"
+    "population": 114,
+    "player": "izuku"
   },
   {
     "targetMapId": [
       62,
-      28
+      -10
     ],
-    "population": 74,
-    "player": "zara"
-  },
-  {
-    "targetMapId": [
-      27,
-      42
-    ],
-    "population": 14,
-    "player": "Wimpy_kid"
-  },
-  {
-    "targetMapId": [
-      56,
-      34
-    ],
-    "population": 35,
-    "player": "Ahmedgamal"
-  },
-  {
-    "targetMapId": [
-      45,
-      40
-    ],
-    "population": 84,
-    "player": "telekomedi"
-  },
-  {
-    "targetMapId": [
-      12,
-      -36
-    ],
-    "population": 67,
-    "player": "kumarbaz"
-  },
-  {
-    "targetMapId": [
-      68,
-      20
-    ],
-    "population": 804,
-    "player": "nirgun"
+    "population": 299,
+    "player": "Barzin"
   },
   {
     "targetMapId": [
       69,
-      18
-    ],
-    "population": 13,
-    "player": "Ignis"
-  },
-  {
-    "targetMapId": [
-      52,
-      37
-    ],
-    "population": 440,
-    "player": "manhgold"
-  },
-  {
-    "targetMapId": [
-      60,
-      -29
+      13
     ],
     "population": 10,
-    "player": "motta"
+    "player": "okeeeeeeee"
+  },
+  {
+    "targetMapId": [
+      61,
+      -11
+    ],
+    "population": 12,
+    "player": "TNT"
+  },
+  {
+    "targetMapId": [
+      70,
+      -5
+    ],
+    "population": 230,
+    "player": "asthal"
+  },
+  {
+    "targetMapId": [
+      55,
+      -12
+    ],
+    "population": 48,
+    "player": "larvas"
+  },
+  {
+    "targetMapId": [
+      43,
+      -4
+    ],
+    "population": 16,
+    "player": "Seko-1986"
+  },
+  {
+    "targetMapId": [
+      45,
+      15
+    ],
+    "population": 17,
+    "player": "Samycross"
+  },
+  {
+    "targetMapId": [
+      61,
+      20
+    ],
+    "population": 15,
+    "player": "Simsim"
   },
   {
     "targetMapId": [
       71,
       13
     ],
-    "population": 204,
+    "population": 193,
     "player": "Devilz"
-  },
-  {
-    "targetMapId": [
-      23,
-      42
-    ],
-    "population": 130,
-    "player": "Sponsi777"
-  },
-  {
-    "targetMapId": [
-      46,
-      -38
-    ],
-    "population": 8,
-    "player": "Krusty"
-  },
-  {
-    "targetMapId": [
-      72,
-      -8
-    ],
-    "population": 330,
-    "player": "Darion74"
-  },
-  {
-    "targetMapId": [
-      29,
-      43
-    ],
-    "population": 8,
-    "player": "casiank3"
-  },
-  {
-    "targetMapId": [
-      73,
-      3
-    ],
-    "population": 414,
-    "player": "EL-SALTOAZUL"
-  },
-  {
-    "targetMapId": [
-      44,
-      41
-    ],
-    "population": 50,
-    "player": "Sneg"
-  },
-  {
-    "targetMapId": [
-      36,
-      -41
-    ],
-    "population": 490,
-    "player": "Bubus"
-  },
-  {
-    "targetMapId": [
-      26,
-      -41
-    ],
-    "population": 26,
-    "player": "w8PP63q"
-  },
-  {
-    "targetMapId": [
-      26,
-      43
-    ],
-    "population": 17,
-    "player": "Pagonis"
-  },
-  {
-    "targetMapId": [
-      72,
-      -10
-    ],
-    "population": 39,
-    "player": "frenkystyle"
-  },
-  {
-    "targetMapId": [
-      63,
-      29
-    ],
-    "population": 121,
-    "player": "Yok"
-  },
-  {
-    "targetMapId": [
-      70,
-      18
-    ],
-    "population": 653,
-    "player": "ThunderDome"
-  },
-  {
-    "targetMapId": [
-      73,
-      -6
-    ],
-    "population": 15,
-    "player": "oxii"
-  },
-  {
-    "targetMapId": [
-      38,
-      -41
-    ],
-    "population": 10,
-    "player": "Google"
-  },
-  {
-    "targetMapId": [
-      24,
-      43
-    ],
-    "population": 49,
-    "player": "KayakaBG"
-  },
-  {
-    "targetMapId": [
-      58,
-      -32
-    ],
-    "population": 43,
-    "player": "Axelion"
-  },
-  {
-    "targetMapId": [
-      67,
-      -22
-    ],
-    "population": 8,
-    "player": "ROY"
-  },
-  {
-    "targetMapId": [
-      43,
-      42
-    ],
-    "population": 180,
-    "player": "Rasmis"
-  },
-  {
-    "targetMapId": [
-      8,
-      -35
-    ],
-    "population": 77,
-    "player": "Bpjs"
   },
   {
     "targetMapId": [
@@ -1937,27 +457,35 @@
   },
   {
     "targetMapId": [
-      65,
-      27
+      68,
+      17
     ],
-    "population": 8,
-    "player": "preto123"
+    "population": 365,
+    "player": "Bruten"
   },
   {
     "targetMapId": [
-      69,
+      59,
       21
     ],
-    "population": 8,
-    "player": "Actros"
+    "population": 10,
+    "player": "demz"
   },
   {
     "targetMapId": [
-      18,
-      42
+      54,
+      21
     ],
-    "population": 19,
-    "player": "Max"
+    "population": 79,
+    "player": "PoQ"
+  },
+  {
+    "targetMapId": [
+      64,
+      20
+    ],
+    "population": 137,
+    "player": "PedroIvan96"
   },
   {
     "targetMapId": [
@@ -1969,107 +497,51 @@
   },
   {
     "targetMapId": [
-      56,
-      36
+      66,
+      19
     ],
-    "population": 8,
-    "player": "Eldak"
+    "population": 12,
+    "player": "ovi_ovi"
   },
   {
     "targetMapId": [
-      53,
-      38
+      42,
+      14
     ],
-    "population": 1045,
-    "player": "almidon01"
+    "population": 74,
+    "player": "Thing"
   },
   {
     "targetMapId": [
-      -11,
-      -9
+      67,
+      19
     ],
-    "population": 291,
-    "player": "Kral"
+    "population": 325,
+    "player": "nirgun"
   },
   {
     "targetMapId": [
-      55,
-      -35
+      61,
+      22
     ],
-    "population": 115,
-    "player": "Banderasss"
+    "population": 431,
+    "player": "manhgold"
   },
   {
     "targetMapId": [
-      59,
-      34
+      69,
+      18
     ],
-    "population": 9,
-    "player": "GoneAbbel"
+    "population": 13,
+    "player": "Ignis"
   },
   {
     "targetMapId": [
-      74,
-      -4
+      46,
+      19
     ],
-    "population": 16,
-    "player": "T.M"
-  },
-  {
-    "targetMapId": [
-      70,
-      20
-    ],
-    "population": 18,
-    "player": "KAlllAFE"
-  },
-  {
-    "targetMapId": [
-      50,
-      40
-    ],
-    "population": 14,
-    "player": "nF7dwoH3px"
-  },
-  {
-    "targetMapId": [
-      48,
-      -39
-    ],
-    "population": 166,
-    "player": "Rye"
-  },
-  {
-    "targetMapId": [
-      16,
-      42
-    ],
-    "population": 37,
-    "player": "F8a8K2Ugur"
-  },
-  {
-    "targetMapId": [
-      0,
-      32
-    ],
-    "population": 36,
-    "player": "2ZCjRWaDl"
-  },
-  {
-    "targetMapId": [
-      74,
-      -8
-    ],
-    "population": 65,
-    "player": "Weve"
-  },
-  {
-    "targetMapId": [
-      47,
-      42
-    ],
-    "population": 47,
-    "player": "Malerasa"
+    "population": 24,
+    "player": "Zefiro"
   },
   {
     "targetMapId": [
@@ -2081,211 +553,83 @@
   },
   {
     "targetMapId": [
-      65,
-      29
+      74,
+      -4
     ],
-    "population": 24,
-    "player": "Sinuxy"
-  },
-  {
-    "targetMapId": [
-      59,
-      -33
-    ],
-    "population": 62,
-    "player": "edwin"
-  },
-  {
-    "targetMapId": [
-      68,
-      -23
-    ],
-    "population": 146,
-    "player": "SilentCanopy"
+    "population": 16,
+    "player": "T.M"
   },
   {
     "targetMapId": [
       73,
-      -13
+      -6
     ],
-    "population": 12,
-    "player": "Gengar"
+    "population": 15,
+    "player": "oxii"
   },
   {
     "targetMapId": [
       70,
-      22
+      18
     ],
-    "population": 653,
+    "population": 643,
     "player": "ThunderDome"
   },
   {
     "targetMapId": [
-      20,
-      44
-    ],
-    "population": 123,
-    "player": "LeBoasty"
-  },
-  {
-    "targetMapId": [
-      75,
-      -5
-    ],
-    "population": 8,
-    "player": "Zehralım"
-  },
-  {
-    "targetMapId": [
-      67,
-      27
-    ],
-    "population": 8,
-    "player": "Ozymandias"
-  },
-  {
-    "targetMapId": [
       69,
-      24
+      -11
     ],
-    "population": 15,
-    "player": "Nanto"
-  },
-  {
-    "targetMapId": [
-      61,
-      34
-    ],
-    "population": 8,
-    "player": "WarZone"
-  },
-  {
-    "targetMapId": [
-      51,
-      41
-    ],
-    "population": 8,
-    "player": "Cyric"
-  },
-  {
-    "targetMapId": [
-      11,
-      41
-    ],
-    "population": 16,
-    "player": "kaisa69"
+    "population": 14,
+    "player": "Cigarette211"
   },
   {
     "targetMapId": [
       72,
-      -17
+      -8
     ],
-    "population": 20,
-    "player": "Grimm05"
+    "population": 330,
+    "player": "Darion74"
   },
   {
     "targetMapId": [
-      22,
-      45
+      61,
+      23
     ],
-    "population": 102,
-    "player": "Hipermegaby…"
+    "population": 179,
+    "player": "Léonidas"
   },
   {
     "targetMapId": [
-      55,
-      39
-    ],
-    "population": 8,
-    "player": "Paimon"
-  },
-  {
-    "targetMapId": [
-      58,
-      37
-    ],
-    "population": 19,
-    "player": "hunterxhunt…"
-  },
-  {
-    "targetMapId": [
-      27,
-      -44
-    ],
-    "population": 8,
-    "player": "Zioperone"
-  },
-  {
-    "targetMapId": [
-      50,
-      42
-    ],
-    "population": 8,
-    "player": "TheMaster19…"
-  },
-  {
-    "targetMapId": [
-      74,
-      -13
-    ],
-    "population": 384,
-    "player": "mor"
-  },
-  {
-    "targetMapId": [
-      63,
-      33
-    ],
-    "population": 400,
-    "player": "omarty"
-  },
-  {
-    "targetMapId": [
-      36,
-      46
-    ],
-    "population": 20,
-    "player": "Ruajmao"
-  },
-  {
-    "targetMapId": [
-      76,
-      -4
+      41,
+      -7
     ],
     "population": 12,
-    "player": "SSSR"
+    "player": "Stuajs"
   },
   {
     "targetMapId": [
-      14,
-      43
+      42,
+      17
+    ],
+    "population": 78,
+    "player": "nostaji"
+  },
+  {
+    "targetMapId": [
+      44,
+      -11
     ],
     "population": 12,
-    "player": "kogaion"
+    "player": "Neto8500"
   },
   {
     "targetMapId": [
-      -4,
-      30
+      77,
+      4
     ],
-    "population": 1242,
-    "player": "SILENTKILLER"
-  },
-  {
-    "targetMapId": [
-      66,
-      30
-    ],
-    "population": 29,
-    "player": "Komarac"
-  },
-  {
-    "targetMapId": [
-      74,
-      -14
-    ],
-    "population": 384,
-    "player": "mor"
+    "population": 433,
+    "player": "Wind in Hair"
   },
   {
     "targetMapId": [
@@ -2297,83 +641,83 @@
   },
   {
     "targetMapId": [
-      11,
-      -40
+      54,
+      24
     ],
-    "population": 17,
-    "player": "Ezakk"
+    "population": 8,
+    "player": "simaomp"
+  },
+  {
+    "targetMapId": [
+      50,
+      23
+    ],
+    "population": 304,
+    "player": "OKEH"
+  },
+  {
+    "targetMapId": [
+      50,
+      -15
+    ],
+    "population": 30,
+    "player": "BAY-TAR"
+  },
+  {
+    "targetMapId": [
+      64,
+      -15
+    ],
+    "population": 117,
+    "player": "XXXXL"
   },
   {
     "targetMapId": [
       72,
-      -19
+      -10
     ],
-    "population": 17,
-    "player": "Hayamoto"
+    "population": 39,
+    "player": "frenkystyle"
   },
   {
     "targetMapId": [
-      13,
-      -41
+      76,
+      -4
     ],
-    "population": 10,
-    "player": "Jamiyah"
+    "population": 12,
+    "player": "SSSR"
   },
   {
     "targetMapId": [
-      -8,
-      25
+      52,
+      24
     ],
-    "population": 1242,
-    "player": "SILENTKILLER"
+    "population": 67,
+    "player": "Franelio14"
   },
   {
     "targetMapId": [
       70,
-      25
+      20
     ],
-    "population": 12,
-    "player": "Alpertunga"
+    "population": 18,
+    "player": "KAlllAFE"
   },
   {
     "targetMapId": [
-      4,
-      -36
+      74,
+      -8
     ],
-    "population": 52,
-    "player": "Hanzo"
+    "population": 65,
+    "player": "Weve"
   },
   {
     "targetMapId": [
-      18,
-      -43
+      66,
+      -15
     ],
-    "population": 443,
-    "player": "Hansenoguz"
-  },
-  {
-    "targetMapId": [
-      57,
-      -37
-    ],
-    "population": 72,
-    "player": "Ariabejita"
-  },
-  {
-    "targetMapId": [
-      41,
-      -44
-    ],
-    "population": 471,
-    "player": "Savya"
-  },
-  {
-    "targetMapId": [
-      77,
-      4
-    ],
-    "population": 462,
-    "player": "Wind in Hair"
+    "population": 11,
+    "player": "Barlas"
   },
   {
     "targetMapId": [
@@ -2385,18 +729,1674 @@
   },
   {
     "targetMapId": [
-      17,
-      -43
+      77,
+      11
     ],
-    "population": 37,
-    "player": "Miguellopes…"
+    "population": 933,
+    "player": "Arsacid"
+  },
+  {
+    "targetMapId": [
+      42,
+      -11
+    ],
+    "population": 41,
+    "player": "jwjw"
+  },
+  {
+    "targetMapId": [
+      41,
+      -10
+    ],
+    "population": 64,
+    "player": "Nameless"
+  },
+  {
+    "targetMapId": [
+      51,
+      25
+    ],
+    "population": 11,
+    "player": "Diplomata"
+  },
+  {
+    "targetMapId": [
+      79,
+      4
+    ],
+    "population": 82,
+    "player": "nevra34"
+  },
+  {
+    "targetMapId": [
+      79,
+      2
+    ],
+    "population": 82,
+    "player": "2St4xm6a"
+  },
+  {
+    "targetMapId": [
+      64,
+      25
+    ],
+    "population": 24,
+    "player": "fabriciorap2"
+  },
+  {
+    "targetMapId": [
+      54,
+      -18
+    ],
+    "population": 116,
+    "player": "notsad03"
+  },
+  {
+    "targetMapId": [
+      44,
+      23
+    ],
+    "population": 81,
+    "player": "Numenor"
   },
   {
     "targetMapId": [
       37,
-      -45
+      -8
+    ],
+    "population": 11,
+    "player": "KareS"
+  },
+  {
+    "targetMapId": [
+      69,
+      24
+    ],
+    "population": 15,
+    "player": "Nanto"
+  },
+  {
+    "targetMapId": [
+      73,
+      -13
+    ],
+    "population": 12,
+    "player": "Gengar"
+  },
+  {
+    "targetMapId": [
+      61,
+      -19
+    ],
+    "population": 1159,
+    "player": "Crood"
+  },
+  {
+    "targetMapId": [
+      75,
+      19
+    ],
+    "population": 16,
+    "player": "MITSY"
+  },
+  {
+    "targetMapId": [
+      35,
+      -5
+    ],
+    "population": 130,
+    "player": "kurisaki_ic…"
+  },
+  {
+    "targetMapId": [
+      66,
+      -18
+    ],
+    "population": 38,
+    "player": "Geeze"
+  },
+  {
+    "targetMapId": [
+      77,
+      -9
+    ],
+    "population": 230,
+    "player": "Tuetobod"
+  },
+  {
+    "targetMapId": [
+      57,
+      -20
+    ],
+    "population": 22,
+    "player": "Sayajin"
+  },
+  {
+    "targetMapId": [
+      81,
+      3
+    ],
+    "population": 30,
+    "player": "borntokill"
+  },
+  {
+    "targetMapId": [
+      74,
+      -13
+    ],
+    "population": 384,
+    "player": "mor"
+  },
+  {
+    "targetMapId": [
+      39,
+      -12
+    ],
+    "population": 178,
+    "player": "balcard"
+  },
+  {
+    "targetMapId": [
+      67,
+      26
+    ],
+    "population": 1930,
+    "player": "Qasim"
+  },
+  {
+    "targetMapId": [
+      60,
+      -20
+    ],
+    "population": 1159,
+    "player": "Crood"
+  },
+  {
+    "targetMapId": [
+      38,
+      -11
+    ],
+    "population": 18,
+    "player": "Hakuna"
+  },
+  {
+    "targetMapId": [
+      65,
+      27
+    ],
+    "population": 8,
+    "player": "preto123"
+  },
+  {
+    "targetMapId": [
+      80,
+      12
+    ],
+    "population": 450,
+    "player": "TsukuyomiS"
+  },
+  {
+    "targetMapId": [
+      81,
+      -1
+    ],
+    "population": 24,
+    "player": "ednet"
+  },
+  {
+    "targetMapId": [
+      52,
+      28
+    ],
+    "population": 449,
+    "player": "cremate123"
+  },
+  {
+    "targetMapId": [
+      36,
+      -9
+    ],
+    "population": 19,
+    "player": "Zheng"
+  },
+  {
+    "targetMapId": [
+      70,
+      25
+    ],
+    "population": 12,
+    "player": "Alpertunga"
+  },
+  {
+    "targetMapId": [
+      74,
+      -14
+    ],
+    "population": 384,
+    "player": "mor"
+  },
+  {
+    "targetMapId": [
+      76,
+      20
+    ],
+    "population": 106,
+    "player": "gorzi"
+  },
+  {
+    "targetMapId": [
+      77,
+      -11
+    ],
+    "population": 38,
+    "player": "pav"
+  },
+  {
+    "targetMapId": [
+      42,
+      24
+    ],
+    "population": 41,
+    "player": "TheChaosEff…"
+  },
+  {
+    "targetMapId": [
+      82,
+      4
+    ],
+    "population": 14,
+    "player": "Marquez"
+  },
+  {
+    "targetMapId": [
+      79,
+      16
+    ],
+    "population": 9,
+    "player": "skorpionid"
+  },
+  {
+    "targetMapId": [
+      69,
+      26
+    ],
+    "population": 1930,
+    "player": "Qasim"
+  },
+  {
+    "targetMapId": [
+      80,
+      14
+    ],
+    "population": 10,
+    "player": "Tertus"
+  },
+  {
+    "targetMapId": [
+      34,
+      14
+    ],
+    "population": 130,
+    "player": "Raphaelde_"
+  },
+  {
+    "targetMapId": [
+      82,
+      6
+    ],
+    "population": 149,
+    "player": "marifdev"
+  },
+  {
+    "targetMapId": [
+      54,
+      -21
+    ],
+    "population": 10,
+    "player": "dantes"
+  },
+  {
+    "targetMapId": [
+      81,
+      -4
+    ],
+    "population": 140,
+    "player": "0bBJ3RG0"
+  },
+  {
+    "targetMapId": [
+      32,
+      0
+    ],
+    "population": 903,
+    "player": "BobbyP_III"
+  },
+  {
+    "targetMapId": [
+      68,
+      -19
+    ],
+    "population": 728,
+    "player": "KAHRAMAN"
+  },
+  {
+    "targetMapId": [
+      68,
+      27
+    ],
+    "population": 1930,
+    "player": "Qasim"
+  },
+  {
+    "targetMapId": [
+      82,
+      9
+    ],
+    "population": 14,
+    "player": "O0O"
+  },
+  {
+    "targetMapId": [
+      48,
+      28
+    ],
+    "population": 12,
+    "player": "mumu"
+  },
+  {
+    "targetMapId": [
+      81,
+      13
+    ],
+    "population": 266,
+    "player": "LuckyDevils"
+  },
+  {
+    "targetMapId": [
+      82,
+      -2
+    ],
+    "population": 329,
+    "player": "Arc"
+  },
+  {
+    "targetMapId": [
+      63,
+      29
+    ],
+    "population": 116,
+    "player": "Yok"
+  },
+  {
+    "targetMapId": [
+      72,
+      -17
+    ],
+    "population": 20,
+    "player": "Grimm05"
+  },
+  {
+    "targetMapId": [
+      78,
+      19
+    ],
+    "population": 330,
+    "player": "Darkcutra"
+  },
+  {
+    "targetMapId": [
+      45,
+      27
+    ],
+    "population": 14,
+    "player": "Pekybaker"
+  },
+  {
+    "targetMapId": [
+      34,
+      -8
+    ],
+    "population": 40,
+    "player": "MURATUMUTLU"
+  },
+  {
+    "targetMapId": [
+      43,
+      26
+    ],
+    "population": 273,
+    "player": "Sonka"
+  },
+  {
+    "targetMapId": [
+      71,
+      26
+    ],
+    "population": 287,
+    "player": "Ramous"
+  },
+  {
+    "targetMapId": [
+      76,
+      22
+    ],
+    "population": 18,
+    "player": "Jam"
+  },
+  {
+    "targetMapId": [
+      65,
+      29
+    ],
+    "population": 24,
+    "player": "Sinuxy"
+  },
+  {
+    "targetMapId": [
+      52,
+      30
+    ],
+    "population": 59,
+    "player": "Nyx"
+  },
+  {
+    "targetMapId": [
+      52,
+      30
+    ],
+    "population": 59,
+    "player": "Nyx"
+  },
+  {
+    "targetMapId": [
+      31,
+      -1
+    ],
+    "population": 46,
+    "player": "IRO"
+  },
+  {
+    "targetMapId": [
+      82,
+      -5
+    ],
+    "population": 374,
+    "player": "Duvel"
+  },
+  {
+    "targetMapId": [
+      79,
+      -11
+    ],
+    "population": 12,
+    "player": "Moabom"
+  },
+  {
+    "targetMapId": [
+      81,
+      -8
+    ],
+    "population": 37,
+    "player": "osmanlı"
+  },
+  {
+    "targetMapId": [
+      64,
+      30
+    ],
+    "population": 736,
+    "player": "jaris69"
+  },
+  {
+    "targetMapId": [
+      50,
+      30
+    ],
+    "population": 35,
+    "player": "Who"
+  },
+  {
+    "targetMapId": [
+      84,
+      5
+    ],
+    "population": 288,
+    "player": "Ashoka"
+  },
+  {
+    "targetMapId": [
+      56,
+      -23
+    ],
+    "population": 758,
+    "player": "Spip"
+  },
+  {
+    "targetMapId": [
+      35,
+      20
+    ],
+    "population": 86,
+    "player": "VR3kTpQ"
+  },
+  {
+    "targetMapId": [
+      33,
+      -9
+    ],
+    "population": 60,
+    "player": "marius88"
+  },
+  {
+    "targetMapId": [
+      61,
+      -23
+    ],
+    "population": 383,
+    "player": "Kamikaze_Tu…"
+  },
+  {
+    "targetMapId": [
+      72,
+      -19
+    ],
+    "population": 17,
+    "player": "Hayamoto"
+  },
+  {
+    "targetMapId": [
+      66,
+      30
+    ],
+    "population": 29,
+    "player": "Komarac"
+  },
+  {
+    "targetMapId": [
+      31,
+      -5
+    ],
+    "population": 579,
+    "player": "Fax76"
+  },
+  {
+    "targetMapId": [
+      83,
+      -5
+    ],
+    "population": 374,
+    "player": "Duvel"
+  },
+  {
+    "targetMapId": [
+      76,
+      24
+    ],
+    "population": 11,
+    "player": "Aegeuss0106"
+  },
+  {
+    "targetMapId": [
+      75,
+      25
+    ],
+    "population": 14,
+    "player": "berserker"
+  },
+  {
+    "targetMapId": [
+      81,
+      -10
     ],
     "population": 13,
-    "player": "hFtd2zh0"
+    "player": "Rychy"
+  },
+  {
+    "targetMapId": [
+      31,
+      -6
+    ],
+    "population": 383,
+    "player": "Condor"
+  },
+  {
+    "targetMapId": [
+      64,
+      -23
+    ],
+    "population": 44,
+    "player": "muami"
+  },
+  {
+    "targetMapId": [
+      29,
+      5
+    ],
+    "population": 903,
+    "player": "BobbyP_III"
+  },
+  {
+    "targetMapId": [
+      85,
+      7
+    ],
+    "population": 433,
+    "player": "Wind in Hair"
+  },
+  {
+    "targetMapId": [
+      81,
+      19
+    ],
+    "population": 110,
+    "player": "PNEE"
+  },
+  {
+    "targetMapId": [
+      72,
+      28
+    ],
+    "population": 23,
+    "player": "Gatolino"
+  },
+  {
+    "targetMapId": [
+      84,
+      13
+    ],
+    "population": 28,
+    "player": "Trav"
+  },
+  {
+    "targetMapId": [
+      74,
+      -19
+    ],
+    "population": 24,
+    "player": "Player01"
+  },
+  {
+    "targetMapId": [
+      55,
+      -25
+    ],
+    "population": 45,
+    "player": "lasarte"
+  },
+  {
+    "targetMapId": [
+      76,
+      26
+    ],
+    "population": 16,
+    "player": "YaYa"
+  },
+  {
+    "targetMapId": [
+      79,
+      -15
+    ],
+    "population": 14,
+    "player": "mdoggi"
+  },
+  {
+    "targetMapId": [
+      86,
+      1
+    ],
+    "population": 33,
+    "player": "Lolian"
+  },
+  {
+    "targetMapId": [
+      68,
+      -23
+    ],
+    "population": 146,
+    "player": "SilentCanopy"
+  },
+  {
+    "targetMapId": [
+      72,
+      29
+    ],
+    "population": 643,
+    "player": "ThunderDome"
+  },
+  {
+    "targetMapId": [
+      43,
+      30
+    ],
+    "population": 96,
+    "player": "LucNic"
+  },
+  {
+    "targetMapId": [
+      63,
+      33
+    ],
+    "population": 368,
+    "player": "omarty"
+  },
+  {
+    "targetMapId": [
+      86,
+      10
+    ],
+    "population": 18,
+    "player": "zOuroboros"
+  },
+  {
+    "targetMapId": [
+      73,
+      -21
+    ],
+    "population": 13,
+    "player": "SuperMurlock"
+  },
+  {
+    "targetMapId": [
+      35,
+      24
+    ],
+    "population": 42,
+    "player": "VTAfCMXJ"
+  },
+  {
+    "targetMapId": [
+      84,
+      -9
+    ],
+    "population": 664,
+    "player": "Sebiwis"
+  },
+  {
+    "targetMapId": [
+      56,
+      34
+    ],
+    "population": 35,
+    "player": "Ahmedgamal"
+  },
+  {
+    "targetMapId": [
+      59,
+      34
+    ],
+    "population": 9,
+    "player": "GoneAbbel"
+  },
+  {
+    "targetMapId": [
+      54,
+      34
+    ],
+    "population": 10,
+    "player": "Valer4ik91"
+  },
+  {
+    "targetMapId": [
+      87,
+      8
+    ],
+    "population": 39,
+    "player": "KaptanTokur"
+  },
+  {
+    "targetMapId": [
+      86,
+      13
+    ],
+    "population": 12,
+    "player": "JMan97"
+  },
+  {
+    "targetMapId": [
+      78,
+      26
+    ],
+    "population": 51,
+    "player": "Pizza"
+  },
+  {
+    "targetMapId": [
+      51,
+      -26
+    ],
+    "population": 37,
+    "player": "nermin"
+  },
+  {
+    "targetMapId": [
+      81,
+      -15
+    ],
+    "population": 134,
+    "player": "Конь"
+  },
+  {
+    "targetMapId": [
+      86,
+      -6
+    ],
+    "population": 10,
+    "player": "Turgon"
+  },
+  {
+    "targetMapId": [
+      47,
+      -25
+    ],
+    "population": 117,
+    "player": "nk76"
+  },
+  {
+    "targetMapId": [
+      30,
+      -11
+    ],
+    "population": 102,
+    "player": "AGI"
+  },
+  {
+    "targetMapId": [
+      30,
+      -11
+    ],
+    "population": 102,
+    "player": "AGI"
+  },
+  {
+    "targetMapId": [
+      56,
+      -27
+    ],
+    "population": 463,
+    "player": "Alp"
+  },
+  {
+    "targetMapId": [
+      69,
+      33
+    ],
+    "population": 23,
+    "player": "advanture99"
+  },
+  {
+    "targetMapId": [
+      41,
+      -23
+    ],
+    "population": 926,
+    "player": "Timuxs"
+  },
+  {
+    "targetMapId": [
+      72,
+      32
+    ],
+    "population": 249,
+    "player": "Pasha_06"
+  },
+  {
+    "targetMapId": [
+      44,
+      33
+    ],
+    "population": 10,
+    "player": "Superfastpi…"
+  },
+  {
+    "targetMapId": [
+      81,
+      25
+    ],
+    "population": 16,
+    "player": "Hopa"
+  },
+  {
+    "targetMapId": [
+      74,
+      31
+    ],
+    "population": 249,
+    "player": "Pasha_06"
+  },
+  {
+    "targetMapId": [
+      59,
+      -28
+    ],
+    "population": 66,
+    "player": "Loureiro"
+  },
+  {
+    "targetMapId": [
+      25,
+      7
+    ],
+    "population": 334,
+    "player": "RaiDeR"
+  },
+  {
+    "targetMapId": [
+      71,
+      -25
+    ],
+    "population": 9,
+    "player": "GugaIII"
+  },
+  {
+    "targetMapId": [
+      45,
+      34
+    ],
+    "population": 449,
+    "player": "cremate123"
+  },
+  {
+    "targetMapId": [
+      27,
+      16
+    ],
+    "population": 26,
+    "player": "Navid"
+  },
+  {
+    "targetMapId": [
+      89,
+      9
+    ],
+    "population": 102,
+    "player": "BlackTempla…"
+  },
+  {
+    "targetMapId": [
+      84,
+      22
+    ],
+    "population": 9,
+    "player": "brujitaa10!…"
+  },
+  {
+    "targetMapId": [
+      75,
+      31
+    ],
+    "population": 20,
+    "player": "minevan"
+  },
+  {
+    "targetMapId": [
+      30,
+      -14
+    ],
+    "population": 1016,
+    "player": "Contessa"
+  },
+  {
+    "targetMapId": [
+      51,
+      -28
+    ],
+    "population": 14,
+    "player": "Casamtres"
+  },
+  {
+    "targetMapId": [
+      51,
+      36
+    ],
+    "population": 99,
+    "player": "Xiphos"
+  },
+  {
+    "targetMapId": [
+      79,
+      -20
+    ],
+    "population": 10,
+    "player": "perf"
+  },
+  {
+    "targetMapId": [
+      67,
+      35
+    ],
+    "population": 12,
+    "player": "tatison"
+  },
+  {
+    "targetMapId": [
+      86,
+      -11
+    ],
+    "population": 486,
+    "player": "Jester"
+  },
+  {
+    "targetMapId": [
+      58,
+      37
+    ],
+    "population": 19,
+    "player": "hunterxhunt…"
+  },
+  {
+    "targetMapId": [
+      60,
+      -29
+    ],
+    "population": 10,
+    "player": "motta"
+  },
+  {
+    "targetMapId": [
+      90,
+      7
+    ],
+    "population": 228,
+    "player": "popsmoke"
+  },
+  {
+    "targetMapId": [
+      33,
+      27
+    ],
+    "population": 162,
+    "player": "KENA"
+  },
+  {
+    "targetMapId": [
+      52,
+      37
+    ],
+    "population": 431,
+    "player": "manhgold"
+  },
+  {
+    "targetMapId": [
+      83,
+      25
+    ],
+    "population": 13,
+    "player": "IShade"
+  },
+  {
+    "targetMapId": [
+      78,
+      -22
+    ],
+    "population": 28,
+    "player": "Delacroix"
+  },
+  {
+    "targetMapId": [
+      36,
+      -22
+    ],
+    "population": 537,
+    "player": "Blacking"
+  },
+  {
+    "targetMapId": [
+      87,
+      19
+    ],
+    "population": 39,
+    "player": "jasoklobaso"
+  },
+  {
+    "targetMapId": [
+      86,
+      -13
+    ],
+    "population": 15,
+    "player": "Arjan"
+  },
+  {
+    "targetMapId": [
+      64,
+      -29
+    ],
+    "population": 538,
+    "player": "AMANSIZ"
+  },
+  {
+    "targetMapId": [
+      50,
+      -29
+    ],
+    "population": 11,
+    "player": "Lio"
+  },
+  {
+    "targetMapId": [
+      76,
+      32
+    ],
+    "population": 51,
+    "player": "Linhares"
+  },
+  {
+    "targetMapId": [
+      65,
+      -29
+    ],
+    "population": 538,
+    "player": "AMANSIZ"
+  },
+  {
+    "targetMapId": [
+      73,
+      -26
+    ],
+    "population": 11,
+    "player": "basem"
+  },
+  {
+    "targetMapId": [
+      43,
+      35
+    ],
+    "population": 15,
+    "player": "Firesword"
+  },
+  {
+    "targetMapId": [
+      79,
+      30
+    ],
+    "population": 104,
+    "player": "HSH4N"
+  },
+  {
+    "targetMapId": [
+      35,
+      -22
+    ],
+    "population": 537,
+    "player": "Blacking"
+  },
+  {
+    "targetMapId": [
+      28,
+      22
+    ],
+    "population": 521,
+    "player": "Dee"
+  },
+  {
+    "targetMapId": [
+      39,
+      -25
+    ],
+    "population": 26,
+    "player": "renatoc1"
+  },
+  {
+    "targetMapId": [
+      39,
+      33
+    ],
+    "population": 162,
+    "player": "and"
+  },
+  {
+    "targetMapId": [
+      25,
+      16
+    ],
+    "population": 151,
+    "player": "efozo"
+  },
+  {
+    "targetMapId": [
+      61,
+      38
+    ],
+    "population": 104,
+    "player": "Flare"
+  },
+  {
+    "targetMapId": [
+      74,
+      34
+    ],
+    "population": 11,
+    "player": "Blade Knight"
+  },
+  {
+    "targetMapId": [
+      33,
+      29
+    ],
+    "population": 34,
+    "player": "brollei"
+  },
+  {
+    "targetMapId": [
+      86,
+      -15
+    ],
+    "population": 35,
+    "player": "Farrokh"
+  },
+  {
+    "targetMapId": [
+      80,
+      -22
+    ],
+    "population": 805,
+    "player": "elxano"
+  },
+  {
+    "targetMapId": [
+      90,
+      15
+    ],
+    "population": 10,
+    "player": "wilci"
+  },
+  {
+    "targetMapId": [
+      25,
+      18
+    ],
+    "population": 334,
+    "player": "RaiDeR"
+  },
+  {
+    "targetMapId": [
+      36,
+      32
+    ],
+    "population": 90,
+    "player": "jarlax0"
+  },
+  {
+    "targetMapId": [
+      89,
+      19
+    ],
+    "population": 11,
+    "player": "Nerufina"
+  },
+  {
+    "targetMapId": [
+      72,
+      -28
+    ],
+    "population": 343,
+    "player": "abdoukaibi"
+  },
+  {
+    "targetMapId": [
+      83,
+      -20
+    ],
+    "population": 17,
+    "player": "BabyDragon"
+  },
+  {
+    "targetMapId": [
+      84,
+      -19
+    ],
+    "population": 21,
+    "player": "Maks"
+  },
+  {
+    "targetMapId": [
+      70,
+      37
+    ],
+    "population": 247,
+    "player": "Mrzombieobs…"
+  },
+  {
+    "targetMapId": [
+      63,
+      39
+    ],
+    "population": 167,
+    "player": "mit"
+  },
+  {
+    "targetMapId": [
+      91,
+      -7
+    ],
+    "population": 13,
+    "player": "Esfinge1"
+  },
+  {
+    "targetMapId": [
+      25,
+      20
+    ],
+    "population": 58,
+    "player": "farshad"
+  },
+  {
+    "targetMapId": [
+      86,
+      -17
+    ],
+    "population": 12,
+    "player": "Dekani"
+  },
+  {
+    "targetMapId": [
+      78,
+      -25
+    ],
+    "population": 486,
+    "player": "Jester"
+  },
+  {
+    "targetMapId": [
+      90,
+      18
+    ],
+    "population": 450,
+    "player": "TsukuyomiS"
+  },
+  {
+    "targetMapId": [
+      58,
+      -32
+    ],
+    "population": 43,
+    "player": "Axelion"
+  },
+  {
+    "targetMapId": [
+      59,
+      40
+    ],
+    "population": 14,
+    "player": "keeppy"
+  },
+  {
+    "targetMapId": [
+      81,
+      -23
+    ],
+    "population": 16,
+    "player": "Luciiano"
+  },
+  {
+    "targetMapId": [
+      53,
+      40
+    ],
+    "population": 82,
+    "player": "DANITOkYD"
+  },
+  {
+    "targetMapId": [
+      93,
+      8
+    ],
+    "population": 170,
+    "player": "Hayk"
+  },
+  {
+    "targetMapId": [
+      72,
+      37
+    ],
+    "population": 11,
+    "player": "JoelArgento"
+  },
+  {
+    "targetMapId": [
+      47,
+      -31
+    ],
+    "population": 15,
+    "player": "Eternallife"
+  },
+  {
+    "targetMapId": [
+      51,
+      -32
+    ],
+    "population": 147,
+    "player": "Marlboro"
+  },
+  {
+    "targetMapId": [
+      50,
+      40
+    ],
+    "population": 14,
+    "player": "nF7dwoH3px"
+  },
+  {
+    "targetMapId": [
+      90,
+      20
+    ],
+    "population": 167,
+    "player": "punkstyl3"
+  },
+  {
+    "targetMapId": [
+      41,
+      -29
+    ],
+    "population": 328,
+    "player": "Injouable"
+  },
+  {
+    "targetMapId": [
+      64,
+      40
+    ],
+    "population": 45,
+    "player": "dxNxz"
+  },
+  {
+    "targetMapId": [
+      68,
+      -31
+    ],
+    "population": 1151,
+    "player": "ropes33"
+  },
+  {
+    "targetMapId": [
+      25,
+      22
+    ],
+    "population": 11,
+    "player": "Toke"
+  },
+  {
+    "targetMapId": [
+      83,
+      -22
+    ],
+    "population": 12,
+    "player": "CocoJumbo"
+  },
+  {
+    "targetMapId": [
+      58,
+      41
+    ],
+    "population": 10,
+    "player": "Folador"
+  },
+  {
+    "targetMapId": [
+      59,
+      -33
+    ],
+    "population": 62,
+    "player": "edwin"
+  },
+  {
+    "targetMapId": [
+      21,
+      -5
+    ],
+    "population": 579,
+    "player": "Fax76"
+  },
+  {
+    "targetMapId": [
+      91,
+      19
+    ],
+    "population": 378,
+    "player": "ROGNAR"
+  },
+  {
+    "targetMapId": [
+      87,
+      -18
+    ],
+    "population": 395,
+    "player": "GreyAngel"
+  },
+  {
+    "targetMapId": [
+      38,
+      36
+    ],
+    "population": 70,
+    "player": "TheRevival"
+  },
+  {
+    "targetMapId": [
+      94,
+      0
+    ],
+    "population": 23,
+    "player": "Feplei"
+  },
+  {
+    "targetMapId": [
+      52,
+      -33
+    ],
+    "population": 48,
+    "player": "PNE"
+  },
+  {
+    "targetMapId": [
+      88,
+      -17
+    ],
+    "population": 10,
+    "player": "Armin FVBCA"
+  },
+  {
+    "targetMapId": [
+      30,
+      30
+    ],
+    "population": 521,
+    "player": "Dee"
+  },
+  {
+    "targetMapId": [
+      94,
+      -2
+    ],
+    "population": 10,
+    "player": "Jorge"
+  },
+  {
+    "targetMapId": [
+      91,
+      -12
+    ],
+    "population": 15,
+    "player": "jokerr"
+  },
+  {
+    "targetMapId": [
+      68,
+      40
+    ],
+    "population": 128,
+    "player": "EHDDbKS"
+  },
+  {
+    "targetMapId": [
+      92,
+      -10
+    ],
+    "population": 14,
+    "player": "FERASTIC"
+  },
+  {
+    "targetMapId": [
+      65,
+      -33
+    ],
+    "population": 12,
+    "player": "Oxopia"
+  },
+  {
+    "targetMapId": [
+      45,
+      40
+    ],
+    "population": 84,
+    "player": "telekomedi"
+  },
+  {
+    "targetMapId": [
+      74,
+      38
+    ],
+    "population": 15,
+    "player": "buka"
+  },
+  {
+    "targetMapId": [
+      94,
+      -5
+    ],
+    "population": 16,
+    "player": "huiplin MEX…"
+  },
+  {
+    "targetMapId": [
+      83,
+      -24
+    ],
+    "population": 29,
+    "player": "Tornadista"
+  },
+  {
+    "targetMapId": [
+      83,
+      32
+    ],
+    "population": 111,
+    "player": "FernandoBjj"
+  },
+  {
+    "targetMapId": [
+      41,
+      -31
+    ],
+    "population": 44,
+    "player": "Os3O5zbjD"
+  },
+  {
+    "targetMapId": [
+      73,
+      -31
+    ],
+    "population": 216,
+    "player": "Gab3llo"
   }
 ]

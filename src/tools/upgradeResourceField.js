@@ -102,7 +102,6 @@ async function getResourceFields(page, newdid, preference) {
 }
 
 
-// Función principal para mejorar el campo de recursos
 export async function upgradeResourceField(page, aldea, logData) {
   const resourceFieldBaseUrl = `${process.env.BASE_URL}/build.php?newdid=${aldea.newdid}&id=`;
 
@@ -116,79 +115,64 @@ export async function upgradeResourceField(page, aldea, logData) {
     fs.writeFileSync(logFilePath, JSON.stringify({}, null, 2));
   }
 
-  // // Verificar si ya hay un campo de recursos en progreso
-  // const inProgress = Object.values(aldeaResourceLogData).some(time => new Date(time) > new Date());
-  // if (inProgress) {
-  //   console.log("Hay una mejora en progreso. Esperando...");
-  //   return; // Si hay una mejora en progreso, terminamos la ejecución
-  // }
-
   try {
-    // Si se define la propiedad 'preference' en la aldea, solo mejoramos los campos indicados en esa lista
+    // Obtener campos según preferencia
     const preference = aldea.task.find(task => task.name === "upgradeResourceField")?.preference || [];
     const fieldsToConsider = sortByLevel(await getResourceFields(page, aldea.newdid, preference));
-    console.log("Campos Encontrados",fieldsToConsider);
+    
     if (fieldsToConsider.length === 0) {
       console.log("No se encontraron campos de recursos disponibles para mejorar.");
       return;
     }
 
-    // Seleccionamos el campo con el nivel más bajo dentro de los campos de preferencia
     const fieldToUpgrade = fieldsToConsider[0];
-    console.log(fieldsToConsider);
     console.log(`Seleccionando el campo de recursos con el nivel más bajo: ${fieldToUpgrade.fieldId}, Nivel: ${fieldToUpgrade.level}`);
 
     const resourceFieldUrl = resourceFieldBaseUrl + fieldToUpgrade.fieldId;
     console.log(`Accediendo a la URL para el campo de recursos ${fieldToUpgrade.fieldId}: ${resourceFieldUrl}`);
-    await page.goto(resourceFieldUrl, { timeout: 60000 });
+    await page.goto(resourceFieldUrl, { waitUntil: 'networkidle2', timeout: 60000 });
 
-    // Selector para el botón de mejora y el de "Construir con el ingeniero maestro"
-    const upgradeButtonSelector = `button[value*='Mejora al nivel']`;
-    const engineerButtonSelector = `button[value*='Construir con el ingeniero maestro']`;
-    const durationSelector = '.inlineIcon.duration span.value';
+    // Selectores actualizados basados en el HTML proporcionado
+    const upgradeButtonSelector = 'div.upgradeButtonsContainer > div.section1 > button.textButtonV1.green.build';
+    const durationSelector = 'div.upgradeButtonsContainer > div.section1 > div.inlineIcon.duration > span.value';
 
-    try {
-      // Intentar esperar por el botón de mejora
-      await page.waitForSelector(upgradeButtonSelector, { timeout: 10000 });
-      const upgradeButton = await page.$(upgradeButtonSelector);
+  
+    // Esperar a que el botón esté disponible y visible
+    await page.waitForSelector(upgradeButtonSelector, { 
+      state: 'visible', 
+      timeout: 10000 
+    });
 
-      if (upgradeButton) {
-        console.log(`Botón de mejora disponible para el campo ${fieldToUpgrade.fieldId}. Ejecutando acción...`);
-
-        // Obtener el tiempo de mejora
-        const durationText = await page.$eval(durationSelector, (span) => span.textContent);
-        const upgradeDuration = convertToMilliseconds(durationText);
-
-        const currentTime = new Date();
-        const completionTime = new Date(currentTime.getTime() + upgradeDuration);
-
-        // Hacer clic en el botón de mejora
-        await page.click(upgradeButtonSelector);
-
-        console.log(`Campo ${fieldToUpgrade.fieldId} mejorado. Tiempo estimado de finalización: ${completionTime}`);
-
-        // Guardar en el log
-        aldeaResourceLogData[fieldToUpgrade.fieldId] = completionTime.toISOString();
-        fs.writeFileSync(logFilePath, JSON.stringify(aldeaResourceLogData, null, 2));
-
-        console.log(`Log actualizado para el campo ${fieldToUpgrade.fieldId}`);
-      }
-    } catch (error) {
-      // Si no se encuentra el botón de mejora, verificar el botón del ingeniero maestro
-      try {
-        await page.waitForSelector(engineerButtonSelector, { timeout: 5000 });
-        const engineerButton = await page.$(engineerButtonSelector);
-
-        if (engineerButton) {
-          console.log(`Mejora en progreso para el campo ${fieldToUpgrade.fieldId}, no se puede ejecutar la mejora aún.`);
-        } else {
-          console.log(`No se pudo encontrar ni el botón de mejora ni el del ingeniero maestro para el campo ${fieldToUpgrade.fieldId}.`);
-        }
-      } catch (engineerError) {
-        console.log(`Error al procesar el botón del ingeniero maestro para el campo ${fieldToUpgrade.fieldId}: ${engineerError.message}`);
-      }
+    // Verificar si el botón está deshabilitado
+    const isDisabled = await page.$eval(upgradeButtonSelector, button => button.disabled);
+    if (isDisabled) {
+      console.log("El botón está deshabilitado (otra mejora en curso).");
+      return;
     }
+
+    // Obtener el tiempo de mejora
+    const durationText = await page.$eval(durationSelector, (span) => span.textContent);
+    const upgradeDuration = convertToMilliseconds(durationText);
+
+    // Hacer clic de manera más robusta
+    console.log("Intentando hacer clic en el botón de mejora...");
+    
+    // Opción 1: Usar page.$eval para activar el click directamente
+    await page.$eval(upgradeButtonSelector, button => {
+      button.click(); // Dispara el evento click nativo
+    });
+
+    // Esperar un breve momento para que se procese la acción
+    await new Promise(resolve => setTimeout(resolve, 1000));
+    
+    // // Registrar la mejora
+    // const completionTime = new Date(Date.now() + upgradeDuration);
+    // aldeaResourceLogData[fieldToUpgrade.fieldId] = completionTime.toISOString();
+    // fs.writeFileSync(logFilePath, JSON.stringify(aldeaResourceLogData, null, 2));
+    // console.log(`Campo ${fieldToUpgrade.fieldId} mejorado. Tiempo estimado: ${completionTime}`);
+
+    
   } catch (error) {
-    console.error(`Error al acceder a la URL del campo de recursos: ${error.message}`);
+    console.error(`Error general en upgradeResourceField: ${error.message}`);
   }
 }

@@ -122,10 +122,10 @@ async function automateTask(config) {
       }
   
       // Tarea celebrateFestival (siempre se ejecuta)
-      else if (task.name === "celebrateFestival") {
-        console.log(`Realizando fiesta en la aldea ${aldea.name}`);
-        await celebrateFestival(page, aldea, festivalType);
-      }
+      //else if (task.name === "celebrateFestival") {
+        //console.log(`Realizando fiesta en la aldea ${aldea.name}`);
+        //await celebrateFestival(page, aldea, festivalType);
+      //}
   
       // Tareas que consumen recursos (solo se ejecutan si hay fiestas activas o no está asignada celebrateFestival)
       else if (shouldExecuteResourceConsumingTasks) {

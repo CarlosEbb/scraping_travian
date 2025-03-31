@@ -8,6 +8,153 @@
   },
   {
     "targetMapId": [
+      49,
+      67
+    ],
+    "errorMessage": "tiene tropas"
+  },
+  {
+    "targetMapId": [
+      90,
+      46
+    ],
+    "errorMessage": "tiene tropas"
+  },
+  {
+    "targetMapId": [
+      70,
+      37
+    ],
+    "errorMessage": "tiene tropas"
+  },
+  {
+    "targetMapId": [
+      57,
+      68
+    ],
+    "errorMessage": "tiene tropas"
+  },
+  {
+    "targetMapId": [
+      53,
+      40
+    ],
+    "errorMessage": "tiene tropas"
+  },
+  {
+    "targetMapId": [
+      59,
+      56
+    ],
+    "errorMessage": "tiene tropas"
+  },
+  {
+    "targetMapId": [
+      71,
+      57
+    ],
+    "errorMessage": "tiene tropas"
+  },
+  {
+    "targetMapId": [
+      65,
+      65
+    ],
+    "errorMessage": "tiene tropas"
+  },
+  {
+    "targetMapId": [
+      31,
+      73
+    ],
+    "errorMessage": "tiene tropas"
+  },
+  {
+    "targetMapId": [
+      31,
+      73
+    ],
+    "errorMessage": "tiene tropas"
+  },
+  {
+    "targetMapId": [
+      31,
+      72
+    ],
+    "errorMessage": "tiene tropas"
+  },
+  {
+    "targetMapId": [
+      43,
+      10
+    ],
+    "errorMessage": "tiene tropas"
+  },
+  {
+    "targetMapId": [
+      43,
+      13
+    ],
+    "errorMessage": "tiene tropas"
+  },
+  {
+    "targetMapId": [
+      34,
+      70
+    ],
+    "errorMessage": "tiene tropas"
+  },
+  {
+    "targetMapId": [
+      31,
+      72
+    ],
+    "errorMessage": "tiene tropas"
+  },
+  {
+    "targetMapId": [
+      29,
+      72
+    ],
+    "errorMessage": "tiene tropas"
+  },
+  {
+    "targetMapId": [
+      -11,
+      76
+    ],
+    "errorMessage": "tiene tropas"
+  },
+  {
+    "targetMapId": [
+      3,
+      61
+    ],
+    "errorMessage": "tiene tropas"
+  },
+  {
+    "targetMapId": [
+      3,
+      61
+    ],
+    "errorMessage": "tiene tropas"
+  },
+  {
+    "targetMapId": [
+      34,
+      -8
+    ],
+    "errorMessage": "tiene tropas"
+  },
+  {
+    "targetMapId": [
+      7,
+      96
+    ],
+    "errorMessage": "tiene tropas"
+  },
+  {
+    "targetMapId": [
       37,
       70
     ],
@@ -1342,5 +1489,145 @@
       55
     ],
     "errorMessage": "No existe ninguna aldea en estas coordenadas."
+  },
+  {
+    "targetMapId": [
+      18,
+      163
+    ],
+    "errorMessage": "No existe ninguna aldea en estas coordenadas."
+  },
+  {
+    "targetMapId": [
+      11,
+      105
+    ],
+    "errorMessage": "No existe ninguna aldea en estas coordenadas."
+  },
+  {
+    "targetMapId": [
+      -20,
+      125
+    ],
+    "errorMessage": "No existe ninguna aldea en estas coordenadas."
+  },
+  {
+    "targetMapId": [
+      31,
+      52
+    ],
+    "errorMessage": "No existe ninguna aldea en estas coordenadas."
+  },
+  {
+    "targetMapId": [
+      -3,
+      92
+    ],
+    "errorMessage": "No existe ninguna aldea en estas coordenadas."
+  },
+  {
+    "targetMapId": [
+      70,
+      69
+    ],
+    "errorMessage": "El personaje está bloqueado."
+  },
+  {
+    "targetMapId": [
+      -11,
+      69
+    ],
+    "errorMessage": "No existe ninguna aldea en estas coordenadas."
+  },
+  {
+    "targetMapId": [
+      -13,
+      66
+    ],
+    "errorMessage": "No existe ninguna aldea en estas coordenadas."
+  },
+  {
+    "targetMapId": [
+      44,
+      81
+    ],
+    "errorMessage": "No existe ninguna aldea en estas coordenadas."
+  },
+  {
+    "targetMapId": [
+      28,
+      80
+    ],
+    "errorMessage": "No existe ninguna aldea en estas coordenadas."
+  },
+  {
+    "targetMapId": [
+      59,
+      81
+    ],
+    "errorMessage": "No existe ninguna aldea en estas coordenadas."
+  },
+  {
+    "targetMapId": [
+      61,
+      52
+    ],
+    "errorMessage": "Não há nenhuma aldeia nestas coordenadas"
+  },
+  {
+    "targetMapId": [
+      80,
+      52
+    ],
+    "errorMessage": "Não há nenhuma aldeia nestas coordenadas"
+  },
+  {
+    "targetMapId": [
+      76,
+      53
+    ],
+    "errorMessage": "Não há nenhuma aldeia nestas coordenadas"
+  },
+  {
+    "targetMapId": [
+      52,
+      49
+    ],
+    "errorMessage": "Não há nenhuma aldeia nestas coordenadas"
+  },
+  {
+    "targetMapId": [
+      51,
+      53
+    ],
+    "errorMessage": "Não há nenhuma aldeia nestas coordenadas"
+  },
+  {
+    "targetMapId": [
+      87,
+      48
+    ],
+    "errorMessage": "Não há nenhuma aldeia nestas coordenadas"
+  },
+  {
+    "targetMapId": [
+      79,
+      51
+    ],
+    "errorMessage": "Não há nenhuma aldeia nestas coordenadas"
+  },
+  {
+    "targetMapId": [
+      65,
+      75
+    ],
+    "errorMessage": "Não há nenhuma aldeia nestas coordenadas"
+  },
+  {
+    "targetMapId": [
+      91,
+      39
+    ],
+    "errorMessage": "Não há nenhuma aldeia nestas coordenadas"
   }
 ]

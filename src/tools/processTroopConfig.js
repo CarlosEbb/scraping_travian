@@ -20,7 +20,7 @@ if (!fs.existsSync(temporalDir)) {
 
 // Función para obtener la primera tropa disponible que cumpla con la cantidad requerida
 export async function getAllAvailableTroops(page, requiredAmount) {
-  const troopTypes = ['t1', 't5', 't6']; // Tipos de tropa
+  const troopTypes = ['t4']; // Tipos de tropa
 
   // Extraer todos los datos de las tropas en una sola corrida
   const troopsData = await page.$$eval('input[name^="troop[t"]', (inputs) => {
@@ -71,10 +71,10 @@ function readInactiveVillagesFile(aldea) {
 
 // Función para calcular la cantidad de tropas según la población
 function calculateTroopAmount(population) {
-  if (population <= 20) {
-    return 10; // Siempre enviar 10 tropas si la población es <= 10
-  }
-  return Math.floor(population / 2); // Enviar la mitad de la población para poblaciones mayores
+  //if (population <= 20) {
+  //  return 10; // Siempre enviar 10 tropas si la población es <= 10
+  //}
+  return 5;//Math.floor(population / 2); // Enviar la mitad de la población para poblaciones mayores
 }
 
 
@@ -330,7 +330,7 @@ export async function sendOffensiveTroops(page, aldea, baseUrl) {
     }
 
     // Enviar todas las tropas ofensivas (t1, t3, t5, t6, t7)
-    const offensiveTroops = ['t1', 't5', 't6', 't7'];
+    const offensiveTroops = ['t4'];
     for (const troopType of offensiveTroops) {
       const availableCount = troopsAvailable[troopType] || 0;
       if (availableCount > 0) {

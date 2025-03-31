@@ -1,6 +1,6 @@
 {
   "31,69": {
-    "lastExecuted": "2025-03-24T22:08:08.694Z",
+    "lastExecuted": "2025-03-26T06:31:39.135Z",
     "arrivalTime": "En 0:19:10 horas"
   },
   "25,76": {
@@ -8,27 +8,27 @@
     "arrivalTime": "En 0:21:26 horas"
   },
   "27,68": {
-    "lastExecuted": "2025-03-24T21:19:42.624Z",
+    "lastExecuted": "2025-03-26T06:41:51.251Z",
     "arrivalTime": "En 0:23:05 horas"
   },
   "30,67": {
-    "lastExecuted": "2025-03-24T21:19:52.468Z",
+    "lastExecuted": "2025-03-26T06:36:53.148Z",
     "arrivalTime": "En 0:26:04 horas"
   },
   "33,68": {
-    "lastExecuted": "2025-03-24T21:20:02.497Z",
-    "arrivalTime": "En 0:27:27 horas"
+    "lastExecuted": "2025-03-26T06:25:22.193Z",
+    "arrivalTime": "En 0:19:13 horas"
   },
   "23,69": {
-    "lastExecuted": "2025-03-24T21:20:52.177Z",
-    "arrivalTime": "En 0:30:54 horas"
+    "lastExecuted": "2025-03-26T06:37:22.903Z",
+    "arrivalTime": "En 0:21:38 horas"
   },
   "28,65": {
-    "lastExecuted": "2025-03-24T21:30:29.017Z",
+    "lastExecuted": "2025-03-25T23:25:53.353Z",
     "arrivalTime": "En 0:34:33 horas"
   },
   "21,71": {
-    "lastExecuted": "2025-03-24T21:30:38.785Z",
+    "lastExecuted": "2025-03-25T23:26:03.064Z",
     "arrivalTime": "En 0:35:20 horas"
   },
   "37,66": {
@@ -40,11 +40,11 @@
     "arrivalTime": "En 0:09:35 horas"
   },
   "18,73": {
-    "lastExecuted": "2025-03-24T19:49:20.054Z",
+    "lastExecuted": "2025-03-25T22:13:48.717Z",
     "arrivalTime": "En 0:47:09 horas"
   },
   "36,64": {
-    "lastExecuted": "2025-03-24T19:49:40.004Z",
+    "lastExecuted": "2025-03-25T22:20:12.365Z",
     "arrivalTime": "En 0:48:52 horas"
   },
   "40,69": {
@@ -52,15 +52,15 @@
     "arrivalTime": "En 0:50:10 horas"
   },
   "29,76": {
-    "lastExecuted": "2025-03-24T21:42:59.234Z",
+    "lastExecuted": "2025-03-26T06:51:38.558Z",
     "arrivalTime": "En 0:12:51 horas"
   },
   "25,71": {
-    "lastExecuted": "2025-03-24T21:19:22.969Z",
+    "lastExecuted": "2025-03-26T06:31:49.702Z",
     "arrivalTime": "En 0:19:10 horas"
   },
   "34,73": {
-    "lastExecuted": "2025-03-24T21:19:32.686Z",
+    "lastExecuted": "2025-03-26T06:32:00.264Z",
     "arrivalTime": "En 0:21:26 horas"
   },
   "32,77": {
@@ -72,31 +72,31 @@
     "arrivalTime": "En 0:28:45 horas"
   },
   "36,73": {
-    "lastExecuted": "2025-03-24T21:20:12.181Z",
-    "arrivalTime": "En 0:30:00 horas"
+    "lastExecuted": "2025-03-26T06:25:32.906Z",
+    "arrivalTime": "En 0:21:00 horas"
   },
   "30,80": {
-    "lastExecuted": "2025-03-24T21:20:31.825Z",
+    "lastExecuted": "2025-03-26T06:37:03.080Z",
     "arrivalTime": "En 0:30:18 horas"
   },
   "28,80": {
-    "lastExecuted": "2025-03-24T21:20:22.060Z",
+    "lastExecuted": "2025-03-25T13:26:19.396Z",
     "arrivalTime": "En 0:30:18 horas"
   },
   "25,79": {
-    "lastExecuted": "2025-03-24T21:20:42.123Z",
-    "arrivalTime": "En 0:30:54 horas"
+    "lastExecuted": "2025-03-26T06:37:13.042Z",
+    "arrivalTime": "En 0:21:38 horas"
   },
   "34,79": {
-    "lastExecuted": "2025-03-24T21:30:19.147Z",
+    "lastExecuted": "2025-03-25T23:25:43.445Z",
     "arrivalTime": "En 0:33:28 horas"
   },
   "26,81": {
-    "lastExecuted": "2025-03-24T21:30:48.868Z",
+    "lastExecuted": "2025-03-25T23:26:12.873Z",
     "arrivalTime": "En 0:36:37 horas"
   },
   "36,68": {
-    "lastExecuted": "2025-03-24T19:48:29.015Z",
+    "lastExecuted": "2025-03-25T23:49:34.718Z",
     "arrivalTime": "En 0:36:52 horas"
   },
   "33,81": {
@@ -104,11 +104,11 @@
     "arrivalTime": "En 0:38:20 horas"
   },
   "37,77": {
-    "lastExecuted": "2025-03-24T19:48:38.819Z",
-    "arrivalTime": "En 0:38:20 horas"
+    "lastExecuted": "2025-03-25T23:49:44.339Z",
+    "arrivalTime": "En 0:26:50 horas"
   },
   "39,77": {
-    "lastExecuted": "2025-03-24T19:49:10.170Z",
+    "lastExecuted": "2025-03-25T22:13:38.776Z",
     "arrivalTime": "En 0:46:10 horas"
   },
   "40,74": {
@@ -124,15 +124,15 @@
     "arrivalTime": "En 0:26:04 horas"
   },
   "27,83": {
-    "lastExecuted": "2025-03-24T19:48:59.742Z",
+    "lastExecuted": "2025-03-25T22:00:28.035Z",
     "arrivalTime": "En 0:43:42 horas"
   },
   "35,83": {
-    "lastExecuted": "2025-03-24T19:49:50.076Z",
+    "lastExecuted": "2025-03-25T22:20:21.779Z",
     "arrivalTime": "En 0:49:59 horas"
   },
   "18,77": {
-    "lastExecuted": "2025-03-24T19:50:00.232Z",
+    "lastExecuted": "2025-03-25T22:32:31.026Z",
     "arrivalTime": "En 0:50:10 horas"
   },
   "38,65": {
@@ -144,15 +144,15 @@
     "arrivalTime": "En 0:51:36 horas"
   },
   "39,66": {
-    "lastExecuted": "2025-03-24T19:50:20.132Z",
-    "arrivalTime": "En 0:36:37 horas"
+    "lastExecuted": "2025-03-25T20:58:30.889Z",
+    "arrivalTime": "En 0:52:19 horas"
   },
   "19,80": {
-    "lastExecuted": "2025-03-24T19:50:10.197Z",
+    "lastExecuted": "2025-03-25T22:38:24.860Z",
     "arrivalTime": "En 0:52:19 horas"
   },
   "26,73": {
-    "lastExecuted": "2025-03-24T21:42:48.240Z",
+    "lastExecuted": "2025-03-26T06:45:49.914Z",
     "arrivalTime": "En 0:12:51 horas"
   },
   "25,73": {
@@ -164,27 +164,27 @@
     "arrivalTime": "En 0:51:47 horas"
   },
   "41,76": {
-    "lastExecuted": "2025-03-23T23:59:29.077Z",
+    "lastExecuted": "2025-03-25T22:38:35.349Z",
     "arrivalTime": "En 0:53:01 horas"
   },
   "18,79": {
-    "lastExecuted": "2025-03-23T23:59:38.286Z",
+    "lastExecuted": "2025-03-25T22:38:45.911Z",
     "arrivalTime": "En 0:53:42 horas"
   },
   "33,61": {
-    "lastExecuted": "2025-03-23T22:05:39.768Z",
+    "lastExecuted": "2025-03-25T22:38:55.585Z",
     "arrivalTime": "En 0:54:13 horas"
   },
   "39,81": {
-    "lastExecuted": "2025-03-23T22:05:49.151Z",
+    "lastExecuted": "2025-03-25T22:39:05.414Z",
     "arrivalTime": "En 0:54:53 horas"
   },
   "22,84": {
-    "lastExecuted": "2025-03-23T22:05:58.497Z",
+    "lastExecuted": "2025-03-25T17:03:43.420Z",
     "arrivalTime": "En 0:55:53 horas"
   },
   "42,70": {
-    "lastExecuted": "2025-03-23T22:06:07.821Z",
+    "lastExecuted": "2025-03-25T17:03:52.651Z",
     "arrivalTime": "En 0:57:11 horas"
   },
   "20,63": {
@@ -244,11 +244,11 @@
     "arrivalTime": "En 1:05:34 horas"
   },
   "35,78": {
-    "lastExecuted": "2025-03-24T21:30:09.331Z",
+    "lastExecuted": "2025-03-25T23:41:34.958Z",
     "arrivalTime": "En 0:33:28 horas"
   },
   "39,75": {
-    "lastExecuted": "2025-03-24T19:48:49.044Z",
+    "lastExecuted": "2025-03-25T21:55:23.365Z",
     "arrivalTime": "En 0:43:42 horas"
   },
   "26,84": {
@@ -256,7 +256,7 @@
     "arrivalTime": "En 0:48:52 horas"
   },
   "26,75": {
-    "lastExecuted": "2025-03-24T22:07:57.937Z",
+    "lastExecuted": "2025-03-24T23:52:23.060Z",
     "arrivalTime": "En 0:15:27 horas"
   },
   "37,70": {
@@ -264,7 +264,755 @@
     "arrivalTime": "En 0:36:37 horas"
   },
   "37,81": {
-    "lastExecuted": "2025-03-24T19:49:30.014Z",
-    "arrivalTime": "En 0:48:29 horas"
+    "lastExecuted": "2025-03-25T22:13:58.628Z",
+    "arrivalTime": "En 0:33:56 horas"
+  },
+  "29,72": {
+    "lastExecuted": "2025-03-26T06:45:40.327Z",
+    "arrivalTime": "En 0:04:17 horas"
+  },
+  "71,48": {
+    "lastExecuted": "2025-03-31T16:44:13.680Z",
+    "arrivalTime": "Em 0:05:42 horas"
+  },
+  "72,51": {
+    "lastExecuted": "2025-03-31T16:34:46.036Z",
+    "arrivalTime": "Em 0:06:31 horas"
+  },
+  "66,54": {
+    "lastExecuted": "2025-03-31T16:44:24.047Z",
+    "arrivalTime": "Em 0:07:04 horas"
+  },
+  "71,46": {
+    "lastExecuted": "2025-03-31T16:44:33.692Z",
+    "arrivalTime": "Em 0:07:54 horas"
+  },
+  "70,45": {
+    "lastExecuted": "2025-03-31T16:44:43.038Z",
+    "arrivalTime": "Em 0:08:30 horas"
+  },
+  "63,53": {
+    "lastExecuted": "2025-03-31T16:44:53.522Z",
+    "arrivalTime": "Em 0:09:12 horas"
+  },
+  "69,57": {
+    "lastExecuted": "2025-03-31T16:45:03.706Z",
+    "arrivalTime": "Em 0:11:10 horas"
+  },
+  "72,44": {
+    "lastExecuted": "2025-03-31T16:45:13.875Z",
+    "arrivalTime": "Em 0:11:23 horas"
+  },
+  "61,47": {
+    "lastExecuted": "2025-03-31T16:26:02.311Z",
+    "arrivalTime": "Em 0:12:01 horas"
+  },
+  "71,57": {
+    "lastExecuted": "2025-03-29T13:49:58.063Z",
+    "arrivalTime": "Em 0:12:01 horas"
+  },
+  "74,55": {
+    "lastExecuted": "2025-03-31T16:34:56.399Z",
+    "arrivalTime": "Em 0:12:20 horas"
+  },
+  "60,51": {
+    "lastExecuted": "2025-03-31T16:35:15.917Z",
+    "arrivalTime": "Em 0:12:44 horas"
+  },
+  "60,49": {
+    "lastExecuted": "2025-03-31T16:35:25.085Z",
+    "arrivalTime": "Em 0:12:44 horas"
+  },
+  "61,54": {
+    "lastExecuted": "2025-03-31T16:35:06.280Z",
+    "arrivalTime": "Em 0:12:44 horas"
+  },
+  "76,53": {
+    "lastExecuted": "2025-03-30T04:01:11.656Z",
+    "arrivalTime": "Em 0:13:29 horas"
+  },
+  "59,48": {
+    "lastExecuted": "2025-03-31T16:45:23.638Z",
+    "arrivalTime": "Em 0:14:33 horas"
+  },
+  "66,59": {
+    "lastExecuted": "2025-03-31T16:35:34.643Z",
+    "arrivalTime": "Em 0:14:33 horas"
+  },
+  "75,57": {
+    "lastExecuted": "2025-03-31T16:45:33.146Z",
+    "arrivalTime": "Em 0:15:38 horas"
+  },
+  "76,44": {
+    "lastExecuted": "2025-03-31T16:46:02.319Z",
+    "arrivalTime": "Em 0:15:47 horas"
+  },
+  "68,40": {
+    "lastExecuted": "2025-03-31T16:45:52.794Z",
+    "arrivalTime": "Em 0:15:47 horas"
+  },
+  "68,60": {
+    "lastExecuted": "2025-03-31T16:45:42.387Z",
+    "arrivalTime": "Em 0:15:47 horas"
+  },
+  "78,49": {
+    "lastExecuted": "2025-03-31T16:46:21.803Z",
+    "arrivalTime": "Em 0:15:52 horas"
+  },
+  "58,51": {
+    "lastExecuted": "2025-03-31T16:46:12.087Z",
+    "arrivalTime": "Em 0:15:52 horas"
+  },
+  "77,45": {
+    "lastExecuted": "2025-03-31T16:14:35.656Z",
+    "arrivalTime": "Em 0:16:15 horas"
+  },
+  "58,53": {
+    "lastExecuted": "2025-03-31T16:35:54.021Z",
+    "arrivalTime": "Em 0:16:29 horas"
+  },
+  "78,53": {
+    "lastExecuted": "2025-03-31T16:35:44.302Z",
+    "arrivalTime": "Em 0:16:29 horas"
+  },
+  "61,58": {
+    "lastExecuted": "2025-03-31T16:46:31.135Z",
+    "arrivalTime": "Em 0:16:47 horas"
+  },
+  "59,56": {
+    "lastExecuted": "2025-03-29T12:36:31.140Z",
+    "arrivalTime": "Em 0:17:05 horas"
+  },
+  "79,51": {
+    "lastExecuted": "2025-03-31T03:42:10.171Z",
+    "arrivalTime": "Em 0:17:26 horas"
+  },
+  "75,59": {
+    "lastExecuted": "2025-03-31T16:26:21.836Z",
+    "arrivalTime": "Em 0:18:00 horas"
+  },
+  "57,47": {
+    "lastExecuted": "2025-03-31T16:26:31.579Z",
+    "arrivalTime": "Em 0:18:00 horas"
+  },
+  "72,61": {
+    "lastExecuted": "2025-03-31T16:36:03.785Z",
+    "arrivalTime": "Em 0:18:29 horas"
+  },
+  "76,41": {
+    "lastExecuted": "2025-03-31T16:36:13.405Z",
+    "arrivalTime": "Em 0:19:01 horas"
+  },
+  "77,58": {
+    "lastExecuted": "2025-03-31T16:36:22.884Z",
+    "arrivalTime": "Em 0:19:01 horas"
+  },
+  "80,49": {
+    "lastExecuted": "2025-03-31T16:36:32.764Z",
+    "arrivalTime": "Em 0:19:01 horas"
+  },
+  "63,39": {
+    "lastExecuted": "2025-03-31T16:14:45.378Z",
+    "arrivalTime": "Em 0:19:05 horas"
+  },
+  "75,40": {
+    "lastExecuted": "2025-03-31T16:15:04.964Z",
+    "arrivalTime": "Em 0:19:16 horas"
+  },
+  "58,43": {
+    "lastExecuted": "2025-03-31T16:14:54.997Z",
+    "arrivalTime": "Em 0:19:16 horas"
+  },
+  "57,56": {
+    "lastExecuted": "2025-03-29T12:45:19.541Z",
+    "arrivalTime": "Em 0:19:47 horas"
+  },
+  "62,61": {
+    "lastExecuted": "2025-03-31T16:15:14.782Z",
+    "arrivalTime": "Em 0:19:47 horas"
+  },
+  "81,50": {
+    "lastExecuted": "2025-03-31T16:26:41.551Z",
+    "arrivalTime": "Em 0:20:32 horas"
+  },
+  "65,63": {
+    "lastExecuted": "2025-03-31T16:26:51.339Z",
+    "arrivalTime": "Em 0:21:04 horas"
+  },
+  "81,47": {
+    "lastExecuted": "2025-03-31T16:27:01.032Z",
+    "arrivalTime": "Em 0:21:04 horas"
+  },
+  "74,38": {
+    "lastExecuted": "2025-03-31T16:27:10.689Z",
+    "arrivalTime": "Em 0:21:11 horas"
+  },
+  "77,40": {
+    "lastExecuted": "2025-03-31T16:46:41.076Z",
+    "arrivalTime": "Em 0:21:15 horas"
+  },
+  "58,41": {
+    "lastExecuted": "2025-03-31T16:47:00.325Z",
+    "arrivalTime": "Em 0:21:15 horas"
+  },
+  "58,59": {
+    "lastExecuted": "2025-03-31T16:47:10.082Z",
+    "arrivalTime": "Em 0:21:15 horas"
+  },
+  "59,40": {
+    "lastExecuted": "2025-03-31T16:46:50.755Z",
+    "arrivalTime": "Em 0:21:15 horas"
+  },
+  "72,37": {
+    "lastExecuted": "2025-03-30T23:36:03.717Z",
+    "arrivalTime": "Em 0:21:29 horas"
+  },
+  "79,42": {
+    "lastExecuted": "2025-03-31T16:47:19.753Z",
+    "arrivalTime": "Em 0:21:29 horas"
+  },
+  "61,38": {
+    "lastExecuted": "2025-03-31T16:47:38.904Z",
+    "arrivalTime": "Em 0:21:56 horas"
+  },
+  "54,51": {
+    "lastExecuted": "2025-03-31T16:27:20.360Z",
+    "arrivalTime": "Em 0:22:10 horas"
+  },
+  "66,64": {
+    "lastExecuted": "2025-03-31T16:27:30.095Z",
+    "arrivalTime": "Em 0:22:20 horas"
+  },
+  "59,61": {
+    "lastExecuted": "2025-03-31T16:27:39.679Z",
+    "arrivalTime": "Em 0:22:26 horas"
+  },
+  "54,47": {
+    "lastExecuted": "2025-03-31T16:27:49.224Z",
+    "arrivalTime": "Em 0:22:36 horas"
+  },
+  "74,63": {
+    "lastExecuted": "2025-03-31T16:27:59.030Z",
+    "arrivalTime": "Em 0:22:36 horas"
+  },
+  "64,64": {
+    "lastExecuted": "2025-03-31T16:28:08.919Z",
+    "arrivalTime": "Em 0:22:59 horas"
+  },
+  "77,62": {
+    "lastExecuted": "2025-03-31T16:47:49.645Z",
+    "arrivalTime": "Em 0:23:41 horas"
+  },
+  "67,35": {
+    "lastExecuted": "2025-03-31T16:47:59.376Z",
+    "arrivalTime": "Em 0:23:44 horas"
+  },
+  "76,63": {
+    "lastExecuted": "2025-03-31T16:48:09.249Z",
+    "arrivalTime": "Em 0:24:06 horas"
+  },
+  "79,61": {
+    "lastExecuted": "2025-03-31T16:48:18.972Z",
+    "arrivalTime": "Em 0:24:34 horas"
+  },
+  "78,38": {
+    "lastExecuted": "2025-03-31T16:48:29.314Z",
+    "arrivalTime": "Em 0:24:40 horas"
+  },
+  "67,66": {
+    "lastExecuted": "2025-03-31T16:08:39.727Z",
+    "arrivalTime": "Em 0:25:19 horas"
+  },
+  "84,51": {
+    "lastExecuted": "2025-03-31T16:08:29.874Z",
+    "arrivalTime": "Em 0:25:19 horas"
+  },
+  "52,49": {
+    "lastExecuted": "2025-03-30T23:16:04.044Z",
+    "arrivalTime": "Em 0:25:19 horas"
+  },
+  "53,56": {
+    "lastExecuted": "2025-03-31T16:08:49.199Z",
+    "arrivalTime": "Em 0:25:31 horas"
+  },
+  "81,60": {
+    "lastExecuted": "2025-03-31T16:09:08.596Z",
+    "arrivalTime": "Em 0:25:54 horas"
+  },
+  "58,37": {
+    "lastExecuted": "2025-03-31T16:08:58.979Z",
+    "arrivalTime": "Em 0:25:54 horas"
+  },
+  "64,40": {
+    "lastExecuted": "2025-03-31T16:26:11.984Z",
+    "arrivalTime": "Em 0:17:00 horas"
+  },
+  "70,37": {
+    "lastExecuted": "2025-03-31T03:42:30.620Z",
+    "arrivalTime": "Em 0:20:46 horas"
+  },
+  "60,61": {
+    "lastExecuted": "2025-03-31T16:47:29.466Z",
+    "arrivalTime": "Em 0:21:29 horas"
+  },
+  "64,66": {
+    "lastExecuted": "2025-03-31T16:15:24.806Z",
+    "arrivalTime": "Em 0:26:02 horas"
+  },
+  "84,54": {
+    "lastExecuted": "2025-03-31T16:15:34.499Z",
+    "arrivalTime": "Em 0:26:02 horas"
+  },
+  "52,54": {
+    "lastExecuted": "2025-03-31T16:15:44.246Z",
+    "arrivalTime": "Em 0:26:02 horas"
+  },
+  "69,33": {
+    "lastExecuted": "2025-03-31T16:15:53.828Z",
+    "arrivalTime": "Em 0:26:53 horas"
+  },
+  "79,63": {
+    "lastExecuted": "2025-03-31T16:48:38.766Z",
+    "arrivalTime": "Em 0:26:53 horas"
+  },
+  "74,34": {
+    "lastExecuted": "2025-03-31T16:48:49.200Z",
+    "arrivalTime": "Em 0:26:59 horas"
+  },
+  "61,66": {
+    "lastExecuted": "2025-03-31T16:01:02.384Z",
+    "arrivalTime": "Em 0:27:35 horas"
+  },
+  "75,66": {
+    "lastExecuted": "2025-03-31T16:16:03.659Z",
+    "arrivalTime": "Em 0:27:35 horas"
+  },
+  "83,59": {
+    "lastExecuted": "2025-03-31T16:16:13.462Z",
+    "arrivalTime": "Em 0:27:37 horas"
+  },
+  "85,55": {
+    "lastExecuted": "2025-03-31T16:16:23.896Z",
+    "arrivalTime": "Em 0:27:59 horas"
+  },
+  "63,33": {
+    "lastExecuted": "2025-03-31T16:16:33.819Z",
+    "arrivalTime": "Em 0:27:59 horas"
+  },
+  "57,64": {
+    "lastExecuted": "2025-03-31T16:16:43.596Z",
+    "arrivalTime": "Em 0:28:07 horas"
+  },
+  "62,67": {
+    "lastExecuted": "2025-03-31T16:28:18.864Z",
+    "arrivalTime": "Em 0:28:28 horas"
+  },
+  "53,40": {
+    "lastExecuted": "2025-03-31T00:59:13.460Z",
+    "arrivalTime": "Em 0:28:28 horas"
+  },
+  "51,44": {
+    "lastExecuted": "2025-03-31T16:28:28.526Z",
+    "arrivalTime": "Em 0:28:28 horas"
+  },
+  "66,68": {
+    "lastExecuted": "2025-03-31T16:28:38.151Z",
+    "arrivalTime": "Em 0:28:36 horas"
+  },
+  "86,53": {
+    "lastExecuted": "2025-03-31T16:28:48.982Z",
+    "arrivalTime": "Em 0:28:49 horas"
+  },
+  "59,34": {
+    "lastExecuted": "2025-03-31T16:28:58.659Z",
+    "arrivalTime": "Em 0:28:59 horas"
+  },
+  "51,57": {
+    "lastExecuted": "2025-03-31T16:29:08.630Z",
+    "arrivalTime": "Em 0:29:02 horas"
+  },
+  "85,57": {
+    "lastExecuted": "2025-03-31T16:36:42.538Z",
+    "arrivalTime": "Em 0:29:02 horas"
+  },
+  "82,38": {
+    "lastExecuted": "2025-03-31T16:36:52.208Z",
+    "arrivalTime": "Em 0:29:07 horas"
+  },
+  "72,32": {
+    "lastExecuted": "2025-03-31T16:37:02.593Z",
+    "arrivalTime": "Em 0:29:07 horas"
+  },
+  "72,68": {
+    "lastExecuted": "2025-03-31T16:37:13.215Z",
+    "arrivalTime": "Em 0:29:07 horas"
+  },
+  "49,50": {
+    "lastExecuted": "2025-03-31T16:37:23.698Z",
+    "arrivalTime": "Em 0:30:00 horas"
+  },
+  "87,50": {
+    "lastExecuted": "2025-03-31T16:37:33.013Z",
+    "arrivalTime": "Em 0:30:00 horas"
+  },
+  "49,51": {
+    "lastExecuted": "2025-03-31T16:37:43.640Z",
+    "arrivalTime": "Em 0:30:02 horas"
+  },
+  "87,52": {
+    "lastExecuted": "2025-03-31T16:48:59.815Z",
+    "arrivalTime": "Em 0:30:10 horas"
+  },
+  "49,48": {
+    "lastExecuted": "2025-03-31T16:49:09.379Z",
+    "arrivalTime": "Em 0:30:10 horas"
+  },
+  "87,48": {
+    "lastExecuted": "2025-03-31T03:06:27.160Z",
+    "arrivalTime": "Em 0:30:10 horas"
+  },
+  "55,64": {
+    "lastExecuted": "2025-03-31T16:49:19.037Z",
+    "arrivalTime": "Em 0:30:10 horas"
+  },
+  "56,65": {
+    "lastExecuted": "2025-03-31T16:49:29.529Z",
+    "arrivalTime": "Em 0:30:20 horas"
+  },
+  "80,65": {
+    "lastExecuted": "2025-03-31T16:49:38.888Z",
+    "arrivalTime": "Em 0:30:20 horas"
+  },
+  "87,54": {
+    "lastExecuted": "2025-03-31T16:49:49.276Z",
+    "arrivalTime": "Em 0:30:39 horas"
+  },
+  "84,39": {
+    "lastExecuted": "2025-03-31T15:43:08.075Z",
+    "arrivalTime": "Em 0:30:39 horas"
+  },
+  "52,61": {
+    "lastExecuted": "2025-03-31T15:43:17.367Z",
+    "arrivalTime": "Em 0:30:39 horas"
+  },
+  "76,32": {
+    "lastExecuted": "2025-03-31T15:51:40.178Z",
+    "arrivalTime": "Em 0:31:06 horas"
+  },
+  "62,69": {
+    "lastExecuted": "2025-03-31T15:51:49.887Z",
+    "arrivalTime": "Em 0:31:28 horas"
+  },
+  "74,31": {
+    "lastExecuted": "2025-03-31T15:51:59.132Z",
+    "arrivalTime": "Em 0:31:28 horas"
+  },
+  "56,34": {
+    "lastExecuted": "2025-03-31T15:52:08.600Z",
+    "arrivalTime": "Em 0:31:35 horas"
+  },
+  "69,70": {
+    "lastExecuted": "2025-03-31T15:52:17.952Z",
+    "arrivalTime": "Em 0:31:37 horas"
+  },
+  "66,30": {
+    "lastExecuted": "2025-03-31T15:52:27.797Z",
+    "arrivalTime": "Em 0:31:44 horas"
+  },
+  "48,52": {
+    "lastExecuted": "2025-03-31T15:52:37.345Z",
+    "arrivalTime": "Em 0:31:44 horas"
+  },
+  "88,47": {
+    "lastExecuted": "2025-03-31T15:52:47.070Z",
+    "arrivalTime": "Em 0:31:56 horas"
+  },
+  "75,69": {
+    "lastExecuted": "2025-03-31T15:52:56.970Z",
+    "arrivalTime": "Em 0:31:58 horas"
+  },
+  "75,31": {
+    "lastExecuted": "2025-03-31T15:53:07.194Z",
+    "arrivalTime": "Em 0:31:58 horas"
+  },
+  "64,70": {
+    "lastExecuted": "2025-03-31T15:34:00.807Z",
+    "arrivalTime": "Em 0:32:12 horas"
+  },
+  "64,30": {
+    "lastExecuted": "2025-03-31T15:43:27.109Z",
+    "arrivalTime": "Em 0:32:12 horas"
+  },
+  "54,65": {
+    "lastExecuted": "2025-03-31T15:43:36.913Z",
+    "arrivalTime": "Em 0:32:24 horas"
+  },
+  "82,35": {
+    "lastExecuted": "2025-03-31T15:43:46.732Z",
+    "arrivalTime": "Em 0:32:24 horas"
+  },
+  "50,40": {
+    "lastExecuted": "2025-03-31T15:43:56.079Z",
+    "arrivalTime": "Em 0:32:31 horas"
+  },
+  "52,37": {
+    "lastExecuted": "2025-03-31T15:44:05.710Z",
+    "arrivalTime": "Em 0:32:33 horas"
+  },
+  "73,70": {
+    "lastExecuted": "2025-03-31T15:44:15.081Z",
+    "arrivalTime": "Em 0:32:33 horas"
+  },
+  "85,38": {
+    "lastExecuted": "2025-03-31T15:44:24.964Z",
+    "arrivalTime": "Em 0:32:51 horas"
+  },
+  "67,71": {
+    "lastExecuted": "2025-03-31T15:44:34.660Z",
+    "arrivalTime": "Em 0:33:12 horas"
+  },
+  "57,68": {
+    "lastExecuted": "2025-03-31T03:27:03.102Z",
+    "arrivalTime": "Em 0:33:18 horas"
+  },
+  "89,52": {
+    "lastExecuted": "2025-03-31T15:44:44.392Z",
+    "arrivalTime": "Em 0:33:18 horas"
+  },
+  "65,29": {
+    "lastExecuted": "2025-03-31T15:44:54.725Z",
+    "arrivalTime": "Em 0:33:30 horas"
+  },
+  "54,34": {
+    "lastExecuted": "2025-03-31T15:53:17.040Z",
+    "arrivalTime": "Em 0:33:34 horas"
+  },
+  "72,29": {
+    "lastExecuted": "2025-03-31T15:53:26.743Z",
+    "arrivalTime": "Em 0:33:45 horas"
+  },
+  "63,29": {
+    "lastExecuted": "2025-03-31T16:16:53.384Z",
+    "arrivalTime": "Em 0:34:05 horas"
+  },
+  "62,71": {
+    "lastExecuted": "2025-03-31T16:17:03.808Z",
+    "arrivalTime": "Em 0:34:29 horas"
+  },
+  "46,50": {
+    "lastExecuted": "2025-03-31T16:17:13.629Z",
+    "arrivalTime": "Em 0:34:44 horas"
+  },
+  "51,36": {
+    "lastExecuted": "2025-03-31T16:17:23.203Z",
+    "arrivalTime": "Em 0:34:46 horas"
+  },
+  "90,51": {
+    "lastExecuted": "2025-03-31T16:17:33.690Z",
+    "arrivalTime": "Em 0:34:46 horas"
+  },
+  "90,46": {
+    "lastExecuted": "2025-03-31T03:07:46.745Z",
+    "arrivalTime": "Em 0:35:18 horas"
+  },
+  "72,28": {
+    "lastExecuted": "2025-03-31T16:17:42.919Z",
+    "arrivalTime": "Em 0:35:18 horas"
+  },
+  "47,42": {
+    "lastExecuted": "2025-03-31T16:17:53.394Z",
+    "arrivalTime": "Em 0:35:29 horas"
+  },
+  "74,72": {
+    "lastExecuted": "2025-03-31T16:18:03.762Z",
+    "arrivalTime": "Em 0:36:00 horas"
+  },
+  "79,30": {
+    "lastExecuted": "2025-03-31T16:18:13.688Z",
+    "arrivalTime": "Em 0:36:02 horas"
+  },
+  "68,27": {
+    "lastExecuted": "2025-03-31T16:18:23.262Z",
+    "arrivalTime": "Em 0:36:19 horas"
+  },
+  "70,73": {
+    "lastExecuted": "2025-03-31T16:18:33.724Z",
+    "arrivalTime": "Em 0:36:27 horas"
+  },
+  "61,72": {
+    "lastExecuted": "2025-03-31T16:18:44.053Z",
+    "arrivalTime": "Em 0:36:27 horas"
+  },
+  "65,27": {
+    "lastExecuted": "2025-03-31T16:18:53.965Z",
+    "arrivalTime": "Em 0:36:37 horas"
+  },
+  "91,47": {
+    "lastExecuted": "2025-03-31T16:19:03.804Z",
+    "arrivalTime": "Em 0:36:37 horas"
+  },
+  "45,47": {
+    "lastExecuted": "2025-03-31T16:19:13.603Z",
+    "arrivalTime": "Em 0:36:37 horas"
+  },
+  "51,66": {
+    "lastExecuted": "2025-03-31T15:21:49.698Z",
+    "arrivalTime": "Em 0:36:52 horas"
+  },
+  "83,32": {
+    "lastExecuted": "2025-03-31T15:45:03.945Z",
+    "arrivalTime": "Em 0:37:00 horas"
+  },
+  "73,73": {
+    "lastExecuted": "2025-03-31T15:45:14.150Z",
+    "arrivalTime": "Em 0:37:10 horas"
+  },
+  "91,44": {
+    "lastExecuted": "2025-03-31T15:45:24.641Z",
+    "arrivalTime": "Em 0:37:32 horas"
+  },
+  "69,26": {
+    "lastExecuted": "2025-03-31T15:45:34.667Z",
+    "arrivalTime": "Em 0:37:56 horas"
+  },
+  "67,26": {
+    "lastExecuted": "2025-03-31T15:45:45.066Z",
+    "arrivalTime": "Em 0:37:56 horas"
+  },
+  "69,74": {
+    "lastExecuted": "2025-03-31T15:53:36.393Z",
+    "arrivalTime": "Em 0:37:56 horas"
+  },
+  "58,72": {
+    "lastExecuted": "2025-03-31T16:19:24.007Z",
+    "arrivalTime": "Em 0:38:09 horas"
+  },
+  "90,40": {
+    "lastExecuted": "2025-03-31T16:19:34.130Z",
+    "arrivalTime": "Em 0:38:09 horas"
+  },
+  "89,38": {
+    "lastExecuted": "2025-03-31T16:19:43.980Z",
+    "arrivalTime": "Em 0:38:11 horas"
+  },
+  "71,26": {
+    "lastExecuted": "2025-03-31T16:19:53.658Z",
+    "arrivalTime": "Em 0:38:11 horas"
+  },
+  "91,41": {
+    "lastExecuted": "2025-03-31T15:53:53.334Z",
+    "arrivalTime": "Em 0:39:00 horas"
+  },
+  "84,69": {
+    "lastExecuted": "2025-03-31T15:54:03.781Z",
+    "arrivalTime": "Em 0:39:13 horas"
+  },
+  "45,40": {
+    "lastExecuted": "2025-03-31T15:54:13.569Z",
+    "arrivalTime": "Em 0:39:36 horas"
+  },
+  "70,25": {
+    "lastExecuted": "2025-03-31T15:54:23.769Z",
+    "arrivalTime": "Em 0:39:36 horas"
+  },
+  "76,26": {
+    "lastExecuted": "2025-03-31T15:54:34.218Z",
+    "arrivalTime": "Em 0:39:57 horas"
+  },
+  "64,25": {
+    "lastExecuted": "2025-03-31T15:54:44.688Z",
+    "arrivalTime": "Em 0:39:59 horas"
+  },
+  "85,31": {
+    "lastExecuted": "2025-03-31T16:20:03.833Z",
+    "arrivalTime": "Em 0:40:15 horas"
+  },
+  "49,67": {
+    "lastExecuted": "2025-03-31T13:59:16.323Z",
+    "arrivalTime": "Em 0:40:15 horas"
+  },
+  "44,41": {
+    "lastExecuted": "2025-03-31T16:20:13.648Z",
+    "arrivalTime": "Em 0:40:28 horas"
+  },
+  "53,71": {
+    "lastExecuted": "2025-03-31T16:20:23.270Z",
+    "arrivalTime": "Em 0:40:45 horas"
+  },
+  "75,25": {
+    "lastExecuted": "2025-03-31T16:20:33.046Z",
+    "arrivalTime": "Em 0:41:00 horas"
+  },
+  "42,50": {
+    "lastExecuted": "2025-03-31T16:20:42.722Z",
+    "arrivalTime": "Em 0:41:03 horas"
+  },
+  "78,26": {
+    "lastExecuted": "2025-03-31T15:00:26.714Z",
+    "arrivalTime": "Em 0:41:03 horas"
+  },
+  "69,24": {
+    "lastExecuted": "2025-03-31T15:00:36.145Z",
+    "arrivalTime": "Em 0:41:05 horas"
+  },
+  "43,42": {
+    "lastExecuted": "2025-03-31T15:00:46.497Z",
+    "arrivalTime": "Em 0:41:27 horas"
+  },
+  "64,76": {
+    "lastExecuted": "2025-03-31T15:00:56.086Z",
+    "arrivalTime": "Em 0:41:32 horas"
+  },
+  "57,74": {
+    "lastExecuted": "2025-03-31T15:01:06.642Z",
+    "arrivalTime": "Em 0:41:41 horas"
+  },
+  "90,35": {
+    "lastExecuted": "2025-03-31T15:01:16.161Z",
+    "arrivalTime": "Em 0:42:03 horas"
+  },
+  "42,56": {
+    "lastExecuted": "2025-03-31T15:01:26.671Z",
+    "arrivalTime": "Em 0:42:08 horas"
+  },
+  "50,30": {
+    "lastExecuted": "2025-03-31T15:01:36.979Z",
+    "arrivalTime": "Em 0:42:29 horas"
+  },
+  "41,51": {
+    "lastExecuted": "2025-03-31T15:01:46.915Z",
+    "arrivalTime": "Em 0:42:40 horas"
+  },
+  "65,77": {
+    "lastExecuted": "2025-03-31T15:01:56.653Z",
+    "arrivalTime": "Em 0:42:54 horas"
+  },
+  "76,24": {
+    "lastExecuted": "2025-03-31T15:02:06.682Z",
+    "arrivalTime": "Em 0:42:57 horas"
+  },
+  "52,28": {
+    "lastExecuted": "2025-03-31T16:20:52.614Z",
+    "arrivalTime": "Em 0:42:57 horas"
+  },
+  "44,63": {
+    "lastExecuted": "2025-03-31T16:21:02.187Z",
+    "arrivalTime": "Em 0:43:06 horas"
+  },
+  "93,39": {
+    "lastExecuted": "2025-03-31T16:21:11.890Z",
+    "arrivalTime": "Em 0:43:08 horas"
+  },
+  "53,73": {
+    "lastExecuted": "2025-03-31T16:21:21.826Z",
+    "arrivalTime": "Em 0:43:21 horas"
+  },
+  "63,77": {
+    "lastExecuted": "2025-03-31T16:21:31.081Z",
+    "arrivalTime": "Em 0:43:21 horas"
+  },
+  "47,68": {
+    "lastExecuted": "2025-03-31T12:29:18.111Z",
+    "arrivalTime": "Em 0:43:40 horas"
   }
 }
